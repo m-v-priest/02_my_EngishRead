@@ -236,6 +236,7 @@ image:../../+ img_单词图片/o/onerous.jpg[]
 - *a budget/energy/housing crunch* 预算金额╱能源╱住房短缺
 - The financial crisis *saw* a massive liquidity crunch and financial-sector implosion. 金融危机导致了大规模的流动性紧缩,和金融部门的内爆崩溃。
 
+
 1. implosion  : /ɪmˈploʊʒn/ N the act or process of imploding 向内爆炸
 - *the implosion* of a light bulb +
 image:../../+ img_单词图片/i/implosion.jpg[]]
@@ -333,15 +334,15 @@ EUROPEAN BUSINESSMEN who *filed* for bankruptcy *used to be treated harshly*. Th
 
 `主` The fear of multiple(a.) bankruptcies and mass unemployment *because of* measures *imposed* to contain(v.) the covid-19 pandemic `系` *is* the main reason European governments *are subsidising* businesses on a vast scale. “No healthy company *should go bankrupt* because of corona,” *promised* Peter Altmaier, Germany’s economy minister, in mid-March when he *announced* extended credit lines, liquidity guarantees and grants(n.) for German businesses *amounting to* €750bn ($807bn). At the end of March the German government *suspended* insolvent(a.) firms’ obligation *to file(v.) for* bankruptcy until the end of September (and perhaps until March 2021) -- *provided* they *can prove* their troubles *were caused by* covid-19. France, Spain and other European countries *have introduced* similar exemptions.
 
-These emergency measures are buying time. Bankruptcies and unemployment have not yet risen sharply. According to the Institute of Economic Research in Halle (IWH) bankruptcies in March and April in Germany were no higher than in the same months last year. Yet rescue measures probably just postpone a surge in bankruptcies, says Steffen Mueller of the IWH. Mr Mueller thinks “zombies” will be swept away later this year, but worries that even healthy companies may not survive.
+These emergency measures *are buying time*. Bankruptcies and unemployment *have not yet risen sharply*. [According to the Institute of Economic Research in Halle (IWH)] bankruptcies in March and April in Germany *were* no higher *than* in the same months last year. Yet rescue measures *probably just postpone* a surge in bankruptcies, *says* Steffen Mueller of the IWH. Mr Mueller *thinks* “zombies” *will be swept away* later this year, but *worries that* even healthy companies *may not survive*.
 
-Governments have learned a lesson from the global financial crisis. Bankruptcies increased by 32% in western Europe in 2008. Ludovic Subran of Euler Hermes, a Paris-based credit insurer, is forecasting a rise of 19% compared with 2019 to 178,365 insolvencies this year. The corporate carnage was so brutal in 2008 because of the credit crunch, explains Mr Subran. A sudden slump in the availability of loans sealed the fate of many firms. This time EU governments have reacted far faster by pumping liquidity into the economy. Moreover, the rate of bankruptcies was very low between 2002 and 2007 whereas this time Europe has seen a clean-out in the past five years, with many firms going bust.
+Governments *have learned a lesson from* the global financial crisis. Bankruptcies *increased by 32%* in western Europe in 2008. Ludovic Subran of Euler Hermes, a Paris-based credit insurer, *is forecasting* a rise of 19% *compared with* 2019 *to* 178,365 insolvencies this year. The corporate carnage(n.) *was* so brutal in 2008 because of the credit crunch, *explains* Mr Subran. A sudden slump in the availability of loans *sealed* the fate of many firms. This time EU governments *have reacted far faster* by *pumping liquidity into* the economy. Moreover, the rate of bankruptcies *was very low* between 2002 and 2007 *whereas* this time Europe *has seen* a clean-out in the past five years, with many firms *going bust*.
 
-Mr Subran’s forecast seems optimistic considering that some industries suddenly lost all their business. The most vulnerable firms are in the hospitality, transport and non-food retail sectors. They were among the most insolvency-prone businesses before the covid crisis. Germany’s Karstadt Kaufhof, an ailing department-store chain, and France’s Orchestra Prémaman, a troubled clothing retailer, both filed for receivership in April. In Britain Carluccio’s, a restaurant chain, Brighthouse, a rent-to-own retailer, and Laura Ashley, a fashion chain, tumbled into administration in March.
+Mr Subran’s forecast *seems* optimistic 考虑到；就…而言；鉴于 *considering* that some industries *suddenly lost* all their business. The most vulnerable firms *are* in the hospitality, transport and non-food retail sectors. They *were* among the most insolvency-prone businesses before the covid crisis. Germany’s Karstadt Kaufhof, an ailing(a.) department-store chain, and France’s Orchestra Prémaman, a troubled clothing retailer, both *filed for receivership* in April. In Britain Carluccio’s, a restaurant chain, Brighthouse, a rent-to-own retailer, and Laura Ashley, a fashion chain, *tumbled into administration* in March.
 
-The other weak link is Europe’s 25m small and medium-sized enterprises (defined as firms with fewer than 250 staff), which employ over 90m people. According to SMEunited, a European lobby group, 90% of Europe’s small firms are affected by the pandemic and 30% of them say they are losing 80% of sales or more. CPME, France’s small-business federation, says 55% of small firms are concerned about bankruptcy. The French government’s €7bn solidarity fund for small companies has already been tapped by 900,000 firms.
+The other weak link *is* Europe’s 25m small and medium-sized enterprises (*defined as* firms with fewer than 250 staff), which *employ* over 90m people. According to SMEunited, a European lobby group, 90% of Europe’s small firms *are affected by* the pandemic and 30% of them *say* they *are losing* 80% of sales or more. CPME, France’s small-business federation, *says* 55% of small firms *are concerned about* bankruptcy. The French government’s €7bn solidarity fund for small companies *has already been tapped* by 900,000 firms.
 
-Behemoths have been rescued by the state, as so many jobs depend on them. France and the Netherlands are providing a taxpayer-funded bail-out of about €10bn to salvage Air France-KLM from bankruptcy. Germany will follow with a bail-out for Lufthansa. Small businesses will suffer most in spite of short-term work schemes, cash payments, delays to tax deadlines and credit guarantees. But never before have governments done so much to try to help them avoid the Schuldturm—the prison tower that was the destination, in the past, for those who couldn’t pay their debts.
+Behemoths *have been rescued* by the state, 因为 *as* so many jobs *depend on* them. France and the Netherlands *are providing* a taxpayer-funded bail-out of about €10bn *to salvage* Air France-KLM from bankruptcy. Germany *will follow with* a bail-out for Lufthansa. Small businesses *will suffer most* in spite of short-term work schemes, cash payments, delays(n.) to tax deadlines and credit guarantees. But never before *have* governments *done so much* to try to help them *avoid* the Schuldturm -- the prison tower that *was* the destination, in the past, for those who *couldn’t pay their debts*.
 
 ---
 
@@ -405,24 +406,105 @@ image:../../+ img_单词图片/b/bench.jpg[]
 1. exemption :  /ɪɡˈzempʃn/ n.[ UC ] ~ (from sth) official permission not to do sth or pay sth that you would normally have to do or pay 免除；豁免 / a part of your income that you do not have to pay tax on （指部分收入）免税
 - *a tax exemption on money* donated to charity 给慈善机构的捐款免税
 
-1.
+1. insurer : a person or company that provides people with insurance 承保人；保险公司
 
+1. insolvency :  /ɪnˈsɑːlvənsi/ N-VAR Insolvency is the state of not having enough money to pay your debts. 无清偿能力; 破产
+- Ludovic Subran of Euler Hermes, a Paris-based credit insurer, *is forecasting* a rise of 19% *compared with* 2019 *to* 178,365 insolvencies(n.) this year. +
+总部位于巴黎的信用保险公司Euler Hermes的Ludovic Subran预测，与2019年相比，今年破产数将增加19%，达到178,365家。
 
+1. carnage : /ˈkɑːrnɪdʒ/ [ U ] the violent killing of a large number of people 大屠杀 SYN slaughter +
+=> 来自词根carn, 肉，来自PIE *sker, 砍，切，词源同saw, shear. -age, 集合名词后缀。
+- The corporate carnage(n.) *was* so brutal in 2008 because of *the credit crunch*.  由于信贷紧缩，2008年对企业的"屠杀"是如此残酷。(*crunch* : n. [ Cusually sing. ] ( especially NAmE ) a situation in which there is suddenly not enough of sth, especially money （突发的）不足，短缺；（尤指）缺钱)
 
+1. *credit crunch* : N a period during which there is a sudden reduction in the availability of credit from banks and other lenders 信贷紧缩；信贷危机; 银行或其他贷方的贷款可供量急剧紧缩的一段时间
+
+1. slump : n. ~ (in sth) a sudden fall in sales, prices, the value of sth, etc. （销售量、价格、价值等的）骤降，猛跌，锐减 /a period when a country's economy or a business is doing very badly 萧条期；衰退
+- *a slump in profits* 利润锐减
+- the slump of the 1930s 20世纪30年代的大萧条
+
+1. availability  有效性,可获得性,可用率,可得到的东西
+
+1. seal : v. to make sth definite, so that it cannot be changed or argued about 确定；明确定下来；使成定局 /~ sth (up/down) to close an envelope, etc. by sticking the edges of the opening together 封上（信封）
+- *to seal a contract* 订立合同
+- The discovery of new evidence *sealed his fate* (= nothing could prevent what was going to happen to him) . 新发现的证据决定了他的命运。
+- A sudden slump in the availability of loans *sealed* the fate of many firms. 贷款的突然减少,决定了许多公司的命运。
+
+1. liquidity : n. ( finance 财 ) the state of owning things of value that can easily be exchanged for cash 资产流动性；资产变现能力
+- This time EU governments *have reacted far faster* by *pumping liquidity into* the economy. 这一次，欧盟各国政府的反应要快得多，纷纷向经济注入流动性。
+
+1. whereas : used to compare or contrast two facts （用以比较或对比两个事实）然而，但是，尽管
+- Some of the studies show positive results, *whereas* others do not. 有一些研究结果令人满意，然而其他的则不然。
+- Moreover, the rate of bankruptcies *was very low* between 2002 and 2007 *whereas* this time Europe *has seen* a clean-out in the past five years, with many firms *going bust*. +
+此外，2002年至2007年间的破产率非常低，而这一次，欧洲在过去5年里经历了一次清理，许多公司破产。
+
+1.  clean-out : PHRASAL VERB If you clean out something such as a wardrobe, a room, or container, you take everything out of it and clean the inside of it thoroughly. 全面清理
+-  Mr. Wall asked if I would help him *clean out the barrels*. 沃尔先生问我能否帮他把桶彻底清扫了。
+
+1. considering : prep.conj. used to show that you are thinking about a particular fact, and are influenced by it, when you make a statement about sth 考虑到；就…而言；鉴于
+- She's very active, *considering her age*. 就她的年龄来说，她是十分活跃的。
+- Mr Subran’s forecast *seems* optimistic 考虑到；就…而言；鉴于 *considering* that some industries *suddenly lost* all their business. +
+考虑到一些行业突然失去了所有业务，苏布兰的预测似乎有些乐观。
+
+1. hospitality : n. food, drink or services that are provided by an organization for guests, customers, etc. （款待客人、顾客等的）食物，饮料，服务；款待
+- *the hospitality industry* (= hotels, restaurants, etc.) 招待性行业（如旅馆、饭店等）
+- The most vulnerable firms *are* in the hospitality, transport and non-food retail sectors.
+最脆弱的公司在酒店、运输和非食品零售行业。
+
+1. prone : a. *~ to sth/to do sth* likely to suffer from sth or to do sth bad 易于遭受；有做（坏事）的倾向 /*-prone* ( in adjectives 构成形容词 ) likely to suffer or do the thing mentioned 有做…倾向的；易于遭受…的 /( formal ) lying flat with the front of your body touching the ground 俯卧的
+- *prone(a.) to injury* 容易受伤
+- *error-prone* 容易出错的
+- *injury-prone* 容易受伤的
+- They *were* among *the most insolvency-prone(a.) businesses* before the covid crisis. 在covid危机之前，它们是最容易破产的企业。
+
+1. ailing :a. ill/sick and not improving 有病的；体弱的 /( of a business, government, etc. 企业、政府等 ) having problems and getting weaker 处境困难的；每况愈下的 +
+=> 来自PIE*agh, 恐惧，害怕,字母g脱落。词源同awe, 敬畏，ugly, 丑陋。由恐惧衍生出敬畏，丑陋，忧患，病痛等。
+- She looked after *her ailing father*. 她照顾有病的父亲。
+- measures to help *the ailing economy* 改善经济不景气的措施 +
+- Germany’s Karstadt Kaufhof, an ailing(a.) department-store chain, and France’s Orchestra Prémaman, a troubled clothing retailer, both *filed for* receivership in April. +
+境况不佳的德国连锁百货公司Karstadt Kaufhof, 和陷入困境的法国服装零售商Premaman管弦乐队, 都在4月份申请破产保护。 +
+image:../../+ img_单词图片/a/ailing.jpg[]
+
+1. department-store 百货公司；百货商店
+
+1. receivership  : /rɪˈsiːvərʃɪp/ ( law 律 ) n. the state of a business being controlled by an official receiver because it has no money 破产管理；破产产业接管
+
+1. rent-to-own : Rent-to-own, also known as rental-purchase, is a type of legally documented transaction under which tangible property, such as furniture, consumer electronics and home appliances, is leased in exchange for a weekly or monthly payment, with the option to purchase at some point during the agreement. +
+先租后买，也被称为租购，是一种合法记录的交易类型，在这种交易中，家具、消费电子产品和家用电器等有形财产被租赁，以换取每周或每月的付款，并有权在协议期间的某个时候购买。
+
+1. stumble : v. *~ (over/on sth)* to hit your foot against sth while you are walking or running and almost fall 绊脚
+- I stumbled over a rock. 我在石头上绊了一下。 +
+*STUMBLE INTO STH* : to become involved in sth by chance 无意间涉足某事
+- *I stumbled into acting* when I left college. 我从大学出来后无意间进了演艺界
+- In Britain Carluccio’s, a restaurant chain, Brighthouse, a rent-to-own retailer, and Laura Ashley, a fashion chain, *tumbled into administration* in March. +
+在英国，连锁餐厅Carluccio’s，零售商Brighthouse，以及时装连锁店Laura Ashley, 在3月份被政府接管。
+
+1. a European lobby group 一个欧洲的游说团体
+
+1. federation : n. [ C ] a country consisting of a group of individual states that have control over their own affairs but are controlled by a central government for national decisions, etc. 联邦 /[ C ] a group of clubs, trade/labor unions , etc. that have joined together to form an organization （俱乐部、工会等的）联合会 /[ U ] the act of forming a federation 联邦；同盟；联盟
+- France’s small-business federation 法国小企业联合会CPME
+
+1. tap : v. *~ (into) sth* to make use of a source of energy, knowledge, etc. that already exists 利用，开发，发掘（已有的资源、知识等）
+[ VN ]
+- We need to *tap(v.) the expertise of the people* we already have. 我们需要利用我们现有人员的专业知识。
+- The French government’s €7bn solidarity fund for small companies *has already been tapped* by 900,000 firms. +
+法国政府为小企业设立的70亿欧元团结基金(solidarity fund)，已被90万家企业所使用。
+
+1. behemoth :  /bɪˈhiːməθ/ ( formal ) a very big and powerful company or organization 巨头（指规模庞大、实力雄厚的公司或机构） +
+=> 来自希伯来语，怪物。贝希摩斯（Behemoth）是在《圣经》中出现的怪物
+- Behemoths *have been rescued* by the state, 因为 *as* so many jobs *depend on* them. 由于许多工作都依赖于大型企业，政府已经对它们进行了救助。
+
+1.  taxpayer-funded 纳税人资助的
+
+1. bail-out : PHRASAL VERB If you *bail* someone *out*, you help them out of a difficult situation, often by giving them money. (常通过提供资金) 帮助…摆脱困境 /PHRASAL VERB If you *bail someone out*, you pay bail on their behalf. 把…保释出来
+- France and the Netherlands *are providing* a taxpayer-funded bail-out of about €10bn *to salvage* Air France-KLM from bankruptcy. +
+法国和荷兰将用纳税人的钱，提供约100亿欧元的纾困资金，以挽救濒临破产的法航荷航集团(Air France- klm)。
+
+1. salvage : /ˈsælvɪdʒ/ v. *~ sth (from sth)* to save a badly damaged ship, etc. from being lost completely; to save parts or property from a damaged ship or from a fire, etc. 打捞，营救（失事船舶等）；抢救（失事船舶、火灾等中的财物） /to manage to rescue sth from a difficult situation; to stop a bad situation from being a complete failure 挽救；挽回
+- He wondered what he could do *to salvage the situation*. 他不知道怎样才能挽救这个局面。
+- Small businesses *will suffer most* in spite of short-term work schemes, cash payments, delays(n.) to tax deadlines and credit guarantees. But never before *have* governments *done so much* to try to help them *avoid* the Schuldturm -- the prison tower that *was* the destination, in the past, for those who *couldn’t pay their debts*. +
+尽管有短期工作计划、现金支付、延迟缴税期限和信用担保，但小企业将受到最大的冲击。但在此之前，政府从未做过如此多的努力来帮助他们避免重蹈覆辙——在过去，监狱(的高塔)是那些无力偿还债务的人的目的地。
 
 
 ---
-
-
-
-
-这些紧急措施正在争取时间。破产和失业还没有急剧上升。根据哈雷经济研究所(IWH)的数据，德国3月和4月的破产数量并不比去年同期高。然而，IWH的Steffen Mueller说，救助措施可能只是推迟了破产的激增。穆勒认为，“僵尸”将在今年晚些时候被扫除，但他担心，即使是健康的公司也可能无法生存。
-各国政府已经从全球金融危机中吸取了教训。2008年，西欧的破产案件增加了32%。总部位于巴黎的信用保险公司Euler Hermes的Ludovic Subran预测，与2019年相比，今年破产数将增加19%，达到178,365家。Subran先生解释说，由于信贷紧缩，2008年的企业屠杀是如此残酷。贷款的突然减少决定了许多公司的命运。这一次，欧盟各国政府的反应要快得多，纷纷向经济注入流动性。此外，2002年至2007年间的破产率非常低，而这一次，欧洲在过去5年里经历了一次清理，许多公司破产。
-考虑到一些行业突然失去了所有业务，苏布兰的预测似乎有些乐观。最脆弱的公司在酒店、运输和非食品零售行业。在covid危机之前，它们是最容易破产的企业之一。境况不佳的德国连锁百货公司Karstadt Kaufhof和陷入困境的法国服装零售商Premaman管弦乐队都在4月份申请破产保护。在英国，连锁餐厅Carluccio’s，零售商Brighthouse，以及时装连锁店Laura Ashley在3月份被政府接管。
-另一个薄弱环节是欧洲2500万家中小企业(员工少于250人的公司)，它们雇佣了超过9000万人。根据欧洲游说团体SMEunited的数据，90%的欧洲小企业都受到了疫情的影响，30%的小企业说，它们的销售额损失了80%甚至更多。法国小企业联合会CPME表示，55%的小企业担心破产。法国政府为小企业设立的70亿欧元团结基金(solidarity fund)，已得到90万家企业的资助。
-由于许多工作都依赖于大型企业，政府已经对它们进行了救助。法国和荷兰将用纳税人的钱，提供约100亿欧元的纾困资金，以挽救濒临破产的法航荷航集团(Air France- klm)。德国将紧随其后，为汉莎航空(Lufthansa)纾困。尽管有短期工作计划、现金支付、延迟缴税期限和信用担保，但小企业将受到最大的冲击。但在此之前，政府从未做过如此多的努力来帮助他们避免重蹈覆辙——在过去，监狱是那些无力偿还债务的人的目的地。■
-深入:
-有关新冠病毒大流行的最新报道，请登录我们的每日通讯《今日经济学人》，或访问我们的冠状病毒追踪和报道中心
-
 
 
