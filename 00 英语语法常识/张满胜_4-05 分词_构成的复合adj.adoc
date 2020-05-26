@@ -1,0 +1,483 @@
+
+
+= 分词构成的复合形容词
+:toc:
+
+---
+
+== 复合形容词
+
+在英文中，分词在构成"复合形容词"方面是非常活跃的. 我们可以用"现在分词"和"过去分词", 分别与n., adj., adv. 构成"复合形容词"。
+
+复合形容词, 由两个或两个以上的单词组成, 用以修饰一个名词。*组成复合形容词的每个单词之间, 要用连字符连接* 以避免混淆和词不达意。以连字号构成的形容词，可以以一个词, 扼要地交代一个繁复的概念，言简意赅。
+
+复合形容词的特点有:
+
+1. 复合形容词中, 单词与单词之间, 要有连字符。
+2. 复合形容词 *中的名词, 只能用原形。*
+3. 复合形容词, *在句子中只做定语，不做表语或补语。*
+4. 复合形容词前, 通常还有冠词、指示代词、不定代词、名词所有格、形容词性物主代词等修饰语。
+5. *复合形容词后加复数，表示一类人或物，可独立作主语。*
+
+
+那么究竟什么时候用 “名词（或形容词、副词）+现在分词” 构成的复合形容词？ +
+什么时候又用 “名词（或形容词、副词）+过去分词” 构成的复合形容词？ +
+为了阐述清楚，我们先来界定“外部”和“内部”两方面的关系.
+
+为了正确构造复合形容词，我们有必要搞清楚两类逻辑关系："外部关系"和"内部关系。"
+
+
+|===
+|举例  +
+*English-speaking* countries 说英语的国家 |说明
+
+|外部关系 +
+speaking <--> countries +
+*“外部关系”, 决定了是用"现在分词"还是用"过去分词", 来构成复合形容词.*
+|是指"现在分词"(speaking)或"过去分词", 与它所修饰的名词(countries)之间, 是"主动关系"还是"被动关系". +
+本例中,  countries与speak之间是主动(主谓)关系, 即: 这个国家(主语)的人,说(谓)英语).  +
+相当于说 `主` people in these countries `谓` speak (English)，所以要用能够表示主动关系的"现在分词" speaking.
+
+|内部关系 +
+English <--> speaking +
+*“内部关系”, 则决定了是用名词、形容词还是副词来构成复合形容词。*
+|即, 杠号-两边的两个词之间的关系. 比如本例的English-speaking, 就是 English 和 speaking 两个词之间的关系. +
+换言之, 就是指"现在分词"或"过去分词", 与能构成复合形容词的其他词（如名词、形容词或副词）之间的关系。 +
+
+内部关系比较复杂. 比如本例的 English与speak，在逻辑上其实是构成"动宾关系"或"谓宾关系")"，相当于说: （people in these countries）`谓` speak `宾` English。
+|===
+
+-> “外部关系” : 决定了是用"-ing 现在分词"还是用"过去分词"来构成复合形容词， +
+-> “内部关系” : 则决定了是用名词、形容词还是副词来构成复合形容词。 +
+
+所以，分清楚以上两方面关系, 是正确使用这类复合形容词的关键。 +
+具体来说，*首先分析“外部关系”，即先判断是应该用"现在分词", 还是应该用"过去分词", 来构成复合形容词。在外部关系正确无误的情况下，我们再判断“内部关系”，即判断应该用什么"词性"的词, 与分词构成复合形容词。* 只有在内部、外部关系都正确的情况下，复合形容词才构造正确。
+
+例如，以下所列举的复合形容词, 都是错的：
+
+- English-spoken countries ×
+- water-covering land ×
+- a newly-building library ×
+- naturally-occurred substances ×
+- ready-making clothes ×
+- nice-looked person ×
+- good-done jobs ×
+
+
+---
+
+== "-ing 现在分词" 构成的复合形容词
+
+其特点是:
+
+- 外部关系上既然都用了 -ing , 就表示这类复合形容词有共同的“外部关系”特点：即被修饰的名词, 与"现在分词"之间, 存在逻辑上的"主谓关系".  +
+或者说, *被修饰的名词, 可以作现在分词的"逻辑主语"。*
+- 既然外部关系存在共性，那么 *“内部关系”就是此类复合形容词的"个性特点"了。*
+
+---
+
+==== (n. + vt.-ing) + n. => (宾+谓) + 主
+
+此类复合形容词，使用频率非常之高。
+
+- *ice-thawing* visit (国事访问的)融冰之旅 +
+|===
+|关系 |主 |谓(vt.-ing) |宾(n.)
+
+|外部关系  +
+(主谓关系)
+|visit
+|thawing
+|
+
+|内部关系 +
+(动宾关系)
+|
+|thawing
+|ice
+|===
+内外关系合起来看, 相当于 :  `主` The visit `谓` can thaw `宾` the ice.
+
+
+- *caffeine-containing* drinks 含咖啡因的饮料
+|===
+|关系 |主 |谓(vt.-ing) |宾(n.)
+
+|外部关系
+|drinks
+|containing
+|
+
+|内部关系
+|
+|containing
+|caffeine
+|===
+内外关系合起来看, 相当于 :  `主` The drinks `谓` contain `宾` caffeine.
+
+- *hostage-taking* incident 人质事件
+- *heart-breaking* look 伤心的表情
+- *peace-keeping* force = force keeps peace 维和部队
+- *freedom-loving* people = people love freedom 热爱自由的民族
+
+---
+
+==== (n. + vi.-ing) => (状+谓) + 主
+
+- you can be flying high in minutes with a *sky-walking kite*. +
+借助于在高空飞翔的风筝，你就可以在空中飞行几分钟。 +
+
+
+|===
+|案例  +
+*sky-walking* kite |说明
+
+|外部关系 +
+walking <--> kite
+|被修饰的名词kite, 做现在分词walking 的"逻辑主语". +
+即, `主` The kite `谓` walks [in the sky].
+
+|内部关系 +
+sky <--> walking
+|*因为此时的现在分词, 是不及物动词vi.，所以不能带有宾语，因而, sky只能做 现在分词walking的"状语". 两者存在逻辑上的"动状关系".* +
+即，复合形容词内的"名词", 可与特定的介词连用, 构成"介词短语"，然后来修饰"现在分词"所表示的动作。
+|===
+
+sky-walking kite, 中的三个词之间的逻辑关系, 即:
+|===
+|关系 |主 |谓(vi.-ing) |状(n.)
+
+|外部关系 +
+(主谓关系)
+|kite
+|walking
+|
+
+|内部关系 +
+(动状关系)
+|
+|walking
+|sky
+|===
+内外关系合起来看, 相当于 :  `主` The kite `谓` walks(vi.) [in the sky].
+
+- a *night-walking* animal 夜行动物 +
+-> 相当于说：an animal walks(vi.) [at night]。
+
+- a *sky-flying* kite 在空中飞行的风筝 +
+-> 相当于说：a kite flies(vi.) [in the sky]。
+
+
+==== 总结: 上述两种由“名词+现在分词”构成的复合形容词, 其中的"名词"与"现在分词"之间的逻辑关系, 是不同的 :
+
+|===
+|类型 |三者的逻辑关系是
+
+|(内n. + vt.-ing) + 外n.
+|(宾 + 谓) + 主
+
+|(内n. + vi.-ing) + 外n.
+|(状 + 谓) + 主 <= 因为vi.不能带宾语!
+|===
+
+---
+
+==== (n. + 系动词-ing) + n. => (表+系) + 主
+
+这类复合形容词比较少见，它是来自于“系动词+名词（作表语）”这一句型。
+
+- *fossil-appearing* objects 类似于化石的物体
+|===
+|关系 |主 |谓/系(系动词.-ing) |表(n.)
+
+|外部关系
+|objects
+|appearing
+|
+
+|内部关系
+|
+|appearing
+|fossil
+|===
+内外关系合起来看, 相当于 :  `主` The objects `系` appear to be `表` fossils.
+
+|===
+|案例  +
+*fossil-appearing* objects |说明
+
+|外部关系 +
+(主系关系) +
+appearing <--> objects
+|被修饰的名词objects, 做现在分词 appearing 的"逻辑主语". +
+即, `主` The objects `系` appear to be `表` fossils.
+
+|内部关系 +
+(系表关系) +
+fossil <--> appearing
+|*因为appearing本身就是系动词, 所以fossil是做该系动词的"表语".*  +
+即复合形容词内的名词, 在逻辑上是作"系动词分词"的"表语"。
+|===
+
+这类复合形容词, 类似于下面将要讨论的 “形容词+系动词的现在分词” （如good-looking）。
+
+---
+
+==== (adj. + 系动词-ing) => (表+系) + 主
+
+- a *good-looking* man = `主` A man `系` looks `表` good. 外表英俊的人
+|===
+|关系 |主 |谓/系(系动词.-ing) |表(adj.)
+
+|外部关系 +
+(主系关系) +
+(looking <--> man)
+|man
+|looking
+|
+
+|内部关系 +
+(系表关系)  +
+(good <--> looking)
+|
+|looking
+|good
+|===
+
+- *lame-sounding* stories = stories sound lame. 听起来很勉强的借口
+- an *easy-going* person = a person goes easy. 性格随和的人
+
+---
+
+==== (ad. + vi.-ing) + n. => (状+谓) + 主
+
+- the handsome *fast-talking* and habitual liar attorney = An attorney talks [fast]. +
+这位相貌英俊、讲话速度快，并且习惯撒谎的律师
+|===
+|关系 |主 |谓(vi.-ing) |状(adv.)
+
+|外部关系 +
+(主谓关系)
+(talking <--> attorney)
+|attorney
+|talking
+|
+
+|内部关系 +
+(动状关系)  +
+(fast <--> talking)
+|
+|talking
+|fast
+|===
+
+- *far-reaching* events = events reach [far] 有深远影响的事件
+- a *far-seeing* politician = a politician see [far] 远见卓识的政治家
+- *naturally-occurring* substances = substances occur naturally 自然界中存在的物质
+
+---
+
+== "-ed 过去分词" 构成的复合形容词
+
+既然是用表示"被动关系"的"过去分词",构成复合形容词，那么这类复合形容词, 必然具有共同的“外部关系”的特点，即 *被修饰的名词, 与过去分词, 存在逻辑上的"动宾关系"，或者说, 被修饰的名词, 可以作"过去分词"的"逻辑宾语"。*
+
+==== (n. + vt.-ed) + n. => (状+谓) + 宾
+
+|===
+|例子 +
+a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
+
+|外部关系 +
+(动宾关系)
+(led <--> war)
+|
+|led
+|
+|war
+
+|内部关系 +
+(动状关系)  +
+(U.S. <--> led)
+|
+|led
+|U.S.
+|
+|===
+整个短语相当于这样一个句子：The U. S. leads the war.  +
+或者相当于一个被动句：The war is led [by the U. S].
+
+- *U.S.-led* coalition 以美国为首的盟军
+- the *U.S.-proposed* resolution 由美国提出的这项决议
+- *man-made* fibers = `宾` fibers `谓` made [by man] 人造纤维
+- *state-owned* enterprises = `宾` enterprises `谓` owned [by the state] 国有企业
+- *helium-filled* balloons = `宾` balloons `谓` filled [with helium] 充满氦气的气球
+
+---
+
+==== (adj. + vt.-ed) + n. => (补+谓) + 宾
+
+|===
+|例子 +
+*green-painted* house +
+ 粉刷成绿色的房屋|主 |谓(vt.-ed) |补(adj.) |宾(外n.)
+
+|外部关系 +
+(动宾关系)
+(painted <--> house)
+|
+|painted
+|
+|house
+
+|内部关系 +
+(动补关系)  +
+(green <--> painted)
+|
+|painted
+|green
+|
+|===
+整个短语相当于这样一个句子：(Someone) `谓` painted `宾` the house `补` green. +
+或者相当于一个被动句：The house was painted green.
+
+- a *red-dyed* cloth = dyed a cloth red 染成红色的布
+- a *clean-shaven* man = a man shaved himself clean 脸刮得很干净的男子
+
+---
+
+====  (adv. + vt.-ed) + n. => (状+谓) + 宾
+
+
+|===
+|例子 +
+*Newly-elected* Chinese Premier +
+新当选的总理|主 |谓(vt.-ed) |状(adv.) |宾(外n.)
+
+|外部关系 +
+(动宾关系)
+(elected <--> Premier)
+|
+|elected
+|
+|Premier
+
+|内部关系 +
+(动状关系)  +
+(Newly <--> elected)
+|
+|elected
+|Newly
+|
+|===
+整个短语相当于这样一个句子：(People) `谓` elected `宾` the Chinese Premier [newly].
+
+- a *democratically-elected* prime minister = a prime minister elected [democratically] 民选总理
+- the *above-mentioned* items = the items mentioned [above]  上面提到的各项内容
+- a *tightly-packed* box = a box packed [tightly] 包装严密的盒子
+- a *well-bred* young man = a young man bred [well] 温文尔雅的年轻人
+
+另外，这里的副词还可以有比较级或最高级的形式。比如：
+
+- a *best-loved* book = a book loved [best] 最受喜爱的书
+
+---
+
+== 其他构成的复合形容词
+
+这类复合形容词的逻辑关系比较简单，不像上面由分词构成的复合形容词那样, 具有非常繁多而又复杂的逻辑关系。这些复合形容词主要有：
+
+==== (adj. + n.+ed) + n.
+
+- a *fast-paced* and demanding world 快节奏、竞争激烈的社会
+- *bad-tempered* people 坏脾气的人
+- *middle-aged* people 中年人
+- *ill-humored* people 没有幽默感的人
+
+---
+
+==== (num. +n.+ed) + n.
+
+- *two-faced* person 两面三刀的人
+- *ten-storyed* building 十层高的楼
+
+---
+
+== 总结
+
+对于"分词"构成的复合形容词，关键是要理解其中的“内部关系”。
+
+|===
+|长相类型 |逻辑关系 |举例
+
+|(n. + vt.-ing) + n.
+|(宾+谓) + 主
+|*ice-thawing* visit +
+= `主` The visit `谓` thaws `宾` ice.  +
+融冰之旅
+
+|(n. + vi.-ing) + n.
+|(状+谓) + 主
+|a *night-walking* animal +
+= An animal walks [at night]. +
+夜行动物
+
+|(n. + 系.-ing) + n.
+|(表+系) + 主
+|*fossil-appearing* objects +
+= `主` The objects `系` appear to be `表` a fossil. +
+外观像化石的物体
+
+|(adj. + 系.-ing) + n.
+|(表+系) + 主
+|a *good-looking* man +
+= `主` A man `系` looks `表` good. +
+相貌英俊的人
+
+|(adv. + vi.-ing) + n.
+|(状+谓) + 主
+|*hard-working* people +
+= people work [hard] +
+勤劳的人
+
+|---
+|---
+|---
+
+|(n. + vt.-ed) + n.
+|(状+谓) + 宾
+|*man-made* fibers +
+= fibers made [by man] +
+人造纤维
+
+|(adj. + vt.-ed) + n.
+|(补+谓) + 宾
+|*green-painted* house +
+= `谓` painted `宾` a house `补` green +
+粉刷成绿色的房子
+
+
+|(adv. + vt.-ed) + n.
+|(状+谓) + 宾
+|a *newly-built* library +
+= a library built [newly] +
+新建的图书馆
+
+|---
+|---
+|---
+
+|(adj. + n.-ed) + n.
+|
+|*blue-eyed* man 蓝眼睛的男子
+
+|(num. + n.-ed) + n.
+|
+|*one-eyed* camel 一只眼的骆驼
+|===
+
+学习者首先必须熟练掌握上述各种不同的逻辑关系，然后才可能灵活构造复合形容词。
+
+---
+
+
+

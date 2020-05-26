@@ -1,0 +1,140 @@
+
+= 不定式 - 逻辑主语
+:toc:
+
+---
+
+== 不定式动词, 有自己的"逻辑主语", 未必和句子的主语是同一人.
+
+在英语中，*逻辑主语都是针对"非谓语动词"来说的。* +
+非谓语动词也是动词, *既然是动词，就应该有动作的执行者，即主语。之所以称之为"逻辑主语"，是为了区别于句子结构上的"语法主语"，因为句子谓语的主语, 和非谓语动词的逻辑主语, 并不总是统一的，有时并不一致。*
+
+- *He* was anxious *to meet you*.  他渴望认识你。 +
+-> 句子的主语是he，不定式 to meet 的动作也是由he发出，因此he也是不定式的逻辑主语。因此本句, 句子的主语和不定式的逻辑主语一致。
+- He was anxious *for his sister to meet you*.  +
+-> 句子的主语是he，但不定式 to meet 的动作是由his sister发出的，因此本句的主语he 和不定式的逻辑主语his sister不一致。
+
+---
+
+== 不定式"逻辑主语"的构成方式 01 -> for + 不定式的逻辑主语 + to do
+
+不定式"逻辑主语"的构成, 通常是在to do前面, 添加 for引导的一个介词短语，从而构成 “*for+ 不定式的逻辑主语(名词或代词) +to do*” 结构
+
+- The father will be proud *for his son to win* the gold medal.  +
+如果儿子能够赢得金牌，作为父亲他将会非常自豪。 +
+|===
+|主句的"主语"|不定式的"逻辑主语"|本句中"不定式"的作用
+
+|the father
+|his son
+|作"条件状语"
+|===
+
+- *The father* will be proud *to win* the gold medal.  +
+如果这位父亲能够赢得金牌，他将会非常自豪。
+|===
+|主句的"主语"|不定式的"逻辑主语"|本句中"不定式"的作用
+
+|the father
+|由主句的主语充当
+|作"条件状语"
+|===
+
+不定式(“for+名词或代词+to do”)是"非谓语动词", 所以它可以作除了谓语外的任何成分, 比如作状语、主语、定语或表语等等。
+
+---
+
+==== 01. 作主语
+
+- 形主 *It*'s important 真主 *for you to go there in person*. +
+你有必要亲自去那一趟。
+
+---
+
+==== 02. 作定语
+
+- ... while American parents expressed(v.) a desire (定, 表同位 *for their children to be happy*). +
+而美国的父母们则表示，最大的愿望就是希望自己的孩子能过得幸福。
+
+---
+
+==== 03. 作目的状语
+
+- 放在句首作"目的状语" [*For any adhesive to make a really strong bond*], the surfaces to be glued must be absolutely clean and free from moisture or grease. +
+对于任何黏合剂，要想粘得牢固的话，则被粘的表面必须绝对清洁且不能潮湿和有油渍。
+
+---
+
+==== 04. 作表语
+
+- ... One solution would be `表` *for the animal to keep its eyes closed* when danger threatens. +
+有一个方法是，当危险来临时，动物们可以把自己的眼睛闭起来。
+
+---
+
+== 不定式"逻辑主语"的构成方式 02 -> of sb. to do
+
+除了上面讨论的 for 引导不定式的"逻辑主语"外，在某些特殊情况下，我们要用 of 来引导"逻辑主语"。
+
+哪些特殊情况呢?
+
+- *It's adj. of sb. to do sth* +
+这种结构中, *adj.是用来说明"人的性格特征, 或行为表现"* 的时, 当这个adj.与不定式连用时，要用“of+名词或代词”这一结构引出不定式的"逻辑主语"。
+
+这样的形容词主要有：brave, careful, careless, clever, cruel, foolish, generous, kind, modest, nice, polite, rude, selfish, silly, stupid, thoughtful等。
+
+- *It's wise of you* not to argue with your boss. 明智的做法是不要与你的老板争论。
+- *It's generous of him* to lend me his car. 他很慷慨，把他的车借给了我。
+
+可以看出, *这种 of sb.作不定式"逻辑主语"的结构, 仅限于该不定式作"主语"的情况.*
+
+
+两种逻辑主语形式的不定式的区别 :
+|===
+||for + 逻辑主语 + to do | of 逻辑主语 + to do sth
+
+|该不定式结构, 能充当的成分
+|能作的成分相当广泛, 除了"谓语"外都能做
+|只能作"主语".
+
+|整个句子, 能否改写成用“人”来直接作句子主语?
+|不能
+
+- *It*'s important *for you to go there [in person]*. +
+= *You are important* to go there in person. × +
+-> *因为important这样的形容词, 是强调"事情"的，不是强调"人"的，所以不能用“人”直接作句子的主语。*
+
+|可以
+
+- *It's wise of you* not to argue with your boss. +
+= *You are wise* not to argue with your boss. √ +
+-> *因为 形容词wise, 是强调"人"的性格特征或行为表现的，所以可以用“人”作句子主语.*
+|===
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

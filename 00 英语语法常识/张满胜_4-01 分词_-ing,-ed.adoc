@@ -1,0 +1,250 @@
+
+= 分词 -ing, -ed
+:toc:
+
+---
+
+== 学习"分词"时, 需要抓住三个切入点
+
+*"分词"是一种重要的"连词成句"的手段。*
+
+要想真正完全掌握分词的用法，需要从下列三个方面下功夫：
+
+1. 分词的意义：即要掌握"现在分词"和"过去分词"各自不同的意义和内涵。一般认为，现在分词表示"主动"，过去分词表示"被动"。
+
+2. 分词的作用：即 *分词在句中充当的语法功能，主要就是"作状语"和"作定语"。* 尤其是 *作状语的分词，可以表示各种不同的意义* 以及使用不同的结构。
+
+3. 动词的用法：即 *需要知道动词的"及物性"或"不及物性"。* 这一点很容易被忽略。因为分词也是动词，而 *动词的意义和用法必然影响到分词的使用，比如到底该用"现在分词"还是"过去分词"。*
+
+分词（participle）有"现在分词"（present participle）和"过去分词"（past participle）之分，两者在意义上有差别.
+
+对比这两类分词意义的差别, 要在一定的“生态环境”下进行，这个“生态环境”, 往往由分词与其所修饰的名词构成。*在剖析分词与其所修饰的名词之间的"逻辑关系"的基础上，我们就能够全面了解两类分词的差别。*
+
+
+*到底是用"现在分词"作定语, 还是用"过去分词"作定语，这主要是取决于分词与其所修饰名词之间的逻辑语义关系，是出于句子意思表达的需要。* +
+比如，动词sink, 与名词ship之间的逻辑关系, 可以分别用现在分词sinking, 和过去分词sunken 来表达，但二者意思不同:
+
+- the *sinking* ship 正在下沉的船 +
+-> the sinking ship 相当于 the ship *that is sinking*，表示“正在下沉的船”，即此处的现在分词sinking, 表示的是一个 *"主动的" "正在进行的"动作*。
+
+- the *sunken* ship 已沉于水底的船 +
+-> the sunken ship 相当于 the ship *that has sunken*，表示“已沉于水底的船”，即此处的过去分词sunken, 表达的是一个 *"主动的" "已经完成的"动作*。
+
+从上面例子我们看到，两种分词（比如sinking 和 sunken）在修饰一个名词时，含义有很大的区别，所以使用时要分别根据不同的语境, 慎重选择。
+
+---
+
+== "现在分词"的意义
+
+*我们可以从两个角度来考查"分词"的含义——语态角度, 和时态角度。*
+
+首先，*从"语态"角度来看，现在分词表示"主动"意义，它与所修饰的名词构成"主谓关系"。* 比如上面的短语 the sinking ship 可以改写成 the ship *that is/was sinking*，这里的ship相当于是sinking的逻辑主语。
+
+其次，*从"时态"角度来看，现在分词一般表示"进行的动作"，相当于一个"进行时态"；同时还可以表示"一般的动作"，此时相当于一个"一般时态"。*
+
+*因此，"现在分词"的主要意义有两类：主动进行的动作, 和主动一般的动作。*
+
+---
+
+==== 主动的、"正在进行的"动作
+
+此时的现在分词具备以下两个特点：
+
+1. 若把分词改成"定语从句"，则定语从句的谓语, 要用"进行时态"。
+2. 此时的现在分词, 多数表示的是所修饰名词的一种"短暂性"的特点，*是强调"正在发生"的一个动作。*
+
+举例
+
+- the *sinking* ship 正在下沉的船 +
+= the ship *that is sinking*
+
+- the *rising* sun 日出 +
+= the sun *that is rising*
+
+- a *sleeping* child 正在熟睡的孩子 +
+= a child *who is sleeping*
+
+- President George W. Bush, when asked about his *falling* approval numbers and *mounting* criticism of the Iraq War. +
+记者问乔治W.他对自己的支持率不断下降、伊拉克战争受到的批评不断增加有何看法 +
+-> 这里的两个现在分词falling和mounting, 都是表示"主动""进行"的动作，可以分别改写成 his approval numbers *that are falling*（意为“支持率不断下降”）和 the criticism *that is mounting*（意为“批评不断增加”）。
+
+- That such a conjunction of circumstances might occur again soon, especially considering *shrinking* U. S. defense budgets and *diminishing* overseas base access, is problematical at best. +
+至于在近期内能否再次出现这种各个情况巧合的局面，即使最乐观的看法也是值得怀疑的，尤其是考虑到美国国防预算缩减和海外基地减少的情况。 +
+-> 两个分词短语 *shrinking* U. S. defense budgets 和 *diminishing* overseas base access 是并列关系，一同作分词considering的宾语。不要误认为considering与diminishing并列。 +
+分词短语shrinking U.S. defense budgets 相当于说 U.S. defense budgets *that are shrinking*，分词短语diminishing overseas base access 相当于说 overseas base access *that is diminishing*。 +
+另外，*看到句首的 that such 就知道，这里的 that 只能作为"连词", 而不是指示词，因此可以判断后面接的必然是一个"主语从句"。*
+
+
+
+
+---
+
+==== 主动的、"一般的"动作
+
+此时的"现在分词"具备以下两个特点：
+
+1. 若把分词改成定语从句，则定语从句的谓语, 要用 *一般时态*。
+2. 此时的现在分词, 多数表示的是所修饰名词的 *一种持久性的特点*，并不是强调正在发生的动作。
+
+举例
+
+- Unidentified *Flying* Objects（UFO）不明飞行物 +
+= unidentified objects *that fly*
+
+- a *promising* young man 有出息、有前途的年轻人 +
+= a young man *who promises well*
+
+- the *exploiting* class 剥削阶级 +
+= the class *that exploits others*.
+
+- a *puzzling* problem 令人迷惑的问题 +
+= a problem *that puzzles people*
+
+
+- *Scolding parents* and *domineering bosses* and husbands and *nagging wives* ought to realize that people don't want to change their minds. They can't be forced or driven to agree with you or me.  +
+那些爱斥责的父母、盛气凌人的老板和丈夫以及爱唠叨的妻子应该意识到，人们不会改变自己主意的，你我都并不能强迫他们同意我们的观点。 +
+-> 这里的三个现在分词scolding，domineering和nagging, 显然没有正在进行的意味，而是表示"一般"情况。
+
+- Euphemisms `系` are unpleasant truths (*wearing diplomatic* cologne). 所谓委婉用语，其实就是给令人不快的事实涂上了外交辞令的香水。 +
+-> 相当于说 Euphemisms are unpleasant truths *that wear diplomatic cologne*. 即没有进行的意味，而是表示一般情况。
+
+*以上这些"现在分词", 往往是表示某人或某物的一贯特征，而不是一时的特征，不具有正在进行的意味。*
+
+*当然，现在分词何时具有"进行"的意味，何时只是表示"一般"情况，这主要取决于上下文的语境，而没有特别的规定。*
+
+
+---
+
+== "过去分词"的意义
+
+我们同样可以从语态和时态两个角度, 来考查过去分词的含义。
+
+首先，从语态角度来看，一般认为，过去分词只是表示"被动"含义，其实这种说法是不确切的。对于过去分词含义的理解稍微复杂一点，*我们必须区分"及物动词vt."和"不及物动词vi."。*
+
+1. *vt.的过去分词, 只表示"被动"含义，没有主动含义。*
+- the *broken* cup +
+= someone broke the cup +
+= the cup *was broken*. +
+-> 因此，*此时的过去分词, 与它所修饰的名词, 构成"动宾关系"。*
+
+2. *vi.的过去分词, 没有被动含义，只有"主动"含义。*
+- the *sunken* ship +
+= the ship *that has sunken*.
+
+不过话说回来，*vi.的过去分词, 远比vt.的过去分词, 出现的频率要低，* 因此常见的过去分词, 都是从vt.变化过来的，所以过去分词通常表示"被动"意义（vi.的过去分词除外）。
+
+其次，从时态角度来看，*"过去分词"都没有"进行"的意味，而具有"一般动作"或"完成动作"的含义，相当于一个"一般时态"或"完成时态"。* +
+具体点说:
+
+1. *vt.的过去分词, 具有"一般动作"或"完成动作"的含义，*
+2. *vi.的过去分词, 只表示"完成动作"。*
+
+因此，过去分词的主要意义有两类：
+
+1. *vt. : "被动+一般", 或 "被动+完成"的动作*
+2. *vi. : "主动+完成"的动作。*
+
+---
+
+==== vt. : (被动+一般) /或 (被动+完成)
+
+此时的过去分词, 具备以下两个特点：
+
+1. 此时的过去分词, 是由 vt. 变化而来。
+2. 若将分词改成定语从句，则定语从句的谓语, 要用"被动"语态。
+
+举例
+
+- the *exploited* class 被剥削阶级 +
+= the class *that is exploited*
+
+- a *respected* writer 一个受人尊敬的作家 +
+= a writer *who is respected*
+
+- *trained* employees 被惹恼了的男子 +
+= employees *who have been trained* before.
+
+
+以上这些过去分词, 都是由vt.变化过来的，因而均具有"被动"的含义。至于动作是"一般的"还是"完成的"，则主要视上下文语境而定，而没有特别的规定。
+
+
+
+---
+
+==== vi. : (主动+完成)
+
+此时的过去分词, 具备以下两个特点：
+
+1. 此时的过去分词, 是由vi.变化而来。由vt.变来的过去分词才有被动的意义，*而由vi.变来的过去分词, 则不表示被动，只表示"主动的、完成的"动作。 此时，过去分词一般表示一种"完成"的状态，而多数已失去了原动词的动作的概念。*
+
+2. 此时若将分词改成定语从句，则定语从句的谓语, 要用"主动语态"和"完成时态"。
+
+举例
+
+- the *sunken* ship 已沉于水底的船 +
+= the ship *that has sunken*
+
+- a *retired* general 退伍的将军 +
+= a general *who has retired*
+
+- a *married* man 已婚男子 +
+= a man *that has married*
+
+- a *developed* country 发达国家 +
+= a country *that has developed*
+
+此外还有如： +
+*vanished* civilization（失落的文明）,  +
+the *risen* sun（升起的太阳）,  +
+*rotten* teeth（坏了的牙齿）,  +
+*shrunken* clothes（缩水的衣服）， +
+*escaped* prisoners（逃犯）等等。
+
+
+---
+
+== vi的-ing, 与 vi的-ed 都表示主动，那有何区别?
+
+讨论至此，现在有一个问题：vi.的现在分词, 与过去分词, 都表示主动，那有何区别呢？其实这个问题上面的例句中涉及过。*二者的区别在于时态上: +
+-> vi. 的现在分词 -ing, 往往表示"主动进行"的动作 +
+-> vi. 的过去分词 -ed, 表示"主动完成"的动作。*
+
+- the *sinking* ship = the ship *that was sinking* 正在下沉的船 +
+-> *现在分词sinking, 相当于一个"现在进行时态"，即表示"进行"的动作。*
+
+- the *sunken* ship = the ship *that has sunken* 已沉于水底的船 +
+-> *过去分词sunken, 相当于一个"现在完成时态"，即表示"完成"的动作。*
+
+---
+
+== -ing 和 -ed 的总结
+
+综上所述，现在分词和过去分词, 在意义上的区别主要有：
+
+1. 语态角度 :
+- 现在分词 -ing : 表示"主动"意义，它与被修饰的名词, 构成"主谓关系"。
+- 而过去分词 -ed : 通常表示"被动"意义（vi.的过去分词除外），与它所修饰的名词, 构成"动宾关系"。
+
+2. 时态角度 :
+- 现在分词 -ing : 往往表示"进行"的动作，或者是"一般"的动作。
+- 过去分词 -ed : 则表示"一般"的动作, 或"完成"的动作，不表示进行的动作。 +
+若表示"被动的、正在进行"的动作，我们就要用 being done 的形式
+
+举例
+
+- `主` Police (*hunting* the killer(n.) of a part-time police officer (*stabbed* outside her home in northwest London)) `谓` are seeking a man (*wearing* a hooded top) (*seen running away* from the scene). +
+伦敦一名兼职警官, 在其位于伦敦西北的家附近, 被一名男子刺死，警方目前正在搜捕这名男子。据称，该名男子作案时穿着带有兜帽的上衣，作案后, 有人看见他逃离了现场。 +
+-> hunting：现在分词，作后置定语，修饰police，与其构成"主谓关系"，即“搜捕凶手的警方”。 +
+-> stabbed：过去分词，作后置定语，修饰officer，与其构成"动宾关系"，即“被刺死的警官”。 +
+-> wearing：现在分词，作后置定语，修饰man，与其构成"主谓关系"，即“穿着带有兜帽上衣的男子”。 +
+-> seen：过去分词，作后置定语，修饰man，与其构成"动宾关系"，即“有人看见该名男子”。 +
+-> running：现在分词，作补足语，修饰man，与其构成"主谓关系"，即“该名男子跑离现场”。
+
+---
+
+
+
+
+
+
+

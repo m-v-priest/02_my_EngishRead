@@ -1,0 +1,575 @@
+
+= 不定式 : 时态和语态
+:toc:
+
+---
+
+== 不定式, 具有4种体态 (aspect)
+
+只要是动词, 就有体态（aspect）, 不定式也是动词, 因此也有"体态" -- 即"动作的完成程度". 共分成4种: 一般式, 进行式, 完成式, 完成进行式。 +
+此外, 不定式同样还有"语态"(主动/被动)方面的变化。
+
+
+|===
+|体态 -> |一般式 |进行式 |完成式 |完成进行式
+
+|主动
+|to + write
+|to + be writing
+|to + have written
+|to + have been writing
+
+|被动
+|to + be written
+|一般不用
+|to + have been written
+|一般不用
+|===
+
+上表中, 去掉两种不用的, 就有6种"不定式的可能形式". 下面, 我们来分别搞清楚每种形式都能表达何种意义?
+
+---
+
+== 1. 一般时(主动) -> to + do / 一般时(被动) -> to + be done
+
+什么时候用"主动"态, 什么时候用"被动"态? +
+
+|===
+|条件(当) |不定式就用(主动还是被动?)
+
+|-> 在句中 *出现了不定式动作的"执行者"* 时
+|用"主动形式"
+
+- He wants someone *to take* some photographs. 他想找人拍几张照片。 +
+-> 因为有 *someone充当take的执行者*，所以不定式用"主动"的 to take。
+
+- *I* have a lot of clothes *to wash*. 我有很多衣服要洗（自己洗）。 +
+-> I 是动作 wash 的执行者。所以不定式用主动形式 to wash.
+
+|-> 句中 *没有出现* 不定式动作的"执行者" +
+-> 或, 不定式动作所修饰的成分, 是不定式动作的"承受者"
+|用"被动形式"
+
+- He wants some photographs *to be taken*. 他想找人拍几张照片。 +
+-> 因为 *he不是take的执行者，也找不到其他的执行者存在*，所以不定式用"被动"的 to be taken。
+
+- I have a lot of clothes *to be washed*. 我有很多衣服要洗（找别人洗）。 +
+-> 谁来wash衣服? 不是I. 并且 wash动作的发出者, 在句中也不存在, 所以要用被动的 to be washed.
+|===
+
+对于不定式(非谓语动词), 即除了不能作谓语外, 其他任何成分都能作：
+
+---
+
+==== 作主语
+
+- It's an honor for me 实主{*to be invited* to address the international conference}. 我很荣幸能受邀在这次国际会议上发言。 +
+-> 邀请的动作发出者, 是"别人", 别人邀请你,  但该"别人"没有在句子中出现, 所以只能用不定式的"被动态".
+- It is necessary for us 实主{*to be constantly reminded of* our shortcomings}. 经常有人提醒我们, 注意自己的缺点是必要的。 +
+-> 同样, 是别人提醒你. 但该"别人"没有在句子中出现, 所以只能用不定式的"被动态".
+
+---
+
+==== 作宾语
+
+- She doesn't like `宾` *to be treated as* a distinguished guest. 她不喜欢被人当作贵宾。 +
+-> she是动作treat的承受对象，是动作的承受者。所以只能用不定式的"被动态".
+
+- No one hoped `宾` *to be laughed at* like that. 谁也不会希望自己被那样嘲笑。
+
+- She asked `宾` *to be given* an easy assignment. 她要求分给她一份轻松的活。
+
+- It is known {that electrical and chemical energy `谓` began `宾`*to be studied* systematically in the last century}. 众所周知，电能和化学能是在上个世纪开始被系统研究的。
+
+---
+
+==== 作宾补
+
+- He wanted the letter 宾补 *to be delivered* at once. 他想让信立即发出。 +
+-> deliver的动作发出者未知. 所以只能用不定式的"被动态".
+
+---
+
+==== 作表语
+
+- These sheets are `表` *to be washed*. 这些床单是要洗的。 +
+-> 谁来wash? wash的动作发出者未知; 同时sheets也是wash动作的承受者, 所以只能用不定式的"被动态".
+
+- This form is `表` *to be filled out* in ink. 这份表格要用钢笔填写。
+
+---
+
+==== 作状语
+
+- She was too old [*to be assigned* such work]. 她年纪大了，不适宜做这份工作。 +
+-> she 是 assign(指派)动作的承受者, 所以只能用不定式的"被动态".
+
+- He was afraid *to be fooled*. 他很害怕被骗。 +
+
+---
+
+==== 用"主动形式"表示"被动"意思 的固定用法 -> to let (出租), to blame (责备)
+
+最后请注意，*to let（出租）和to blame（责备）这两个短语是固定用法，要用"主动形式"表示"被动"意思。*
+
+- You should be *to blame* for it. 你该为此受责备。 +
+-> 照理来说, blame的动作发出者未知(其实同时you也是blame的动作承受者), 要用被动语态, 但由于英美人的固定用法, 所以也必须写成"主动"语态, 来表"被动"意思. +
+即, 不能说成：You should be *to be blamed* for it. ×
+
+- The house is *to let*. 这房子要出租。 +
+-> 不能说成：The house is *to be let*. ×
+
+---
+
+==== "双重被动"式 -> 句子的谓语, 和不定式动词, 都是"被动态"的
+
+与"被动不定式"有关的, 还有一个"双重被动"结构。 +
+所谓"双重被动"，就是指句子的"谓语", 是被动的，谓语后面所接的"不定式"也是被动的，因而形成两个被动结构连用的现象，即称为"双重被动结构"。
+
+
+|===
+|单一或双重被动 |举例
+
+|"单一被动"形式1: +
+*句子谓语(主动) ... 不定式(被动)*
+|- No one hoped(主动) *to be laughed at*(被动) like that.  +
+谁也不会希望自己被那样嘲笑。
+
+- This form is(主动) *to be filled out*(被动) in ink.  +
+这份表格要用钢笔填写。
+
+|"单一被动"形式2: +
+*句子谓语(被动) ... 不定式(主动)*
+|- You *are not allowed*(被动) to smoke(主动) here.  +
+不允许在这里抽烟。 +
+-> *句子的主语you与allow是"被动关系"(you是allow的动作承受者)，所以谓语要用被动的are allowed；但you与smoke是"主动关系"(you是smoke动作的发出者)，所以不定式要用主动的to smoke。*
+
+- You *are not allowed*(被动) to take(主动) the exam paper out of the classroom.  +
+你不允许把试卷带出教室。 +
+-> 句子的主语 you 与 allow 是"被动关系"，所以谓语要用"被动"的 are allowed；但 you 与 take 是"主动关系"，所以不定式要用"主动"的 to take。
+
+|"双重被动"形式: +
+*句子谓语(被动) ... 不定式(被动)*
+|- The book *is not allowed(被动) to be taken out of*(被动) the library.  +
+这本书不允许带出图书馆。 +
+-> not allow 的动作发出者未知, take out of 的动作发出者也未知. 所以这里就用了"双重被动". 谓语用了"被动"的 is not allowed，同时不定式也用了"被动"的 to be taken。
+
+|"双重被动" : +
+另外，*不定式还可能是"完成被动式"*
+|- The book *is said `宾` to have been published (完成+被动)*.  +
+据说这本书已经出版了。 +
+-> 据说的动作发出者, 未知. publish的动作发出者, 也未知. 因此, 句子的谓语用了被动的is said，而不定式用了"完成被动式"to have been published。
+
+- The construction *is reported `宾` to have been completed (完成+被动)*.  +
+据报道，建筑工程已经竣工。 +
+-> 句子的谓语用了被动的is reported，而不定式用了完成被动式to have been completed。
+
+|===
+
+---
+
+== ----------------------------
+
+---
+
+== 2. 进行时(主动) -> to + be doing / 进行时(被动) -> 一般不用
+
+==== 2-1. 用来表达"在我们谈论的时间（现在或过去）正在发生的动作"，或者说"与谓语的动作同时发生的动作"
+
+*不定式的"进行式"即to be doing，它的含义类似于一个"进行时态"，所以，常用来表示一个"进行"的动作。 +
+具体来说，用于描写"在我们谈论的时间（现在或过去）正在发生的动作"，或者说"与谓语的动作同时发生的动作"。*
+
+- He pretended(过去时) *to be listening attentively* when the teacher came by. +
+= He pretended that he *was listening attentively* when the teacher came by. +
+当老师走过时，他假装正在专心听讲的样子。 +
+-> 这里的不定式的"进行式" to be listening, 相当于一个"*过去进行时态*".
+
+- He happened(过去时) *to be singing* in the room when I came in this morning. +
+= It happened that he *was singing* in the room when I came in this morning. +
+今天早晨我进来的时候，他碰巧正在唱歌。 +
+-> 这里的不定式的进行式to be singing, 相当于一个"过去进行时态".
+
+- I happened(过去时) *to be standing* outside the bank, and I saw the robbery take place! +
+= It happened that I *was standing* outside the bank and... +
+我当时正好就在银行外面站着，亲眼目睹了这次抢劫案！ +
+-> 这里的不定式的"进行式" to be standing, 相当于一个"过去进行时态".
+
+- Charles Darwin was once invited to dinner. He happened(过去时) *to be sitting* with a beautiful young lady. +
+= It happened that he *was sitting* with a beautiful young lady. +
+有一次，达尔文应邀去赴宴，碰巧和一位年轻貌美的小姐坐在一起。 +
+-> 这里的不定式的进行式 to be sitting, 相当于一个"过去进行时态".
+
+*在以上的例句中，不定式的进行式, 都是用在"过去时"里，此时就相当于一个"过去进行时态"。下面我们来看几个用于"现在时"的句子*：
+
+- You know money seems(现在时) *to be burning a hole* in my pocket *lately*. Maybe next month. +
+= It seems that money *is burning a hole* in my pocket. +
+你知道，最近我有钱在口袋里就搁不住，就要花掉，所以也许要等下个月了。 +
+-> 这里的不定式的"进行式" to be burning 相当于一个"*现在进行时态*"，
+
+- The economy was in a slump, but now it seems(现在时) *to be bouncing back*. +
+= It seems that the economy *is bouncing back*. +
+经济曾一度下滑，不过现在似乎正在反弹。 +
+-> 这里的不定式的"进行式" to be bouncing, 相当于一个"现在进行时态".
+
+---
+
+==== 2-2. 用来表示"反复发生的一般性动作"
+
+此外，*不定式的进行式to be doing, 还可以表示"反复发生的一般性动作"。因为"进行时态"可以表示一个"最近一段时间内, 持续进行的一般性动作"，同样，不定式的进行式, 也可表示一个"反复发生的一般性动作"，此时带有很强的感情色彩。*
+
+- In the 1980s and early 1990s, athletes entering international sports competitions seemed *to be getting younger and younger*. +
+在20世纪80年代及90年代早期，参加国际大赛的运动员的年龄似乎越来越小。 +
+-> 这里的不定式的"进行式", 谈到的是跨越八九十年代的事情，所以宜解释为一个"一直在持续的一般性活动"。
+
+---
+
+==== 2-3. 不定式的进行式, 也可以放在其他一些谓语动词后面
+
+从以上众多例句我们可以发现，不定式的进行式, 往往用在一些"特定的"谓语动词后面，这些谓语动词包括 seem，happen 和 pretend等。不过也可以放在"其他"一些谓语动词后面.
+
+- The most way to miss someone is *to be sitting* right beside them knowing you can't have them. +
+思念一个人最无助的情形是：你就在此人身边却无法拥有他/她。 +
+-> *这里的不定式的进行式, 直接放在be动词后边。*
+
+- Smile at your interviewer [to show you are glad *to be talking* with him or her].  +
+在面试的时候，要面带微笑，这样可以向面试官表明你非常乐意与他们交谈 +
+-> *这里的不定式的进行式, 放在形容词glad的后边。*
+
+---
+
+==== 2-4. 不定式的"进行式", 没有被动结构，只有主动结构!
+
+最后要说明的是，*不定式的"进行式", 没有被动结构，只有主动结构。还有，它远没有不定式的"完成式"常用。*
+
+总结 : +
+不定式的进行式, 一般也是仅用于特定的谓语动词后面，通常是在seem和happen等动词后面，表示一个"正在进行"的动作，或说"与谓语动作同时发生的动作"，相当于一个"进行时态"。这种形式出现得比较少，读者了解即可。
+
+---
+
+== ----------------------------
+
+---
+
+== 3. 完成时(主动) -> to + have done / 完成时(被动) -> to + have been done
+
+不定式的"完成式", 主要用来表达三种含义:
+
+1. 表达一个"发生在谓语动作之前的动作".
+2. 表达"过去虚拟".
+3. 用在某些特定的动词后面，可以表达一个"将来"的动作.
+
+---
+
+== => 3-1. 表达一个"发生在谓语动作之前的动作"
+
+==== 3-11. 谓语(后发生, 一般现在时) + 不定式(先发生, 完成式)
+
+*要判断不定式是用"一般式"还是用"完成式"，只需要将该不定式动作(或状态)发生的时间, 与谓语动作(或状态)发生的时间, 进行比较, 来看看它们谁先发生, 谁后发生?*
+|===
+|句子谓语(妻) |不定式(非谓语)(妾)
+
+|后发生
+|*先发生*  +
+-> 要用不定式的"*完成式*"，即 to have done.
+
+|先发生
+|*后发生*  +
+-> 不定式用"*一般式*".
+|===
+
+- Look, I'm sorry(先发生) *to bother*(后发生) you about this, but that music's really loud. + 嘿，对不起，打扰您一下，您播放的音乐声太大了。 +
+-> 显然, 是先说“抱歉（sorry）”，然后再提“打扰（bother）”, 即, 不定式的一般式动作 to bother, 是发生在谓语sorry的动作之后。
+
+- I'm sorry(后发生) *to have bothered*(先发生) you *with* so many questions on such an occasion. 很抱歉，在这个时候还问了你这么多问题来打扰你。 +
+-> 这里, 时间顺序就是, 你先咨询了很多问题, 然后你再说"不好意思". +
+-> 若是你打算先向对方抱歉, 再来向他咨询问题, 就要说成: I am very sorry(先发生) *to bother*(后发生) you with some questions.
+
+
+换言之,
+|===
+|句子谓语(后发生) |不定式(先发生, 用 to have done)
+
+|往往表示 *"现在"的一般情况*
+|是谈 *"过去"的情况*(先发生). 从这个意义上来讲，不定式的"完成式", 相当于不定式的"一般过去时态"。
+|===
+
+---
+
+==== 3-12. 只有在表达"态度情感、观点、推断"这三类内容的谓语动词后面, 才能接不定式的"完成式"
+
+不是所有的谓语动词后面, 都能接不定式的"完成式"，而是只有特殊的一小类动词, 才可能接 to have done。这类谓语动词主要有三类：态度情感、观点、推断。
+
+
+|===
+|谓语动词(先发生) |不定式(后发生)(用完成式 to have done)
+
+|1. 表"*个人情感态度*" :  +
+I'm sorry， +
+I'm happy,  +
+I'm blessed 等
+
+此时这个谓语通常用"*一般现在时态*", 来表示说话人此刻的心态.
+|
+
+|2. 表"*观点*" +
+say, believe, think 等.
+
+*而且这些谓语常用于"被动结构"*，即 is said, is believed 和 is thought 等. 然后再接"完成不定式"，于是呈现出: +
+ *is said to have done,  +
+ is believed to have done  +
+ is thought to have done* 这样的谓语形式。
+|
+
+|3. 表"*推断*" +
+seem, appear等.
+|
+|===
+
+---
+
+==== --- > (1).谓语是表"*个人情感态度*" :
+
+- I *am sorry*(后发生) `宾` *not to have come*(先发生) on Thursday. +
+= I *am sorry*(后发生) that I *didn't come*(先发生) on Thursday. +
+很抱歉我周四没能来。 +
+-> 这里的"不定式"说的是"过去"发生的动作. *句子的谓语用"现在时态", 表示说话人"现在"的心态*，即抱歉。
+
+-  I'm sorry(句子谓语,表情感态度) *to keep* you waiting. 对不起，请稍等一下。 +
+-> *不定式用"一般式" to keep，表示"马上就要到来的将来"。* 说完这句话，“我”也许就要离开一会。
+- I'm sorry(句子谓语,表情感态度) *to have kept* you waiting so long. 很抱歉让你久等了。 +
+-> *不定式用"完成式" to have kept，表示"动作已经发生了"，是一个"过去"的动作*。
+
+- We are happy(句子谓语,表情感态度) *to visit* so many historic places in Beijing.  +
+将要参观那么多北京的名胜古迹，我们感到很高兴。 +
+-> *不定式用"一般式"to visit 表示"将要发生"的事情*。
+
+- We are happy(句子谓语,表情感态度) *to have visited* so many historic places in Beijing. +
+在北京参观了那么多的名胜古迹，我们感到很高兴。 +
+-> *不定式用"完成式" to have visited，则表明动作发生在谓语"高兴"之前, 即"已经参观完了"*.
+
+- God gave me the best husband ever," she said. "I *am incredibly blessed*(句子谓语,表情感态度) *to have met* him. +
+上帝赐予了我最好的丈夫，能在茫茫人海中遇到他，我真是幸福至极。 +
+-> 句子谓语 am blessed 是"一般现在时态"，表示说话人此刻的心情；而不定式用"完成式" to have met，表示"过去"的动作。
+
+即使不定式不是表示"过去发生"的"*具体动作*"，而是表示一个"发生在过去"的"*状态*"，也要用"完成式"。
+
+- I have to leave now. I'm very happy *to have had* this opportunity to meet you and talk with you. +
+我现在得走了。很高兴能有这样的机会与你见面并交谈. +
+-> 这里的 to have had 表示一个"过去发生"的"状态"。
+
+---
+
+==== --- > (2).谓语是表"观点":
+
+最常见的动词有say, believe 和 think这三个，而且一般都用于"被动语态"，即 is said, is believed 和 is thought，然后再接"完成不定式"，于是呈现出: +
+ *is said to have done,  +
+ is believed to have done  +
+ is thought to have done* 这样的谓语形式。
+
+- ... The marathon *is said + to have come* from this event. +
+据说后来的马拉松比赛就源于这次事件。 +
+-> *这里的is said（现在时态）, 来表示人们"现在"仍然持这个观点；但“来源于此次事件”已成为过去，所以不定式要用"完成式" to have come*，以表示这个动作发生在"过去"。
+
+- Humans *are believed + to have evolved* from the primate species. +
+人们相信，人类是由灵长类动物进化来的。 +
+-> 这里的 are believed 是"现在时态"，表示人们"现在"仍然持这个观点；但“人类进化”已成为"过去"，所以不定式要用"完成式" to have evolved，以表示这是个"过去"的动作。
+
+
+- The Bunsen burner is so named because it *is thought to __* by Robert Bunsen, who was German by birth. +
+本生灯之所以如此命名，是因为据信它是由出生于德国的科学家罗伯特·本生发明的。 +
+A.be invented +
+B.have been invented +
+C.have invented +
+D.invent +
+-> *因为“发明”是一个"过去"的动作，所以不定式要用"完成式"；并且“发明”与句子的主语it 是"被动关系"(是: invent(动) it(宾))，所以要用"完成被动"结构*，因此 B 正确。
+
+
+- Albert Einstein, the great American scientist, *is estimated to have had* the incredible intelligence quotient of 200. +
+据估计，爱因斯坦的智商高达200，这真让人难以置信。 +
+-> 这句话的谓语用 is estimated 表示人们"现在"依然这么认为； +
+但是爱因斯坦已去世，所以他“有”这样的智商已成为"过去"，因此要用"完成式" to have had 来精确地表达这个过去的时间，即不定式的时间, 在谓语动作的时间之前。
+
+- Mr. Zhang(作者本人,张满胜) *is estimated to have had* the incredible intelligence quotient of 200. +
+-> 这句话是什么意思呢？*这里的不定式用了"完成式" to have had, 隐含的意思就是表明张老师"现在"已经没有这样的智商了*，所以除非是两种情况：要不张老师已经死掉了，要不张老师真的现在已经智商下降了，否则这句话是不对的。 +
+*所以你就不能用表示“过去有”的不定式的"完成式" to have had，而只能用"一般式"的 to have*，于是应该译成： +
+Mr. Zhang *is estimated to have* the incredible intelligence quotient of 200.
+
+我们可以把这两个句子分别改写成：
+
+- It *is estimated* {that Einstein *had* an incredible intelligence quotient of 200}.
+- It *is estimated* {that Mr. Zhang *has* an incredible intelligence quotient of 200}.
+
+这两个改写后的句子, 清楚地表明了时间上的不同：爱因斯坦已经故去，所以用"过去时"的had；而笔者还活着，所以用"现在时"的has。它们对应的不定式, 就分别用"完成式"的to have had, 和"一般式"的to have。
+
+---
+
+==== --- > (3).谓语是表"推断" (seem, likely):
+
+这类谓语, 是表示"推断"某种可能的情况。最常用的动词是seem，后面再接一个不定式的"完成式" to have done。
+
+- I *seem(表推断, 后发生) to have lost(先发生)* some weight. Look how baggy my pants are. +
+我好像瘦了些，你看这裤子我穿着都松松垮垮的。 +
+-> 这句相当于说 It *seems now* that I *have lost* some weight. *即“我”“现在看起来”在“过去”减轻了体重，也就是说不定式to have lost 发生在句子谓语的动作之前。*
+
+- The rain *seems(后发生) to have stopped(先发生)*. +
+雨似乎已经停了。 +
+-> 这句话相当于说 The rain *seems [now] + to have stopped* a few minutes ago. 即不定式的动作stop, 发生在谓语的动作seem之前。
+
+请比较：
+
+- It seems(表推断, 后发生) *to have rained*(先发生) last night. 昨晚似乎下雨了。 +
+-> last night 修饰的是不定式，而不是修饰谓语seem，即表明不定式的动作, 发生在谓语的动作之前。
+- It seems(表推断, 先发生) *to rain*(后发生) any time soon. 似乎很快要下雨了。 +
+-> 不定式 to rain 表示一个"将来"的动作，即雨“将要下”。
+
+又例
+
+- The redwood *appears __* some 100 years ago in northern forests around the world. +
+红杉出现于大约100年前，分布在世界各地北方的森林里。 +
+A.having to flourish +
+B.to flourish +
+C.to have flourished +
+D.have flourished +
+-> 句子的谓语appears表示"现在"，而some 100 years ago表示不定式的动作发生在"过去"，所以不定式应该用"完成式"，故选to have flourished正确。
+
+
+另外，*形容词 likely 也是表示"推测"的，因而当likely后面的不定式的动作, 发生在谓语的动作之前时，不定式也要用"完成式"。*
+
+-  These radicals are believed to be the ones *most likely(表推断, 后发生) to have killed*(先发生) her. +
+这些激进分子最可能是刺杀她的凶手。
+
+---
+
+==== 3-13. 谓语(后发生, 过去时) + 不定式(先发生, 完成式)
+
+
+到目前为止，在我们上面所举的例子中，句子的谓语都是"一般现在时态"，而不定式的动作是在"过去"发生的，于是要用"完成式"的to have done，*从这个意义上说, 不定式的"完成式", 相当于不定式的"过去式"。*
+
+但是，*句子的谓语, 也可以用"过去时态"，此时如果不定式仍然用"完成式"的to have done，则依然是表示不定式的动作发生在谓语的动作之前，只不过此时的不定式, 就相当于一个"过去完成时态"。*
+
+
+- Species (at one time *was thought to have become extinct* at the time of the dinosaurs). An Indonesian fisherman has caught a coelacanth, an ancient fish (once thought *to have become extinct* at the time of the dinosaurs), a fishery expert said on Monday. +
+曾经被认为已经在恐龙时代就灭绝了的物种, 现在又被发现了。一位鱼类专家本周一说，一个印尼渔民日前捕捞到一条腔棘鱼，这是一种古老的鱼类，曾经被认为在恐龙时代就已经灭绝。 +
+-> *因为现在有了这条活腔棘鱼为证，所以谓语用"过去时" was thought 来表示“过去”人们认为该鱼类已经灭绝（to have become extinct）。*  +
+*这里的不定式的动作, 又是在was thought之前发生的，所以依然要用"完成式" to have become*，这个不定式的"完成式", 就相当于"过去完成时态" had become。比如原句可以这样改写：It *was thought* that this ancient fish *had become extinct* at the time of the dinosaurs.
+
+*从这个例句, 我们可以得到启示：不定式的"完成式" to have done, 不一定都是表示"过去"时态。事实上，不定式的"完成式", 只是表示"不定式的动作在谓语的动作之前发生"，并不能代表具体的时态。* 至于它具体能相当于什么时间的动作，这与句子的谓语, 以及句子其他方面的信息有关。 *一般来讲，它主要相当于一个"过去时态"，此外还可以是"现在完成时态"或"过去完成时态"。*
+
+- I am sorry *to have kept* you waiting for so long. +
+= I am sorry that I *have kept* you waiting for so long.
+
+- She said she was sorry *to have missed* you. +
+= She said she was sorry that she *had missed* you.
+
+- I am sorry not *to have come* on Thursday. +
+= I am sorry that I *didn't come* on Thursday.
+
+
+从以上改写后的句子, *我们可以清楚地看出，其中的不定式的"完成式", 分别等于不同的时态。* 所以，一般的语法书上把不定式的"完成式"称为“不定式的过去时态”，直接说成是表示过去的动作，这是不十分准确的。对此，读者需要明确。其实，不仅如此，*不定式的"完成式", 还可以表示"过去的虚拟事件"，即表达一个“非真实的”过去。*
+
+---
+
+== => 3-2. 表示“非真实的”过去
+
+在表示"打算、需要或计划"等动词(mean, intend, think, plan, hope, wish, propose 等)的"过去时"后面, 使用不定式的"完成式", 可以表示“*过去本打算做, 但事实上没有实现的(不定式所表达的)动作*”.
+
+另外，*我们还可以用上述动词的"过去完成时态", 来表示"虚拟"，但此时的不定式, 不可用"完成式"的to have done，而要用"一般式"的to do。*
+
+即
+
+|===
+|谓语(表示"打算、需要或计划"等动词) +
+ mean,  +
+intend,  +
+think,  +
+plan,  +
+hope,  +
+wish,  +
+propose 等|不定式 | 含义
+
+|过去时
+|+ to have done (完成式)
+|*表示你本打算作"不定式这个动作", 但没有实现.*
+
+- I *meant(过去时) to have telephoned*(完成式), but I forgot. 我本来打算打电话的，但是我忘记了。
+
+- I *planned(过去时) to have visited*(完成式) you yesterday evening, but I was too busy. 我本来想昨晚去看你，但我太忙了。
+
+|过去完成时
+|+ to do (一般时)
+|表示"虚拟"
+
+- I *had intended(过去完成时) to see you*(一般时), but I was busy. +
+-> 不能说：I *had intended `宾` to have seen you*, but I was busy. ×
+|===
+
+另外, *我们还可用下面这几种结构, 表达同样的意思： +
+-> was/were to have done,  +
+-> would like to have done,  +
+-> should like to have done.*
+
+- I *was to have visited you* yesterday evening.
+- I *was to have telephoned*, but I forgot.
+- Russian President Vladimir Putin *was to have been here* for this meeting, but he canceled his trip, because of the hostage-taking incident last week at a Moscow theater. +
+俄罗斯总统普京原计划要来参加此次会议，但他取消了这次行程，因为上周在莫斯科的一家剧院发生了一起劫持人质的事件。
+
+综上所述，*表示“过去想做, 而实际未做成”的事，有下述三种表达方式*： +
+
+1. *was/were to have done,  +
+would like to have done,  +
+should like to have done*
+2. *intended*(过去时) (meant, designed, hoped, planned, thought, wished, proposed) + *to have done*(完成式)
+3. *had intended*(过去完成式) (meant, designed, hoped, planned, thought, wished, proposed) + *to do*(一般式)
+
+
+---
+
+== => 3-3. 用在某些特定的动词后面，可以表达一个"将来"的动作
+
+*在某些特殊的结构中，不定式的"完成式", 还可以表示一个"将来"的活动，相当于一个"将来完成时态"。*
+
+- She hopes + *to have finished*(完成式) the work [by the time he comes back]. +
+她希望在他回来之前把这些工作都做完。 +
+-> *这句话, 本来是由宾语从句转换而来的，原"宾语从句"的结构是*： +
+She hopes that {she *will have finished*(完成式) the work by the time he comes back}. +
+*由于句中的 by the time对应的主句,一般用"完成时态"，因此改成"不定式"也要用"不定式的完成式"，这时表示的是一个"将来要完成的动作"。*
+
+
+---
+
+== => 3-3. 不定式的完成式, 用在名词后面, 作"定语"
+
+到目前为止，*我们讨论的不定式的完成式, 都是放在谓语后面的，与谓语动词一起构成"复合谓语"*。我们看一个"*用在名词后面,作定语*"的例子：
+
+- Great Wall of China (220 B. C. and 1368-1644 A. D.) It is the largest man-made monument (ever *to have been built*). +
+中国的长城，这是人类迄今为止建造的最宏伟的工程。 +
+-> 该句的不定式的"完成式" to have been built 放在名词monument后面作定语。因为长城是在过去建造的，所以用了"完成被动式"。
+
+这种用法非常少见，所以我们不再详细论述。
+
+
+
+---
+
+== ----------------------------
+
+---
+
+== 4. 完成进行时(主动) -> to + have been doing / 完成进行时(被动) -> 一般不用
+
+*不定式的"完成进行式" to have been doing, 可以表示在谓语动作之前已经开始, 并且一直在持续进行的某一动作，其含义类似于一个"完成进行时态"。*
+
+- They are said *to have been collecting* folk songs in Yunnan. 据说他们一直在云南收集民歌。 +
+= It is said that they *have been collecting* folk songs in Yunnan.
+
+- He seems *to have been sitting there* all day. 他似乎整天都坐在那里。
+
+- I seem *to have been learning English* for over ten years. 我好像已经学了十几年英语了。
+
+- The little girl seems *to have been watching TV* all this evening. 这个小女孩今晚好像一直在看电视。
+
+最后要说明的是，*不定式的"完成进行式", 用得非常少，且没有被动态，只有主动态。* 对此，读者了解一下即可。
+
+---
+
+

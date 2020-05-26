@@ -1,0 +1,262 @@
+
+
+= 分词, 作"定语", "补足语"
+:toc:
+
+---
+
+
+== 分词作"定语"时, 它的位置
+
+分词作"定语", 与名词的位置关系有两种：置于被修饰的名词之前，或置于被修饰的名词之后。 +
+具体来说: +
+-> "单个分词"作定语，一般置于被修饰名词的"前面"； +
+-> "分词短语"作定语，只能置于被修饰名词的"后面"。
+
+此外，前文说过:  +
+-> *"现在分词"作定语，表示与所修饰的名词, 有"主谓关系"或者说"主动关系"， +
+-> 而"过去分词"作定语，表示与所修饰的名词, 有"动宾关系"或者说"被动关系"。*
+
+---
+
+==== 单个分词作定语, 要前置
+
+- *Scorched* US suffers(v.) worst drought since Great Depression. 炙热的美国正在遭受自“大萧条”以来最为严重的干旱。 +
+-> *这里的since, 不是修饰句子的谓语suffer（否则就该用现在完成时态has suffered），而是修饰worst drought，作后置定语。*
+
+- Please enclose a *stamped addressed* envelope. 请附上一个贴有邮票并写好回信地址的信封。 +
+-> 这个句子有两个"过去分词"stamped 和 addressed, 来修饰名词envelope。显然, 既然是"过去分词", 就表明分词与它所修饰的名词之间, 有"被动关系"存在. 很明显, 是"信封"被"贴好邮票".
+
+
+---
+
+==== 分词短语作定语, 要后置
+
+- Police *hunting* the killer of a part-time police officer *stabbed* outside her home in northwest London are seeking a man *wearing* a hooded top *seen running* away from the scene. +
+伦敦一名兼职警官在其位于伦敦西北的家附近被一名男子刺死，警方目前正在搜捕这名男子。据称，该名男子作案时穿着带有兜帽的上衣，作案后有人看见他逃离了现场。 +
+-> *这里作"定语"的四个"分词短语", 因为是短语作定语，所以都采用了后置结构。* 具体分析如下： +
+* Police (*hunting* the killer of a part-time police officer) <- 分词hunting接宾语, 构成分词短语 +
+* police officer (*stabbed* outside her home in northwest London)  <- 分词stabbed接地点状语, 构成分词短语 +
+* man (*wearing* a hooded top) (*seen* running away from the scene). <- 分词wearing接宾语, 构成分词短语; 分词seen接补足语, 构成分词短语
+
+又例
+
+- There was a very interesting remark in a book by an Englishman that I read recently __what he thought was a reason for this American characteristic. +
+我最近看过一本书，它是由一个英国人写的，我还记得书里有一句十分有趣的话，作者认为这句话说明了美国人为什么是这种性格。 +
+A.giving <- 正确答案 +
+B.gave +
+C.to give +
+D.given
+
+-> 根据上下文的逻辑语义，我们看出, 这里的填空处的内容, 其实是作为 remark 的后置定语. *这里的问题是我们该用"现在分词"还是"过去分词"，这个问题就要看remark和分词之间的关系，显然二者是"主动关系"，故要用"现在分词"* giving，即a remark...giving...表示“这句话给出”，所以正确答案为A。 +
+*这里关键是要看到giving 的逻辑主语是remark*，换句话说，分词短语 giving what he thought was a reason for this American characteristic 是修饰 remark的，但它被remark的第一个定语 in a book by an Englishman that I read recently 隔开。
+
+又例
+
+- Additional social stresses may also occur because of the population explosion or problems *arising from* mass migration movements -- themselves *made* relatively easy nowadays by modern means of transport. +
+由于人口的猛增或大量流动（现代的交通工具使这种流动变得相对容易）造成的种种问题也会对社会造成新的压力。 +
+-> 这里的现在分词arising修饰problems，作后置定语，与problems构成"主动关系"。 +
+problems arising from mass migration movements表示“大量人口流动造成的问题”。 +
+过去分词made修饰themselves，作后置定语，与themselves *构成"被动关系"(即, 不是 (主)themselves (谓)make, 而是 (谓)make (宾)themselves)*。这里的themselves指代mass migration movements。
+
+又例
+
+- How many of us __, say, a meeting that is irrelevant to us would be interested in the discussion? +
+如果让我们参加一个，比如说，与我们毫不相干的会议，那么我们当中有多少人会对会议上的讨论感兴趣呢？ +
+A.attended +
+B.attending <- 正确答案 +
+C.to attend +
+D.have attended
+
+-> 这个句子的主句的谓语是 would be，所以 have attended 这个完整的谓语动词不正确。这里显然要填分词作定语，修饰how many of us， +
+再者how many of us 与动词 attend 是"主谓关系"，所以要用"现在分词" attending，故B正确。 +
+完整的本句是 : How many of us (*attending*, say, a meeting that is irrelevant to us) *would be interested in* the discussion?
+
+又例
+
+- It's easy *to blame* the decline of conversation *on* the pace of modern life *and on* the vague changes (__ place in our ever-changing world). +
+我们很容易把人们之间交流的减少, 归咎于快节奏的现代生活, 和快速变化的外部世界。 +
+A.taking <- 正确答案 +
+B.to take +
+C.take +
+D.taken
+
+-> 我们知道这里的分词, 要作定语修饰名词changes，而changes与动词短语take place构成"主动关系"，所以用现在分词taking，故A正确。
+
+又例
+
+- After all, what is the one modern form of expression (almost completely *dedicated to* depicting happiness)? +
+几乎完全致力于描述快乐的当代表现形式, 究竟是什么？ +
+-> 这里的过去分词dedicated作定语，修饰名词expression，二者构成"被动关系"。
+
+又例
+
+- `主` The emphasis on data (*gathered* first-hand), *combined with* a cross-cultural perspective (*brought to* the analysis of cultures past and present), `谓` makes this study a unique and distinctly important social science. +
+强调收集第一手资料，加上在分析过去和现在文化形态时采用跨文化视角，使得这一研究, 成为一门独特并且非常重要的社会科学。
+
+-> 这里有三个过去分词：gathered, combined 和 brought，它们的修饰关系是： +
+1. 首先，gathered 修饰 data，作定语，译成 “收集第一手资料”。 +
+2. 其次，combined with 是将 emphasis 和 perspective 这两个关键词联系起来，构成一个并列关系，相当于说 *A, combined with B*，其他类似的结构还有 *A, together with B* 或 *A, coupled with B*，意思是 *将 A 与 B 结合起来*，即 “强调第一手资料，然后加上跨文化视角”。 +
+3. 再次，brought 修饰 perspective，作定语，相当于主动语态的 bring a cross-cultural perspective to the analysis of cultures past and present. 这里的 past and present 是作后置定语修饰 cultures。
+
+综上分析，这个句子的核心结构是： +
+The emphasis, combined with a perspective, makes this study a social science.
+
+值得注意的是，*虽然这里的 combined with 连接两个并列成分 emphasis 和 perspective，但谓语动词的单复数变化要依据前一个名词即 emphasis。这里的 emphasis 是单数，所以后面的谓语用了单数的 makes，而不是 make。*
+
+
+---
+
+== 后置定语的三种"被动结构"
+
+在英语中，作后置定语的三种被动结构。具体如下： +
+
+1. to be done：表示"将来"的动作，这里是用"不定式"的"被动态"。
+2. being done：表示"进行"的动作。
+3. done：表示"一般过去"或"完成"的动作。
+
+
+==== 1. 表示"将来"动作 <- 用to be done作定语
+
+- For any adhesive to make a really strong bond, the surfaces *to be glued* must be absolutely clean and free from moisture or grease. +
+对于任何黏合剂，要想粘得牢固的话，则被粘的表面必须绝对清洁且不能潮湿和有油渍。
+
+- Are you going to attend the meeting *to be held next month*?  +
+你会参加将于下个月召开的会议吗？
+
+---
+
+==== 2. 表示"进行"动作 <- 用being done作定语
+
+- The question *being discussed* is very important.  +
+正在讨论的那个问题十分重要。
+
+- In other words, any whale *being killed* in the open ocean today is being killed for absolutely no good reason at all. +
+换句话说，今天在外海捕杀的鲸都是在根本没有过硬理由的情况下被捕杀的。
+
+-  there is also dissention about the evidence *being presented* to support the argument. +
+人们对于有关全球变暖的各项证据还有争议。
+
+- the past has never produced an age of so much industrialization causing the pollution (currently *being experienced*). +
+在以前的周期变化中，地球上还从未经历过现如今这样的时代，即高度发达的工业化造成了人们目前正在遭受的空气污染。 +
+
+
+---
+
+== 分词done做定语时, 当它是单独存在时, 要作"前置"定语; 否则, 就要作"后置"定语.
+
+需要注意的是，我们上面提到 *done作后置定语，此时的done往往与它后面的成分构成一个短语，所以要后置。* 比如：
+
+- Did you attend the meeting *held last month* in Shanghai? +
+你参加了上个月在上海举行的会议吗？ +
+-> 这里的held与其后的时间状语last month合在一起, 构成分词短语held last month，来共同修饰名词meeting，故要后置。
+
+*如果done是单独存在的，它后面没有其他成分来构成短语，则通常要"前置"作定语，即放在被修饰名词的前面。* 如:
+
+- "Reports that say something hasn't happened are always interesting to me, because as we know, there are *known* knowns; there are things we know we know. We also know there are *known* unknowns; that is to say we know there are some things we do not know. But there are also *unknown* unknowns -- the ones we don't know we don't know." +
+“有报道说什么情况都不会发生——我对这样的报道很感兴趣。因为我们都知道，有一些事情是‘知已知’，即我们知道自己知道；我们还知道，有些事情则是‘知未知’，即我们知道自己不知道；还有一些事情是‘未知未知’，即我们还不知道自己不知道。” +
+
+-> 上面这句里的known和unknown都是分词作定语。*因为是"单个的分词"，所以都直接置于被修饰词的"前面"。*
+
+这个例句, 其实它在2003年被英国“简明英语运动（The Plain English Campaign）”评为, “2003年度最令人摸不着头脑的话语（the most baffling statement）”。该委员会于1979年成立，每年都组织“语无伦次奖（"Foot in Mouth award"）”的评选活动，挑出那些讲话含糊或使用复杂用语的人，并鼓励人们使用简明易懂的英语。
+
+---
+
+== ---------- ----------
+
+---
+
+== 分词作"补足语"
+
+
+
+==== 1. 谓(感觉动词) + sth.(宾) + 分词(宾补) <- 则该分词的作用, 就是充当"宾语补足语"
+
+*"分词"充当句子的"补足语", 一般仅限于用在"感觉动词"后。* 这样的感觉动词包括：find, hear, smell, observe, watch 和 notice等等。
+
+- Do you *hear* all those different birds *singing* in the park? +
+公园里有各种鸟儿在歌唱，你听到了吗？ +
+-> 该句中把分词singing 放在动词hear后面, 作"宾语补足语"。
+
+-  I *hear* the sound of flowers *blooming* and the heart-beat leaves *growing*. +
+我听见了花开的声音，还有树叶的生长，生机勃发。 +
+-> 该句中把分词growing放在动词hear后面作"宾语补足语"。*但blooming不是宾语补足语，而是构成"动名词的复合结构" flowers blooming（花开）*，然后作of的宾语，the sound of flowers blooming 表示“花开的声音”。
+
+- I *heard* him *criticized* many times. 我听见他多次受到批评。
+- We *saw* the sun *rising* from behind the trees. 我们看见太阳从树木后面慢慢升起。
+- Your dog seems very fond of *watching* you *cutting hair*. 你的狗似乎很喜欢看你给别人理发嘛。
+
+- A teacher entered the classroom and *noticed* a girl student *sitting* near the door with her feet in the aisle and *chewing* gum.  +
+一位老师走进教室，发现有个女生坐在门边，脚伸到过道里，嘴里还嚼着口香糖。
+
+上面的例句都是"现在分词 -doing" 用在"感觉动词"后面, 充当"宾语补足语"。我们再来看一个含有"过去分词 -ed"的例句：
+
+- I *saw* passengers *engulfed* in fire. 我看到乘客被大火吞没。 +
+-> 该句中的"过去分词"engulfed 用在saw后面, 作"宾语补足语"。
+
+---
+
+==== 2. 主 + 谓(感觉动词, 被动态) + 分词(主补) <- 句子的"谓语"使用了"被动语态"，则分词就是作为"主语补足语"
+
+*如果句子的谓语使用了"被动语态"，则此时的分词,是补充说明主语的，因此被称为"主语补足语"*，比如：
+
+- On many public occasions, he *has been seen making* tie-free appearances. 在很多公开场合，人们看到他不打领带。 +
+-> 这里的分词短语 making tie-free appearances 是用在"被动态的谓语" has been seen后面，补充说明主语he，因此被称为"主语补足语"。
+
+---
+
+==== 3. 谓(感觉动词) + sth.(宾) + 被动进行态的分词being done(宾补) <- 则该分词 being done (被动进行), 就是作"宾语补足语". 既有"进行"意味, 又有"被动"意味
+
+*我们还可以用"被动进行"的分词being done 的形式, 来作"宾语补足语"，相当于"现在分词"与"过去分词"的结合体，既有"进行"意味又有"被动"意味。* 比如：
+
+- In recent years we *have seen* cases of traditional Chinese brands *being pirated* or *patented* overseas. +
+近些年来，我们常常看到中国的传统品牌, *正在* 海外 *被* 盗版或被申请专利这样的事件发生. +
+-> 该句作"宾语补足语"的是 being pirated or patented 这样的"被动进行"的分词形式，用在动词have seen后面。
+
+---
+
+==== "分词"与"不定式", 都能作"补足语", 它们的区别是什么?
+
+*在"感觉动词"后, 我们也可以用"不带to的不定式"作"补足语"。* 两者的区别是什么呢?  +
+-> *用"现在分词"，强调动作"正在进行".*
+-> *用"不定式", 则表示"一般的"动作, 或一个动作"自始至终的全过程"。*
+
+- I *watched* them *climb* the tower. 我观看他们 *一直* 爬到塔顶。 +
+-> 不带to的不定式climb, 表示他们已经到达了塔顶，*“我”在观看他们爬上塔顶的全过程。*
+
+- I *watched* them *climbing* the tower.  我看见他们 *正在* 往塔顶爬。 +
+-> *分词climbing 意味着"进行体"所表示的"潜在未完成性"，即他们现在没有到达塔顶，而是正在往上爬的过程中。*
+
+又例
+
+- When I glanced out of the window I *saw* Mary *crossing* the road. 我往窗外一瞥，正好看见玛丽在过马路。 +
+-> 这里的 *分词crossing 表示动作"正在进行"，比如玛丽正在马路中间，*而不是表示她过马路的全过程。*
+
+- I *watched* him *step off* the pavement, *cross* the road, and *disappear into* the post office. 我看见他走下人行道，穿过马路，进了邮局，然后就不见了。 +
+-> 这里有三个动作是并列的：step，cross和disappear，所以必然都是 *全过程*，因此该句的cross不能用分词crossing。
+
+- In the park you often *see* people *do shadowboxing*. 在公园，你经常能见到人们在打太极拳(*全过程*)。
+- I *saw* him *doing shadowboxing* when I came in. 我进来时，看见他正在打太极拳。(*一个时间点的切片*)
+
+---
+
+==== 4. 分词也可以在get 和 have后面, 作"宾语补足语", 如: have sth. done
+
+除了上述的"感觉动词"，*分词也可以在get和have后面, 作"宾语补足语"，比如读者熟悉的 have sth. done 的句型就是典型的例子。*
+
+- When you are preparing for your college adventures abroad, it's easy enough to make sure you *get* all the right forms *filled out*, *have* your passport ready, your bags *packed*, and your textbooks *waiting* for you at the other end, but how do you prepare for the adjustment to a new place? Especially, how to survive culture shock? +
+当你准备踏上国外求学的冒险之旅时，填写各种表格、准备护照、打点行李，以及让学校那边为你准备好课本等等都相当容易，但是你如何准备去适应一个新的环境，特别是如何克服文化冲突呢？ +
+
+-> 该句中有三个分词filled out, packed 和 waiting, 来作相应宾语的补足语。
+
+总结:
+
+本节内容比较简单，*读者只需要记住在哪些动词后边常常会接"分词"作"宾语补足语"即可。* 此外，了解分词与不定式作宾语补足语时的语义差别。
+
+
+---
+
+
+
+
+

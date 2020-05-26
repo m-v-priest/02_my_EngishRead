@@ -1,0 +1,376 @@
+
+= 使用分词时, 要注意的问题; 分词的完成式
+:toc:
+
+---
+
+
+== 分词作各种成分时, 要注意的问题
+
+==== 1. 分词不能作"目的状语"! 因为"目的状语"是不定式to do的“专属职责”.
+
+分词作"状语"和"定语", 最为常用。但如果你将两者混淆，就会造成句子的误解。
+
+- The government is to ban payments to witnesses by newspapers *seeking* to buy up people *involved* in prominent cases such as the trial of Rosemary West. +
+译文1：政府禁止报界向重大案件（如对罗斯玛丽·维斯特的审判）的目击者付钱以收买他们。 +
+译文2：报纸媒介为了笼络重大案件（如罗斯玛丽·维斯特一案）的目击证人而向他们付钱，对此行为政府将予以禁止。
+
+-> 分词短语 seeking to buy up people 后置修饰 newspapers，表示“报纸媒体笼络这些人”； +
+-> 分词短语 involved in prominent cases such as the trial of Rosemary West 后置修饰 people，表示“参与重大案件审判的人，如审判罗斯玛丽·维斯特一案”。
+
+-> 对于这句话，笔者看到有很多考研参考书上是这么翻译的： +
+政府为了笼络在诸如与罗斯玛丽·维斯特的审判这样的大案中的有关人士，将禁止报刊媒介向证人付费。 <- (其实这样翻译已经逻辑不通了)
+
+这里显然是误解了分词短语seeking to buy up people的修饰关系，误认为该短语是作"目的状语"，修饰谓语is to ban，进而与government有了语义关系，于是便有了“政府为了笼络……有关人士”。 +
+其实，这里的分词短语seeking to buy up people是作"定语"，修饰newspapers，表示“报纸媒体为了笼络有关人士”。这里就是因为混淆了分词短语seeking to buy up people的句法功能, 而导致误解句义。 +
+而事实上，*分词短语是不能用作"目的状语"的，因为"目的状语"是不定式to do的“专属职责”。*
+
+
+- The maid told him that {she had burnt everything 原因状 *thinking it was of no use*}. Abansit 人名 伴随状 *controlling himself* said in despair, "It was the result of my hard work of twenty years". +
+女仆告诉他说，她认为那些东西都没有用，所以把它们全部烧掉了。阿班斯特努力控制着自己的情绪，绝望地说道：“那是我20年的努力成果啊！" +
+
+-> 有人误译成“女仆告诉他说，她烧掉了那些自认为没有用的东西”，这样一来就是将分词短语thinking it was of no use误译成everything的定语。这样的翻译，尽管在中文里讲得通，但不符合英文的句法结构关系。 +
+*这里的分词短语 thinking it was of no use 是用作"状语"，表示"原因"*，用来解释为什么 she had burnt everything。thinking 的逻辑主语即是句子的主语the maid。 +
+我们可以把这个句子改写成一个"原因状语从句"，就是The maid told him that she had burnt everything [*as* she thought it was of no use].
+
+另外, 从语义角度来看，上面错误的译文, 与英语的句义也是有很大出入的。英语的原义是她烧掉了“一切（everything）”，因为她认为这一切都没有用。而译文是说她烧掉了“自认为没有用的”那部分，也就是说只烧掉了部分而不是全部。
+
+另外，*分词短语controlling himself也是作状语，修饰谓语said，表示在“说”的同时，“他在努力控制自己的情绪”，属于"伴随状语"。*
+
+总之，对于分词作"状语", 和分词作"定语"的情况, 不要混淆。分词作"定语", 是分词修饰句中的某个名词; 而分词作"状语", 则是修饰句子谓语或句中的其他动词，比如表示动作的原因或方式等。所以，*在翻译时，要仔细揣摩，不要误解。*
+
+
+---
+
+==== 2. 分词的"完成式" having done 或 having been done, 不能做"定语", 只能做"状语".
+
+在英文中，大多数分词结构都可以作定语，但要特别注意两类分词结构：
+
+一是，*分词的"完成式" having done 或 having been done 一般"不能"用在名词后面作"后置定语"（因为是短语，当然就更无法作前置定语），而只作"状语"。*
+
+- The Chinese children (*having been raised* in the US) can speak fluent English. × 这些在美国长大的中国孩子能说很流利的英语。 +
+-> 分词的"完成被动式" having been raised用来作后置定语，这违反了分词的使用规则，本句不正确。这句话可以改写成 The Chinese children (*who have been raised* in the US) can speak fluent English.
+
+
+- The Chinese children *having been raised* in the US, we find they have a totally different value from that of those raised in China. √ +
+由于这些孩子在美国长大，我们发现他们的价值观和中国孩子的完全不同。 +
+-> 分词的完成被动式 having been raised 与其逻辑主语the Chinese children一起构成“名词+分词”的独立分词结构，用来作状语.
+
+---
+
+==== 3. vi.的"过去分词"(如grown), 不能做"后置定语", 只能做"前置定语".
+
+二是，*不及物动词（如grow）的"过去分词"（如grown）, 只能作"前置定语"，不能作后置定语。*
+
+- The Chinese children (*grown* in the US) can speak fluent English. × +
+-> 这里的grow作“成长”讲，是vi.，不能用作后置定语。这个句子可以改写成定语从句作后置定语的句子，如The Chinese children *who have grown* in the US can speak fluent English.
+
+又例
+
+- `主` All the flowers grown here `谓` have developed from those __in the forest. +
+种植在这里的花，是利用森林中自然野生的花培养而来的。 +
+
+|===
+|选项 |说明
+
+|A. that once raised
+|*raise只能作vt.，显然它与flower是"被动关系"，因此选项A用主动语态不对.* +
+
+|B. that once grew
+|正确选项
+
+|C. once raising
+|*raise只能作vt.，显然它与flower是"被动关系"，因此一定要用"过去分词"或"被动语态"，所以选项C用"现在分词"不对.*
+
+|D. once grown
+|如果是用grow，此处作“生长”讲，是vi。而vi.的过去分词只能作"前置定语"，不能作后置定语. 所以选项D的 once grown 做后置定语, 是错误的.
+|===
+
+-> 初学者会疑惑, 不是说"不及物动词（如grow）的过去分词（如grown）只能作"前置定语"，不能作后置定语"吗? 为什么这里的 all the flowers grown here 中的grown 能作后置定语来修饰flowers？ +
+其实, grow 的意思有两种, 一种是 vt.“种植，栽培”,  一种是vi.“生长，成长；增加”.  +
+而 all the flowers grown here 中的grown, 是vt.“种植”的意思. 此时的vt.分词grown自然可以充当各种句子成分，用作后置定语当然可行了。这个短语的意思是“种植在这里的花”。
+
+从对上面例句的分析我们看到，正如本章一开头就提出的，若要正确地使用分词，不仅要掌握分词的意义和句法作用，还要熟练掌握动词的意义和用法。比如这里的grow出现在同一个句子里，但由于意义不同，从而导致用法不同: +
+-> 作vt.的grow, 意思是“种植”，其分词grown可以作后置定语，如all the flowers grown here； +
+-> 而作vi.的grow, 意思是“生长”，其分词grown不能作后置定语，所以这里只能采用定语从句that once grew, 作后置定语。
+
+这种分词用法上的细微差别，如果没有很深入地理解，就会难以正确使用。
+
+---
+
+==== 4. vi.的"过去分词"(如grown), 不能作"状语"，但其"完成式"（having grown）却可以作状语.
+
+*在英文中，大多数分词结构都可以用作状语，但有一个例外，即vi.（如grow）的"过去分词"（如grown）不能作"状语"，但它的"完成式"（having grown）可以作状语。*
+
+- *Grown* in a small village, I developed a great interest in... ×  +
+-> 这就是一个表达错误的句子，因为不及物动词grown是不能作状语的。但我们可以把grown改写成分词的"完成式"，说成：*Having grown* in a small village, I developed a great interest in... √
+
+- *Having grown up* in the United States, I had never seen a university surrounded by high, cement walls. +
+在我成长的过程中，我从来没有看到过哪所大学是被高高的水泥墙围起来的。 +
+-> 我们看到，这里用了"完成式" having grown up作状语。不能直接用grown up作状语。
+
+
+又例
+
+- Though __in San Francisco, Dave had always preferred to record the plain facts of small-town life. +
+尽管戴夫是在旧金山这样的大城市中长大，但他总是喜欢记录小城镇生活中的点点滴滴。 +
+A.raised  <- *是vt.，单个分词raised就可以作状语*。所以A选项正确. +
+B.grown <- grown 在这里表示“成长”，是vi.，*vi.单纯的"过去分词"形式不能用作状语*，所以B选项不正确。+
+C.developed +
+D.cultivated
+
+-> 上面这个例句可以用grow的分词完成式having grown改写成： +
+*Having grown* in San Francisco, Dave had always preferred to record the plain facts of small-town life. √
+
+或者用raise的分词完成被动式having been raised改写成： +
+*Having been raised* in San Francisco, Dave had always preferred to record the plain facts of small-town life. √
+
+综合6.5.2小节和6.5.3小节的内容，我们可以得出这样的结论：vi.（如grow） :  +
+-> vi. 的"过去分词" （如grown）: 作"前置定语"（如 *grown* children） √ +
+-> vi. 的"过去分词" （如grown）: 作"后置定语"（如 children grown in China）×  +
+-> vi. 的"过去分词" （如grown）: 作"状语"（如 Grown in China, children...）×  +
+-> vi. 的"完成式"（如having grown）: 作"状语"（如 *having grown* in China, children...） √  +
+
+
+---
+
+== 分词的完成式
+
+分词的"完成式", 分为"主动完成式"（having done）和"被动完成式"（having been done）。
+
+我们在6.5.2小节强调过，*分词的完成式 having done或having been done*, 一般"不能"用在名词后面作后置定语（因为是短语，当然就更无法作前置定语）而 *只能作状语*。因此在接下来的讨论中，我们只是考虑何时该用"完成式"作状语，何时该用"一般式"作状语，而不涉及分词作定语的情况。
+
+==== 1. 分词, 用"一般式"还是"完成式"？ -> 两个动作(主句谓语, 和分词动作), 1.分词先发生的, 用"完成式", 2.分词后发生的, 用"一般式". 3.同时发生, 则分词用"一般式"
+
+分词采用一般式还是完成式，*这主要取决于"分词"所表示的动作或状态（the action or state named by the participle）与句子的"谓语动词"（main verb）之间的关系。* 具体来说，规则如下：
+
+- 分词动作(*先发生, 就用"完成式"*) -- 谓语动作(后发生)
+- 分词动作(*同时发生, 就用"一般式"*) -- 谓语动作(同时发生)
+- 谓语动作(先发生) -- 分词动作(*后发生, 就用"一般式"*)
+
+举例
+
+- *Having sung* a song, he sat down. 他唱完一支歌后，就坐了下来。 +
+-> 分词动作"先发生", 句子谓语动作"后发生"
+
+- *Singing* a song, he sat down. 唱着歌的同时，他就坐了下来。 +
+-> 分词动作, 和句子谓语动作, 没有先后之分，给人的感觉是“他坐着唱歌”。若此时也要表示两个动作先后发生，则要加时间连词来明示，比如说 *After singing* a song, he sat down.
+
+又例
+
+- *Having eaten* his supper, he went out. 吃完晚饭后，他出门了。
+- *Eating* his supper, he went out. 边吃着晚饭，他边走了出去。 <- 给人的感觉是“他端着饭碗出门”。
+
+
+==== 2. 何时该用分词的"完成式"？ 分词动作先发生, 并且 1.分词动作多次重复发生. 2.分词动作持续了一段时间.
+
+以上讲的是分词动作先于（before）谓语动作时，分词要用完成式。但这种表述还是比较笼统。接下来，我们将详细分析分词动作先于谓语动作的具体表现形式.
+
+"分词动作"先于"谓语动作", 具体有两种表现：
+
+
+|===
+|分词动作(完成时)(先发生) |谓语动作(后发生)
+
+|若分词是"*短暂动词*"，则分词的"完成式", 表示分词动作在谓语动作之前 *"多次发生过"，即表现为"重复性"（repetition）的特点。*
+|后发生
+
+|若分词是"*延续动词*"，则分词的完成式, 表示分词动作在谓语动作之前发生, 并且 *"持续了一段时间"，即表现为"持续性"（continuation）的特点。*
+|后发生
+|===
+
+- *Having been* an English teacher for more than ten years, and *having been constantly exposed to* American culture through American friends and the American mass media, I *did not experience* the so-called "culture shock" when I came to Harvard University.  +
+因为我以前做过十多年的英语老师，并且一直通过美国朋友和美国媒体接触美国文化，所以在来到哈佛大学时，所以在来到哈佛大学时，我并没有经历过所谓的“文化震撼”现象。 +
+-> *这里的两个分词动作 be 和 expose 是"延续动词", 其"完成式"* having been 和 having been exposed *均是表示"分词动作"在"句子谓语动作"experience之前发生, 并且持续了一段时间，* 分别表示“当了十多年的英语老师” 和 “一直接触美国文化”。
+
+
+- The Chinese still use the system today, *having developed* it to the point of producing some forty thousand combined characters out of a few hundred original pictures of concrete objects. +
+自从开创了这种组合造字法后，中国人就一直延用至今，现在他们用几百个象形文字，已创造出多达四万个组合汉字。 +
+-> *这里的分词 develop 是"延续动词"*, 其"完成式" having developed 显然是在谓语动作use之前发生, 并持续的动作，事实上having developed已经持续了几千年了。
+
+- *Having failed* three times, he didn't want to try again. +
+已经失败了三次，他不想再试了。 +
+-> *分词 fail 是"短暂动词"*, 其完成式having failed 表示在谓语动作want之前, 已经重复过多次，*即表示短暂动作的分词, 其"完成式"往往会体现出"重复性"的特点。*
+
+上面分词的动作都是多次重复发生，所以，此时分词都要用完成式。看到这里，有读者也许会问，*如果分词的动作既不表示"延续"，也不是"重复发生"，就不能用完成式了吗？其实不然。即使分词的动作不是重复发生，但如果分词的动作与谓语动作之间有一段时间间隔（a long interval），此时分词最好还是用"完成式"。* 即 :
+
+*分词动作(先发生, 一次性的动作. 依然用"完成时") -- 有一段较长的时间间隔 -- 谓语动词(后发生)*
+
+- *Having failed* to qualify as a doctor, I took up teaching. 当初没有当成医生，后来我改当老师了。 +
+-> *这里的failed是一次性动作，不是重复发生的。但完成式 having failed 就表示了分词的动作（fail）, 和谓语动作（take）之间的时间间隔较长*，而不是在分词的动作结束后谓语动作紧接着发生的。
+
+- *Having lost* his cargo during the hurricane, the captain faced bankruptcy when his vessel finally reached port. +
+-> 因为一场飓风使他丢失了所有的货物，所以当轮船到达港口时，他就面临破产了。 +
+-> 这里的lost是一次性动作，不是重复发生的。但完成式having lost 就表示了分词的动作（lose）和谓语动作（face）之间的时间间隔较长，而不是谓语动作紧接着分词的动作发生。
+
+*但如果分词的动作, 与谓语动作, 之间的时间间隔很短，这时即使分词的动作先发生，我们也最好用分词的"一般式"，以强调两个动作的衔接。*
+
+*分词动作(先发生, 一次性的动作. 用"一般时") -- 有很短的时间间隔 -- 谓语动词(后发生)*
+
+- *Hearing* the joke, we burst out laughing. 一听完这个笑话，我们禁不住大笑起来。 +
+-> 因为在正常情况下，“听笑话 hear”和“发笑 burst”两者之间的时间间隔不会很长，所以这里宜用分词的一般式即hearing，而不是分词的完成式having heard。
+
+比较
+
+- *Locking* the door, he went home. 锁完门他就回家了。 +
+-> 因为在正常情况下，“锁门”的动作不会持续很长时间，而且 *“锁门”和“回家”两个动作也是前后紧接着发生的，因此这里用了一般式locking，表示“门锁上之后，他马上就回家了”。 +
+如果用完成式having locked，给人的感觉就是这个门很难锁上，因此锁门花费了他很长的时间，或者就是他锁完门之后没有立即回家。* 但如果是这样，那么这两个动作就不可能放在一起来造句了。
+
+- *Having locked* all the doors in the shop, he went home. 把商店里所有的门都锁好后，他才回家。 +
+-> *完成式having locked则强调“锁门”的动作持续了很长时间。尤其是这里的宾语是复数all the doors，言外之意就是锁了很多的门，所以locked的动作必然是重复发生的, 或者说locked的动作本身持续了相当长的一段时间，因此用"完成式" having locked比较妥当。*
+
+
+我们现在把分词的"延续动作"和"短暂动作"，以及分词的"一般式"和"完成式"综合起来比较一下。
+
+-  *Having read* the newspaper, I walked over to the windows and saw it's raining outside. +
+看完报纸，我走到窗前，看见外面正在下雨。 +
+-> *read是"延续动词"，用"完成式" having read 表示“看报”这个动作本身持续了一段时间，结束后，谓语动作walk才发生，* 所以整个句子表示“看完报纸然后走到窗前”。
+
+- *Reading* the newspaper, I walked over to the windows and saw it's raining outside. +
+看着报纸，我走到窗前，看见外面正在下雨。 +
+-> *延续动词read用了"一般式"，往往表示是与谓语动作walk" 同时发生"的，所以整个句子表示“他一边看着报纸，一边走到窗前”。* +
+若此时也要表示两个动作"先后发生"，则要加"时间连词"来明示，比如说 *After reading* the newspaper, ...。
+
+- *Putting down* the newspaper, I walked over to the windows and saw it's raining outside. +
+放下报纸，我走到窗前，看见外面正在下雨。 +
+-> *put down是"短暂动词"，这里的两动作put和walk的间隔时间很短，“我”是一放下报纸，就紧接着走到窗前，所以宜用"一般式"putting。* +
+*如果用"完成式" having put down，则给人的感觉是“放报纸”的动作本身持续了很长时间，好像是在“慢镜头”似地放报纸。* +
+*再者，put和walk两个动作不可能同时发生，必然是一先一后的，因此不会造成句子的歧义。所以，我们不必说Having put down...。* 这点不同于"延续动词"read, read和walk两者可以同时发生，因为可以边走边看报，这就是为什么在例句1）中非得用完成式having read才能表示read和walk两个动作是独立完成的。
+
+
+- *Having spent* some two and a half years in China over several visits, I don't remember ever going through a phase we in the United States refer to as "culture shock". +
+我去过中国多次，前后共在中国生活了约两年半，当时我并没有经历过美国人所说的“文化震撼”。 +
+-> 动作spend是一个"延续动词"，显然它是一个发生于谓语动作remember之前的"延续性动作"，所以必须用分词的"完成式" having spent。
+
+- *Having grown up* in the United States, I had never seen a university surrounded by high, cement walls. +
+我是在美国长大的，在我成长的过程中，我从来没有看到过哪所大学是被高高的水泥墙围起来的。
+-> grow up也是一个"延续动词"，而且也是表示在谓语动作之前发生的活动，所以自然也要用"完成式"。
+
+- My idea of a university, based on *having seen* scores of them in different states of the U. S., was that it was a place of life and learning, an integral part of the community in which it was located, open not only to the students of the school itself, but fully accessible also to students from other schools and to the broader public. +
+基于我所见到的美国各州的几十所大学，我对大学的概念是，它应该是学生学习和生活的地方，是其所在社区不可或缺的一部分，它不仅对本校学生开放，而且还应该对其他学校学生或更多的公众开放。 +
+-> *see虽然不是分词而是动名词，但它在这里是表示一个"重复的"动作，所以用"完成式" having seen。*
+
+又例
+
+- __the earth to be flat, many feared that Columbus would fall off the edge of the earth  +
+A.Having believed +
+B.Believing <- 正确选项. 因为 分词动作believe 和句子谓语 fear动作, 是"同时发生"的. 并不是说在 fear时, 就不believe了! +
+C.Believed +
+D.Being believed
+
+这个问题显然就是关于分词的用法问题，具体来说, 是关于分词的"一般式doing" 和 "完成式having done" 之间在意义上的差别。 +
+简言之，*分词的一般式doing, 表示的是分词的动作（如believing）和句子的谓语动作（如feared）是同时存在的，并没有先后之分。* 这正是上题中的分词所要表达的含义——“因为当时人们都普遍相信地球是平坦的，所以他们担心哥伦布会从地球的边缘掉下去”。*这里的“相信（believing）”和“担心（feared）”一定是同时存在的，* 否则就不存在上述的因果关系。 +
+这位读者误解的关键原因就是他的“立场不对”。他说“的确是那时候的人相信地球是方的，现在的人已经不信了啊！”这样理解是不对的，他这样理解是站在“现在”的角度来看，但我们强调过，*分词采用一般式还是完成式，主要取决于分词所表示的动作或状态（the action or state named by the participle）与句子的谓语动词（main verb）之间的关系*，而不是“现在”。对于这个句子来说，我们应该站在句子谓语feared这个过去时间的角度来看。
+
+总之，*分词的"完成式"主要是为了强调分词的动作, 在谓语动作之前发生，比如分词的动作与谓语动作之间有很长的时间间隔，或者是因为分词的动作本身经历了很长时间的延续。* 判断分词用一般式还是完成式，要依据它和谓语动作之间的时间关系，而不能从“现在”说话时间的视角来看，这个角度非常重要。
+
+
+---
+
+
+== 分词的用法总结
+
+在分词的学习上, 之所以要花些时间，就是因为 *分词的形式较多，而且每一种形式都代表了一种思维动作*，现总结列表如下（*请记住每一种思维的典型例子*）。分词主要有如下五种结构形式：
+
+|===
+||主动含义|被动含义
+
+|一般动作
+|*doing =>  可作"定语"和"状语"* +
+-> Unidentified *Flying* Objects 不明飞行物 +
+-> 状 *Locking* the door, he went home. 他锁上门，回家去了。 +
+-> 状 *Smiling*, he answered. 他笑着回答道。
+|*done (vt.) => 可作"定语"和"状语"* +
+-> a *respected* writer 一位受人尊敬的作家 +
+-> 状 *Asked* what he wanted to do in future, he answered... 被问到将来想做些什么时，他回答道……
+
+|进行动作
+|*doing => 主要是作"定语"* +
+-> the *sinking* ship 正在下沉的船
+|*being done (vt.) => 这种形式总的来说比较少见，主要用来作"后置定语"。另外, 被动进行的动作, 很少用来作状语；即使作状语，一般也仅用来表示"原因"，兼含有"时间"的意味。* +
+-> The question (*being discussed*) is very important. 正在讨论的那个问题十分重要。 +
+-> 原因状 *Being protected* by a thick wall, they felt they were quite safe. 由于被厚厚的墙保护着，他们感到非常安全。 +
+-> 原因兼时间状 *Being asked* where he was going, the boy said he was just taking a walk. 当被问到要去哪里时，这个男孩说他只是随便走走。 +
+-> He wasn't asked to take on the chairmanship of the society, 原因状 *being considered* insufficiently popular with all members. 没有让他作这个社团的主席，因为觉得他并非受所有成员的欢迎。 +
+-> 原因状 All flights *having been cancelled*, they had to take the train. 由于所有的航班都被取消了，他们只好坐火车。
+
+|完成动作
+|*having done => 只能作"状语"*，不能作定语 +
+-> *Having failed* twice, he decided to give up. 已经失败了两次，他决定放弃。
+|having been done
+|===
+
+vi.的过去分词用法 :
+
+|===
+|vi.的过去分词用法 |举例
+
+|作"定语"时，必须放在名词前面, 而不能放在名词后面作定语!
+|- *grown* children 长大的孩子 +
+- *fallen* leaves 落叶 +
+- children (*grown* in this family) × +
+- leaves (*fallen* on the ground) ×
+
+|作"状语"时, 一般式grown不能作状语, 要用"完成式" having grown作状语。
+|- *Grown up* in the United States, I had never seen a university surrounded by high, cement walls. ×  +
+- *Having grown up* in the United States, I had never seen a university surrounded by high, cement walls. √  +
+我是在美国长大的，在我成长的过程中，我从来没有看到过哪所大学是被高高的水泥墙围起来的。
+|===
+
+综上所述，vi.的过去分词（如grown）只能作"前置定语"; 不能作"后置定语"，也不能作"状语"。 +
+另外，要表示"将来的被动动作"，须用 to be done 这一"不定式"的形式。
+
+---
+
+
+== 如何正确使用分词？
+
+- 要想真正完全掌握分词的用法，需要从下面三个方面下工夫：
+
+1. 分词的意义：即要掌握现在分词和过去分词各自不同的意义和内涵。
+2. 分词的作用：即分词在句中充当的语法功能，主要就是作状语和作定语。尤其是作状语的分词，可以表示各种不同的意义以及使用不同的结构。
+3. 动词的用法：即需要知道动词的及物性或不及物性。这一点很容易被忽略。因为分词也是动词，而动词的意义和用法必然会影响到分词的使用，比如到底用现在分词还是过去分词。
+
+- NASA's Mars program was set back when two spacecraft failed up reaching Mars, one _ _ up in the planet's atmosphere and the other _ _ after a software failure. +
+由于两艘宇宙飞船都未能到达火星，其中一艘飞船在火星的大气层中起火燃烧了，而另一艘飞船在软件系统出现故障之后失踪了，这使得美国宇航局的火星探测计划遭遇挫折。 +
+A.burned, disappeared +
+B.burned, disappearing +
+C.burning, disappearing +
+D.burning, disappeared
+
+-> *选项A很具有迷惑性，因而burned和disappeared 既可以看作是动词的"过去式"，可以作谓语; 也可以看作是"过去分词"。如果把A中的burned和disappeared当作"谓语"动词的"过去式"*，那么填入空格后就成为：...one burned up in the planet's atmosphere /and the other disappeared after a software failure，这就是一个完整、独立的句子。但为什么不正确呢？原因是：*这样一来三个句子就成为了由and引导的并列句，但是这三个句子在意思上并不是并列关系*，而是由逗号后面的one _ _ up in the planet's atmosphere and the other... 来补充说明前面的完整句子。*即, 这里逗号后面的部分 one..., 应该看成是一个独立分词结构，用作状语，表示补充说明。* +
+明确上一点后, 我们再把A中的burned和disappeared看作是"过去分词"，来分析为什么这样也不对:  +
+(1) 这时, 首先就涉及到“动词的用法”的问题了，我们要首先知道这里的burn和disappear这两个动词的用法，*即需要考虑它们在这里是用作vt.还是vi.。* 根据句子的意思判断，这两个动词都是用作vi.。 +
+(2)接着, *于是到了“分词的意义”这一步，即vi.的"过去分词"（done）形式, 是否可以作"状语"。上面讲过，这是不能作状语的。* 所以，burned和disappeared即使看作是过去分词，因为不能作状语，所以也不是正确答案。 +
+
+推理到这一步，即"过去分词"都不正确，所以，B和D选项也不是正确答案。显然，只能选C，即两个"现在分词"的形式 burning和disappearing, 来构成"独立分词结构"：one *burning up* in the planet's atmosphere /and the other *disappearing* after a software failure来作状语，表示"补充说明"。 +
+单从句子的结构上来看，这个句子与我们前面讲过的一个例句完全一样：The Chinese word for crisis is divided into two characters, one *meaning* danger /and the other *meaning* opportunity. *即两个句子都是用了one doing...and the other doing...这样的"独立分词结构"。*
+
+上面的分析过程, 其实就是大家在做这道题时, 应该有的思考判断过程，在这个过程中，我们要同时考虑1.“分词的作用”、2.“动词的用法”, 和3.“分词的意义”。
+
+又例
+
+-  remote-controlled bomb exploded outside a hotel near the town square yesterday, _ _ at least 12 people. +
+昨天，一颗遥控炸弹在市镇中心广场附近的一家酒店外面爆炸，造成至少12人受伤。 +
+A.having been injured +
+B.having injured +
+C.injured +
+D.injuring
+
+-> (1) 首先，看“动词的用法”。我们知道injure是一个vt.。 +
+(2) 其次，看“分词的作用”。这里是分词作"结果状语"，所以把分词短语放在句末。 +
+(3) 最后，看“分词的意义”。考虑到谓语动作exploded, 和分词的动作injure, 在时间上的先后关系，exploded先发生，而injure后发生，即先有炸弹爆炸，然后才有人员伤亡。所以，根据分词的意义，这里的injure不可能用"完成式"，故A和B选项均不正确。 +
+又由于 *句中at least 12 people是充当分词的宾语，所以应该用"现在分词" injuring，而不能用"过去分词" injured。* +
+
+若用"过去分词"injured表示"被动"，则应该把句子改写成：A remote-controlled bomb exploded outside a hotel near the town square yesterday, *with* at least 12 people *injured*.
+
+故正确答案只能是D, 即injuring，相当于说the remote-controlled bomb injured at least 12 people。
+
+
+---
+
+
+
+
+
+

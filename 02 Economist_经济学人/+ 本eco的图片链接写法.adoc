@@ -1,0 +1,2 @@
+
+image:../../+ img_单词图片/a/assault-course.jpg[]

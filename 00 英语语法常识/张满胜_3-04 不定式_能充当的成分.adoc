@@ -1,0 +1,812 @@
+
+= 01 张满胜_01 非谓语动词
+:toc:
+
+---
+
+== 各语法成分的英文单词
+
+
+|===
+|语法成分 |英文 | 缩写
+
+|主
+|subject
+|S
+
+|谓
+|predicate
+|V
+
+|宾
+|object +
+indirect object (间接宾语) +
+direct object (直接宾语)
+|O +
+IO +
+DO
+
+|定
+|attribute
+|attrib
+
+
+|状
+|adverbial
+|
+
+|补
+|complement
+|C
+
+|宾补
+|object complement
+|OC
+
+|表
+|predicative
+|P
+
+|同位
+|appositive
+|
+
+|插入
+|parenthesis
+|
+|===
+
+---
+
+== to do 做主语 -> It is adj. [for sb.] to do
+
+
+|===
+|Header 1 |举例
+
+|不定式做主语, 90%的情况下, 都是用 it作形式主语，放在句首，而将真正的主语(不定式)放在句子后面，构成 “It+to do sth.” 句型。
+|*It* is possible *to give without loving*, but *it* is not possible *to love without giving*. +
+我们可以付出而不爱，但不可能爱而不付出。
+
+|如果要明确指定不定式的逻辑主语，则可以通过介词 for 给出: +
+It is... *for sb* to do sth.
+|It is impossible *for us* to master English in a short time. +
+-> us 是 to master... 的逻辑主语
+
+|当把两个不定式 *构成对比关系* 时, 才直接把 to do 放在句首作主语。 +
+to do..., to do...
+|*To err* is human; *to forgive*, divine. 犯错人皆难免，宽恕则属超凡。 +
+-> 第二个分句省去了is.
+|===
+
+
+---
+
+== to do 做宾语 -> vt. + (疑问词) to do
+
+谓语 vt. 可以带一个 to do 来做宾语. 这种句子自身就有两个特点:
+
+|===
+|特点 |举例
+
+|1. 全句的主语S, 和to do的逻辑主语是一致的. 即, 全句的谓语V 和 宾语(to do)中的动作, 都是由全句主语S发出的。
+|- This company *refused {to cooperate with us}*. +
+-> refused 和 to cooperate with 的逻辑主语, 都是This company.
+
+- I don't know {whether *to answer his letter*}. +
+- I wonder {who *to invite*}
+
+|2. 句子的谓语动词, 多表达"个人的心理态度"; 不定式中的动词, 则表达"具体的行为动作"。
+|He *promised {not to tell* anyone about it}.
+|===
+
+种类:
+
+|===
+|Header 1 |举例
+
+|在“谓+宾+宾补”结构中，如果宾语是由一个 to do 来充当，那么它不能直接放在谓语后面，而要用it作形式宾语放在谓语后面, 把真正的宾语 to do 放到句末去. 变成这个结构： +
+*V + it + OC + to do(真宾)*
+|- I think *it* hard *to answer the question in one go*. +
+-> hard是宾补. 这里的 it 是形式宾语，它指代最后的 to answer... 这个真正的宾语。
+
+- There are over 100 night schools in the city, making *it* possible [for a professional] *to be re-educated no matter what he does*.
+
+|如果宾语是"that引导的从句", 并且它有"宾补"存在, 也需要把这个宾语(that从句)放到最后, 前面用形式宾语it来指代它. +
+*V + it + OC + that引导的从句(真宾)*
+|- The development of steel nibs makes(v.) *it* 宾补possible 真宾 *that people can develop pens*.
+
+- They want to make *it* clear to the public *that they do an important and necessary job*. +
+-> make的宾语是: that they do...，所以原宾语的位置, 需要有代词it来指代这个宾语。形容词短语 clear to the public 作宾补.
+
+|如果被后置的宾语是"名词短语"，则不需要 it 作形式宾语。 +
+*V + OC + 名词短语(真宾)*
+|- The computer makes(V.) 宾补possible 真宾 *a marvelous leap in human proficiency*. +
+-> 宾语 a marvelous leap...是名词短语, 而非不定式, 因此谓语makes后面就不需要形式宾语 it。
+
+- This calls(v.) 宾补into question 真宾 *all of our cultural assumptions that gay men are feminine*. +
+在我们的文化中，人们一般认为男同性恋者都较为女性化，这一点就令人们对此提出了质疑。
+
+|如果宾语是"what引导的从句"，也不需要形式宾语it。 +
+*V + OC + what引导的从句(真宾)*
+|- Many people consider(v.) 宾补impossible 真宾 *what really is possible*. +
+很多人把完全有可能的事情, 认为是不可能发生的。
+|===
+
+---
+
+== to do 做宾补
+
+
+|===
+|Header 1 |举例
+
+|只在某些特定的谓语动词后(大多是 "建议, 请求, 命令, 允许, 打算, 判断" 等,与人的"思考, 思想"相关的动词), 才用 to do 来做宾补. +
+|- Allow 宾me 宾补 *to drink to your success*! +
+
+- Then our sense of timidity can cause(v.) 宾us 宾补 *to hesitate, to move slowly, and not to take a step* until we know the ground is safe.
+
+|在表示(五官)感观的动词(let, make, have, see, hear, feel, watch, notice, listen to等)后的, 由不定式作"宾补"的句子中，to要省略。
+|
+|===
+
+
+
+---
+
+== to do 做定语
+
+==== to do 做定语 -> n. + to do
+
+大多数情况下, 名词后面接的不定式，一般都是作定语用的. +
+*我们关注的重点是: 要搞清楚 to do 和它前面被修饰的 n.之间, 是何种逻辑语义关系?*
+
+
+|===
+|to do 和 n. 之间的逻辑关系 |举例
+
+|*动宾关系*: +
+名(宾语) + to do...(谓语)
+|- I have a letter *to write*. √ +
+-> 不定式 to write 修饰名词letter，二者构成宾语关系. 能说成：write a letter。
+
+- I need a pen *to write*. × +
+-> 这句是错误的. *因为我们不能直接把pen作write的宾语，说成：write a pen，而必须要在二者之间加一个介词，才能表达出它们的逻辑关系。这里是工具关系，所以可以用with*，说成：write with a pen。 +
+因此，这句应该改写成：I need a pen *to write with*.
+
+- I need some paper *to write*. × +
+-> 这句也是错误的. 因为 to write 和 paper 之间, 缺少一个能表达出它们的逻辑关系的介词. 这里是地点关系，所以我们可以用on, 写成：write on some paper。 +
+因此，本句应该改成：I need some paper *to write on*.
+
+上面的名词 pen 和 paper, 就是分别作不定式中的介词 with 和 on 的宾语。
+
+|*动宾关系*: +
+注意: 既然to do中的动词, 已经有了自己的逻辑宾语(即前面它所修饰的名词)，那 to do 的后面, 就不能再有宾语了.
+|- I gave the kid *a comic* to read *it*. × +
+-> to read 的宾语, 就是前面的 comic, 所以后面的it 是多余的!
+
+
+|*动宾关系*: +
+注意: to do 中如果有介词, 则该介词有两种可能性:  +
+① 该介词是与 to do中的动词, 组合成一个动词短语的(比如 to take care of). <- 介词 of +
+② 该介词不和动词组合在一起, 而是作为动词的"状语"(比如 to exercise [in the gym]) <- 介词 in
+|- She has four children *to take care of*. +
+-> 不定式中的of 是属于take care of 这个动词短语中的固定搭配。名词children 作 take care of 的宾语。 +
+
+- Why don't you get a *backpack* (to carry your books *in*)? +
+你为什么不买一个双肩背包来装你的书呢？ +
+-> 不定式中的in, 不是与前面的carry成一组的, 即, 不存在 carry in 这个动词短语, 而是与其所修饰的名词backpack构成语义搭配，表示“在双肩背包里”, 即 in backpack 是一组.
+
+- so we gave each other a good few hours of hair soaking and eye-reddening *luck* (to remember each other *by*). +
+-> 句末的介词 by, 是为了把不定式to remember each other和名词luck联系起来，从而构成语义联系，相当于说to remember each other by this luck，表示“借泼水的祝福，希望大家能够记住彼此”。
+
+- I have no language *partner* (to practice speaking English *with*). +
+-> 因为不定式短语 to practice speaking English 与 language partner 是没有逻辑关系的，只有添加with才有逻辑关系。
+
+|*主谓关系*: +
+名(主) + to do(谓) +
+即 被修饰的名词, 在逻辑意义上,充当不定式中动词的主语。 +
+另外, 在含有这种逻辑关系的句子中, 被修饰的名词前面, 还通常会有only、last、next、序数词、最高级形容词等修饰成分。
+|- The man (to help you) is Mr. Johnson. +
+能够帮你的人就是约翰逊先生。 +
+-> man 充当了 to help的逻辑主语. 相当于 the man who can help you.
+
+- Have you got a key (to unlock this door)? +
+-> key 充当了 to unlock的逻辑主语. +
+
+- The next train *to arrive* is from New York.  +
+下一列到达的火车是从纽约开来的。 +
+
+|*同位语关系*: +
+名 + to do(同位) +
+不定式短语的内容, 是对被修饰的名词作进一步补充说明. +
+其实从真正的意义上来说，这里的不定式就是作名词的同位语而不是定语的. +
+
+当然不是所有的名词与不定式连用, 都能够表示同位语关系，这样的名词一般仅限于两类： +
+① 那些要求与不定式连用的v.，因而它们的 n.形式也要接不定式。 +
+② 那些要求与不定式连用的adj.，因而它们的 n.形式也要接不定式。
+
+
+|- The need (*to love and to be loved*) seems universal. Maybe this is one trait that separates human beings from other animals. +
+-> to love... 是补充说明need的具体内容的。
+
+- He refused(v.) *to co-operate with us*. +
+- His refusal(n.) *to co-operate* makes us angry. +
+-> refuse的后面需要接不定式to do，所以其名词refusal也要接不定式，因此不能说refusal of doing (×) 。 +
+这里的不定式to co-operate是作名词refusal的同位语。
+
+- She was reluctant(a.) *to accept his invitation*. +
+- Her reluctance(n.) *to accept his invitation* upset him. +
+-> 形容词reluctant的后面需要接不定式to do，所以其名词reluctance也要接不定式，因此不能说reluctance of doing (×)。 +
+这里的不定式to accept是作名词reluctance的同位语。
+
+
+|*动状关系*: +
+名(状) +to do(动) +
+被修饰的名词, 在逻辑意义上, 充当不定式中动词的状语(方式、时间, 地点状语等).
+|- Role playing 系 is a safe and enjoyable way (*to learn English*). +
+-> 方式状语关系. 相当于 to learn English [in a safe and enjoyable way].
+
+- The time (*to go*) is July. +
+-> time相当于 to go的时间状语.
+
+|补充说明主语 +
+名(补) +to do +
+被修饰的名词在逻辑意义上, 充当不定式中动词的"逻辑主语"的补语。
+|- The thing [for you] (*to be*) these days is a gold-collar. +
+在现代这个社会，你一定要努力成为一个金领人士。 +
+-> thing, 在be后面作表语，但实际上是补充说明句子主语you的，即补足语。
+
+|===
+
+因此, 作后置定语的不定式, 与被修饰的名词间, 可以有各种逻辑语义关系(动宾、主谓、同位、动状, 以及补语关系等)，在英译汉时应特别注意分辨，搞清楚这些逻辑关系。
+
+---
+
+==== to do 做定语 -> adj.(只能修饰事情) + to do
+
+to do 用在 n. 后面, 只做 n.的定语. +
+而 to do 用在 adj.后面, 能充当的语法成分就比较广了. *其实，具体作何种成分并不重要，关键是要搞清楚不定式的逻辑语义关系.*
+
+|===
+| |我们需要搞清哪两者的逻辑关系?
+
+|n. + to do
+|n. 与 to do 之间的逻辑关系
+
+|adj. + to do
+|"句子主语"(而非adj.!) 与 to do 之间的逻辑关系.
+|===
+
+
+|===
+|例句 |分析
+
+|*He* is interesting *to listen to*.
+|这句话要表达什么意思？是“他很有兴趣听别人讲话”，还是表示“别人听他讲话很有趣”？ *换言之, to listen to 修饰的, 是he这个人? 还是 He is interesting 这整个事情?* 事实上, 这里不定式, 修饰的是he这个人. 即: 听他讲话很有意思. +
+本句可以改写成: *It* is interesting *to listen to him*.
+
+|*He* is difficult *to understand*. +
+=It is difficult *to understand him*. +
+=*To understand him* is difficult. +
+他讲话的意思很难理解。
+|同样, 我们来分析一下, to understand 修饰的是he这个人? 还是 He is difficult 这整个事情? *假如 to understand 是修饰 He is difficult, 这整件事的话, 那么去掉不定式这个定语, 句子的骨架(主谓宾)意思, 应该不会改变.* +
+- (1) He is difficult *to understand*. +
+- (2) He is difficult. +
+
+句(2)的意思, 变成了“他这人很难相处”。由此可见，*句1）与句2）中的difficult的语义发生了很大的改变。* 这就证明, to understand 不是修饰前面的整件事的, 换言之,句(1)中的he并不是真正意义上的主语(而是 to understand的宾语). 句子真正的主语, 没有直接给出,是隐含的, 其实是"大家,别人". 即, 别人对他所讲的话, 很难理解. +
+
+实际上, 在英语中，difficult, impossible 和 improbable 都只能修饰“事情”(to understand him)，而不是“人”(he).
+
+|*English* is difficult *to speak*. +
+=It is difficult *to speak English*. +
+= *To speak English* is difficult. +
+说好英文不容易。
+|这里的形容词, 依然是侧重于强调“事情”或“活动”(to speak English)的性质特征，而不是“东西,事物”(English)。
+|===
+
+
+总结:  +
+对于"不定式修饰adj."的句子: +
+-> 表面上看, 是用了“人”或"物"来做句子的主语 (如 *He* is easy to fool. / *English* is difficult to speak.) +
+-> 其实, *真正的逻辑上, 这表面的主语, 是做的不定式的逻辑宾语。* (*To fool him* is easy. / *To speak English* is difficult.) 即, *句子的逻辑上的真正主语, 其实是一个“事件”或“活动”!*
+-> 这些句子的表面主语, 都可以移到句末的宾语位置，从而能变换句子结构。
+
+另外要注意: +
+-> 如果 to do... 中的动词, 是vt., 且不带宾语。此时句子的表面主语就是充当不定式动词的逻辑宾语. +
+-> 如果 to do... 中的动词, 是vi., 则须添加适当的介词（如listen to）。
+
+再说一遍! 对于"不定式修饰adj."的句子: *这个句型中的adj., 侧重于强调(修饰)“事情”或“活动”（event or activity）的性质特征，而不是强调(修饰)“人”（person）的性质特征。*
+
+如果你一定要把adj.看做用来修饰“人”, 那么就会发现会导致两种后果: +
+1. 要么adj.在单词用法上, 就是无法修饰“人”的, He is easy (to fool), easy无法修饰he. +
+2. 要么虽然adj.在单词用法上, 可以修饰“人”, 但单独使用的形容词的含义, 与带不定式的形容词的含义, 会有差别。如, He is difficul 和 He is difficult (to understand). 两句话的骨架意思有差别.
+
+
+在使用这个句型时, 要注意以下三点：
+
+|===
+|注意点 |说明
+
+|1. 不定式动词, 一般不用被动态
+|比如说“他很容易被骗”: +
+- He is easy *to fool*. √ +
+- He is easy *to be fooled*. × +
+
+为什么用被动态是错的? *因为这里的形容词easy是强调“事情”的*，该句的真正主语是 to fool him 这件事，而不是 he 这个人。 +
+-> to foll + him, 这个句子在语法上能通过. +
+-> 而 to be fooled + him, 在语法上就是错误的, 因此是错的. 所以不能把不定式写成被动态. 否则him 无法接在后面.
+
+同样不能说： +
+- English is difficult *to be spoken*. × +
+- Football is interesting *to be watched*. ×
+
+
+|2. 不定式后, 不能再加宾语
+|*表面上，不定式中的动词(vt.)或介词(vi.+prep.)缺少了宾语，但实际上句子的主语充当了不定式的逻辑宾语，故不定式后不能再添加宾语*。 比如下面都是错的: +
+- *He* is easy to fool *him*. × +
+- *Football* is very interesting to watch *it*. ×
+
+换言之, 不定式中的动词或介词后的宾语位置, 早就已经被句子的主语“预订”了.
+
+|3. 有时需要在不定式中, 添加适当的介词
+|*这是针对vi.来说的。* 因为vi无法直接加上宾语, 必须是 vi.+prep.后, 才能接上宾语. 因此不能说： +
+- She is interesting *to listen*. × <- 必须是 *to listen to* + her +
+- She is easy *to get on*. × <- 必须是 *to get on with* + her
+|===
+
+---
+
+==== to do 做定语 -> adj.(只能修饰人或东西) + to do
+
+(1) adj.(只能修饰事情events (有的也能修饰东西things,但意思会变!)) + to do +
+(2) adj.(只能修饰人或东西 things) + to do +
+这两类句子, 共同点是, 它们句子的表面主语, 都能充当不定式中vt.或 vi.+prep 的逻辑宾语。 +
+但也有重大的区别: 由于这里的adj.不是用来修饰整件事情的, 只能修饰人或东西, 所以: +
+
+|===
+|特点 |说明
+
+|在结构上, 不能进行句式变换.  +
+因为一旦句式变换, 句子意思就变成了 adj.是修饰的"事情", 而非"东西"了.
+|- *The book* is interesting *to buy*. 这本书很有趣，可以买下来。 +
+这个句子不能变成:  *It* is interesting *to buy the book*. × +
+-> 因为这里的interesting是用来修饰“书”这个“东西,事物（thing）”有趣，而不是表示“买书（to buy the book）”这样的“事情（events）”有趣。
+
+- *The water* is warm *to swim in*. 这水很温暖，可以在里面游泳。 +
+这句不能改写成 : *It* is warm *to swim in the water*. × +
+-> 因为这里的warm是用来修饰“水”这个“事物（things）”是温暖的，而不是表示“在水里游泳（to swim in the water）”这样的“事件（events）”是温暖的。
+
+|不定式短语可以省去, 而不改变句子的核心意思
+|- The food is ready.  +
+=The food is ready *to eat*.  +
+食物准备好了。 +
+
+- The air is frosty. +
+=The air is frosty *to breathe*. +
+这空气呼吸起来很凉。
+
+不过，对于某些特殊的形容词，很难判断是属于哪种情形。比如： +
+- The bed is comfortable *to sleep in*.  +
+-> comfortable 这个形容词, 既可以描述bed这个"东西"的性质特征，也可以描述 sleep in the bed这个行为"事情"的性质特征。
+
+说到底，语言是非常灵活的，绝不是非此即彼、黑白分明的，而是存在很多“模糊区域”和“灰色地带”。这个原则适用于本书中所讨论的绝大多数的规则区分。
+
+|===
+
+---
+
+==== to do 做定语 -> adj. +to do : 句子的表面主语,与不定式之间的逻辑关系
+
+
+|===
+|句子的表面主语,与不定式之间的逻辑关系 |举例
+
+|主谓关系(1) +
+He is kind to help us. +
+
+这类逻辑关系的句子, 有几个共同点:  +
+1. sb. is adj. to do... 这个句型,  +
+*其中 adj. 表示的是这个人的(抽象出来的)特征, 而 to do... 是"对这个特征予以证明"的具体举例.* +
+2. adj.(本例为kind), 是外人(别人)对he做出的评价, 而不是he自己对自己的态度,或自己对自己做出的评价.
+
+|*He* is kind *to help us*. 他真好，来帮我们。 +
+这里的he 既是谓语 is kind 的主语，同时也是不定式 to help us 的逻辑主语.
+
+对这个句子可以改写成： +
+-> 改写一：*It is...of sb. to do sth.* -> It is kind of him to help us. +
+-> 改写二：*so...as to do sth.* -> He is so kind as to help us. +
+-> 改写三：*How...of sb. it is to do sth. !* -> How kind of him it is to help us! 但这里的 it is 常常可以省去，于是变成：How kind of him to help us!
+
+*这一句型中的形容词, 通常是表示人的"性格"特征, 或"行为表现的性质"的形容词*，比如brave, careful, careless, considerate, cowardly, crazy, cruel, generous, good, greedy, kind, nice（=kind善良的）, mad, mean（卑鄙的，吝啬的）, modest, rude, selfish, thoughtful, wrong等；*或者是表示人的"智慧"方面的形容词*，如clever, foolish, idiotic, intelligent, sensible, wise, silly, stupid等。
+
+注意: adj. + to do 句子, 在用It is...to do句型来改写时, +
+-> 其中的adj. 如果是用来修饰"人"的特性的, 介词就要用 “of+人”; +
+-> 其中的adj. 如果是用来修饰"事情"的性质的, 介词就要用 “for+人”。
+
+- It is kind *of him* to help us. <- 因为kind表示“人”的特征，所以用介词of。即, kind是指him这个人的特性很kind, 而不是指 "to help us"这个具体的事情很kind. +
+- It is easy *for you* to fool him. <- 因为easy表示“事情”的特征，所以用介词for。
+
+|主谓关系(2) +
+He is glad to help us. +
+
+*这些adj.是表示个人情感的，而其后面的不定式短语表示产生这种情感的原因。所以，有语法家把这里的不定式看作是充当"原因状语"。*  +
+既然是相当于状语，所以我们还可以把形容词变为副词, 来直接修饰动词。比如： +
+- In Shanghai, East meets West. Back in the 1840s, China was *reluctant(a.) to open* its doors to foreigners. While foreigners weren't very welcome years ago, Shanghai is today *eager(a.) to invite* foreign investment. +
+-> 这句话里的两处黑体部分, 可以分别改写为: China *reluctantly opened* its doors to foreigners 和 Shanghai today *eagerly invites* foreign investment.
+
+|*He* is glad *to help us*. 他很高兴帮我们。 +
+-> he既是谓语is glad的主语，同时也是不定式to help us的逻辑主语. +
+
+*我们还可以通过for, 来单独引出不定式自己的逻辑主语，以与句子的主语相区别:*  +
+- She's anxious to win the competition. 她迫切地想赢得这个比赛。 +
+- She's anxious *for her daughter* to win the competition. 她非常渴望她女儿能赢得这个比赛。 +
+-> 句子的主语是she，但不定式 to win the competition 的逻辑主语是 her daughter.
+
+注意: 本"主谓关系(2)"和"主谓关系(1)"类型句子的不同之处在于: +
+主谓关系(1): *He is kind* to help us. <- kind 是"别人"对he这个人做出的特性评价. 动作的发出者是"外人". +
+主谓关系(2): *He is glad* to help us. <- glad 是 he自己做出的. 动作(或情感)的发出者,是内部的"自己".
+
+属于"主谓关系(2)"类型的句子, 又如: +
+- *I am sorry* to hear it. 听说此事我很遗憾。 +
+- *I was excited* to be there. 去那让我感到很激动。
+
+"主谓关系(2)"类型的句子, 这里的形容词是表示情感的，具体来说是表示人对某件事的态度或情感。常常是过去分词转化来的形容词（这与“宾语关系（一）”形成对比，那里是现在分词）。 +
+
+这样的形容词有：afraid, angry, anxious, ashamed, content, curious, determined, desperate, eager, frightened, furious, glad, happy, impatient, indignant, jubilant, keen, reluctant, thankful 等； +
+过去分词有：annoyed, astonished, bored, concerned, delighted, depressed, disappointed, disgusted, dissatisfied, embarrassed, fascinated, frightened, interested, overjoyed, overwhelmed, perturbed, prepared, puzzled, relieved, reluctant, surprised, willing, unwilling, worried 等。
+
+
+|主谓关系(3) +
+He is slow to react. +
+他反应很慢。
+| *这里的adj.在逻辑语义上, 不用来修饰人, 只用来说明不定式动作的特点*.因而可以把形容词变为副词来直接修饰动词，相当于方式状语。 +
+He is slow to react. +
+=He reacts slowly. +
+即, 可以把不定式的动词, 变成一个谓语动词，而把其中的形容词变为一个副词来充当方式状语，修饰这个动词。 +
+
+又如: +
+He was *slow to realize* that times had changed. +
+=He *realized only slowly* that times had changed. +
+他慢慢地才认识到时代不同了。
+
+属于这一类的形容词不多，除slow 外，常用的还有 quick 和 prompt，都表示“迅速的”之意。
+
+|===
+
+
+比较: +
+对于 adj. + to do
+|===
+|主语和不定式, 是"动宾关系" |主语和不定式, 是"主谓关系"
+
+| *动宾关系中的adj.是强调外界对“事情”的评价.*
+| *主谓关系中的adj.是强调“人”自身对某件事产生的态度或情感。*
+
+|- *He*(宾) is easy *to please(vt.)*(谓). 别人取悦他很容易。 +
+-> please是一个及物动词，he是please的逻辑宾语，相当于说To please him is easy. 这是外界对“取悦他”这件事的评价——很容易做到。
+|- He(主) is eager *to please(vi.)*(谓). 他热切地想取悦别人。 +
+-> please是一个不及物动词，he是please的逻辑主语，即表示他喜欢取悦别人，这是表示主语he自身对“取悦别人”的态度——他的态度是eager（渴望的，迫切的）。
+
+|- He is easy to fool. 他很容易被骗。 +
+-> 形容词easy是强调事情的，所以该句真正的主语是to fool him这件事，而不是he这个人。easy的真正的主语不是he这个人，而是to fool him这件事，这与easy修饰事情这一语义相吻合。 +
+这里的不定式用"主动态"的to fool，以使得句子的主语he能够填补fool后面的宾语的位置。如果不定式用"被动结构"to be fooled，则he无法后移充当fool的宾语. +
+
+由于背后真正的主语是"事", 所以该句可以变换成: *It* is easy *to fool him*.
+
+|- He is afraid to be fooled. 他很害怕被骗。 +
+-> 形容词afraid是强调人的情感，he是句子真正意义上的主语。又因为he与fool是被动关系，所以这里的不定式要用被动的to be fooled。 +
+该句无法像例句1）那样变成 It is afraid...× 这样的结构。
+
+|===
+
+从以上这对例句我们看到，不同"语义逻辑作用"的形容词, 会导致其后面的不定式和句子表面主语的"主动"和"被动"关系不同。
+
+两种"主谓关系"的比较:
+
+|===
+|主语和不定式, 是"主谓关系(1)" |主语和不定式, 是"主谓关系(2)
+
+|- *He is kind* to help us.
+|- *He is glad* to help us.
+
+|形容词kind是别人对he的评价，而并不是he本身的性质特征。
+|形容词glad不是别人对he的评价，而是主语he本身的性质特征，或者说是he自己对to help us这件事情的态度或情感。
+
+|可以进行句式变换: +
+He is kind to help us. +
+=It is kind of him to help us. +
+=He is so kind as to help us. +
+=How kind of him（it is）to help us!
+|无法进行句式变换.
+
+|不能再添加for来引出不定式的逻辑主语. 因为不定式的逻辑主语, 已经存在了. +
+He is kind *for her* to help us. × <- 错误句子, 逻辑不通.
+|不过，对于某些主谓关系(2)中的句子，可以添加for来引出不定式的逻辑主语: +
+- She's anxious to win the competition. +
+- She's anxious *for her daughter* to win the competition.
+
+|===
+
+
+总结: +
+
+|===
+|句子表面主语和不定式的逻辑关系 |说明
+
+|动宾关系(1)
+|形容词是对“事情”、“事件”或“活动”的评价，比如说某事容易或者难。 +
+- *He* is interesting *to listen to*. = *It* is interesting *to listen to him*. +
+- *He* is easy *to fool*. +
+- *He* is easy *to please*.
+
+|动宾关系(2)
+|形容词是对“东西,物”的评价。 +
+- The food *is ready to eat*.
+- The tea *is hot to drink*.
+
+|主谓关系(1)
+|形容词是表示, 外界对“人”(即句子主语)的行为,进行的评价。 +
+- *He is kind* to help us. +
+- *He was wrong* to tell lies.
+
+|主谓关系(2)
+|形容词是表示,“人”(即句子主语)自己对某事件的情感或态度，相当于原因状语。 +
+- *He is glad* to help us.
+- *He is afraid* to be fooled.
+- *He is eager* to please.
+
+|主谓关系(3)
+|形容词既不是像"主谓关系(1)"中的那样表示评价“人”的行为，也不像"主谓关系(2)"中的那样表示“人”的情感，而是在逻辑语义上说明不定式动作的特点，相当于方式状语。 +
+- He is *slow to react*.
+|===
+
+于“形容词+to do”这一结构，我们这里总结出了最常见的五种逻辑语义关系. *这些逻辑语义关系，关键在于形容词的用法。* 需要注意的是，*一个形容词会因为其意思的不同而导致用法不同。*
+
+
+---
+
+== to do 做状语
+
+不定式主要可以充当: 目的状语、结果状语、条件状语, 和原因状语。
+
+==== to do 做 : 目的状语（adverbial of purpose）
+
+*做"目的状语", 几乎是不定式的专属功能。因为在英语中很少有其他形式能够充当"目的状语"的*. +
+
+
+|===
+|用法 |举例
+
+|把 to do 结构放在句末，来表示句中某个动作的目的，即为目的状语。
+|- Hating people is like burning down your own house *to get rid of a rat*.  +
+憎恨别人，就好像为了赶走一只老鼠而把自己的房子烧掉。
+
+|若要强调目的状语，我们可以把to do提置句首
+|- *To avoid criticism*, do nothing, say nothing, be nothing. +
+为了不被批评，那只好什么也不做，什么也不说，最后就什么也不是。
+
+|可用 in order to do 或 so as to do 来强调目的状语。
+|- I quote others *in order better to express* my own self. +
+引用别人的话，是为了更好地表达自己。
+
+- We had better start early *so as* to catch the train. +
+我们最好早点出发，以便赶上火车。
+
+要注意的是，*不定式充当"目的状语"时，它的否定形式要用 in order not to 或 so as not to，而不能单独用not to。* 比如： +
+- We'd better start early, *in order not to* miss the train. √ +
+- We'd better start early, *not to* miss the train. ×
+
+|作目的状语的不定式，*其逻辑主语, 往往需要与句子的主语一致。*
+|- Don't avoid the problem. *To succeed*, *you* have to tackle your difficulties. +
+-> 这个句子的主语you, 同时充当不定式to succeed的逻辑主语。
+
+如果不定式的逻辑主语不像上面几个句子这样明确，那么句子虽然显得不太规范，但并不认为它们是错误的。比如： +
+- *To study* English well, *a lot of practices* are needed. ×  +
+- *A lot of practices* are needed *to study* English well. ×  +
+
+尽管这两句话在汉语中讲得通，即“要学好英语，大量练习是必要的”，*但在英文中，以上两句话均因句子的主语 a lot of practices 不能作不定式 to study 的逻辑主语, 而使得句子不规范。* 这两句话可以说成： +
+
+- *To study* English well, *you* need a lot of practices. +
+- A lot of practices are needed *[for you] to study* English well.
+
+又如:  +
+[For any adhesive] *to make* a really strong bond, `主` the surfaces to be glued `系` must be absolutely clean and free from moisture or grease. +
+对于任何黏合剂，要想粘得牢固的话，则被粘的表面必须绝对清洁且不能潮湿或有油渍。 +
+-> 子的主语是 the surfaces，但它不能充当不定式to make a really strong bond 的逻辑主语，*所以我们只好借助for另外引出 any adhesive 来充当目的状语 to make a really strong bond 的逻辑主语。*
+
+|===
+
+---
+
+==== to do 做 : 结果状语
+
+由于不定式主要就是用来做"目的状语"的, 所以当我们用不定式做其他状语时, 一般都要附加一些限制条件，以免抢了目的状语的“风头”。所以，*不定式作其他状语都仅限于一些特定的结构中，以避免与"目的状语"混淆。*
+
+
+|===
+|用法 |说明
+
+|在很特殊的情况下，不定式to do可以直接用在句中作"结果状语"。
+|- What have I done *to offend you*? 我做什么得罪你了？ +
+- We parted *never to see each other*. 我们一别之后, (结果)就再也没有见过面了。 +
+- He lived *to see the Second World War*. 他一直活到二战。(他一直活着, 结果能看到二战. to see表示结果)
+
+
+虽然有上面这些直接用to do表示结果的例子，但 *作"结果状语"的不定式, 往往要用在一些固定的句型中*。下面我们来讨论表示"结果"的四类不定式结构。
+
+|only to do +
+我们常用 only to do 引出意想不到的或不愉快的结果，表示说话人并不希望它发生。因此，这个结构具有消极的含义。
+|- We hurried to the railway station, *only to find* the train had just left.  +
+我们匆匆忙忙赶到火车站，结果却发现火车刚刚出站。 +
+-> *注意! 这里用的是 only to find(表"结果状语") 而不是 to find(不定式一般做"目的状语")*, 如果你只用普通的"to find"来写, 变成做"目的状语"的话, 这句话的意思的逻辑就是错的. 会误解成“我们匆匆忙忙赶到火车站，目的就是为了看火车开走”，就会闹笑话。
+
+这个句型在以前的四六级考试中多次出现，比如： +
+He worked very hard, __ he had not finished half of the job. +
+A. to find +
+B. finding +
+C. just finding +
+D. only to find  <-正确答案 +
+-> 这里前一个分句的意思是“他勤奋工作”，后一个分句的意思是“他还没有完成一半工作”，显然后半句是表示一个消极结果的意思。如果选to find来表示目的，显然语义逻辑上不通。选项B和C是现在分词，可以表示结果，但由于这句话有强烈的消极意思，所以最佳答案应该是D。
+
+|so...as to do /such as to do +
+上面提到so as to do可以作"目的状语"，但 *分开写的 so...as to do 却是表示"结果"的。* 这里so的后面常接一个形容词。注意不要漏掉as。
+|- Her story is *so* sad *as to* arouse our sympathy. +
+她的经历如此悲惨，以至于引起了我们的同情。
+
+另外，*我们还可以用such 来替换“so+形容词”，于是便有了 such as to 表示结果。* +
+- Her story is *so* sad *as to* arouse our sympathy. +
+= Her story is *such as to* arouse our sympathy. <- "sad"没了.
+
+- He is *so indifferent as to* make everyone despair.
+= His indifference is *such as to* make everyone despair. +
+他是如此的无动于衷，让大家都很绝望。
+
+此外，*such可以接不定冠词, 然后修饰名词*，如： +
+- She had *such a good friend as to* help her when she was in trouble. +
+当她身处困境时，有这么好的一个朋友帮了她。(她有这么好的一个朋友, 结果就能在自己有困境时得到帮助.)
+
+|adj. + enough to do +
+|- Monkey-hunters use a box with an opening at the top, *big enough* for the monkey *to slide its hand in*, inside the box are nuts. +
+捕猴人一般用一个顶端开口的盒子来抓猴子。这个开口的大小足够猴子把手伸进盒子，盒子里有坚果。(开口足够大, 结果就能让猴子将手伸进去. /这里理解成"目的状语从句", 似乎也行. 为了让猴子将手伸进去.)
+
+|too... to do +
+这里的副词too后面, 往往要接一个形容词，然后再加不定式 to do。 +
+
+|对于这个句型，读者应该比较熟悉，但在使用过程中要注意以下四点： +
+
+1. 肯定形式，否定意思 +
+对于这个结构，我们常熟悉的意思是“太……而不能”，即“肯定形式，否定意思”。这里的否定意思其实来源于too这个词，因为在英语中too含有消极、负面的意思，因此整个句型的基本含义就是“对于（to do）这件事来说，（主语）显得太怎样了，因而做不了”，由此变成了“太……而不能”。 +
+- The opening is big enough for the hand to slide in, but *too small for the fist to come out*.
+
+2. 肯定形式，肯定意思（一） +
+*但是，在too的后面接一些特殊的形容词时，如ready（乐意的），anxious（热心的，急切的），eager（热切的）和willing（愿意的），此时这个句型表示肯定的意思，相当于说“非常想”，“急于”，“时刻准备”等意思。* +
+- You are *too ready to find faults* with other people. 你也太爱找别人的茬/挑刺了。 +
+- I'm just *too eager to help you*. 我非常乐意帮助你。
+
+3. 肯定形式，肯定意思（二） +
+*当too的前面有only, all, but, really修饰时，这个结构亦表示肯定意思。* +
+- He would be *only too glad to be her boyfriend*, but he knew he couldn't match her in family status. 他何尝不想成为她的男朋友，但他知道自己的门第配不上她。 +
+-> 因为有only修饰too，所以是肯定意思，不能作否定理解，即不能理解成“他太高兴了，所以不想成为她的男朋友”。 +
+- I am *only too pleased to help you*. 我非常乐意帮助你。
+
+4. 否定句 +
+too...to do 这个句型, 有两种否定形式, 这两种否定结构的意思也不一样： +
+(1) 在 too 前面否定，如 not too...to do，也即否定句子的谓语. *意思表示“不很……所以能够”* +
+- We are *never too old to learn*. 活到老，学到老。 +
+-> 其实这很好理解, never否定的是整个后面的too...to do 语句, We are *never* too old to learn. 太老而不能学习? 不存在的(never).
+
+(2) 在 to do 前面否定，如 too...not to do，也即否定不定式结构。 *意思表示“很……所以不会不”*。 +
+- He is *too smart not to see your point*. 他很聪明，不会不明白你的意思。(*他太smart了, 所以不会 not to see your point. 其实暗含着一个双重否定(即肯定)意思*)
+
+|===
+
+
+---
+
+==== to do 做 : 条件状语
+
+
+|===
+|用法 |举例
+
+|*当不定式表示"条件"时，句子的谓语通常含有助动词，如：will, would, shall, should, must, can, could等*，因为此时不定式短语前面的句子, 相当于一个主句，而不定式短语相当于一个"条件状语从句"。
+|- The father *will* be proud *for his son to win the gold medal*. +
+=The father *will* be proud *if his son wins the gold medal*. +
+如果他儿子能夺得金牌，这位父亲将非常自豪。 +
+-> 由于主句的谓语带有情态动词，比如这里的will。表示的是"将来"的情况, 所以不定式短语 for his son to win the gold medal 就是表示将来可能出现的情况, 本句中即把它作为"条件"来用, 相当于一个"条件状语从句"
+
+- One *must* be out of his mind *to do such a thing*. +
+= One *must* be out of his mind *if he does such a thing*. +
+如果有人真的做出这种事来，那他一定是脑子有问题。 +
+
+|既然不定式相当于一个"条件状语从句"，那么 *也可以表示一个"虚拟条件"，类似于一个虚拟语气，此时句子谓语的情态动词就要用过去形式，如would。*
+|- I *would* have been happy *to be invited to the party*. +
+=I *would* have been happy *if I had been invited to the party*. +
+当时如果有人邀请我参加那个聚会，我当然会非常高兴（但实际上没有人邀请我）。 +
+-> 从这个改写后的句子我们看出，不定式短语 to be invited to the party 相当于一个表示过去的"虚拟条件状语从句" if I had been invited to the party。相应地，前面的 I would have been happy 就成了一个表示过去的虚拟的主句。
+|===
+
+---
+
+==== to do 做 : 原因状语
+
+表示产生某种感情的原因。这种用法的不定式不多见.
+
+- I was delighted *to meet him*. +
+=I was delighted *as I met him*. +
+见到他我很高兴。
+
+- He is happy *for his daughter to marry a wealthy man*. +
+= He is happy *as his daughter married a wealthy man*. +
+因为他女儿嫁给了一个有钱人，他为此感到很高兴。
+
+
+总结: +
+对于不定式用作状语的情况，最重要的就是作"目的状语"。另外，不定式作状语，在结构上并没有什么特点，因为英语中的状语本来就没有什么特点，很难找出一个共性的结构规律。*所以读者即使有时很难判断某个不定式到底是作状语还是别的什么成分, 也没关系，只要能够理解句义即可。*
+
+
+
+---
+
+== to do 做 : 独立成分
+
+不定式可用作独立成分，用来修饰整个句子，常见的有： +
+to begin with（首先）， +
+to tell the truth（老实说）， +
+to make a long story short（长话短说）， +
+so to speak（可以这么说）， +
+to be brief /exact /frank /honest（简单地说/确切地说/坦率地说/坦白地说）， +
+to say nothing of（姑且不说）， +
+to say the least（至少可以这么说） +
+等等。
+
+- *To begin with*, on behalf of all of your American guests, I wish to thank you for the incomparable hospitality. 首先，我谨代表你们所有的美国客人向你们表示感谢，感谢你们无可比拟的盛情款待。
+- A: You're in pretty lousy mood, huh? B: *To say the least*. A：你的心情糟透了吧？ B：何止是啊。
+
+
+---
+
+== to do 引导独立的句子
+
+
+|===
+|用法 |举例
+
+|有时不定式可引导独立的句子，表达愿望、担心、惊讶等强烈的情感。 +
+常见的结构是：to think, to imagine， +
+这样的结构常理解为：“你想想……竟有这样的事”。 +
+这种句子在TOEFL考试中屡见不鲜。
+|- *To imagine [even for a minute] that* I would do a thing like that on purpose. +
+你想想看，我能故意做出那种事来吗？
+
+|当然，有时也会用其他(非心理的)动词的不定式结构来引导独立地句子
+|- *To spend so much money on* something he didn't even need. +
+他竟然花那么多钱买了一些自己根本不需要的东西。
+|===
+
+---
+
+未完
+
+file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Man%20Sheng/Xin%20Dong%20Fang%20_Ying%20Yu%20Yu%20Fa%20Xin%20Si%20(30)/Xin%20Dong%20Fang%20_Ying%20Yu%20Yu%20Fa%20Xi%20-%20Zhang%20Man%20Sheng/text/part0041_split_008.html 开始
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

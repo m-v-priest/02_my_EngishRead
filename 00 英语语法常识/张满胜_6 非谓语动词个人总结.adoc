@@ -1,0 +1,160 @@
+
+= 非谓语动词, 个人总结
+:toc:
+
+---
+
+== 三类非谓语动词, 能做的句子成分
+
+
+|===
+|能做的句子成分↓ / 非谓语 -> | to do 不定式 | -ing / -ed 分词 (adj.属性) | -ing 动名词 (n.属性)
+
+|主
+|- *It* is impossible for us *to master English in a short time*.
+|× +
+=> *分词是adj.性质, 不能作只有n.性质才能充当的主语, 宾语!*
+|- 动名词 `主` *Getting mad at others* means other people are getting control of my emotions!  +
+如果我生别人的气，就意味着我让别人控制了自己的情绪！
+
+- It’s no use 动名词 `真主` *crying over spilt milk*. 牛奶被打翻了，再去哭是没有用的
+
+- There’s no point 动名词 `真主` *in doing that*. 没必要
+
+- There’s no 动名词 `真主` *knowing the future*.  +
+谁也无法预知未来。
+
+|谓(×)
+|×
+|×
+|×
+
+
+|宾
+|- This company `谓` refused `宾` *to cooperate with us*. +
+
+- Many people consider(v.) 宾补impossible 真宾 *what really is possible*.
+|×
+|- Many of the things we do (动 involve 宾 *taking some risk*) in order to achieve a satisfactory result.  +
+-> 动词involve后面需要接"动名词" +
+为了得到满意的结果，我们做的很多事情都涉及到冒险。 / 要想取得满意的结果，我们必须冒一些风险。
+
+- The students object(v.) to(介) 宾 *increasing their tuition*.  +
+-> *动名词在"介词"后面, 作宾语* +
+生们反对提高学费。
+
+- have difficulty *(in) 动名词 `宾` doing sth* +
+-> *英语中有很多固定的句型结构, 是要求接"动名词"作宾语的.*
+
+|表
+|
+|
+|- Another odd thing I see `系` would be `表` *girls holding hands*. +
+我发现，还有一件奇怪的事情就是女孩子们手拉手。
+
+|定
+|- Role playing 系 is a safe and enjoyable way (*to learn English*).
+|- The question (*being discussed*) is very important.  +
+正在讨论的那个问题十分重要。 +
+
+=> *分词的"完成式" having done 或 having been done, 不能做"定语"!! 只能做"状语".* +
+
+=> *vi.的"过去分词"(如grown), 不能做"后置定语"!! 只能做"前置定语".*
+|- a *swimming* pool
+
+
+|状(目的)
+|- Hating people is like burning down your own house 目的状 *to get rid of a rat*. +
+憎恨别人，就好像为了赶走一只老鼠而把自己的房子烧掉。
+|× +
+=> *分词不能作"目的状语"! 因为"目的状语"是不定式to do的“专属职责”.* +
+
+=> *vi.的"过去分词"(如grown), 不能作"状语"!!但其"完成式"（having grown）却可以作状语.*
+|×
+
+|状(结果)
+|- What have I done 结果状 *to offend you*?  +
+我做什么得罪你了？
+|- I went home, 结果状 *finding the door locked*.  +
+我回到家，发现门锁着。
+|×
+
+|状(条件)
+|- The father will be proud 条件状 *for his son to win the gold medal*.  +
+如果他儿子能夺得金牌，这位父亲将非常自豪。
+|- 条件状 *Given more time*, I would be able to complete it. +
+如果再多给我一些时间，我就能把它做完。
+|×
+
+|状(原因)
+|- I was delighted 原因状 *to meet him*. +
+见到他我很高兴。
+|- 原因状 *Not knowing what to do next*, I want to ask for your advice. +
+由于不知道下一步该怎么做，所以我想问问你的意见。 +
+
+- 原因状 *With war seeming inevitable*, is there anything that the US can do to reverse the erosion to its image? +
+既然战争似乎一触即发，美国还能有什么办法来挽回自己形象的损失？
+|×
+
+|状(让步)
+|
+|- 让步状 *Having lived in Canada for three years*, he still can’t speak English well.  +
+尽管他在加拿大生活了三年，但英文依然说不好。
+|×
+
+|状(方式)
+|
+|- She came 方式状 *running hurriedly into her husband’s office one morning*. +
+一天早上，她匆忙地跑进她丈夫的办公室。
+|×
+
+|状(伴随/补充说明) +
+有时与"方式状语"较难区分
+|
+|- She lay sick, 伴随状 scarcely *moving* on her bed, *looking through* the small window at the blank side of the next brick house. +
+她病倒了，躺在床上几乎一动也不动，只能隔着小窗望着隔壁砖房侧面的那堵墙。
+|×
+
+
+|状(时间)
+|
+|- 时间状 *Hearing the joke*, we burst out laughing.  +
+听了这个笑话，我们大笑起来。
+|×
+
+
+
+|补
+| *不定式作补足语, 强调一个"一般性动作的全过程描述"*, 而非特指它现在正在进行中. +
+
+- Allow 宾me 宾补 *to drink to your success*!
+| *现在分词作"补足语", 强调"动作正在进行".* +
+
+- I heard him 宾补 *criticized many times*. 我听见他多次受到批评。
+|
+
+|===
+
+---
+
+== 三大非谓语动词自己的"逻辑主语"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

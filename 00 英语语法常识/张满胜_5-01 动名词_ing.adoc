@@ -1,0 +1,608 @@
+
+= 动名词 -ing
+:toc:
+
+---
+
+动名词 -ing，在意义上相当于一个名词，但同时又保留有动词的特征。 +
+-> 它的名词特征, 给它带来了 : 可以充当"名词"可以充当的成分，比如作主语, 宾语, 表语, 定语。
+-> *它的动词特征, 给它带来了 : 它可以有自己的宾语，有自己的时态和语态变化，并且也可保留自己的逻辑主语。*
+
+---
+
+== 作主语 : 放句首 (绝大部分情况下)
+"动名词"作主语一般直接放在"*句首*"(这点与"不定式"作主语不同)，*谓语动词用单数 (别忘了这一点! 是单数!)*。
+
+- *Getting mad at others* means other people are getting control of my emotions! 如果我生别人的气，就意味着我让别人控制了自己的情绪！
+
+- *Really using a language* makes all the difference, doesn't it? 真正去实地运用一门外语, 感觉完全不一样，对吧？ +
+-> using前面带有一个修饰语，即副词really，这是动名词具有"动词特征"的一个体现，即动词可以被副词修饰。 +
+学习外语的关键在于“运用”，这里的“运用”不仅仅是用它来阅读，更重要的是用它来进行口语及书面的交流，否则学了也会很快忘记或荒废，这就叫“*Use it or lose it 用进废退*!”
+
+- ___by transferring the blame to others *is*(单数!) often called scapegoating. (TOEFL) 通过把罪责推卸到别人身上，以此来逃避问题，这叫做找替罪羊。 +
+(a).The eliminated *problems* <- *由于句中谓语动词是单数的is，而本选项A是复数的主语，因此排除。* +
+(b).*Eliminating* problems <- 正确，即"动名词短语"作"主语"。+
+(c).Eliminate problems <- *有谓语，是一个完整的句子，但我们这里只缺主语。所以排除本项* +
+(d).Problems *are eliminated* <- 有谓语，是一个完整的句子，但我们这里只缺主语。所以排除本项 +
+
+- ___to inanimate objects, such as machines, *is*(谓语是单数!) a form of animism. (TOEFL) 认为没有生命的物体（如机器）也具有感情，这是一种“万物有灵论”的观点。 +
+a.When attributing emotion +
+b.*Attributing* emotion +
+c.Emotion *is attributed* +
+d.If emotion *is attributed* +
+-> *谓语动词是单数的is，句子缺少主语，因此空格处要填入一个"名词性短语"来充当主语。* 选项A有连词when，C是一个完整的句子，D有连词if，所以均不正确。因此B正确，即动名词短语作主语。
+
+---
+
+== 做主语 : 放句末 (在某些特定句型中)
+只有在某些特定的句型中, 才会出现把"动名词"放在"句末"作主语，句首用it形式主语来指代的情况. (这类似于不定式作主语的结构)
+
+==== 句型一：it is no good/no use doing sth. 干某事没有用
+
+表示“干某事没有用”。这里的it只是形式主语，真正的主语是句末的动名词短语 doing sth.。*其中，no good 可替换为any/some good, any/some/no use 以及 a waste of time等*。 +
+*其实，这里的 doing 的前面省去了介词in。*
+
+- *It's no use* crying over spilt milk. 牛奶被打翻了，再去哭是没有用的
+- *Is it any good* trying to explain? 努力解释有用吗？
+- *It's not much use* my buying salmon if you don't like fish. 如果你不喜欢吃鱼的话，那么我就没必要买鲑鱼了。
+- *It's simply a waste of time and money* seeing that movie. 看那个电影纯粹是浪费时间和金钱。
+- *It's a waste of time* talking to you.
+
+---
+
+==== 句型二：there is no point/use/good（in）doing sth. 干某事没有必要/没有意义
+表示“干某事没有必要/没有意义”，“干某事没有用”。
+
+- *There is no point* in my going out to date someone. 现在让我出去和人约会没有用。
+- But *there's no point* in doing that. 没必要
+- *There is no use* your arguing with him. 你没必要和他争论。
+- ...but *there's little use* in hurrying to get there. 不过不必这么匆匆忙忙地赶过去
+
+---
+
+==== 句型三：there is no doing sth. 不可能做某事
+意思相当于 it's impossible to do sth. 或 we can't do sth.，表示“不可能做某事”。
+
+- *There is no telling* what will happen tomorrow. 谁也无法预知明天会发生什么。
+- *There's no knowing* the future. 谁也无法预知未来。 +
+= It's impossible to know the future. +
+= We can't know the future.
+
+- *there is no denying the fact that*... +
+= *there is no gainsaying(v.)(`=gainsay : 常用于否定句 ( formal ) [ VN ] to say that sth is not true; to disagree with or deny sth 反驳；反对；否认`) the fact that*..., 意思都是“毋庸置疑”。 +
+-> gainsay => gain, 相反，来自again的原义，同against.
+
+---
+
+== 作宾语
+动名词主要就是放在某些特定的动词后面, 或者介词后面, 作宾语，此外还可以用在某些特定的句型结构中。
+
+==== 在 "动词（短语）" 后面, 作宾语
+
+这些动词（短语）后面, 一般要用"动名词"作宾语：admit, advise, anticipate, appreciate, avoid, consider, contemplate delay, deny, detest, discuss, dislike, encourage, endure, enjoy, escape, excuse, fancy, favor, feel like, finish, forbid, forgive, give up, can't help, imagine, involve, leave off, mention, mind, miss, overlook, permit, postpone, practice, prohibit, put off, resent, resist, risk, can't stand, suggest, tolerate, understand 等。 +
+*可以看出, 这些动词往往与"人的想法, 情感, 态度, 意向"有关的.*
+
+- Many of the things we do (动 *involve 宾 taking some risk*) in order to achieve a satisfactory result. 为了得到满意的结果，我们做的很多事情都涉及到冒险。 / 要想取得满意的结果，我们必须冒一些风险。 +
+-> 动词involve后面需要接"动名词"，所以用taking而不说to take。
+
+- Peter, who had been driving all day, 谓 *suggested 宾 stopping* at the next town. 彼得因为已经开了一整天的车了，所以他建议在下一个小镇停车休息。 +
+-> 动词suggest后面需要接"动名词"，所以用stopping而不说to stop。
+
+- They 谓 *are considering 宾 buying the house* before the prices go up. 他们正在考虑买下这栋房子，以防房价再上涨。 +
+-> 动词consider后面需要接"动名词"，所以用buying而不说to buy。
+
+- She was so angry that she 谓 *felt like 宾 throwing something at him*. 她当时是那么生气，以至于真想找东西砸他。
+
+- I *will overlook your being* so rude to my sister this time but don't let it happen again. 这次你对我妹妹态度粗鲁就算了，但下不为例。 +
+-> 该句的谓语overlook后面接了物主代词your，然后再接"动名词"being，二者一起构成了"动名词的复合结构"your being...，*其中your 是动名词being的逻辑主语。*
+
+- Can you *imagine a European television station putting* a Pakistani immigrant family on television and *asking* if they'd learned to use a knife and fork yet? 你能想象一个欧洲的电视台采访一个巴基斯坦移民家庭，然后问他们‘你们学会使用刀叉了吗？’这类的问题吗？ +
+-> 谓语动词imagine后面, 接了一个名词短语 a European television station，然后再接两个动名词putting和asking。二者一起构成了"动名词的复合结构" a European television station putting...and asking...，*其中名词短语 a European television station 充当动名词的逻辑主语。*
+
+---
+
+==== 在"介词"后面, 作宾语
+
+*在"介词"后面, 不能直接用"动词原形"作宾语，必须改为"动名词"。*
+
+不过，对于介词to稍微有些特殊: +
+-> 如果它是属于 to do不定式的小品词, 则 to 后面是接动词原形的, 因为它整个就是个"动词不定式". +
+-> 但如果 to 是个介词, 则后面必须只能接"动名词", 来做宾语.
+
+*常见的介词to短语，都必须接"动名词"*，而不能接动词原形。这些短语有： +
+look forward to, +
+object to (不同意；不赞成；反对), +
+be/get used to, +
+prefer doing to doing, +
+in addition to, +
+be accustomed to do/doing (习惯于), +
+amount to doing（意味着）, +
+take to doing（开始喜欢做）, +
+devote...to doing/be devoted to doing (献身；致力；专心), +
+dedicate...to doing/be dedicated to doing (把…奉献给) , +
+be averse to doing (不喜欢；不想做；反对做), +
+be opposed to doing (反对（计划、政策等）；抵制；阻挠), +
+get round to doing (抽出时间做), +
+the alternative/approach/solution to doing 等。
+
+- I *am looking forward to(介) 宾 hearing* from you. 我期待你的来信。
+- I *am accustomed to(介) 宾 sleeping* with the lights on. /I *am accustomed to sleep* with the lights on.
+- The students *object(v.) to(介) 宾 increasing* their tuition. 生们反对提高学费。
+- After a long delay I finally *got round to(介) 宾 making* inquiries into the matter. 拖了很长时间以后，我才终于抽出时间来过问这件事。
+
+- *As an alternative(n.) to(介) 宾 using* a single-occupancy vehicle, carpooling *involves* two to five commuters sharing a vehicle.  作为单人驾车之外的选择，拼车是指两到五个通勤者共乘一辆车。 +
+-> 这里的alternative后的to是介词，后面接动名词using。另外，involve后面接的就是上面提到过的"动名词的复合结构" two to five commuters sharing a vehicle，其中two to five commuters充当动名词sharing a vehicle的逻辑主语。
+
+关于这样的短语，需要大家在平时的学习过程中, 注意不断地积累和总结。
+
+网上还有一段: +
+
+1．动词+介词to+动名词, +
+admit to doing sth 承认做了某事, +
+apply to doing sth 适用于做某事, +
+object to doing sth 反对做某事, +
+see to doing sth 负责做某事, +
+stick to doing sth 坚持做某事, +
+take to doing sth 喜欢上做某事, +
+
+2．动词+宾语+介词to+动名词, +
+apply oneself to doing sth 专心致力于做某事, +
+devote sth to doing sth 把……献给做某事, +
+devote oneself to doing sth 献身于做某事, +
+limit sth to doing 把……限制在某事的范围内, +
+reduce sb to doing sth 使某人沦为做某事, +
+
+3．动词+名词+介词to+动名词, +
+give one’s life to doing sth 献身于做某事, +
+give one’s mind to doing sth 专心做某事, +
+have a dislike to doing sth 厌恶做某事, +
+have an eye to doing sth 注意做某事, +
+have an objection to doing sth 反对(反感)做某事, +
+pay attention to doing sth 注意做某事, +
+set one’s mind to doing sth 决心做某事, +
+
+4．be+形容词+介词to+动名词, +
+be equal to doing sth 等于做某事,能胜任做某事, +
+be used to doing sth 习惯于做某事, +
+be opposed to doing sth 反对做某事, +
+be reduced to doing sth 使某人沦为做某事, +
+be devoted to doing sth 把时间（钱、精力等）献给做某事, +
+be limited to doing sth 把……限制在做某事的范围内, +
+
+5．其他结构+介词to+动名词, +
+get down to doing sth 开始做某事,认真处理某事, +
+look forward to doing sth 盼望做某事, +
+what do you say to doing sth 你认为做某事如何?
+
+---
+
+==== 在特定的句型中, 作宾语 : 1.“做某事遇到了麻烦/困难” 或 “做某事很开心”
+
+英语中有很多固定的句型结构, 是要求接"动名词"作宾语的.
+
+最常见的是表示“做某事遇到了麻烦/困难”，或“做某事很开心”。 +
+have difficulty (in) doing sth +
+have trouble (in) doing sth +
+have problems (in) doing sth +
+have a hard time (in) doing sth +
+have a good time (in) doing sth +
+have a difficult time (in) doing sth +
+
+have (a lot of) fun (in) doing sth +
+have (lots of) pleasure (in) doing sth +
+
+- Woman: *How do you find* your new apartment? +
+Man: Well, it's quite nice really, although *I have a hard time getting used to living* in a big place. +
+女：你觉得你那新公寓怎么样？  +
+男：哦，真的很好，尽管我一时还没有适应住这么大的房子。 +
+-> 这里的短语 have a hard time 后面接了getting这个"动名词"。另外 get used to 的后面也要求接"动名词"，所以用living。
+
+另外要注意：*How do you find...这个句型的含义是“你觉得……怎么样”，是在向对方征询意见或看法的，不要误解成“你是怎么发现……的”，* 因此上句不能理解成“你是怎么找到你的新公寓的？” *如果要表达后者的意思，则要用过去时*，说成“How *did* you find...?”
+
+- We *are having all kinds of trouble finding* a new apartment for next year. What about you? 我们在为明年找房子租，遇到了各种麻烦。你怎么样？
+-  I *had a hard time getting through* this novel. 这本小说我很难再继续看下去了。
+
+
+---
+
+==== 在特定的句型中, 作宾语 : 2. 表示“情不自禁”，“不得不”的短语
+
+表示“情不自禁”，“不得不”的短语. +
+这些短语包括： +
+can't help doing,  +
+can't resist doing,  +
+can't keep from doing,  +
+can't hold back from doing +
+can't keep back from doing 等等。
+
+- No one *can help liking* Tom; he is such a cute boy. 没有人不喜欢汤姆，他实在太可爱了。
+
+不过要注意下面的短语要接动词原形，但它们的意思不变： +
+can't help *but do* 不得不做,  +
+can't *but do* 只得做 +
+can't choose *but do* 别无选择。
+
+
+---
+
+==== 在特定的句型中, 作宾语 : 3. 其他句型结构 : be worth doing,  be busy doing 等等
+
+此外，还有其他一些短语，比如 *be worth doing*, 表示“值得做”。 +
+*注意这些短语要用"主动形式"，但表示"被动"的意思。* +
+还有: +
+*be worthy of being done/to be done*
+
+- The book *is worth reading*. 这本书值得一读。 +
+= The book *is worthy of being read*. +
+= The book *is worthy to be read*.
+
+还有, *be busy doing* 这个句型结构, 也是用"动名词"做宾语.
+- The money will be used *to keep* a space vehicle on the moon *busy sending back to the earth* photographs and other information about the surface of the moon. +
+这些钱将被用来, 使月球上的航空飞行器, 持续不停地把有关月球表面的图片和其他信息, 发回到地球。
+
+---
+
+== 作表语
+
+- His hobby is *collecting stamps*. 他的爱好是集邮。
+
+- Nick: Another odd thing I see would be *girls holding hands*. If two girls their age did that in Britain we would think they were gay! 尼克：我发现，还有一件奇怪的事情就是女孩子们手拉手。这要是在英国，我们会认为她们是同性恋！
+
+---
+
+== 作定语
+
+- a *sleeping* car 小卧车
+- a *swimming* pool
+- a *reading* room 阅览室
+
+在英语中，*"动名词"作定语的情况比较少见，远没有"现在分词"作定语常见。*
+
+---
+
+== -------------------------
+
+---
+
+
+== 动名词 的"逻辑主语"
+
+同不定式类似，动名词也是动词的一种变化形式。*既然是动词, 就应该有动作的执行者，即主语。 而"句子的主语"和"动名词的动作执行者", 并不总是统一的*，有时是一样的，有时不一样，*所以称之为"逻辑主语"，以区别于句子的主语。* +
+动名词与其逻辑主语, 一起构成动名词的复合结构。
+
+
+==== 逻辑主语的形式1 : 物主代词 + 动名词 (例如 Mary's doing)
+
+*物主代词（如his, my, your等）或所有格名词（如Mary's, Tom's等）与"动名词"连用，即构成"动名词的复合结构"（如his doing, Mary's doing等），用来引出"动名词"的"逻辑主语"*。
+
+*当句子的主语, 并不是"动名词动作"的执行者时，我们往往需要给出"动名词"自己的动作发出者，即"动名词"的"逻辑主语"。*
+
+- Clint insisted on *reading* the letter. 克林特坚持要看信。 +
+-> *本句中, 没有使用动名词的复合结构，此时，动名词making的逻辑主语并不明确*，可以是指某一类人。
+
+- Clint insisted on *my reading* the letter. 克林特坚持 *要我* 看信。(*reading的逻辑主语是my*) +
+-> *本句中, 采用了动名词的复合结构，此时，句子的主语Clint并非"动名词"reading的逻辑主语，而my才是reading的逻辑主语，即“我看了信”。*
+
+又例 +
+
+- I object to(介词) *making* private calls on this phone. 我不赞成 *用这部电话* 打私人电话。 +
+-> 没有使用动名词的复合结构，此时，动名词making的逻辑主语并不明确，可以是指某一类人。
+
+- I object to *his making* private calls on this phone. 我不赞成 *他用这部电话* 打私人电话。 +
+-> *采用了动名词的复合结构，此时，动名词making的逻辑主语非常明确，即“他 his”。*
+
+---
+
+==== 逻辑主语的形式2 : 名词所有格 + 动名词
+
+动名词的复合结构, 也可以由 : 名词所有格, 接动名词构成。
+
+名词所有格 : 就是表示有生命的东西的名词, 及某些表示时间、距离、星球、世界、国家等无生命的东西的名词后加 ’s来表示所有关系，叫做"名词所有格"。 例如: +
+men’s room 男厕所 +
+the moon’s light 月光 +
+five minutes’ walk 五分钟路程
+
+
+-  Would you mind *telling us* the whole story? 你是否愿意 *把* 事情的经过告诉我们？ +
+-> *没有使用动名词的复合结构，此时，句子的主语you同时充当动名词telling的逻辑主语，即“你来讲述”。*
+
+- Would you mind *Tom's telling us* the whole story? 你是否愿意 *让汤姆把* 事情的经过告诉我们？ +
+-> 采用了动名词的复合结构，此时，句子的主语you并非动名词telling的逻辑主语，*而Tom才是telling的逻辑主语，即“汤姆来讲述”*，相当于说 Would you mind if Tom tells us the whole story？
+
+又例: +
+- He disliked *working* late. 他不喜欢加班。
+- He disliked *his wife's working* late. 他不喜欢 他妻子加班。
+
+---
+
+==== 逻辑主语的形式3 : 宾格代词(me, him) / 普通格名词(Tom, his wife) + 动名词
+
+
+值得注意的是，在某些情况下，动名词的逻辑主语可以不是"物主代词"或"名词所有格"，而是直接采用"宾格代词"（如me和him）或"普通格名词"（如Tom和his wife）。
+
+- That yearning for study was still there. I came here with no thought of *it being* an unusual thing at all. 我仍有强烈的学习的愿望，到这来我一点也不觉得有什么反常的。 +
+-> 该句中的"动名词的复合结构" it being 是由宾格代词 it, 与动名词 being 构成的。当然这里我们也可以说 its being。
+
+- Movies, TV shows and books in America all picture *people falling in love*. 美国的电影、电视和书籍都描绘人们如何坠入爱河。 +
+-> 该句中的动名词的复合结构 people falling in love 是由普通格名词people, 与动名词falling 构成。当然这里我们也可以说 people's falling in love。
+
+- The old chestnut about *women being more emotional than men* has been forever destroyed by the facts of two great wars. 两次世界大战的事实永远粉碎了女人比男人更多愁善感的陈词滥调。 +
+-> 该句中的动名词的复合结构 women being more emotional than men, 是由普通格名词 women, 与动名词 being 构成的。当然这里我们也可以说 women's being more emotional than men。
+
+---
+
+== 在应用动名词的"复合结构"时，什么时候用普通格，什么时候用所有格?
+
+在应用动名词的复合结构时，什么时候用"普通格"，什么时候用"所有格"，一般遵循下面的规定：
+
+==== 1. 若动名词的复合结构, 在句中"作主语"，最好用"所有格"形式.
+
+- 主 *Tom's refusing to accept the invitation* `upset` me. 汤姆拒绝接受邀请，这让我很恼火。 +
+-> 该句中的动名词的复合结构 Tom's refusing to accept the invitation 在句中作主语，因而不宜用普通格名词 Tom refusing...。
+
+- 主 *His refusing to accept the invitation* `upset` me. 他拒绝接受邀请，这让我很恼火。 +
+-> 该句中的动名词的复合结构 his refusing to accept the invitation 在句中作主语，因而不宜用宾格代词 Him refusing...。
+
+---
+
+==== 2. 动名词的复合结构, 在句中"作宾语"时，用"普通格"或"所有格"均可.
+
+- Do you `mind` 宾 *me/my making a suggestion*? 我提个建议，你介意吗？
+- I `am annoyed about` *John/John's forgetting to pay*. 约翰忘记付钱，这让我很生气。
+
+
+- With other audiences you mustn't attempt to cut in with humor as they `will resent` *an outsider 外人；局外人 making disparaging remarks about* their canteen or their chairman. 而对于其他听众，你就不能试图插入这种幽默，因为他们不喜欢外人对他们的餐厅或老总有如此微词。 +
+-> 因为 *resent 的后面要求接"动名词"作宾语*，所以这里的 an outsider making disparaging remarks 即是一个动名词的复合结构，其中动名词的逻辑主语, 用了"普通格"名词 an outsider，当然也可以用"所有格" an outsider's。
+
+- The latest revolution isn't simply `a matter of` *gentlemen reading other gentlemen's e-mail*. 最近的这次革命不只是一些人偷看另一些人的电子邮件的问题。 +
+-> *这里其实逻辑上是做matter的定语. 但表面上也算是能看做作为 of 的宾语吧*~  +
+-> 这里的 gentlemen reading other gentlemen's e-mail 即是一个动名词的复合结构，*其中动名词的逻辑主语, 用了普通格名词 gentlemen，当然也可以用所有格gentlemen's。*
+
+- All these conditions tend to increase `the probability of` *a child committing a criminal act*. 所有这些条件往往会增加青少年犯罪的可能性。
+-> 这里的 a child committing a criminal act 即是一个动名词的复合结构，其中动名词的逻辑主语, 用了"普通格"名词 a child，当然也可以用"所有格" a child's。
+
+---
+
+==== 3. 当"动名词"的"逻辑主语", 是无生命的“物”而不是“人”时，最好用"普通格".
+
+
+- There is a necessity for `*this type of houses` being built*. 有必要修建这种类型的房屋。
+-> 这里的 this type of houses *being built* 即是一个动名词的复合结构，*其中动名词的逻辑主语, 用了"普通格"名词 this type of houses，因为是表示“物”。*
+
+- In the event of `*the project` not being a success*, the investors stand to lose up to $30 million. 万一这个项目投资失败，投资者将会损失三千万美元。 +
+-> 这里的 the project *not being* a success 即是一个动名词的复合结构，*其中动名词的逻辑主语, 用了普通格名词 the project，因为是表示“物”。*
+
+- `*The young` leading the young*, is like the blind leading the blind; "They will both fall into the ditch." The only sure guide is he who has often gone the road which you want to go. +
+青年为青年引路，如同盲人为盲人引路；“两人会一同掉进沟里。”唯一可靠的向导是这样的人：他常走的路正是你想走的路。 +
+-> 这里的 the young leading the young 即是一个动名词的复合结构，*其中动名词的逻辑主语是 the young，表示“年轻人”。虽然是表示“人”，但由于是形容词，而形容词是没有所有格形式的，所以不说 the young's。*
+
+---
+
+==== 4. 当"动名词"的"逻辑主语", 是"不定代词"（如someone, anyone, everyone等）时，最好用"普通格".
+
+- He was awakened *by `someone` knocking on the door*. 有人敲门，把他吵醒了。
+
+---
+
+==== 5. 当"动名词"的"逻辑主语", 由"较长的一组词"构成时，最好用"普通格".
+
+- There is no point `*any one of us` arguing with him*. 我们谁与他争论都没有用。 +
+-> 这里的 any one of us arguing 即是一个动名词的复合结构，*其中动名词的逻辑主语 any one of us是一个短语，所以不便用所有格代词。*
+
+- I've always had in my mind a dream of `*my father, mother and I` living together*. 我一直有一个梦想，我的父亲、母亲和我生活在一起。 +
+-> 这里的 my father, mother and I living together 即是一个动名词的复合结构，*其中动名词的逻辑主语 my father, mother and I 是一个名词短语，所以不便用所有格代词。*
+
+- "Can you imagine `*a European television station` putting* a Pakistani immigrant family on television and *asking* if they'd learned to use a knife and fork yet?" +
+“你能想象一个欧洲的电视台采访一个巴基斯坦移民家庭，然后问他们‘你们学会使用刀叉了吗？’这类的问题吗？” +
+-> 这里的 a European television station putting... 即是一个动名词的复合结构，*其中动名词的逻辑主语 a European television station 是一个短语，不宜用所有格。*
+
+
+总结:
+
+在以上五点内容中，前两点是与动名词的复合结构在句中所充当的成分有关，后三点则是与动名词的逻辑主语本身的构成有关。
+
+---
+
+== 动名词复合结构的用法
+
+==== 用作"主语"
+
+- `主` *Tom's coming home* at last `系` was a great consolation(`= a person or thing that makes you feel better when you are unhappy or disappointed SYN comfort 使感到安慰的人（或事）；安慰；慰藉`).
+
+- `主` *The young leading the young*, `系` is like the blind leading the blind;
+
+---
+
+==== 用作"动词"的"宾语"
+
+- Do you mind `宾` *my making a suggestion*?
+- Can you imagine `宾` *a European television station putting* a Pakistani immigrant family on television and asking if they'd learned to use a knife and fork yet?
+
+---
+
+==== 用作"介词"的"宾语"
+
+- Clint insisted on `宾` *my reading the letter*. 克林特坚持要我看那封信。
+- What are the chances of *a sleepwalker's committing a murder* or *doing something else extraordinary* in his sleep? 梦游者在睡梦中杀人或做其他不寻常的事情的几率有多大? +
+-> 逻辑上是做 chances 的定语. 表面上是做介词 of 的宾语.
+
+---
+
+== -------------------------
+
+
+---
+
+== 动名词的"时态和语态"
+
+
+|===
+|四种体态|主动|被动
+|一般式|writing|being written
+|完成式|having written|having been written
+|进行式|没有|没有
+|完成进行式|没有|没有
+|===
+
+==== 动名词的"被动式"
+
+一般来说，当"动名词"所修饰的"名词或代词", 在意义上是充当动名词动作的承受者，或者说是作动名词的"逻辑宾语"时，动名词要用被"动形式"。
+
+- *He* narrowly escaped *being run over*. 他差一点就被车轧着了。 +
+-> *动名词 being run over 修饰主语he，二者存在被动关系，即, he 是作为 run over的逻辑宾语*, 表示“他被车子轧”，所以动名词要用"被动结构"。
+
+- There is only one thing in the world worse than *being talked about*, and that is not *being talked about*. 世界上比被人议论更糟糕的一件事情就是根本没有人去议论。
+
+又例, 比较:
+
+- I still remember *being taken* to the zoo for the first time. 我还记得第一次被带到动物园去的情景。 +
+-> 动名词 being taken 修饰主语I，二者存在被动关系，即表示“我被带去动物园”，所以动名词要用"被动结构"。
+
+- I remember *my parents' taking me* to the zoo for the first time. 我还记得父母第一次带我去动物园的情景。 +
+-> 采用了动名词的复合结构 my parents' taking，此时，动名词taking与my parents是主动关系，所以动名词要用"主动结构"。
+
+又例
+
+- I have not the least objection to *the child being punished*. 对这孩子进行惩罚我丝毫不反对。 +
+-> 该句中采用了动名词的复合结构 the child being punished，因为逻辑主语 the child, 与动名词, 存在被动关系，所以这里的动名词要用"被动的" being punished。
+
+---
+
+==== 有一些动词(demand, deserve, need, require, want 等)的动名词的主动形式, 也能表示"被动"意思
+
+在上面我们看到，若动名词与其所修饰的名词之间, 是"被动关系"，则动名词要用"被动形式"。*但是，在demand, deserve, need, require 和 want 等动词后面，动名词的"主动形式"就表示"被动"的意思，而不需用动名词的被动形式。*
+
+- The garden `needs` *watering*. 这个花园需要浇水。
+- He `deserved` *praising*. 他应该受到表扬。 <- 不能说 He deserved *being praised*. × 这句是错的!
+- Your hair `wants` *cutting*. 你的头发需要剪了
+- The steak is raw. It `needs` *cooking more* before I can eat it. 这个牛排还是生的，需要再煎一会才能吃。
+
+
+*注意，这些动词的后面, 也可以接"不定式"，但必须用"动词不定式的被动形式"。* 所以上面的句子, 都可以改写为"被动的不定式结构".
+
+- The garden `needs` *watering*. +
+= The garden `needs` *to be watered*.
+
+- He `deserved` *praising*. +
+= He `deserved` *to be praised*.
+
+- Your hair `wants` *cutting*. +
+= Your hair `wants` *to be cut*.
+
+- The steak is raw. It `needs` *cooking more* before I can eat it. +
+= The steak is raw. It `needs` *to be cooked more* before I can eat it.
+
+又例, 比较:
+
+- He `deserves` *shooting* first. 他应该第一个被枪毙。 +
+-> *因为用在deserve后面的动名词是"主动形式", 表示"被动"意思*，所以这里shooting的意思是被动的，即表示“他应该第一个被枪毙”。若改成不定式, 则应该说 : He `deserves` *to be shot* first.
+
+- He `deserves` *to shoot* first. 他应该第一个开始射击。 +
+-> 不定式采用了主动形式，即表示“他应该第一个开始射击”。
+
+从以上这个例句我们看到，正确使用动词的形式是多么重要，真可谓“差之毫厘，谬以千里” -- deserve后用shooting表示被动“他被枪毙”，而用to shoot表示主动“他开枪射击”。
+
+---
+
+== 动名词的"完成主动式"
+
+一般来说，*动名词的"完成式", 表明动名词的动作, 发生在谓语的动作之前，尤其是当动名词的动作, 是在谓语之前的一段较长时间内持续的情况。*
+
+- Research by Petplan, a British insurance company, found that 35 percent of its customers *admitted to having taken* time off work to look after pets or settle new animals. +
+一家英国保险公司Petplan的研究表明，它的35%的客户都承认，自己曾经请假回家照看宠物或安置新宠物。 +
+-> *这里"动名词的完成式" having taken 类似于一个"过去完成时态"*，相当于说 its customers admitted that they *had taken* time off work to look after pets...，*表示一种过去的经历。* 所以，*这里动名词的动作, 是发生在谓语的动作之前，自然用"完成式"比较合适。*
+
+- He denied *having been* there. +
+= He denied *that he had been* there. 他否认去过那里。
+
+- He regretted *not having gone to* university. 他很后悔当初没有上大学。 +
+-> 动名词的动作,在谓语的动作之前，所以说having gone。
+
+- The man confessed to *having told* a lie to the manager of the company. +
+-> 那个人承认对这家公司的经理说了谎。
+
+---
+
+== 动名词的"完成被动式"
+
+动名词的"完成被动式"的构成, 是 having been done，它兼具"完成式"和"被动式"的双重特点。
+
+- I knew it would take him many years to get over *never having been loved*. 我知道他将花上许多年的时间才能消除那种从来就没有被爱过的感觉。 +
+-> *该句的动名词* never having been loved *是用在 get over 后面作"宾语"*，显然动名词的动作, 是在谓语的动作之前，表示在过去一段较长时期内，他因为是孤儿而没有被人爱过，所以自然用"完成被动式" having been loved合适。
+
+- I appreciate *having been given* the opportunity to study abroad two years ago. 我很感激两年前得到一次出国留学的机会。 +
+-> 谓语 appreciate 是表示当前的情况，而动名词 having been given 是谈两年前的情况，即动名词的动作, 发生在谓语的动作之前，因此要用完成式。
+
+又例: 填空
+
+- Our modern civilization must not be thought of as _ _ (create) in a short period of time.  +
+我们的现代文明决不能认为是在一朝一夕之间建立起来的。 +
+-> 首先，*句子的主语 civilization 与 create 是被动关系，所以该用动名词的"被动式"*；其次，*“文明的创建”显然是在谓语动作 be thought of as 之前很长时间发生的，故要用"完成式"。* 被动式与完成式结合，即要用"完成被动式"的动名词，所以空格内应该填入 *having been created*。
+
+
+- Mark often attempts to escape _ _  (fine) whenever he breaks traffic regulations. +
+马克每次违反了交通规则后常常试图逃避罚款。 +
+-> 首先，*句子的主语 Mark 与 fine 是被动关系，表示“马克被罚款”，所以该用动名词的"被动式"*；其次，*这里“罚款”是表示一般的情况，并不是发生在谓语的动作之前，所以要用"一般式"。* 被动式与一般式结合, 即要用"一般被动式"的动名词，所以空格内应该填入 *being fined*。
+
+---
+
+== -------------------------
+
+---
+
+== there be 的不定式, 与动名词形式
+
+本节主要是比较 there be句型 的两种非谓语形式, 以及它们的用法。
+
+==== there be 的"动名词"形式 -> there being : 表示“有”的意思，多用于介词后面。
+
+here be 的"动名词"形式为 *there being*，依然表示“有”的意思，*多用于介词后面*。 +
+====
+*介词 + there being ...*
+====
+
+- He spoke of *there being* danger. 他当时提到过有危险。 +
+-> 因为有介词of，所以该用"动名词"形式，即there being。
+
+上句, 为什么这里要有there？我们不用there不可以吗？比如说： +
+He spoke *of being* danger. × <- 错误 +
+-> 这主要是句子意思表达的需要，*因为这里要表示“有危险”的意思，而不是“是危险”。所以要用there be 而不是 be。*
+
+又例
+
+- No one would have dreamed of *there being* such a good place. 谁也不会想到，会有这么一个好地方。 +
+-> 这里表示“有”且有介词 of，故要用 there be 的"动名词"结构，即there being。
+
+- Do not bet on *there being* many marriages in China that began with love at first sight. 别以为许多中国人的婚姻始于“一见钟情”。 +
+-> 这里表示“有”, 且有介词on，故要用 there be 的动名词结构，即there being。
+
+
+---
+
+==== there be 的"不定式"形式 -> there to be
+
+there be 的"不定式"形式为 there to be，*用在接"不定式"作"宾语"的动词后面, 或介词for后面。*
+====
+v(后跟不定式) + there to be(即不定式) +
+介词 for + there be
+====
+
+- I don't *mean there to be* any unpleasantness. 我并没有任何冒犯之意。 +
+-> *在 mean 的后面要接"不定式"*，表示“打算”，*所以用 there to be。*
+
+- I don't *want there to be* any misunderstanding on this point. 我不希望在这一点上有什么误解。 +
+-> *在 want 的后面要接"不定式"，所以用 there to be。*
+
+- The students *expected there to be* more reviewing classes before the final exam. 同学们都希望在期末考试之前能够多上一些复习课。 +
+-> *在 expect 的后面要接"不定式"，所以用 there to be。*
+
+- *For there to be* life, there must be air and water. 要想有生命，首先得要有空气和水。 +
+-> *在介词 for 后面,有there to be.*  这里的不定式, 表示"目的"，相当于一个目的状语从句 in order that there may be life。 +
+= *In order that* there may be life, there must be air and water. 要想有生命，首先得要有空气和水。
+
+- It was too late *for there to be* any buses. 当时太晚了，没有任何公共汽车。 +
+-> 句中的不定式, 是用在for引导的逻辑主语结构中，放在了形容词后面。
+
+
+
+

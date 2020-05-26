@@ -1,0 +1,80 @@
+
+= 定语从句的简化(降格为"非句子")
+:toc:
+
+---
+
+== 如果"关系词(假对象)"充当定语从句中谓语的"宾语", 则该定语从句, 就无法简化! 只有"关系词(假对象)"充当定语从句中谓语的"主语", 该定语从句才能简化.
+
+首先要注意, 不是所有的"定语从句"都可以简化, 其原因之一是, 这与"定语从句"本身的结构有关。因此, 我们的考虑顺序, 就分为两步:
+
+1. 什么样的"定语从句", 才能简化为短语?
+2. "定语从句"可以简化为什么样的短语? 是分词短语、是不定式短语，还是其他形式的短语？
+
+*一般的规律是：如果关系词(假对象)在"定语从句"中充当"宾语"，这样的定语从句不能简化成一个短语。只有当关系词在"定语从句"中作"主语"时，才能把定语从句简化为短语。*
+
+- The man (`宾` *that* I `谓` *saw* at the party last night) is my teacher. 我昨晚在聚会上碰到的那个男子是我的老师。 +
+-> 这个定语从句中, *关系词that, 作从句谓语saw的宾语*，此时，我们可以把that省去。比如说成：The man (I saw at the party last night) is my teacher. 但是，对于这样的定语从句，我们是无法把它简化为短语形式的。
+
+---
+
+== 把"定语从句"简化为"非谓语"的形式，会丢失"时态上"的精确性
+
+定语从句, 是放在被修饰的名词后面的，因此定语从句是非常重要的一类"后置定语"。 +
+其实, 用作"后置定语"的短语, 都可以看作是"定语从句"简化后的结果，或者说都可以用"定语从句"来改写。
+
+
+|===
+|定语从句 |-> 简化为非句子(非谓语/短语)
+
+|- The people (`主` who `系` were responsible for the incident) were all punished.
+|- 简化: The people (responsible for the incident) were all punished.  +
+-> 形容词短语responsible for the incident后置修饰people，可以看成是左边那个定语从句简化后的结果。
+
+|- the girl (who was standing in the corner) +
+当时正站在角落中的女孩. +
+-> 由定语从句 who *was standing* in the corner, *我们可以明确地知道，这里谈的是一个"过去进行"的情形*.
+|- 简化: the girl (standing in the corner) 站在角落中的女孩. +
+-> *由分词短语* standing in the corner, *我们看不出这个"过去进行时态"了*，这里的standing 可以相当于说 who *is standing* 或 who *was standing*，甚至是一般情况如 who *stands* 或 who *stood* 等。*由此可见，"后置定语"与"被修饰名词"之间的逻辑语义关系, 变得模糊了，不像"定语从句"表达得那么明确。*
+
+- 进一步简化: the girl (in the corner) 角落中的女孩. +
+-> *连分词standing都没有了*，只保留了in the corner这个介词短语，*这里的含义就更模糊了，比如说这个女孩可能是 standing* in the corner，*也可能是 sitting* in the corner，*也可能是 lying* in the corner 等。
+|===
+
+由此我们看到，*各个短语（如形容词短语、分词短语, 和介词短语等）作后置定语，其实都与"定语从句"有着密切的关系*，都可以统一于"定语从句"。 +
+*相应地，若把一个定语从句进行简化，那么简化后的结果, 必然也可能是这样的一些短语，如分词短语、介词短语、形容词短语, 或不定式短语等等。*
+
+但同时我们也能发现: *在上述简化的过程中，短语的意思有所改变了。即, 一个句子(比如定语从句)的"谓语", 可以表达的各种时态, 但在简化为非谓语动词的"分词"后, 就会丢失时态.*
+
+
+本处, 我们只讨论"定语从句"简化成"分词短语"和"不定式短语"这两个"非谓语动词"的情形。
+
+|===
+|定语从句 |简化为非谓语动词(分词)
+
+|- The person (who *writes* reports) +
+- The person (who *is writing* reports) +
+- The person (who *wrote* reports) +
+- The person (who *was writing* reports) +
+- The person (who *will write* reports) +
+- The person (who *will be writing* reports) +
+|- The person *writing* reports... +
+-> 只有"主动/被动关系"能看出, 而"时态信息"全部丢失.
+|===
+
+从这个例子中我们看到，一个分词writing可能对应的谓语时态形式, 是如此之多，而每一种谓语形式所表达的时间都是不同的。换句话说，*这些明确表达时间的谓语动词, 若简化为分词短语，都只有一种形式即writing，则会失去其时态上的精确性。*
+
+*所以，把"定语从句"简化为"非谓语"的形式，虽然结构变得简洁（concision）了，但这是以"明晰性"（clarity）为代价的，即逻辑语义关系的明晰性降低了，意思变得模糊了。* 对此，读者应该有所了解。*这是某些"定语从句"不能简化成"分词短语"的一个重要原因。*
+
+---
+
+==
+
+
+
+
+
+
+
+
+

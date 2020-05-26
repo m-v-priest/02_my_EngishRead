@@ -1,0 +1,406 @@
+
+= 翻译的技巧
+:toc:
+
+---
+
+== it 做形式宾语
+形式宾语，在某些常说的文句中，可以省略不用，尤其是后接不定词的时候为然:
+
+- Your father thought 〔it〕 fit to leave me guardian. 你父亲认为请我做监护人最为适合。
+-  He forgot everything but 〔it〕 that he was near her.（Galsworthy） 他跟她在一块儿就把一切都忘了。
+
+---
+
+== it is adj. for/of sb to do ...
+
+用 for(事) 和 of(人) 的区别是:
+
+1. It is adj.(行为的性质) *for sb* + to do sth.
+
+- It is *necessary* for you *to do so*. 指你的"行为"是必要的. <- “必要的”（necessary）是指“行为”，不是指“行为者”。
+- It was *impossible* for him *to go alone*. <- “impossible”是指“事”而不是指“人”
+- It is *enough* for me *to say that* some of its circumstances passed before my own eyes.（Dickens）关于我亲眼看见许多这样的情形的事，我已经说得够了。
+
+2. It is adj.(修饰人) *of sb* + to do sth. //其实是即修饰行为的人, 又修饰行为的性质.
+
+- It is *kind of you* to do so. 既可以修饰“你的行为"是亲切的, 也可以修饰"行为者的你"是亲切的. <- “亲切的”（kind）既是指“行为”,又是指“行为者”。
+- *It was foolish of him* to go alone. <- “foolish”既可指“事”，又可指“人” .
+- *It was wrong of you* to borrow his bicycle without asking his permission.
+- I think *it wise of him* not to accept their offer.
+
+---
+
+==  It is no use + 动名词doing sth = It is of no use + to do sth
+
+“无益”或“无用”, 下面两种说法都可以:
+
+1. It is *no use(n.) + 动名词doing sth*
+
+- *It is no use*(n.) cry**ing** over spilt milk. 覆水难收。
+- *It is no use* your try**ing** to deceive me.（你别想欺骗我。）
+- *It is no use* my argu**ing** with you.（我用不着和你争论。）
+
+2. It is *of no use(a.) + to do sth* : “无益”或“无用” +
+= It is useless(a.) + to do sth
+
+---
+
+==  it is... that/who/which : 强调句, 加重语气
+
+- Stupid pupils do not ask questions.（普通） +
+-> *It is not* stupid pupils *who* ask questions.（强调）
+
+- We should be grateful to men like Edison.（普通） +
+-> *It is* to men like Edison *that* we should be grateful.（强调）
+
+---
+
+== “all+抽象名词”或“抽象名词+ itself”＝very+形容词
+
+....
+all+抽象名词 +
+= 抽象名词 + itself +
+= very +形容词
+
+all + 普通名词复数
+....
+
+1.这原是表示某种性质到了极点的一种说法，有“非常”，“只管”，“一味”，“尽”之意， +
+2.有时甚至可以译为“…的化身”，“…的具体化”。
+
+
+|===
+|意思皆同 |譬如
+
+|very +形容词
+|
+
+|all+抽象名词
+|- He was *all gentleness*(n.) to her.
+他对她非常的温存。 +
+- I am *all anxiety*. 我真担心。
+- I am *all attention*. 我全神贯注地在倾听着。
+
+|抽象名词 + itself
+|- To his superiors，he is *humility(n.) itself*.
+对于长辈他极为谦逊。
+
+|all + 普通名词复数
+|- She is *all smiles*. 她一味笑。 +
+- He is *all eyes*. 他盯着看。
+|===
+
+
+---
+
+==  the +单数名词
+
+the + 普通名词单数, 有5种用法意思:
+
+
+|===
+|Header 1 |譬如
+
+|1. 特定之物（particularizing）
+|- Shut *the door* please. 请把门关上。 +
+- *The cabinet* has resigned. 内阁辞职了。
+
+|2. 集合复数（collective）
+|They are *the teachers* of our school.（他们是本校的教员。）（全体）
+
+|3. 代表性的单数（representative）
+|Column 2, row 3
+
+|4. 代替抽象名词（abstractive），即指那个名词所有的抽象的观念
+|- When a man is reduced to want, *the beggar* （element） comes out. 人穷志短。（人穷则乞丐的性质俱现) +
+- We should give up *the sword* for *the pen*. 化干戈为玉帛。
+
+|5. 定性的用法（qualitative），代替“such”或“so”的字样，用于普通名词或是抽象名词都可以。
+|- He is not *the boy* （＝*such* a boy as will） to tell a lie. 他不是说谎的孩子。 +
+- He had *the goodness* （＝was *so* good as） to grant my request. 他亲切地允许了我的请求。
+
+|===
+
+
+==  something of = to some extent（某程度）
+
+to be something of + 名词 +
+＝ to have something of + 名词 + in + 代名词
+
+- Mr. Li *is something of* a philosopher.
+李君略有哲学家的风味。
+
+- He *is something of a philosopher*. +
+＝He *has something of* a philosopher *in* him.
+
+-  He has seen *something of life*. 他略具阅历 (他看过了一些人生)
+
+- to know *something of everything*.  什么都知道一点儿，其实什么都不懂。
+
+在问句或条件句中，则说“anything of” :“略有”，“多少”
+
+- If he is *anything of a gentleman*, he will keep his promise，I should think. 他如果有一点君子的风度，我想他就会守约的。
+
+---
+
+==  nothing of : 全无，毫无
+
+- Mr. Wu is *nothing of a musician*.
+吴君全无音乐家的风味。
+
+- Although not a strong boy，*there was nothing of the coward* about him. 他虽不是一个强壮的少年，但却没有一点胆怯的迹象。
+
+- *He is nothing* in ability of an orator. +
+＝ *He has nothing of an orator* in his ability. 他毫无演说家的才能。
+
+---
+
+== much of = a great deal of, 可译为“大有”，通常与否定连用
+
+- He is *very much of a gentleman*. 他是一个非常体面的绅士。
+
+- That’s *too much of a good thing*. 那事好过了头，反而糟了。
+
+- I like warm weather，but with the mercury standing at 95° in the shade，it is *a little too much of a good thing*. 我喜欢热天，但室内达到九十五度，则未免有点过佳，反而觉得不妙。
+
+- He is *not much of a scholar*. 他**算不得**一个学者。(意为“不是很好的或重要的学者”)
+
+much of 还有比较级形式 : far more of
+
+- I am *far more of* an individualist *than* I ever was. 我现在比以前**更是**一个个人主义者了。
+
+
+---
+
+== little of = a bit of, 可译为“几无”。意思与 much of 相反
+
+- I was always *a bit of* a rover. 我老是有点流浪儿的味道。
+
+
+---
+
+==  something like 略似
+
+something like : something approximating in character or amount，指数量或性质略同的事物，又可作 somewhat（似乎，略微）解。
+
+- This is *something like a pudding*. 此物略似布丁
+- It shaped *something like a cigar*. 其形略似雪茄
+
+---
+
+== 属格
+
+英文属格的用法，都有"主格作用"(I, you, he she, it, we, you, they)和"宾格作用"(me, you, him, her , it, us, you, them)的分别，要看文气才能决定是哪一种。由"他动词"变来的名词，差不多都有这两种用法。
+
+- the government *of the people*, by the people and for the people.
+
+句中的“of the people”一语，到底是主格作用，还是宾格作用? 颇引起意义上的争执，因为它可以解释为（1）“人民治理的”（主格作用），也可以解释为（2）“治理人民的”（宾格作用），到底是何者只好去问林肯本人了。
+
+普通把他这句名言译为“人民的，由于人民的，为着人民的政治”，把“of”一字含糊地译成一个“的”字，不分宾主，实在是一种蒙混过关的办法，但意义是不够明显的。
+
+另外一种简单的译法是“民治、民有、民享”，这就明白表示出"主格作用"来了。
+
+- 凯撒征服了的英国 +
+-> The conquests *of Caesar* （主格作用, 做逻辑主语） +
+-> Caesar’s conquest *of Britain*（宾格作用, 做逻辑宾语）
+
+- The love *of God*. 上帝的爱。（主） +
+God’s love *of man*. 上帝爱世人。（宾）
+
+---
+
+==  (名词A+of) + (a+名词B) :  在“of”前后的名词，指同一人或同一物
+
+1.  在“of”前后的名词，指同一人或同一物。
+2. 其中的“名词+of”，构成一个形容词片语，以修饰后来的名词。
+3. 在这个同格的“of”后出现的名词前面，必须加不定冠词，哪怕是固有名词，这个不定冠词都不能省。
+
+譬如
+
+- It was *a great mountain of a wave*. 那是一个像山一样高的大浪。
+
+- That *fool of a Tom* did it. 这是托姆那个笨蛋做的。
+
+
+从文法上看，“devil”，“kind”等是主体（principal），而“of”以下为附属（adjunct），即所谓修饰语（modifier）， +
+但从意义上看，则恰相反，“kind of”，“devil of”的“of”，可视为前一字的后缀（suffix），所以: +
+- *a devil of a man* 等价于 *a devilish man* +
+- a rascal无赖 of a fellow 等价于  a rascally fellow +
+- a death of a cold 等价于 a deadly cold 冻死人的冷
+
+- a brute of a man = a brutal(a.) man
+- an awful fool of a woman = an awfully foolish(a.) woman
+
+- Those *pigs of girls* eat so much. 那些**猪一般的女子**吃那么多。
+- She was *an angel of a wife*. 天仙一般的妻子。
+- I’ve got *the devil of a toothache*. 我牙痛不堪。
+- Mr. A lives *a hell of a long way off*. 他住得远哉遥遥。
+
+---
+
+== 名词+(of+属格+名词) : 其属格的含义为:“像……那样的”
+
+- It was beyond expectation for *a man of your taste*. 遇到一位像你这样有风趣的人，真是出乎意外。
+- He is *a man of your experience*. 他是一个像你那样经验丰富的人。
+- I am not *a man of his means*(n.)财富；钱财.  我不是他那样的资产家。
+- You are *a lady of her wisdom*. 你是一个像她那样贤慧的淑女。
+
+---
+
+== of+抽象名词＝形容词
+
+“of +抽象名词”的形式，是和形容词同义的。如: +
+of importance” = important +
+of use = useful +
+of no use = useless. +
+这都是可以译为“…的”的
+
+- It was *of great importance*. 这是非常重要的。
+- a man *of courage* ＝a courageous man 勇敢的人;勇士
+- a man *of business* 实业家
+- a man *of family* 名门之子
+- a man *of his word* 言行一致的人
+
+*像“age”，“price”，“size”等字，是没有形容词的，因此，“of age”，“of size”，“of price”，就弥补了这个缺憾,而代行形容词的任务了。*
+
+- These glasses are *of a size*. 这些玻璃杯大小一样。
+- They are all *of an age*. 他们同年。
+
+---
+
+== of 从略+普通名词
+
+The earth is *the shape of a pear*. 地球是梨子形的。 +
+-> *“the shape”，虽字面上看不见“of”一字，但意味上实等于说“of the shape”一样。* +
+*凡形状、年龄、大小、色度、价格等有关的字，多有这种用法。* 如“同一大小”说“of a size”，如果加上形容词时，就常要把“of”略去，说成“the same size”,
+
+- Her dress is *the colour of grass*. 她的衣服是草绿色。
+- This shirt is *exactly the right size*.（这件衬衫大小正好。
+
+---
+
+== one’s own+名词，of one’s own+动名词
+
+one’s own 有两个意思: 1.自己的, 2.为自己(by oneself)
+
+下面就是"为自己(by oneself)"的意思:
+
+- He *shines(v.) his own shoes*. ＝His shoes *are shined by himself*. 他自己来擦皮鞋。
+- It is a tree *of his own planting*. 这是他手栽的树。 +
+-> “of one’s own doing”，意为“自己做的”（done by oneself），*往往可省略“own”一字*，如“a tree of his own planting”也可以说成“a tree of his planting.”
+
+其实, “own”是用来加强的说法 :
+
+- That is *his house*. 那是他的家 <- 普通的说法  +
+That is *his own house* <-加强时的说法
+
+- The moon has no light *of its own*. 月亮**本身**无光
+- his profession is *of my own choosing*. 这是**我自己选择的**专业。
+
+---
+
+== have+the+抽象名词+不定词
+
+- I *had the fortune* to succeed. 我很幸运获得成功。 +
+-> 这个 have＝possess，原指肉体上或精神上的特征，作为一种天禀而具有的.
+- He *had the misfortune* to break his leg. 他不幸折断了腿。
+- He *had the courage* to express his opinion.他毫无忌惮地申述了他的意见。
+
+- Will you *have the goodness* （＝kindness） to do it for me？（＝Will you *be so kind* as to do it for me？）请你帮忙替我做一下好吗？
+- *He had the kindness* to show me round the place. 他亲切地带我参观了一圈。
+
+---
+
+== one thing ... another
+
+- It is *one thing* to know /and *another* to teach.  +
+= To know is one thing; to teach is another. +
+自己知道是一件事，要教别人又是另外一件事。
+
+---
+
+== “as + adj. + as”的三种用法
+1.
+- He is *as(ad.) kind(a.) as(conj.)* his sister （is）.
+他像他妹妹一样和蔼。 <- 表示两个不同的人**相同的性质. 既然性质相同, 那就可以省略掉第二个中的比较对象, 即kind.* +
+- He is *not so kind* as you are.
+
+2.
+- He is *as kind as* （he is） honest.
+他又诚实又和蔼。 <- 表示同一人的**不同的性质.  +
+既然是两个不同的性质, 则这两个性质都要写出来, 即 kind 和 honest 都要写出来, 不能省略.**
+
+3.
+- He is *as kind as* his sister is honest.
+他妹妹诚实,而他就和蔼。 <- 表示两个人的**不同的性质.  +
+同样, 无论是一个人自己跟自己比较, 还是两个人互相比较, 只要是两种性质, 就要把它们都写出来. 即, kind 和 honest. 不能省.** +
+- He is as *cunning* as you are *clever*. 他的狡猾好似你的聪明。 <- 两种性质都要写出来.
+
+---
+
+== as...as any，as...as ever
+
+
+
+- He is *as* great a statesman *as any*.
+- He is *as* great a statesman *as ever lived*.
+他是一位稀有的大政治家。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

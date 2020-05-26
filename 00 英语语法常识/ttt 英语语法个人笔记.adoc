@@ -1,0 +1,1145 @@
+
+= English 语法 我的笔记
+:toc:
+
+
+
+== 名词可分为: 专有名词（proper noun）, 和普通名词（common noun）
+
+专有名词, 包括:
+
+|===
+|Header 1 |Header 2
+
+|人名, 头衔
+|- Winston Churchill, +
+- Pride and Prejudice 《傲慢与偏见》
+
+|月份
+|January, February, March, April, May, June, July, August, September, October, November, December +
+
+注意: 英文的月份, 是阳历. 汉语的传统节日, 都是阴历的, 所以不能用上面的阳历, 而要另外翻译成: +
+- 阴历二月 : 不能说 February ×，而是 the second month *on the lunar calendar* +
+- 七夕 : 不能说 the seventh of July ×，而要说成  the seventh of *the seventh lunar month* +
+- 中秋节 : the fifteenth of *the eighth lunar month* +
+- 春节 : the first of *the first lunar month*
+
+|星期、四季
+|- Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday +
+- winter, summer, spring, autumn
+
+|节日
+|Christmas, Easter, New Year's Day, Mother's Day, Thanksgiving Day
+
+|地理名称
+|国家及大洲; 地区、城市; 江、河、湖泊的名称; 山脉、沙漠的名称
+|===
+
+
+普通名词, 可分为"可数名词"（countable noun）和"不可数名词"（uncountable noun）
+
+其实，*从思维的高度来说，"可数名词"与"不可数名词"这一区分, 反映了中国人与英语的native speakers, 在看待客观外界事物时, 所持的两种不同的世界观* ：我们中国人的脑子里想到某个名词时，不关注它是可数或不可数；但在native speakers的脑子里，每个名词都有可数与不可数之分，因而对事物的理解是不一样的。
+
+
+---
+
+== 名词的"可数 countable " 和 "不可数"
+
+我们不能完全按照汉语的思维方式, 去判断一个名词到底是可数还是不可数.
+
+==== 不可数名词
+
+但总的来说，不可数名词有以下规律，笔者这里将其分为五组：
+
+|===
+|分组 |举例
+
+|第一组：*对于一些无法分割的名词，我们将其看作一个整体*，因而作为不可数名词，没有复数变化（nouns that have no distinct, separate parts, we look as the whole）。*这样的名词主要是一些物质名词.*
+|可以按气体、液体和固体来作出如下分类： +
+- 气体：air, fog, oxygen, smoke等。 +
+- 液体：beer, blood, coffee, cream, gasoline, honey, juice, milk, oil, tea, water, wine等。 +
+- 固体：bread, butter, cheese, ice, ice cream, meat, beef（牛肉）, chicken（鸡肉）, fish（鱼肉）, chalk, copper, cotton, glass, gold, iron, paper等。
+
+|第二组：*一些因其组成部分太小而不易数数的名词*（nouns that have parts that are too small or insignificant to count）用作不可数名词。*这主要也是一些物质名词。*
+|corn 玉米,  +
+sand 沙子, grass 草, snow 雪,  +
+hair 头发,  +
+salt 盐, sugar 糖
+
+|第三组：表示"总称"的名词, 通常不可数（nouns that are classes or categories of things）。这些名词 *侧重于表示某类事物的"总的概念"，而不是"具体的"事物。* 如果要具体指出该总称概念下的具体事物，则要用其他不同的名词。
+|具体的事物(可数): sweaters 运动衫, pants 裤子, dresses 套装  +
+-> 总称(不可数) : clothing 衣服
+
+具体的事物(可数): nickels 5分镍币, dimes 十分钱硬币, dollars 元 +
+-> 总称(不可数) : money 钱 / cash 现金
+
+还有:
+总称(不可数) <--> 具体事物(可数) +
+machinery 机器 <--> machines 机器 +
+equipment 设备工具 <--> tools 设备, 工具 +
+poetry 诗歌 <--> poems 诗歌 +
+scenery 风景 <--> scenes (具体的)风景; scenic spots 景点 +
+character 特点 <--> characteristic (具体不同的)特点
+
+character 作为“特点”讲时，是一个不可数名词，不能变成复数的。因为它真正的意思是 *the combination of qualities or features* that distinguishes one person, group, or thing from another，表示“使与其他人、群体或事物相区别的性质或特征的集合”，强调的是一个整体的概念，因而是没有复数形式的。比如说： +
+- a man of character(不可数!) 有个性的人
+
+
+若作为可数名词 characters，是表示“方块字”，比如汉字、韩文，或者表示文学作品中的不同“人物（a person portrayed in an artistic piece, such as a drama or novel）”。比如说： +
+- *The characters(复数) in Chinese* writing look like small pictures. 汉字看起来就像是一幅幅小图画。 +
+这里的character就不能理解成“一个中国人的特点”。
+
+*要表示具体的、可数的“特点”，就要用characteristic，复数就是characteristics。* 比如说“建设有中国特色的社会主义”，用英语说成： +
+- construct the socialism *with Chinese characteristics*
+
+
+|第四组：抽象的名词, 一般是不可数的（nouns that are abstractions）。
+|抽象名词, 比如 : advice 建议, fun 趣味, life 生命, art 艺术, patience 耐心, love 爱, pollution 污染, crime 犯罪, help 帮助, music 音乐, trouble 困境, inform 信息, nutrition 营养, work 工作. +
+不过，读者要特别注意的是，上面这些名词, 可以有其他不同的意思，因而可以转化为"可数名词"。
+
+|第五组：表示研究学科（subjects of study），一般作为不可数名词。
+|biology 生物学, geometry 几何学, history 历史, chemistry 化学, grammar 语法, math 数学
+
+|===
+
+---
+
+==== 可数与不可数的“相对论”
+
+一个名词, 是可数还是不可数, *关键在于它所表达的意义，而意义又随语境的不同而改变*，因而, 名词的可数性, 是与它所使用的上下文语境密切相关的。 +
+即, *同样一个名词，会因为在不同的语境中含义不同, 而导致它的可数性不同，因而不能孤立地来看待名词的可数性。*
+
+比如food, 有时作为"不可数"名词; 有时作为"可数"名词，因而有复数的foods。
+
+- Do you know anything about *this food pyramid*? +
+这里的food作定语，修饰pyramid，*是表示“食物”这个总称的*、抽象的概念，而不是表示不同种类的、具体的食物，因而作为不可数名词。
+
+- Read the labels on *food(总称) products*. This information will tell you *how nutritious the foods(指代上文中的food products，表示“各种食品”) are*. +
+-> the 修饰一个复数名词时, 必然表示特指，即上文出现过的内容. 所以我们把the foods译成了“该食品”，以示指代food products。在这样的上下文语境中，这里的food转化为一个可数名词，因而要添加-s变为复数。
+
+- Avoid eating *foods* that are high in simple carbohydrates, that is, *sugars*. *A chocolate bar* will first give you energy, but then it will leave you feeling even more tired. +
+-> 这里的food不是表示“食物”这个总称的、抽象的概念，而是表示 *"不同种类的、具体的食物"*，这一点可以从下文的sugars这个复数名词看出来。 +
+-> sugar若是作为“糖”这种物质来理解的话，应该是一个不可数名词，属于上述第二组Group B里的名词，但在这里是表示“*各种糖类食物*”，因此我们在上面的译文中把sugars译成了“各种甜食”（*所以下文中出现了a chocolate bar这样甜食的例子*），因而也转化为可数名词。 +
+在这样的上下文语境中，为了配合sugars，这里的foods也转化成了一个复数名词，表示“不同的食物”。
+
+- They are found in fruits and vegetables, and in bread, rice, pasta, and *other foods* made from grains. +
+-> 这里的food不是表示“食物”这个总称的、抽象的概念，而是表示不同种类的、具体的食物，这些具体的食物包括上文提到的fruits, vegetables, bread, rice和pasta。在这样的上下文语境中，这里的food转化为一个可数名词，因而要添加-s变为复数。
+
+- Protein and fat are found in *foods* like milk, cheese, meat, fish, and eggs. +
+-> 这里的food不是表示“食物”这个总称的、抽象的概念，而是表示不同种类的、具体的食物，这些具体的食物就是下文提到的milk, cheese, meat, fish和eggs。在这样的上下文语境中，这里的food转化为一个可数名词，因而要添加-s变为复数。
+
+那么, “不可数名词”转化为“可数名词”, 有没有一些规律啊？笔者总结出下面三条基本规律：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+英文中的介词不能单独使用，其后面必须接宾语，所接的宾语也往往是名词短语.
+
+- There are some red roses *on that small table*.
+
+
+
+
+
+file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Man%20Sheng/Xin%20Dong%20Fang%20_Ying%20Yu%20Yu%20Fa%20Xin%20Si%20(30)/Xin%20Dong%20Fang%20_Ying%20Yu%20Yu%20Fa%20Xi%20-%20Zhang%20Man%20Sheng/text/part0006_split_002.html#mllj4
+
+
+
+
+
+
+== ----------------------------------
+
+
+---
+
+== 非谓语动词
+
+
+|===
+|非谓语动词 |可充当的成分
+
+|不定式
+|除谓语外的任何成分
+
+|动名词
+|相当于n., 因此可充当: 主, 宾, 表, 定
+
+|分词
+|相当于adj., adv. 因此可以充当: 定, 状, 补, 表
+|===
+
+
+
+
+
+单个的动词时，doing, done, to do 当然是非谓语。
+
+对于复合型的动词(也就是因为时体等的变化而弄成几个词的情形), 比如 to have done, is being done 等, *以第一个词的形式为准*。 +
+比如, Is being done中，第一个词是 is, 不是三种非谓语动词的形式（to -，-ing，-ed），连带效应，整词必谓语也。
+
+*有过去、现在、将来时态的，就是“谓语动词”！“非谓语动词”没有时态，只有主动、被动之分。*
+
+非谓语动词, 除了不能当谓语，其余一切位置均可纵横驰骋。即, 做主语时相当于名词; 做定语则相当于形容词; 做状语则时相当于副词。 +
+当然有一个例外就是 *“过去分词”不具有名词性，因而不能做只有名词才能做的成分，也就是主语和宾语.*
+
+
+---
+==== 是谓语动词的, 有几个标志
+
+
+|===
+|谓语动词的 标志 |说明
+
+|能说出时态的，必是谓语动词
+|注意此处时态准确地说是“时”，也就是能说出过去、现在、将来。 +
+特别要说明的是, doing并不是现在时，is/was/will be doing, 才由 is表明是现在，was表明是过去，will表明是将来。
+
+|情态动词（can,may,must…）加原形，必是谓语动词
+|此论无例外
+
+|原形动词，必是谓语动词
+|除特殊动宾补的情形.  +
+所谓特殊的动宾补，例如 make sb do, 这个do通常被称为“不带‘to’的不定式”。为何不叫“原形”而说得这么别扭，就是因为此处它不是谓语（*“不定式”属于非谓语动词，所以"不带to的不定式"当然也是非谓语动词，不是谓语*），非要说成是”非谓语动词”的某一类，才符合我们的体系。
+
+|一个动词，如果不是非谓语动词的形式之一，则为谓语
+|可用排除“非谓”来确定“谓语”。阅读中当用此招，迅速找到句子主干.
+|===
+
+试验: 
+
+- Descriptive linguists *cannot explain*(`=情态动词始也，谓语`) how a sentence *is transformed*(`=现在时，谓语`) —— or, in other words, *indicate*(`=动词原形，谓语`) such relationships as that between active and passive voice. +
+
+- There *was*(`=过去式，谓语`) little chance *to discuss*(`=非谓语`) the problems with the teachers *concerned* or *do*(`=原形，谓语`) more than *glance*(`=原形，谓语`) at the books *being used*(`=第一个词为-ing形，故非谓语`). +
+
+---
+
+==== 对于“过去式”与“过去分词”的拼写都相同的单词(比如 used), 如何区分它到底是前者,还是后者?
+
+|===
+|Header 1 |说明
+
+|过去式
+|动词的“过去式”是一个动词，*单独作谓语。不能与助动词、情态动词连用*。 +
+它的词性与动词的第三人称单数一样。
+
+|过去分词
+|动词的“过去分词”是动词的一种非谓语形式，也叫非限定性动词。*不能独立作谓语，只能与助动词一起构成谓语*。 +
+如：“have/has/had +过去分词”构成完成时态；“be+过去分词”构成被动语态等。）
+|===
+
+对于-ed形式，规律如下: 
+
+|===
+|规律 |说明
+
+|若为 不及物动词 vi.
+|则是谓语无疑
+
+|若为 及物动词 vt.
+|*后接宾语的为谓语，无宾语的为非谓语*.  +
+换句话说, *如果你看到 vt.后面没有宾语, 那就往回头来结合看看, 它有可能是修饰前面的名词的, 即当定语(也即是"非谓语"动词了*.)
+|===
+
+试验: 
+
+- We *owe* a lot to the birds and beasts who *eat* insects but all of them (put together) *kill* only a fraction of the number *destroyed* by spiders.  +
+-> owe, eat 和 kill 是普通的原形动词，也可以说是"现在时"，故为谓语动词 +
+-> Put together 中, put 它的过去式和过去分词形式相同，而且跟原形保持不变。但后面看到 kill 既然肯定是谓语，put together就不可能是谓语了。(一个句子必有, 且只有一个谓语动词) +
+-> Put together 中, put 就其本身而言，它可能是“一般现在时”的动词, 或"过去式"，这两者都是谓语动词，我们可以考察：*及物不及物？可知是及物。后面有无宾语？无！故其非谓语*，为“过去分词”。 +
+-> Destroyed也是一样，“破坏”自然是"及物"，然而后面无宾语，故为非谓语。
+
+- John Kennedy *won* the presidency in part by *exploiting* an imaginary missile gap. He successfully *portrayed* himself as a youthful and inspirational leader in the contest with the Soviet Union.  +
+-> 此句中，“过去式”与“过去分词”同形的won, 是及物，后面紧跟宾语，故谓语无疑. +
+-> Exploiting 是现在分词, 非谓语 +
+-> portrayed呢？后面紧跟himself, 当然也是谓语动词
+
+- Levin *asserted*(`=后跟宾语，故谓语`) that “music *is not*(`=现在时，故谓语`) the cause of society's ills” and even *cited*(`=后有宾语，故谓语`) his son, a teacher in the Bronx, New York, who *uses*(`=第三人称“现在时”，故谓语`) rap *to communicate(`=非谓语`) with* students. But he *talked*(`=不及物，是谓语；再看到talked about可以及物，后面紧跟宾语，故还是谓语`) as well about the “balanced struggle”between creative freedom and social responsibility, and he *announced*(`=后有宾语从句，故谓语`) that the company *would launch*(`=情态动词开头，故谓语`) a drive *to develop*(`=非谓语`) standards for distribution and *labeling*(`=名词`) of potentially objectionable music. 
+
+- A history of long and effortless success *can be*(`=情态动词，故谓语`) a dreadful handicap, but, if properly *handled*(`=及物动词无宾语，故为“过去分词”非谓语`), it *may become*(`=情态动词，故谓语`) a driving force. When the United States *entered*(`=后跟宾语，故谓语`) just such a glowing period after the end of the Second World War, it *had*(`=后跟宾语，故谓语`) a market eight times larger than any competitor, *giving* its industries unparalleled economies of scale. Its scientists *were*(`=过去式，故谓语`) the world's best, its workers the most skilled. America and Americans *were* prosperous beyond the dreams of the Europeans and Asians whose economies the war *had destroyed*(`=过去完成，故谓语`).
+
+
+---
+
+== to do 不定式 (非谓语动词)
+
+“不定式” 所表示的，不是指一个已发生或正发生的动作，而是一个抽象的或未发生的动作。 
+
+- *To finish the work in ten minutes* is very hard <- 未发生的动作
+- *To lose your heart* means failure. <- 抽象的概念
+- Her job is *to clean the hall*. <- 抽象概念，并非指某天要做某事
+
+---
+
+==== 有些动词如make, let, see, watch, hear, feel, have等与不带有to的「不定式」连用，但改为被动语态时，「不定式」要加to
+
+- I saw him *cross the road*. <- 主动态. 事实上, 我们通常管它叫"不带to的不定式"。
+- He was seen *to cross the road*. <- 被动态
+
+---
+
+
+
+---
+
+==== 做定语,「不定式」为 vi. 时, 所修饰的名词如果是"地点、工具"等，应有必要的介词
+
+- He found a good house *to live in*.
+- The child has nothing *to worry about*.
+- What did you *open it with*?
+
+---
+
+==== 做状语, 会与谓语动词, 存在某种逻辑关系 -> 表未来的“目的”或“结果”,"条件"等
+
+所谓 *做状语，就是与主句之间，或者与谓语动词之间存在着某种逻辑关系。既然「不定式」是表示未发生或后发生的动作，主要就表现为“目的”和“结果”。* 这两者正是在“未发生或后发生”这一点上统一起来的。
+
+
+|===
+|功能 |例子
+
+|表目的
+|He worked day and night *to get the money*. +
+注意 *「不定式」放句首时，逻辑主语与句子主语要一致* : +
+wrong：To learn English well, *a dictionary* is needed. +
+right：To learn English well, *he* needs a dictionary.
+
+
+|表结果 +
+(常用only放在「不定式」前, 来表示强调)
+|He arrived late *to find the train gone*. +
+I visited him *only to find him out*.
+
+|表条件关系, “如果”，“只要” +
+(作为假设的条件，自然是还没有发生的事情)
+|I will be satisfied *only to pass the exam*. 能通过考试我就满足了。
+
+|===
+
+---
+
+
+---
+
+
+
+
+
+
+
+
+
+---
+
+==== 不定式的"进行式"表示的动作, 与谓语动作同时发生
+
+- The boy pretended *to be working hard*.
+- He seems *to be reading in his room*.
+
+---
+
+==== 不定式的"完成式"表示的动作, 发生在谓语动作之前
+
+- I regretted *to have told a lie*.
+- I happened *to have seen the film*.
+- He is pleased *to have met his friend*.
+
+---
+
+== -ing 现在分词 (非谓语动词)
+
+对客观事实的描述，则由“分词”来表示: 现在分词表主动，过去分词表被动。
+
+所谓分词，不一定是一个词，而可能是词的变体所形成的几个词所组合成的一个整体。如“being done”, “having done”, “having been done”。  +
+组合型分词的情况下，判断原则极其简单：*看第一个就行。* 如上面所举的三者，*都是第一个动词发生变异*，带着一个ing的尾巴 —— being, having.
+
+「过去分词」只有一种形式, 即 -ed; 而「现在分词」有下面几种形式：
+
+- 一般式 doing
+- 被动式 being done
+- 完成式 having done
+- 被动语态完成式 having been done
+
+
+
+
+
+---
+
+== -ed 过去分词 (非谓语动词)
+
+“过去分词”暗含着被动。 +
+要从概念上理清一下，be done是“被动语态”，是谓语动词才有的范畴；而done本身并不是“被动语态”，只是一个“过去分词”而已，只不过暗含着“被动的意味”罢了。
+
+不及物动词无被动(它都没有宾语, 怎么被动法子?)，除非构成及物的短语。
+
+- The boy *looked*.  <- 此处 look 是 vi.，肯定是谓语动词 +
+- The boy (*looked for*) is hidden behind the tree. <- look for（寻找）是一个 vt. 的短语，才有可能变被动式，作为非谓语动词。vt. 变被动式后，后面的宾语就到前面作主语。
+
+---
+
+==== 「过去分词」不具有名词性，因此不能充当主语和宾语
+虽然"过去分词"是非谓语动词, 谓语动词的本质就是可以充当除了谓语外的任何成分, 但"过去分词"有一个例外: 它不具有名词性，因此它也就不能充当主语和宾语。
+
+
+---
+
+== -ing 动名词 (非谓语动词)
+
+动名词, 就是动词当作名词用.
+
+
+
+
+
+---
+
+== 一个动词本身的用法, 决定着句子的结构
+
+动词（用法）类型, 可以区分成:
+
+- 系动词: be, prove
+- 不及物动词: live, walk
+- 单宾动词: learn, find
+- 双宾动词: teach, give
+- 复宾动词: find, make
+
+也就是说，一个句子，只要动词确定了，句子的主干结构就确定了。抓住了动词，整个句子的结构就昭然若揭。当然，一个前提条件就是要懂得动词的用法。学习动词，关键是把握它的用法。
+
+---
+
+== 主系表
+
+- English *proves* an easy language. 英语并不难。 <- 此句中, prove属于系动词。
+- We *can prove* the truth of the statement. 我们可以证明这个说法的正确性。 <- 但prove也可以作为动词来用.
+
+那么, *同样一个动词(比如 prove)，究竟算“主系表”还是“主谓宾”，可通过其前后成分的关系来区别 : “主系表”结构中, "主""表"之间, 具有相通性, 即它们两者是等同的.* +
+比如上面第一句中, an easy language 是对 English的定义，两者是等同的. 故该句是 主系表结构. +
+而第二句中, we 和 the truth of the statement 显然不是同类事物。 所以该句是 主谓宾结构.
+
+---
+
+
+== 简单句的障碍来源: 定语(可拆分)、同位语(可跳读)、插入语(可跳读)、状语(剥离)
+
+简单句只有”一套主谓结构”,并且句子各成分都只由”单词”或”短语”构成 (注:短语中可以有从属的主谓结构)。
+同一个主语发出了两个动作,谓语动词是并列的,这样的结构也是只有一套主谓结构的情况。
+
+简单句的障碍来源: 定语、同位语、插入语、状语.
+
+---
+
+==== 后置定语/ 哪些成分可做"后置定语"?
+
+|===
+|哪些成分可做"后置定语"? |例子
+
+
+|形容词短语, 可作后置定语
+|
+- a book *useful for the future* 一本对未来有用的书 → 形容词+介词+名词 +
+- the report *devoid of facts* 缺乏事实依据的报道 +
+
+- job criteria *such as location, title, and salary* 比如地段、职位和薪酬这样的工作条件 → *such as+名词: 就作为一个”形容词短语”作后置定语。*
+
+|现在分词短语, 可作后置定语
+|- a woman *picking the blackberry* 一名采摘黑莓的妇女 → 现在分词+名词 +
+- a leaf *floating in the wind* 风中飘舞的树叶 → 现在分词+介词+名词 +
+- a principle *holding that …*  一个原则,其认为… → 现在分词+句子
+
+|过去分词短语, 可作后置定语
+|- the meeting *held last month* 上个月举行的会议 → 过去分词+名词 +
+- a picture *painted by Picasso* 毕加索的画作 → 过去分词+介词+名词 +
+- the artist *privileged to visit the gallery* 能优先参观画廊的艺术家 → 过去分词+ to do sth.
+
+|动词不定式短语, 可作后置定语
+|a way *to solve this problem* 解决这个问题的方法 → to do sth.
+
+|介词短语, 可作后置定语
+|the guide *to the future* 对于未来的指导 → 介词+名词
+
+|表语形容词作定语, 表语形容词一般在句中只作表语,但如果作定语则需要后置。
+|a cat *alive* 一只活着的猫
+
+|修饰不定代词的定语, 要后置
+|something *important* 重要的事情
+
+|===
+
+
+后置定语其实都可以被改写为一个定语从句, 后置定语在很多情况下, 其实就是定语从句的简写。所以在处理比较长的后置定语的过程中, 一般是采用拆分的方法, 把它变成一个新句子.
+a book *useful for the future*= a book *which is useful for the future*
+
+---
+
+
+==== 后置定语/ 一个名词后, 可以跟多个后置定语
+
+- new guidelines (for tort law) (explaining several confusing points). 对于侵权行为法的新纲要,它解释了几个令人因惑的要点.
+
+for tort law(介词短语)和 explaining several confusing points(现在分词短语), 都在修饰 new guidelines.
+
+由此推导出这样一个结构:
+....
+名词1 + 定语1(介词+名词2) +定语2 +定语3
+....
+注意: 在考研中 *绝大多数时候, 定语2和3都在修饰名词1, 而不是定语2修饰名词2。*
+
+
+---
+
+==== 同位语/ 外貌
+
+同位语会以以下几种面貌出现(A,B都是名词) : +
+
+
+|===
+|同位语的外貌 |例子
+
+|A, B
+|Michael O'Neal, *head of digital media at Christie's*, thinks the success of the new fair will depend on whether it can build a brand.  +
+迈克尔·奥尼尔是佳士得拍卖行的数字媒体主管,他认
+为新拍卖会能否成功, 将取决于这个拍卖会是否能建立起一个品牌。 +
+-> head of digital media at Christie's 就作为Michael O'Neal
+的同位语对其进行解释。
+
+|A -- B --
+|The American Law Institute -- **a group of judges, lawyers, and academics whose recommendations carry substantial weight** -- issued new guidelines for tort law. +
+美国法律学会,它由一群法官、律师和能给出起举足轻
+重作用的建议的学者组成, 最近颁布了关于侵权行为法的新纲要. +
+-> a group of...weight 作 institute的同位语对其进行解释。
+
+
+|A or B
+|{The history of clinical nutrition *or* the study (of the relationship *between* health *and* how the body takes in and utilizes food substances)} can be divided into four distinct eras. +
+研究健康, 和身体如何吸收并利用食物成分之间关系的学科, 被称为临床营养学, 它的历史可以被分为四个不同的阶段。 +
+-> 整个句子的骨架(主谓)是: The history can be divided into... +
+-> the study 作 clinical nutrition的同位语, 解释什么叫临床营养学。
+
+
+|A of B
+|The bidding right of the Olympic Games of 2008 goes to the city *of* Beijing. +
+北京获得了2008年奥运会的主办权。 +
+-> Beijing作 city的同位语. +
+
+-> *A of B结构中, A是上义词(大范畴类), B是下义词(小具体)。* 这样的结构可以增加语言表达的正式性。比如 *cancer 的上义词为 disease*, 在写作的过程中为了增加表达的正式性, 就可以写为 *the disease of cancer*; +
+computer的上义词为machine, 那么就可以写为 the machine of computer。 +
+上下义词在一些翻译的论著中, 又被称为"范畴词"。*范畴词在翻译的过程中, 一般只翻译其中范围更小的词, 即下义词。* the disease of cancer 可译为“癌症”; the machine of computer可译为“电脑”。
+
+
+|句子“—”或“,” 后出现一个名词(名词前后可出现修饰成分)
+|The Court supported the medical principle of "double effect", *a centuries-old moral principle*. +
+法庭支持“双重效果”的医学原则, 这是一个已有几百年历史的道德原则。 +
+-> a centuries-old moral principle, 就是前面 the medical principle of "double effect" 的同位语.
+
+Robots will have to operate with less human supervision and be able to make at least a few decisions for themselves —— *goals that are a real challenge*. +
+机器人将必须在更少的人类监管下运作,并至少能由自己做几个决定,这些目标才真正具有挑战性。 +
+-> 的破折号后出现的名词性结构 goals that are a real challenge **是整个句子的同位语。从本质上讲, 一个句子也是一
+个名词, 因此是可以用另一个名词来修饰和解释这整个句子的。**
+
+
+|===
+
+
+*很多"同位语", 都可以改写为一个"主系表结构"的句子。*
+
+同位语就是对其前面的名词或句子, 进行进一步的补充说明, 即使去掉同位语的信息, 也不会对句子的完整性产生影响. 因此 *为了能以最快的速度识别出整个句子骨架时, 我们可以采取跳读的方式处理同位语*. 在最短的时间内获得最有用的信息.
+
+---
+
+==== 同位语/ 对同位语的翻译方式
+
+在翻译中, 对于同位语的处理通常采取三种方法:
+
+1. 将同位语提前翻译, 被其修饰的名词,用代词替代.
+2. 将同位语翻译为一个完整的句子.
+3. 将同位语从句翻译为“即”, 或者用“:” 替代“即”字。
+
+---
+
+==== 插入语 /哪些成分可以作为"插入语"?
+
+为了增加句子表达的多样性, *在英语中任何成分都可用两个逗号或破折号隔开, 成为插入成分.*  +
+
+插入语的特征:
+
+- 插入语可以是一个词,一个短语,也可以是一个句子。
+- *插入语两边, 用逗号* 与其他成分隔开。
+- 插入语最好放在主语之后, 以便掌握。
+
+
+|===
+|哪些成分可以作为插入语? |例子
+
+|副词插入语 +
+frankly, especially, fortunately, indeed, however
+|Tourism, *frankly*, may promote the mutual understanding among nations. +
+坦率地说, 旅游可以促进国家之间的相互了解。
+
+|短语插入语 +
+- generally speaking (总的来说) +
+- to tell the truth (老实说) +
+- in a sense (在某种意义上讲) +
+- in a word (总而言之) +
+- strange to say (说来奇怪)
+|
+
+|短句插入语 +
+- I suppose,
+- as I see it,
+- I believe,
+- what is important (重要的是)
+|
+
+|万能插入语: *rather than(而不是)。肯前否后*, 这个短语可以放在句子中的任何一个成分后面。
+|I, rather than anyone else, am, rather than was, the best rather
+than good, teacher, rather than policeman.
+
+|一些相对特殊的插入语:
+- to some extent 从一定程度上讲
+- at length 终于,最后;详细地
+- at the mercy of 在...支配下; 任...摆布
+|
+|===
+
+
+插入语在很多时候并不是一个独立的语法成分, 因此在考研阅读中往往是可以被忽略的, 在阅读中最好的处理方式就是跳读。除非有考题问到插人语成分。
+
+*难点即亮点。插入语绝对是考生在写作中, 应该掌
+握的语言亮点.* 例如: +
+
+- Fortunately, however, ancient men made tools of stone, especially flint, because it is easier to shape than other kinds. (使用插入语)  +
+*地道的英语句子就是要写得跌宕起伏。*
+
+---
+
+==== 状语 /哪些成分能做状语?
+
+状语, 是用来修饰: 限定动词/ 形容词 /整个句子 的.
+
+
+|===
+|哪些成分能做状语? |例子
+
+|副词(adv.)
+|She is *admittedly* reliable. 她很可靠,这是大家都承认的。 +
+->注意: *admittedly没有修饰reliable, 而是修
+饰整个句子* , 在翻译的时候就不能译为“被人们承认的可靠”。
+
+China's long-term modernization program *understandably and necessarily* emphasizes economic growth. 中国长期的现代化进程, 强调经济的增长, 这是可以被人们理解的,也是必要的。 +
+-> *understandably and necessarily 副词, 不是修饰动词emphasizes, 而是修饰整个句子*, 因此在翻译的时候就不能翻译为“可被理解和必须地强调”。
+
+
+|现在分词短语: +
+- 现在分词+名词 +
+- 现在分词+介词+名词 +
+- 现在分词+句子
+|Observes double that... is realistic, *noting that...*  观察者怀疑...的目标是否现实, 因为他们注意到... +
+-> *现在分词短语 noting that... 作状语。*
+
+|过去分词短语: +
+- 过去分词+名词 +
+- 过去分词+介词+名词 +
+- 过去分词+to do sth.
+|*Founded in 1694*, the Bank... 成立于1694年, 英格兰银行... +
+-> *过去分词短语 Founded in 1694 作状语*
+
+|动词不定式短语: +
+to do sth.
+|
+
+|介词短语: +
+介词+名词
+|*In public*, bankers have been blaming themselves for their troubles. 在公众面前,银行家一直都在为他们造成的麻烦而
+自责。 +
+-> 介词短语 in public 作状语
+
+*To those who are...*, animal research seems... 对哪些...的人来说, 动物研究... +
+-> to those⋯ 这个结构就是一个"介词短语"作状语.
+
+
+|独立主格结构: +
+*在"过去分词短语"或"现在分词短语"前, 加上一个单独的名词*
+|President Bush campaigned to move Social Security to a saving-account model, *with retirees trading much or all of their guarantees payments for payments depending on investment returns.* +
+布什总统力主用储蓄模式代替社会保险模式,这样, 退休人员就会用其大量的甚至是全部的有保障的收入, 来换取需要依靠投资回报的收入。 +
+-> *with retirees... 是一个"独立主格结构"作状语, 名词retirees再加上现在分词短语trading... , 为了使这个结构和一个句子相区分, 往往在前面加上介词with.*
+
+|===
+
+从上面的例子中可以看出, *英语中状语的位置是不固定的*, 所以在解析句子的时候, 一般情况下都是 *将状语从整个句子中剥离出来。*
+
+
+又如: +
+
+- A few art collectors established *in their respective communities* the idea of the value art.  +
+一些艺术收藏家, 在他们各自的社区中, 确立了价值艺术的理念。 +
+-> *in their respective communities 在句子中其实是作"状语"的, 而不要误认为established 和 in 搭配*, 谓语established 的宾语其实是the idea of the value art.
+
+
+- They maintain *with a certain fidelity* the principle of this school. +
+他们几乎以忠诚的程度, 来坚持这个学派的原则。 +
+-> *这个句子中 maintain 和 with 并不是动词和介词的搭配. with a certain fidelity 是状语*, maintain的宾语是 the principle of this school.
+
+
+- He has elected *as his primary duty and pleasure in life* the activity of thinking in a Socratic(苏格拉底) way about moral problems. +
+他把用苏格拉底的方式来思考道德问题的行为, 当成是
+他一生中基本的责任和最大的快乐。 +
+-> be elected as 的搭配, 在英语中最常见的是被翻译为“被选作...”, 但在这里elected是主动语态. *as his primary duty and pleasure in life 在这里作
+状语*, elected 的宾语是 the activity of thinking in a Socratic way about moral problems. +
+于是就有了这样的搭配: *elect A as B(把A当做
+B), 在写作的时候作者往往写成: elect B A*, 这样读者就不容易看出来。
+
+这样的结构在考研的翻译中特别普遍:
+....
+动词+ 状语(介词+名词1) +名词2
+//介词+名词1 作状语, 动词+名词2 是动宾搭配.
+....
+
+
+这样的结构还可以推广为:
+....
+动词+ 状语(介名1 +介名2) +名词3
+//在这里 “动词+名词3” 是动宾搭配, “ 介词1+名词1+介词2十名词2” 为状语.
+....
+
+也就是说: 动词 +介名... +名词n +名词n+1; *只要有两个名词连续放在一起就要小心, 因为在动词和宾语之间放上了一个状语。*
+
+---
+
+==== 对简单句的四种障碍的处理方式
+
+- 定语 : 拆分出来
+- 同位语 : 跳读即可
+- 插入语 : 跳读即可
+- 状语 : 剥离出来
+
+*下面所有例子中的加粗部分, 即是我们提炼出来的句子的骨架(主谓宾)*, 而剥离掉了干扰主干理解的定语, 状语, 同位语, 插入语等部分.
+
+例如: +
+
+- *A few art collectors* -- 插James Bowdoin III of Boston, William Byrd of Virginia, and the Aliens and Hamilton of Philadelphia -- *introduced European art traditions to those colonists* (定privileged to visit their galleries), 插especially aspiring artists, *and established* [状in their respective communities] *the idea* (of the value of art) *and the need* (定for institutions devoted to its encouragement). +
+一些艺术品收藏者, 将欧洲的传统艺术介绍给那些殖民
+者, 并且确立了价值艺术的理念和需求。
+
+其句子骨架是: A few art collectors *introduced* European art traditions *to* those colonists *and established* the idea and the need.
+
+
+---
+
+== 非简单句 -> 主句专一原则
+
+非简单句, 是 *含有一套以上的主谓结构*, 且句子中有的成分是由句子构成的。
+
+要记住两个要素: 1.(并列句中的)连接词, 2.(主从复合句中的)主句专一原则.
+
+主句专一原则:
+
+1. *一个句子中只能有一个主句, 主句中没有连接词*;
+2. 一个句子中有n个分句, 则只有n-1个连接词(并列连词
+除外)。
+
+英语中, 为什么 because和so 不能连用? although和but 也不能连用? 比如: +
+
+- Although I love you, but I can't marry you. +
+*这个句子中只有两个分句, 但却有两个连接词, 就没有主句了! 这就违背了主句专一原则.*
+
+
+三大从句:
+
+1. 名词性从句 (主语从句, 宾语从句, 标语从句, 同位语从句)
+2. 形容词性从句 (定语从句)
+3. 副词性从句 (状语从句 -> 时间/地点/ 原因/目的/结果 /条件/让步/比较/方式 )
+
+
+---
+
+==== 并列句 /中常常会有"省略"发生
+
+并列句, 由"并列连词"连在一起: 句子+并列连词+句子 +
+
+并列连词:
+
+- and 表示顺承;
+- whi1e 表示对比;
+- but / yet 表示转折;
+- for / so 表示因果;
+- or / either 表示选择;
+- and / then 表示时间;
+- and / so / neither / nor 表示并列;
+- not only... but also / neither... nor 表示递进
+
+并列连词, 即可以连接两个句子;  也可以连接两个句中的成分, 可以是从句, 也可以是短语等(句中的并列).
+
+*方法: 从连词后往前寻找并列成分. (从后往前找)*
+
+*注意! 并列常常引起省略(可以省略并列成分,也可以省略连词, 如and等)。*
+
+(1)省略掉并列的成分: +
+下例, 括号中的就是省略掉的内容: +
+
+- *To see* a world in a grain of sand +
+*And (to see)* a heaven in a wild flower, +
+*Hold* infinity in the palm of your hand +
+*And (to hold)* eternity in an hour. +
+一沙一世界, 一花一天堂。 君掌盛无边, 刹那成永恒。
+
+出于简洁的考虑,*句子中的并列成分被省略了, 因此在阅读句子的过程中, 应该条件反射地养成 遇到并列就要思考是否产生了省略 的习惯。*
+
+又如: +
+
+- It is said that in England *death is* pressing, in Canada *(death is)* inevitable and in California *(death is)* optional.   并列句中省略掉了death is.
+
+
+
+- Failing hips *can be* replaced , clinical depression *(can be)* controlled , cataracts *(can be)* removed in a 30-minute surgical procedure. +
+坏掉的髋关节可以被换掉; 临床性的抑郁症可以被控制; 白内障可以用30分钟的手术切除。 +
+省略掉了 can be.
+
+
+(2)省略掉并列连词, 比如and: +
+
+- I closed my eyes in the incense fog of the buddha's hall, *(and)* suddenly heard the mantra from your voice; 这个句子里面, 省略了and。
+
+---
+
+==== 主从复合句 /主语从句
+
+比如:
+....
+It is clear that... 主系表结构, 但主语it也是一个主语从句
+....
+*很显然, clear这个形容词, 在修饰整个it代表的主语从句. 而之前我们说过, 副词(状语)也可以用来修饰整个句子的. 那么, 我们自然就能想到 -- 可以用副词, 来表达这个主系表结构想表达的意思.*
+
+- *It is clear that* she is a liar. +
+= she is *clearly* a liar. <- clearly 修饰整个句子
+
+- *Is is possible that* these principles may be regarded as normal in years to come. +
+= these principles may *possibly* be regarded as normal in years to come. <- possibly 修饰整个句子
+
+
+---
+
+
+
+==== 主从复合句 /表语从句
+
+加粗部分为句子的骨架(主谓宾/主系表), 定状等都剥离出去. +
+
+- The trouble is that *part* of the recent acceleration *is due to the usual rebound* that occurs at this point in a business cycle, *and so is not conclusive evidence* of a revival in the underlying trend. +
+问题是, 最近的加速发展部分, 是由于商业圈在这个时间段通常发生的反弹, 所以这并不构成潜在趋势复苏的最终证据。 +
+-> 本句有一个that引导的很长的表语从句(The trouble is that...)。该从句中又有两个表语从句, 它们有共同的主语 part of the recent acceleration. (所以在第二处中, 该主语就被省略了)
+
+---
+
+==== 主从复合句 /定语从句 -> 连接两个具有共同名词的句子
+
+
+定语从句除了能修饰名词, 还有两个重要的作用:
+
+1. *连接两个具有共同名词的句子*
+2. *表示因果逻辑关系*
+
+(1)连接两个具有共同名词的句子 +
+
+- I have three books *of which* the red is my favorite. +
+
+这里of which 引导的定语从句, 并不是在修饰和限定前面的books, 这个句子其实是由两个句子合并而成的: +
+I have three *books*. +
+the red *of those books* is my favorite. +
+
+*这两个句子中有共同的名词 books, 这样就可以合写成一个句子*, 此时就用到了定语从句的第二个作用: 连接两个具有共同名词的句子.  +
+ 把第二个句子中的the books 替换成能连接两个句子的关系代词which, 这样就产生了如下这个句子: +
+ I have three books, the red *of which* is my favorite. +
+为了让整个句子更加紧凑, *把of which 提到了the red 前面, 跟在book后面.*
+
+---
+
+==== 主从复合句 /定语从句 -> 表示因果逻辑关系
+
+有的定语从语法结构上讲是定语, 起定语的作用; 从意义上说又相当于一个状语从句,所以常被称为状语化的定语从句,说明时间、原因、条件、结果、目的、让步、假设等关系。其中表示因果关系的定语从句, 是在考研阶段最为重要的知识点。
+
+(2)表示因果逻辑关系
+
+- I love this girl *who is beautiful*. 有"因为漂亮, 所以喜欢"的含义在里面.
+
+- America and Americans were prosperous beyond the dreams of the Europeans and Asians *whose economies the war had destroyed*. +
+美国和美国人的繁荣程度超越了欧洲人和亚洲人的梦想,
+因为他们的经济被战争摧毁了。 +
+-> The war had destroyed *whose(of the Europeans and Asians) economies*. => whose economies 被整体提前了.
+
+- I’m *not speaking of* the few thousand astronomers, geographers and so forth (定从/或原因状从 who could give, or have a theoretical knowledge of that proof), *but of* the ordinary newspaper-reading citizens, such as you or me.  +
+我说的不是数千位天文学家、地理学家之类的人, 因为他们可以用观察到的事实或用理论上的根据来证实这一点, 我指的是如同你我一样只看报纸的普通读者。
+
+本句的骨架是: I’m not speaking of... but (speaking) of...  , 有一个 not...but...结构, 并且后面的but中省略了speaking单词. +
+who...引导一个定从, 也可看成是原因状从. who = because they... , 可翻译为"因为".
+
+
+- 主*The increasing complexities* (of microsurgery,
+laser technology, arthroscopy and who knows what next) 谓*demand* understanding and competence in techniques (定从/或结果状从 that require educationally sound状况良好的;可靠的 training [for the future orthopaedist].) +
+显微外科、激光技术、关节窥镜, 以及谁也不知道还会出现的什么新技术, 其日益增长的复杂性, 要求人们了解和掌握技术, 这就要求未来的整形医师必须经过良好的教育培训。
+
+who knows what next 是个习惯用法，写全的话是 who knows what comes next，意思为“谁晓得接着会来个什么”.
+
+
+---
+
+==== 主从复合句 /定语从句(非限定性定语从句)
+
+从本质上讲, 句子在很多时候也是一个名词, 因此可以用which引导定语从句(此时就有一个专有名称了: "非限制性定语从句") 来指代前面整个句子的意思. 注意: 在这种结构中, 连接词前面一定要出现逗号.
+
+- Kevin gave us a wonderful training course *, which* left us a deep impression. <- 注意which前面的有一个逗号!
+
+这个句子的前身应该是这样的:  +
+Kevin gave us a wonderful training course. *It* left us a deep impression. +
+it 就指代前面这个句子, 这样两个句子就有了共同的名词, 连接两个具有共同名词的句子是定语从句的作用, 就可以用which代替it, 这样就有了示例中的非限定性定语从句。
+
+---
+
+==== 主从复合句 /在阅读中, 对定语从句如何处理? -> 拆分成单独的句子
+
+*在考研中, 大多数定语从句起的作用是"连接句子"*, 因此我们通常把定语从句从整个句子中独立拆分出来, 单独成为一个句子.
+
+- A poem line describes a fight between a Turkish and a Bulgarian officer on a *bridge* off *which* they both fall into the river. +
+
+个句子的拆分点是off, which指代前面的名词bridge; 这样这个句子就分为两个句子: +
+1. A poem line describes a fight between a Turkish and a Bulgarian officer *on the bridge*. +
+2. they both *fall off the bridge* into the river.
+
+
+- There is *something* by virtue of *which* man is man.  存在一种特性, 人之所以为人就是由于这种特性。  //
+*by virtue of 因为* +
+
+这句话其实是由以下两句话变来的: +
+1. There is *something*. +
+2. man is man by virtue of *this thing*. +
+
+这两句话中有共同的词 something 和 this thing ,用which替换掉 this thing, 再把 by virtue of which提前, 就得到了 There is something *by virtue of which* man is man.
+
+
+---
+
+==== 主从复合句 /状语从句
+
+处理: 剥离掉状语, 才能清晰看到骨架.
+
+- *I have discovered*, [状从as perhaps Kelsey will after her much-publicized resignation from the editorship of She after a build-up of stress], *that* 主 *abandoning the doctrine* of “juggling your life”, *and making the alternative move* into “downshifting” 谓 *brings* with it 宾 *far greater rewards* than financial success and social status. +
+我已经发现, 放弃那种“为生活忙碌”的人生信条, 并转而追求比较悠闲的生活, 带给你的回报, 远远大于经济的成功和社会地位的提升。或许凯尔西在积劳重负之后, 公开辞去她在《女友》杂志社的编辑职位之后, 也会有如此发现。
+
+句子骨架是: +
+1. I have discovered that... +
+2. {abandoning the doctrine} and {making the alternative move} *brings* rewards.
+
+注意: 主abandoning... and making...  谓brings [with it] 宾far greater rewards than... 这句里, with it是状语. 这个句子结构是: +
+....
+动(brings)+ 介名1(with it) + 名2(rewards)
+....
+*遇到这样的结构可以得出结论: "介词+名词1", 是作状语; 动宾搭配是"动词+名词2";*
+
+另外, 本案例句子中还有一个省略存在. 主句中有一个I discover..., 其实状语从句中也有一个Kelsey discover..., 两者所发现的东西其实是同一个对象. 所以从句中的discover就被省略了. 补全的话, 其实应该是这样的: +
+I have discovered, as perhaps Kelsey will *(discover)* after her ...
+
+
+---
+
+==== 练习
+
+- *The history* of clinical nutrition 同位 or the study (of the relationship (*between* health *and* how the body takes in and utilizes food substances)), *can be divided into four distinct eras*: the first began [in the nineteenth century] and extended [into the early twentieth century] [when *it was recognized* [for the first time] *①that* {food contained constituents (that were essential for human function)} *and ②that* {different foods provided different amounts of these essential agents}]. +
+临床营养学是分析健康和身体是如何吸收和利用食物
+成分之间关系的学科, 它的历史可以分为四个不同的阶段。第一
+个阶段开始于19世纪, 并且延伸到了20世纪早期, 那个时候有两
+件事情第一次被人们认识到了, 第一件事情是食物中包含有人体
+机能必需的成分; 第二件事情是不同的食物提供的这些必需成分
+的量是不同的。
+
+句子的骨架是: The history *can be divided into* four distinct eras.
+
+image:./img_英语长难句释义/01.png[]
+
+
+
+英语的特征往往有:
+
+1. *主谓分离: 在句子的主语和谓语之间, 放入定语或插入语*, 来修饰主语.
+2. *谓宾隔离: 在谓语和宾语之间, 会加入状语或插入语*, 以增加句子的多变性。
+
+
+对此, 我们一般的处理步骤是:
+
+1. 句子开头的第一个独立名词(前面没有出现介词或关联
+词) 就是句子的主语, *应该优先寻找和主语相对应的动词(谓语)*。
+2. 谓语动词确定后, 应该确定后面的结构, 如果在动词和宾语之间有其他的成分, 最好跳读.
+
+
+英语中长句较多, 句中修饰语多且长, 使句子结构复杂, 所以英译汉时, 切分就是一种常用的方法. 指把英语中的长句分解成两个或两个以上的句子。它通常包括: 1.单词分译、2.短语分译, 3.句子分译 这三种情况.
+
+短语分译, 是指把原文中的一个短语, 分译成一个句子。名词短语、分词短语、介词短语等, 通常都可以分译成句。 +
+英语复合句汉译时, 常在分句连接处加以切分, 分译成两个或两个以上的句子。
+
+
+---
+
+== 非谓语动词
+
+非谓语动词, 顾名思义就是在句子中充当谓语以外的其他成分. -- 那么除了谓语以外的其它成分, 它都可以充当:
+
+
+|===
+|非谓语动词可充当 |它这样做的目的
+
+|主语、宾语或表语
+|实现动词的名词化表达
+
+|定语
+|代替起修饰限定作用的定语从句
+
+|状语
+|*将两个具有"共同主语"的句子, 写成一个句子.* +
+
+在写作的过程中 *可以将两个主语相同的句子去掉一个主语, 然后将动词作以下变化:
+be动词变为being, do动词变为doing, 被动语态变为done。* +
+- *Being a teacher*, I give classes. 作为一个老师, 我要上课。 +
+- *Founded in 1694*, the bank of England has centuries of experience in dealing with financial troubles. (由于)成立于1694年, (因此)英格兰银行在应对金融困境方面已经有几百年的经验了。
+
+两个句子间的逻辑关系也可以很多样, 常见的有: 伴随、因果和条件. +
+- *Feeling threatened*, companies responded [by writing ever-longer warning labels], trying to anticipate every possible accident. +
+(由于)感觉受到了威胁, (所以)公司通过书写冗长的警示标签作为回应, 尝试着希望能预测到每一起可能的事故。
+
+|===
+
+
+---
+
+== 独立主格
+
+*独立主格结构, 为两个句子在主语不同的情况下, 提供了将其合并为一个句子的可能.* +
+*独立主格的产生, 就是从作状语开始的,并且在考研中也只考查作状语的情况。*
+
+*独立主格结构, 它本身不是真正的句子*, 因为它的结构是 -> *主语+非谓语动词.*  可以看出, 它的"谓语部分"是"非谓语动词"(而不是"谓语动词"!). 所以它就不是真正的句子了(从"行星"降格成"矮行星"了). *那么这种"伪句子", 起什么作用呢? 它往往做"状语"来用, 表时间、原因、条件、伴随、目的及状态等。* +
+
+
+*虽然它不是句子, 但独立主格结构中的"主语"与"非谓语动词", 存在逻辑上的主谓关系。* +
+*独立主格结构有自己的主语，在结构上与主句不发生关系，所以才称为独立主格*，当然，在意义上还是从属分句。
+
+独立主格的长相外貌, 可以为:
+
+|===
+|逻辑主语 |逻辑谓语 +
+(非谓语动词) | 举例
+
+|名词/代词
+|分词(-ing 、-ed) +
+/不定式(to do...) +
+/adj. +
+/adv. +
+/介词短语 +
+/n.
+|- *The girl staring at him*(= As the girl stared at him), he didn't know what to say. 姑娘两眼望着他，他不知道说什么好。 +
+- *The problems solved*(= As the problems were solved), the quality has been improved. 随着问题的解决，质量已经提高了。 +
+- They said good-bye to each other, *one to go home, the other to go to the bookstore*. 他们道别后，一个回了家，一个去了书店。 +
+- An air accident happened to the plane, *nobody alive*. 那架飞机遭遇了空难，无一人生还。 +
+- *The meeting over*, they all went home. 会议一结束，他们就都回家了。 +
+- The boy goes to the classroom, *book in hand*. 那男孩手里拿着书去教室。 +
+- Two hundred people died in the accident, *many of them children*. 两百人死于事故，其中有许多儿童。
+
+|with/without+名词/主格代词
+|-ed/-ing形式 +
+/adj. +
+/介词短语
+|*即: with ( without)+宾语（名词/代词）+宾语补足语* +
+在with (without) 的复合结构中，多数情况下with 能省略，但without 不能省略。
+
+- The girl hid her box *without anyone knowing where it was*. 小女孩把盒子藏了起来，没有人知道它在哪里。（without +名词/代词+动词的-ing形式）  +
+- *Without a word more spoken*, she left the meeting room. 她没再说什么话就离开了会议室。（without+名词/代词+动词的-ed形式） +
+- The boy was walking, *with his father ahead*. 父亲在前，小孩在后走着。（with+名词/代词+副词） +
+- *With his son so disappointing*, the old man felt unhappy. 由于儿子如此令人失望，老人感到很不快乐。（with+名词/代词+形容词）
+
+|There being +名词（代词） +
+/It being +名词（代词)
+|
+|- *There being nothing else to do*, we went home. 没有别的事可做，我们就回家了。 +
+- *It being Christmas*, the government offices were closed. 由于圣诞节的缘故，政府机关都休息。
+
+
+|===
+
+
+---
+
+== 倒装句
+
+==== 部分倒装
+
+部分倒装的定义: *系动词、情态动词, 或助动词, 被置于主语前, 为部分倒装(实义动词位置未发生改变)。*
+
+---
+
+==== 完全倒装
+
+
+
+---
+
+== 强调句
+
+
+
+
+
+
+
+65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,198 @@
+
+= 省去to的不定式
+:toc:
+
+---
+
+不定式是由小品词to加一个动词构成的，即to do，然后在句中充当各种成分。不过有时, 这个小品词to可以省去，甚至是必须省去。
+
+---
+
+== 1. 在五感动词(see, hear, watch, notice, feel, observe等), 和使役动词(let, make, have)后, 不定式要省去to
+
+最常见的"不定式需要省去to"的情况是, 出现在某些动词的"宾语补足语"中。这样的动词主要包括两类：
+
+1. 感觉动词(五官感觉)（perceptional verb）：see, hear, watch, notice, feel, observe
+2. 使役动词（causative verb）：let, make, have
+
+例如
+
+- Americans love television talk shows. They love to hear celebrities *talk about* their personal lives before a national audience. And they love to watch people with different views *get into* heated debates. Larry King obviously knows what audiences want. That's why Americans love to watch his show, Larry King Live. Celebrities and politicians talk with King about their lives, troubles, plans and politics. And Americans enjoy watching this ordinary guy *ask* hard-hitting questions of the world's most prominent people. +
+美国人喜欢看电视脱口秀节目，因为他们喜欢听名人们在全国电视观众面前谈论自己的私生活，他们还喜欢看人们因为观点不同而彼此激烈地争论交锋。拉里·金显然明白观众们的所需，这就是为什么美国观众爱看他的直播电视脱口秀节目《拉里·金在线》。在节目中，名人和政治家们与金谈论他们的生活、困难、计划和政治。美国观众非常热衷于看到这名普通的主持人对那些世界的知名人士提出刁钻的问题。 +
+-> 我们看到，*这段话里有三处省去to的不定式*：hear celebrities talk, watch people with different views get, watching this ordinary guy ask。*这里没有说 to talk, to get 和 to ask，原因就是因为这三个补足语, 都是用在了感觉动词hear, watch 和 watching后面。*
+
+- The mother *makes* her son *play* the violin three hours a day.  <- 使役 +
+这个母亲让她儿子每天练习三个小时的小提琴。
+
+- The minister *had* his secretaries *arrange* a press conference. <- 使役 +
+部长让他的秘书安排一次新闻发布会。
+
+- The teacher *lets* us *write* a composition every week.  <- 使役 +
+老师让我们每周写一篇作文。
+
+- I *heard* him *quarrel* with his wife last night.  <- 五感 +
+ 我听到他昨晚与妻子吵架.
+
+- I *saw* a man *enter* the shop.  <- 五感 +
+我看到一个人进了商店。
+
+
+*注意，上述谓语动词若转换为"被动结构"时，其后的不定式需加to。*
+
+- A man was seen *to enter* the shop. <- 五感(被动态)
+
+另外，*在help, listen to, look at后面, 可用to，也可不用to。*
+
+- Would you like to listen to me *read* the poem? 你想听我读这首诗吗？
+- The teacher will help you *(to) study* English well. 老师会帮你学好英语。
+
+---
+
+== 2. 在一些特定的短语结构中, 后面的不定式不带to
+
+这些结构包括： +
+had better, +
+would rather, +
+would sooner, +
+would just as soon, +
+might (just) as well, +
+cannot but, +
+cannot choose but, +
+cannot help but 等。
+
+- I *cannot but + admire* his courage. 我不得不敬佩他的勇气。
+
+- We *might as well + put up* here for tonight. 今晚我们不妨就在这里过夜。
+
+- I *couldn't help but + fall* in love with you 我情不自禁地坠入情网
+
+---
+
+== 3. 在 more than, rather than, other than, than 后面, 加不带 to 的不定式
+
+在 more than, rather than, other than, than 后面, 加不带 to 的不定式
+
+*这些句型中的 than 后面, 一般不接 to do，而直接用"动词原形"。*
+
+- Teachers do much *more than + impart*(v.)(`=*~ sth (to sb)* : to pass information, knowledge, etc. to other people 通知；透露；传授`) knowledge. They are forces in young lives. 老师不只是授业解惑，他们还是年轻生命的力量源泉。
+
+- *Rather than + wait* anymore, I decided to go home by taxi. 我决定打车回家，而不想再等下去了。
+
+- No one could do *other than*(`=*OTHER THAN* : except 除…以外`)  *+ admire* it. 大家都很推崇它。
+
+
+---
+
+== 4. 在 do nothing/anything/everything + but do 句型中, but后面的do, 就是省略了to的不定式
+
+在 *do* nothing/anything/everything *but do* 句型中
+
+*在这个句型里, 关键是因为前面有do，所以but后面的不定式要省去to，因此说成 but do，而不是but to do ×*。请比较：
+
+- I have nothing *to do + but wait*. 我没办法，只好等。 +
+-> 因为but前面有do，所以wait前面省去to。
+
+- I have no choice *but to wait*.
+-> 因为but前面没有do，所以wait前面保留to。
+
+- He will *do* anything *but give in*. 他决不会屈服。
+
+- He needs nothing *but to succeed*. 他要的只是成功。 +
+-> 句中因为没有do，所以but后面都保留了to.
+
+- That was so serious a matter that I had no choice *but to call* in the police. 情况太严重了，我只有打电话报警。
+
+---
+
+== 5. 对于解释do的精确含义的"主语从句"或者"定语从句"的句子，在主句谓语be动词后, 直接加do，而不是to do。
+
+*对于解释do的精确含义的"主语从句"或者"定语从句"的句子，在主句谓语be动词后, 直接加do，而不是to do。*
+
+- Saddam Hussein has been executed. `主` All (his execution *do*) `系` is *stir up* a real vendetta. +
+萨达姆·侯赛因已经被处决了。他的被处死只能激起更深的仇恨。 +
+-> 这里 all 作主语，后面是定语从句 his execution do，此时 is 的后面直接用 stir 而不是 to stir ×。*这里 stir up a real vendetta 是解释前面的do的精确含义的，相当于一个强调句型。*
+
+- `主` All you *do* `系` is *sit and watch television* and complain about how tired you are. +
+而你就只是坐在那里看电视，还有抱怨自己有多累。 +
+->  我们看到，这里没有说 is to sit and watch ×，而是省去了to。
+
+
+- No mountain's too high for you to climb. All you have to *do* is *have* some climbing faith. No river's too wide for you to make it across. All you have to *do* is *believe it* when you pray. +
+没有哪座山因为太高而令你无法翻越，只要你有攀登的信念；没有哪条河因为太宽而令你无法跨越，只要你相信当你祈祷时奇迹就会发生。 +
+-> 我们看到，*这里do后面作表语的不定式have和believe的前面, 都省去了to。*
+
+- We can't *make* everyone *love* us. All we can *do* is *let* ourselves *be loved*. +
+虽然我们无法做到让所有人都爱我们，但我们要能做到让自己有人爱。 +
+-> 这里其实共有三处to被省去： +
+一是make后面的love，不是to love； +
+二是is后面的let，不是to let； +
+三是let后面的be loved，不是to be loved。
+
+---
+
+== 6. why（not）+ do <- 在特殊疑问词中，只有why后面要接省去to的不定式
+
+在why（not）+do句子中
+
+*在特殊疑问词中，只有why后面要接省去to的不定式。*  +
+其中，肯定形式的 *Why do sth. 表示“为什么要做某事呢？”含有责怪之意*，通常表明做某事是无意义或愚蠢的。
+
+- A: I really hate to write the essay Professor Smith assigned us. 史密斯教授布置的那篇论文我真不想写。 +
+B: *Why bother* then? 那干吗还费劲去写呢？ +
+-> 不能说 Why to bother then? ×
+
+- *Why pay* to see that movie, since you can see it on TV for nothing? +
+既然你不花钱就可以在电视上看到那个电影，那为什么还要花钱去看呢？
+
+*而否定形式的 Why not do sth.? 则通常表示建议，在口语中非常常用。*
+
+- *Why not take* a holiday? 为什么不休个假呢？
+
+---
+
+== 7. 在不定式的"并列结构"中，to常被省去
+
+具体来说，*两个动词由and, or, but等词连接时，为了避免重复而把连词后面的不定式的to省去。*
+
+- I'd like to lie down *and* (to) go to sleep. 我想躺下睡觉。
+
+- Do you want to have lunch now *or* (to) wait till later? 你想现在就吃午饭还是等一会再吃？
+
+*不过需要注意的是，若两个不定式动词之间, 有"对比"之义，则均须保留to。*
+
+- The need *to love* and *to be loved* seems universal. +
+爱与被爱的需要似乎是人类普遍的特性。 +
+-> 这里的to love与to be loved之间, 显然有"强调对比"之意，所以and后面的不定式, 保留了to。
+
+- I came *not to praise*, but *to scold* you. 我来不是为了要夸奖你，而是要批评你。
+
+
+*其实，即使不只是在并列结构中，只要不定式有"对比强调"的含义，此时不定式的to, 都会保留。*
+
+- *To play fair* is as important as *to play well*. 公平竞争与赛出水平同等重要。
+
+- He likes *to be respected*, *not to respect* others. 他喜欢被别人尊重，但就是不愿尊重别人。
+
+---
+
+== 8. 在一些固定的动词搭配中, 不定式要省略to
+
+
+这些搭配包括： +
+make do（设法应付，对付）， +
+make believe（假装）， +
+let drop（使……掉下来）， +
+let fall（让……倒下）， +
+let fly（放飞）， +
+let slip（放走，错失机会）， +
+let go of（松开）， +
+hear say（听说）， +
+leave go of（放走）等等。
+
+- Let's *make believe* we are now on a deserted island. 现在让我们来假想自己是在一座孤岛上。
+
+---
+
+
+
+
