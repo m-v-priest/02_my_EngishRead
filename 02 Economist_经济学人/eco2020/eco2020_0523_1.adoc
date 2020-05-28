@@ -275,7 +275,7 @@ Another mystery *relates to* an announcement (*made* just as `主` the new Ameri
 
 Even if that *is not* TSMC’s intention, workarounds *are bound to proliferate*(v.). On May 18th the boss of Samsung Electronics *toured* his company’s new chip factory in Xian, a city in central China. The South Korean firm, which *plans to invest* $115bn *in* its chipmaking business over the next decade, *has made it clear that* it *will not ignore* China. America’s export controls *may prompt it* to *kit out* its foundries *with* equipment that *will not fall foul of* Sino-American geopolitics.
 
-Chip-industry insiders *report that* semiconductor equipment *is already being marketed* inside China *as* “EAR free” -- *meaning* Chinese buyers *need not worry about* the “export administration regulations” that the Trump administration *is using* to attack Huawei. A person close to American toolmakers *says* some of them *are thinking about* moving(v.) their patents abroad *to rebuild* operations *from scratch* away from America’s jurisdiction, *in order to circumvent* present and future anti-Chinese restrictions. Mr Trump’s attempt to de-Sinify the semiconductor industry may do more to de-Americanise it instead.
+Chip-industry insiders *report that* semiconductor equipment *is already being marketed* inside China *as* “EAR free” -- *meaning* Chinese buyers *need not worry about* the “export administration regulations” that the Trump administration *is using* to attack Huawei. A person close to American toolmakers *says* some of them *are thinking about* moving(v.) their patents abroad *to rebuild* operations *from scratch* away from America’s jurisdiction, *in order to circumvent* present and future anti-Chinese restrictions. Mr Trump’s attempt *to de-Sinify*(v.) the semiconductor industry *may do* more *to de-Americanise* it *[instead]*.
 
 ---
 
@@ -491,4 +491,8 @@ SYN multiply +
 - They found a way of *circumventing the law*. 他们找到了规避法律的途径。 +
 image:../../+ img_单词图片/c/circumvent.jpg[]
 
-1. 特朗普试图让半导体行业去中国化，可能反而会让半导体行业去美国化。
+1.  Sinify : vt. 使中国化（等于Sinicize）, de为英语前缀，前缀de-来自拉丁语，意为"away from"，所以这个前缀的意义之一就是"离开"、"出"。
+- Mr Trump’s attempt *to de-Sinify*(v.) the semiconductor industry *may do* more *to de-Americanise* it *[instead]*. +
+特朗普试图让半导体行业去中国化，可能反而会让半导体行业去美国化。
+
+
