@@ -1,6 +1,5 @@
 
 = eco 2020-05-30
-
 :toc:
 
 ---
@@ -73,7 +72,7 @@ Eyes now *are* on Washington. `主` Mr Pompeo’s decision *to notify* Congress 
 
 Among more likely measures *are* the imposition of sanctions on officials who *abuse human rights* in Hong Kong, *such as* by *denying* them visas and *freezing* their assets. Another possible step *involves* changes to Hong Kong’s status *as* a partner *trusted*(v.) *to enforce(v.) controls* on the export of sensitive items and technologies. American officials *grumble that* shell companies in the territory *are shipping* controlled(a.) items *to* Iran or mainland China, and *say* Hong Kong *seems* nervous(a.) of *working closely with* America *in case* that *angers* China. And the Senate *is mulling* a bipartisan(a.) bill that *calls for* sanctions *against* banks that *have dealings with* human-rights abusers in Hong Kong. Measures *could even include* cutting off access to America’s financial system.
 
-Mr Trump may be cautious. He signed last year’s bill, which amended the Hong Kong Policy Act to give it more teeth, but only reluctantly. (He had earlier suggested he might veto it to promote a trade deal with China.) He may balk at an escalation. But but these are febrile, unpredictable times in the Sino-American relationship and American politics. As a congressional staffer puts it, television scenes of heads being cracked on Hong Kong’s streets could play into the “whole Democratic notion that President Trump is soft on autocrats and weak on human rights.” So more dramatic steps by America are growing more likely, as accusations in Beijing of foreign meddling grow shriller. Not only are Hong Kong’s freedoms in peril. So too are badly strained ties between the two great powers on which its future most depends.
+Mr Trump *may be* cautious. He *signed* last year’s bill, which *amended* the Hong Kong Policy Act *to give it more teeth*, but only reluctantly. (He *had earlier suggested* he *might veto* it *to promote* a trade deal with China.) He *may balk(v.) at* an escalation. But but these *are* febrile(a.), unpredictable times in the Sino-American relationship and American politics. *As* a congressional staffer *puts it*, `主` television scenes of heads *being cracked* on Hong Kong’s streets `谓` *could play into* the “whole Democratic notion that President Trump *is soft* on autocrats *and weak* on human rights.” So `主` more dramatic steps by America `谓` *are growing more likely*, 随着 as `主` accusations in Beijing of foreign meddling `谓` *grow shriller*(a.). *Not only* are Hong Kong’s freedoms in peril. *So too* are badly strained(a.) ties between the two great powers *on which* its future *most depends*.
 
 ---
 
@@ -660,10 +659,6 @@ image:../../+ img_单词图片/f/febrile.jpg[]
 同义词 tense +
 -> *There was a strained atmosphere* throughout the meeting.
 会议自始至终气氛紧张。
-
-
-
----
 
 
 
