@@ -89,7 +89,7 @@ The combination of financial pressure and White House indifference(n.) *has scup
 1. muzzle :  /ˈmʌzl/ v. to prevent sb from expressing their opinions in public as they want to 压制，钳制（言论）；使缄默 /[ usually passive ] to put a muzzle over a dog's head to prevent it from biting people （给狗）戴口套 +
 => 来自古法语musel,口鼻，猪鼻，狗鼻，可能来自拉丁语morsus,咬，词源同mordant,morsel.引申词义给狗，马等动物带的口套，以及枪口等。
 - They accused the government of *muzzling(v.) the press*. 他们指责政府压制新闻自由。 +
-image:../../+ img_单词图片/m/muzzle.jpg[]
+image:../../+ img_单词图片/m/muzzle.jpg[100,100]
 
 1. It *has held* no public briefings since mid-March. Meanwhile, `主` the first testing kits that the World Health Organisation *is distributing* `谓` *came from* Germany. +
 自3月中旬以来，它(美国疾病控制与预防中心)没有举行公开简报。与此同时，世界卫生组织正在分发的第一批来自德国的检测试剂盒。
@@ -109,7 +109,7 @@ image:../../+ img_单词图片/m/muzzle.jpg[]
 => From Latin clāmor ‎(“a shout, cry”), from clāmō ‎(“cry out, complain”)
 - the clamour of the market 市场上鼎沸的人声
 - *The clamour for her resignation* grew louder. 民众要求她辞职的呼声越来越高。 +
-image:../../+ img_单词图片/c/clamour.jpg[]
+image:../../+ img_单词图片/c/clamour.jpg[100,100]
 
 1. squander :  /ˈskwɑːndər/ v.[ VN ] *~ sth (on sb/sth)* to waste money, time, etc. in a stupid or careless way 浪费，挥霍（金钱、时间等） +
 => 词源不详，可能来自拟声词根 squ-,挤，压，模仿挤压湿物体时发出的吧唧声。比较 splurge, 挥霍，浪费。
@@ -219,7 +219,7 @@ SYN foil
 - The residents' protests *scuppered his plans* for developing the land. 居民的抗议使他开发这片土地的计划泡了汤。 +
 - The combination of financial pressure and White House indifference(n.) *has scuppered* any chance (America had) *to produce* a national strategy for covid-19. +
 财政压力和白宫的漠不关心, 使任何美国能制定应对covid-19的国家战略的机会, 都化为了泡影。 +
-image:../../+ img_单词图片/s/scupper.jpg[]
+image:../../+ img_单词图片/s/scupper.jpg[100,100]
 
 1. son-in-law : the husband of your daughter 女婿
 
@@ -293,7 +293,7 @@ Chip-industry insiders *report that* semiconductor equipment *is already being m
 => 来自意大利语 salva,敬礼，致敬，鸣枪，鸣炮，来自拉丁语 salve,欢呼，祝健康（比较汉语 万岁万岁万万岁），祈使格于拉丁语 salvare,救护，使安全，祝健康，来自 PIE*sol,完整的， 词源同 solid,save,salute.其原义为一种鸣枪欢迎仪式，类似于现在的国家元首访问鸣礼炮，后 词义通用化，用于指任何形式的同时鸣枪或鸣炮。
 - *The first salvo*(n.) exploded(v.) a short distance away. 第一批投下的炸弹在不远处爆炸。 +
 - America’s latest salvo(n.) against Huawei *is aimed at* chipmaking in China. 美国攻击华为, 其目标是针对中国的芯片制造 +
-image:../../+ img_单词图片/s/salvo.jpg[]
+image:../../+ img_单词图片/s/salvo.jpg[100,100]
 
 1. *have it in for sb* :( informal ) to not like sb and be unpleasant to them 跟某人过不去
 - AMERICA *HAS it in for* Huawei. 美国跟华为过不去
@@ -369,7 +369,7 @@ to free yourself or sb else from a difficult situation or a punishment （使）
 
 1. foundry :  /ˈfaʊndri/ a factory where metal or glass is melted and made into different shapes or objects 铸造厂；玻璃厂 +
 - the clean rooms of Asian chip foundries *are hard* to monitor.  亚洲芯片代工厂的洁净室很难监控。
-image:../../+ img_单词图片/f/foundry.jpg[]
+image:../../+ img_单词图片/f/foundry.jpg[100,100]
 
 1. *pin sb down* : to make sb unable to move by holding them firmly 按住；使动弹不得
 - Two men *pinned him down* until the police arrived. 两个人按住他直到警察赶来。
@@ -391,7 +391,7 @@ image:../../+ img_单词图片/f/foundry.jpg[]
 - Exam results are not *the only yardstick* of a school's performance. 考试结果不是衡量学校水平的唯一标准。 +
 - One crude yardstick for this *is* to track(v.) where its physical assets *sit*, as *recorded* in the filings of public tech businesses (see chart). +
 一个粗略的衡量标准是，追踪其有形资产的去向，如上市科技企业的备案文件所记录的那样(见图表)。 +
-image:../../+ img_单词图片/y/yardstick.jpg[]
+image:../../+ img_单词图片/y/yardstick.jpg[100,100]
 
 1. American chipmakers, meanwhile, and many suppliers, *have been diversifying geographically* for years. 美国芯片制造商和许多供应商, 多年来一直在进行(工厂选址)地域的多元化.
 
@@ -421,7 +421,7 @@ image:../../+ img_单词图片/y/yardstick.jpg[]
 1. wafer /ˈweɪfər/ ~ (of sth) a very thin piece of sth 薄片 /a thin crisp light biscuit/cookie, often eaten with ice cream 威化饼，薄脆饼（常与冰激凌同吃）
 - Lam Research, an American maker equipment *used by* TSMC and others *to process* silicon wafers, *has* 88% of its $1.1bn plant *at home*. +
 Lam Research公司是一家美国制造商，台积电和其他公司用来加工硅片的设备，其11亿美元的工厂中有88%在国内。 +
-image:../../+ img_单词图片/w/wafer.jpg[]
+image:../../+ img_单词图片/w/wafer.jpg[100,100]
 
 1. unpack : [ VN ] to separate sth into parts so that it is easier to understand 分析；剖析
 - *to unpack a theory* 剖析一个理论
@@ -491,7 +491,7 @@ SYN multiply +
 1. circumvent :  /ˌsɜːrkəmˈvent/ v. to find a way of avoiding a difficulty or a rule 设法回避；规避 / to go or travel around sth that is blocking your way 绕过；绕行；绕道旅行 +
 => circum-,圈，周围，-vent,走，词源同advent,venue.
 - They found a way of *circumventing the law*. 他们找到了规避法律的途径。 +
-image:../../+ img_单词图片/c/circumvent.jpg[]
+image:../../+ img_单词图片/c/circumvent.jpg[100,100]
 
 1.  Sinify : vt. 使中国化（等于Sinicize）, de为英语前缀，前缀de-来自拉丁语，意为"away from"，所以这个前缀的意义之一就是"离开"、"出"。
 - Mr Trump’s attempt *to de-Sinify*(v.) the semiconductor industry *may do* more *to de-Americanise* it *[instead]*. +

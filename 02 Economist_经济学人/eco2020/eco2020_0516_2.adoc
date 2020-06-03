@@ -64,7 +64,7 @@ So the good news *is that* `主` many squeezed firms *staring* at bankruptcy `�
 -   ...Aspen, Colorado, one of *the glitziest ski resorts* in the world. ...卡罗拉多的阿斯本，世界上最奢华的滑雪场之一。 +
 - [In recent weeks] well-known firms *ranging from* Neiman Marcus, a department-store chain, and J Crew, a clothing retailer, *to* Gold’s Gym, a glitzy(a.) workout group, *have gone bust*(n.). +
 最近几周，从百货公司连锁Neiman Marcus, 服装零售商J Crew，到炫目的健身团体Gold’s Gym，许多知名公司都破产了。 +
-image:../../+ img_单词图片/g/glitzy.jpg[]
+image:../../+ img_单词图片/g/glitzy.jpg[100,100]
 
 1. workout : n. a period of physical exercise that you do to keep fit 锻炼
 - *She does a 20-minute workout* every morning. 她每天早晨做运动20分钟。
@@ -155,7 +155,7 @@ image:../../+ img_单词图片/g/glitzy.jpg[]
 1. *trailing 12 months 是"过去12个月"的意思* / trail : n. a long line or series of marks that is left by sb/sth （长串的）痕迹，踪迹，足迹
 - *12 month trailing* earnings 是指：**过去12个月**的收益
 - *the 12-month trailing default rate* for junk bonds in America. 过去12个月中的美国垃圾债券的违约率 +
-image:../../+ img_单词图片/t/trailing.jpg[]
+image:../../+ img_单词图片/t/trailing.jpg[100,100]
 
 1. unfold : v. to spread open or flat sth that has previously been folded; to become open and flat （使）展开；打开 /to be gradually made known; to gradually make sth known to other people （使）逐渐展现；展示；透露
 - to unfold a map 展开地图
@@ -183,7 +183,7 @@ image:../../+ img_单词图片/u/unfold.jpg]
 - *a deluge of calls/complaints*/letters 接连不断的电话；没完没了的投诉；纷至沓来的信件
 - *Worried about* the coming deluge of cases, he *organised* a group of experts that last week *petitioned*(v.) Congress *to appoint* more bankruptcy judges and *increase* budgets *for* law clerks and other staff. +
 由于担心即将到来的大量案件，他组织了一个专家小组，在上周请求国会任命更多的破产法官，并增加法律助理和其他工作人员的预算。
-image:../../+ img_单词图片/d/deluge.jpg[]
+image:../../+ img_单词图片/d/deluge.jpg[100,100]
 
 
 1. petition :  /pəˈtɪʃn/ v. *~ for/against sth /~ sb (for sth)* to make a formal request to sb in authority, especially by sending them a petition 祈求；请求；请愿 / *~ (sb) (for sth)* to formally ask for sth in court （向法庭）请求，申请
@@ -205,7 +205,7 @@ image:../../+ img_单词图片/d/deluge.jpg[]
 1. bottleneck :  /ˈbɑːtlnek/  n. a narrow or busy section of road where the traffic often gets slower and stops 瓶颈路段（常引起交通阻塞） /anything that delays development or progress, particularly in business or industry （尤指工商业发展的）瓶颈，阻碍，障碍
 - a legal bottleneck *is “absolutely” possible* unless courtrooms “*evolve* to digest(v.) it”.  +
 除非法庭能逐渐发展到有能力“消化”这些案件，否则法律执行上的瓶颈“绝对”有可能出现。 +
-image:../../+ img_单词图片/b/bottleneck.jpg[]]
+image:../../+ img_单词图片/b/bottleneck.jpg[100,100]]
 
 1. evolve : v. ~ (sth) (from sth) (into sth) to develop gradually, especially from a simple to a more complicated form; to develop sth in this way （使）逐渐形成，逐步发展，逐渐演变 /( biology 生 ) ~ (from sth) ( of plants, animals, etc. 动植物等 ) to develop over time, often many generations, into forms that are better adapted to survive changes in their environment 进化；进化形成
 - Each school *must evolve its own way of working*. 每个学校必须形成自己的办学方式。
@@ -220,7 +220,7 @@ image:../../+ img_单词图片/b/bottleneck.jpg[]]
 SYN taxing +
 => 来自拉丁语onus的所有格oneris,负担，重担，词源同onus.引申词义费力的，艰巨的。
 - *an onerous duty/task/responsibility* 繁重的义务╱工作╱职责 +
-image:../../+ img_单词图片/o/onerous.jpg[]
+image:../../+ img_单词图片/o/onerous.jpg[100,100]
 
 1. unserviceable : /ʌnˈsɜːrvɪsəbl/ a.  not suitable to be used 不适用的；不正常运转的
 - part of the solution *lies in* embracing(v.) faster “pre-packaged” bankruptcy deals(n.) and debt exchanges(n.) (lenders *agreeing to swap* less onerous(a.) new debt *for* old unserviceable debt) *done* [out of court]. +
@@ -239,14 +239,14 @@ image:../../+ img_单词图片/o/onerous.jpg[]
 
 1. implosion  : /ɪmˈploʊʒn/ N the act or process of imploding 向内爆炸
 - *the implosion* of a light bulb +
-image:../../+ img_单词图片/i/implosion.jpg[]]
+image:../../+ img_单词图片/i/implosion.jpg[100,100]]
 
 1. opposite  : /ˈɑːpəzɪt/a.  [ usually before noun ] as different as possible from sth 相反的；迥然不同的 /[ only before noun ] on the other side of a particular area from sb/sth and usually facing them 对面的；另一边的 +
 / n. a person or thing that is as different as possible from sb/sth else 对立的人（或物）；对立面；反面
 - students *at opposite(a.) ends* of the ability range 能力差距两极的学生
 - *Exactly the opposite*(n.) is true. 事实恰恰相反。
 - this crisis *is* the opposite. 这场危机(的情形)正相反 +
-image:../../+ img_单词图片/o/opposite.jpg[]
+image:../../+ img_单词图片/o/opposite.jpg[100,100]
 
 1. the fundamental operations of businesses *are disrupted*. 企业的基本运营受到了干扰。
 
@@ -254,7 +254,7 @@ image:../../+ img_单词图片/o/opposite.jpg[]
 => 来自辅音丛fl, 扑腾，拍打，拟声词，词源同flap, flip, flutter. 引申词义忙乱，窸窣的声音，小阵雨，小阵雪等。
 - Her arrival caused *a flurry of excitement* . 她的到来引起了一阵哄动。
 - There is a flurry(a.) of activity among investors *pouring money into* so-called rescue funds. 投资者纷纷将资金投入所谓的救助基金。 +
-image:../../+ img_单词图片/f/flurry.jpg[]]
+image:../../+ img_单词图片/f/flurry.jpg[100,100]]
 
 1. distressed-debt funds *are looking* to raise(v.) nearly $35bn. 不良债务基金, 正寻求筹集近350亿美元。 +
 -> 橡树资本作为全球最大的不良债务投资商，管理资产总值超1200亿美元。它常常低价投资濒临破产的公司，却又往往能通过重组使之起死回生。目前橡树资本管理的"不良债务基金"达194亿美元。
@@ -279,11 +279,11 @@ image:../../+ img_单词图片/f/flurry.jpg[]]
 1. *kick the can down the road* :  kick the can 捉迷藏, 躲猫猫, kick the can down the road 中, can 就引申为"麻烦"的意思, 这个短语的意思就是"拖延问题, 回避问题, 把麻烦丢给他人, 得过且过" +
 - if you *can kick the can down the road*, *maybe* a vaccine *comes* and…there is a better chance of *getting* a recovery *for* creditors. +
 如果你能拖延问题，或许就能研制出疫苗……债权人就有更大的机会获得偿付。 +
-image:../../+ img_单词图片/c/kick the can down the road.jpg[]
+image:../../+ img_单词图片/c/kick the can down the road.jpg[100,100]
 
 1. hedge : n. *~ against sth* : a way of protecting yourself against the loss of sth, especially money 防止损失（尤指金钱）的手段 /a row of bushes or small trees planted close together, usually along the edge of a field, garden/yard or road 树篱
 - to buy gold as *a hedge against inflation* 购买黄金以抵消通货膨胀造成的损失 +
-image:../../+ img_单词图片/h/hedge.jpg[]]
+image:../../+ img_单词图片/h/hedge.jpg[100,100]]
 
 1. *hedge fund* : N-COUNT A hedge fund is an investment fund that invests large amounts of money using methods that involve a lot of risk. 对冲基金 +
 也称"避险基金"或"套期保值"基金。是指"金融期货"和"金融期权"等金融衍生工具, 与金融工具结合后, 以营利为目的的金融基金。
@@ -364,7 +364,7 @@ Behemoths *have been rescued* by the state, 因为 *as* so many jobs *depend on*
 - He *smashed the radio to pieces*. 他啪的一声把收音机摔得稀巴烂。
 
 1. bench :  a long seat for two or more people, usually made of wood （通常木制的）长凳，长椅 +
-image:../../+ img_单词图片/b/bench.jpg[]
+image:../../+ img_单词图片/b/bench.jpg[100,100]
 
 1. defaulter : N-COUNT A defaulter is someone who does not do something that they are legally supposed to do, such as make a payment at a particular time, or appear in a court of law. 不依法履行者; 不出庭者
 
@@ -462,7 +462,7 @@ image:../../+ img_单词图片/b/bench.jpg[]
 - measures to help *the ailing economy* 改善经济不景气的措施 +
 - Germany’s Karstadt Kaufhof, an ailing(a.) department-store chain, and France’s Orchestra Prémaman, a troubled clothing retailer, both *filed for* receivership in April. +
 境况不佳的德国连锁百货公司Karstadt Kaufhof, 和陷入困境的法国服装零售商Premaman管弦乐队, 都在4月份申请破产保护。 +
-image:../../+ img_单词图片/a/ailing.jpg[]
+image:../../+ img_单词图片/a/ailing.jpg[100,100]
 
 1. department-store 百货公司；百货商店
 

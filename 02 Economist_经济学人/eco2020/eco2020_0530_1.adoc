@@ -157,13 +157,13 @@ Mr Trump *may be* cautious. He *signed* last year’s bill, which *amended* the 
 1. secession :  /sɪˈseʃn/  *~ (from sth)* the fact of an area or group becoming independent from the country or larger group that it belongs to （地区或集团从所属的国家或上级集团的）退出，脱离
 -  ...*the Ukraine's secession* from the Soviet Union.
 ...乌克兰之退出苏联。 +
-image:../../+ img_单词图片/s/secession.jpg[]
+image:../../+ img_单词图片/s/secession.jpg[100,100]
 
 1. defiance /dɪˈfaɪəns/ n. open refusal to obey sb/sth 违抗；反抗；拒绝服从 +
 => 来自defy的名词形式。
 - a look/an act/a gesture of defiance 反抗的神色╱行动╱表示 +
 - Last year’s open defiance(n.) of the police by protesters *will no longer be tolerated*. 去年抗议者公开违抗警察的行为, 将不再被容忍。 +
-image:../../+ img_单词图片/d/defiance.jpg[]
+image:../../+ img_单词图片/d/defiance.jpg[100,100]
 
 1. brief : v. *~ sb (on/about sth)* to give sb information about sth so that they are prepared to deal with it 给（某人）指示；向（某人）介绍情况
 - *Briefing* diplomats, businesspeople and journalists. 向外交官、商人和记者们做简报
@@ -175,7 +175,7 @@ image:../../+ img_单词图片/d/defiance.jpg[]
 1. loophole : n. *~ (in sth)* a mistake in the way a law, contract, etc. has been written which enables people to legally avoid doing sth that the law, contract, etc. had intended them to do （法律、合同等的）漏洞，空子 +
 => 原指墙上的小洞，后用于比喻义漏洞。
 - *a legal loophole* 法律的漏洞 +
-image:../../+ img_单词图片/l/loophole.jpg[]
+image:../../+ img_单词图片/l/loophole.jpg[100,100]
 
 1. *bent on sth/on doing sth* : determined to do sth (usually sth bad) 决心要做，一心想做（通常指坏事）
 - She seems *bent on making life difficult for me*. 她似乎专门和我过不去。
@@ -184,11 +184,11 @@ image:../../+ img_单词图片/l/loophole.jpg[]
 
 1. split : v.  to divide, or to make a group of people divide, into smaller groups that have very different opinions 分裂，使分裂（成不同的派别）
 - The committee *split*(v.)) over government subsidies. 在政府补贴的问题上，委员会出现了相互对立的意见。 +
-image:../../+ img_单词图片/s/split.jpg[]
+image:../../+ img_单词图片/s/split.jpg[100,100]
 
 1. purr : [pə] v. to speak in a low and gentle voice, for example to show you are happy or satisfied, or because you want to attract sb or get them to do sth （愉快或满意地）低沉柔和地讲话；轻声招呼 / （猫）发出呼噜声，惬意地打呼噜
 - Foreign investors and other business folk, Mr Xie *purred*, had no reason to panic. +
-image:../../+ img_单词图片/p/purr.jpg[]
+image:../../+ img_单词图片/p/purr.jpg[100,100]
 
 1. note : [可数名词] an official document with a particular purpose 正式文件；票据；证明书
 - *a sick note* from your doctor 医生开据的病假证明
@@ -211,7 +211,7 @@ image:../../+ img_单词图片/p/purr.jpg[]
 barrister是出庭律师、大律师，具有上庭辩护的资格，常根据其发音称为“巴律师”； +
 solicitor是事务律师，只能办理法律事务，不能上庭辩护，常根据其发音称为“沙律师”。 +
 barrister中的bar指的是庭审现场中将法庭和旁听席分开的围栏，因此barrister的字面意思就是有资格越过围栏，上庭辩护的律师。 +
-image:../../+ img_单词图片/b/barrister.jpg[]
+image:../../+ img_单词图片/b/barrister.jpg[100,100]
 
 1. quasi-  : /'kweizai/ pref. 准；类似（用以构成复合词） /that appears to be sth but is not really so 类似 /partly; almost 半；准 +
 => 来自拉丁语quasi, 看起来相似， 类似。其中qua 来自PIE*kwo, 表疑问， 词源同quality,quantity,how,who,-si 来自PIE*swe,自身，自己，词源同self.见quasar,quasi-science.
@@ -238,7 +238,7 @@ image:../../+ img_单词图片/b/barrister.jpg[]
 - A serious injury *nearly wrecked his career*.
 一次重伤差点儿葬送了他的前程。
 - The new bill *would wreck* that. 新法案将破坏这一点。 +
-image:../../+ img_单词图片/w/wreck.jpg[]
+image:../../+ img_单词图片/w/wreck.jpg[100,100]
 
 1. enact v. [常用被动态](law 律) to pass a law 通过（法律）
 - legislation *enacted by parliament*
@@ -258,7 +258,7 @@ image:../../+ img_单词图片/w/wreck.jpg[]
 
 1. annexe : n. [ˈænɪks] (formal) an extra section of a document （文件的）附件，附录 /a building that is added to, or is near, a larger one and that provides extra living or work space 附属建筑物；附加建筑物 +
 => an（=ad，去）+nex（系、绑, 见connect）→绑在一起→合并 词源解析：nex←拉丁语nectere（系、绑） 同源词：connect（连接），nexus（关系） 衍生词：annexation（合并） +
-image:../../+ img_单词图片/a/annexe.jpg[]
+image:../../+ img_单词图片/a/annexe.jpg[100,100]
 
 1. Bar Association 律师协会,律师公会
 
@@ -273,7 +273,7 @@ image:../../+ img_单词图片/a/annexe.jpg[]
 - *They were all pledged* to secrecy. 他们都宣誓保密。
 - Hong Kong’s Bar Association *also points to* a lack of any assurance that the new bill *will comply with* the International Covenant(n.) on Civil and Political Rights, which the Basic Law *pledges*(v.) to uphold(v.). +
 香港大律师公会(Bar Association)还指出，新法案缺乏任何保证，无法确保它符合《公民权利和政治权利国际公约》(International Covenant on Civil and Political Rights)。《基本法》承诺要维护《国际公约》。 +
-image:../../+ img_单词图片/p/pledge.jpg[]
+image:../../+ img_单词图片/p/pledge.jpg[100,100]
 
 1. uphold : v. to support sth that you think is right and make sure that it continues to exist 支持，维护（正义等）
 -  We have a duty *to uphold the law*.
@@ -338,19 +338,19 @@ image:../../+ img_单词图片/p/pledge.jpg[]
 - The government, when necessary, *has recourse*(n.) to the armed forces. 政府在必要时可以动用军队。
 - These *began* in June in opposition （强烈的）反对，反抗，对抗 to a draft bill that *would have allowed* Hong Kongers (*accused of crimes* in China) *to be extradited*, without recourse(n.), *to* the mainland. +
 这些行动始于6月份，目的是反对一项法案草案，该草案将允许被控在中国犯罪的hk人被引渡到大陆，而没有求助的机会。 +
-image:../../+ img_单词图片/r/recourse.jpg[]
+image:../../+ img_单词图片/r/recourse.jpg[100,100]
 
 1. snowball : v. [单独使用的动词] if a problem, a plan, an activity, etc. snowballs , it quickly becomes much bigger, more serious, more important, etc. 滚雪球般迅速增大（或趋于严重、变得重要等）
 - The protests *quickly snowballed into* a broader rebellion against both the local and central government. +
 抗议活动迅速升级为针对地方和中央政府的更大范围的叛乱。
 
 1. rebellion : n. *~ (against sb/sth)* [不可数名词, 可数名词] an attempt by some of the people in a country to change their government, using violence 谋反；叛乱；反叛 +
-image:../../+ img_单词图片/r/rebellion.jpg[]
+image:../../+ img_单词图片/r/rebellion.jpg[100,100]
 
 1. sling : /slɪŋ/ n. [机] a device consisting of a band, ropes, etc. for holding and lifting heavy objects （悬挂或起吊重物的）吊索，吊链，吊带 ；投石器；抛掷 /vt. 用投石器投掷；吊起
 - The engine was lifted *in a sling(n.) of steel rope*.
 引擎用钢丝吊索吊了起来。 +
-image:../../+ img_单词图片/s/sling.jpg[]
+image:../../+ img_单词图片/s/sling.jpg[100,100]
 
 1. ready : a. [名词前不可用] *~ (for/with sth) | ~ (to do sth)* willing and quick to do or give sth 愿意迅速做某事（或给某物）；急于行动
 - I was very angry and *ready(a.) for a fight*. 我非常生气，想打一架。
@@ -362,7 +362,7 @@ image:../../+ img_单词图片/s/sling.jpg[]
 随着时间的推移，他们变得越来越暴力——参与者开始使用投石器(弹弓)、弓箭和汽油弹来对付警察，而警察则变得更愿意使用催泪弹、橡皮子弹、高压水枪，偶尔还会使用实弹。
 
 1. *water cannon* : a machine that produces a powerful flow of water, used by the police to control crowds of people 水炮（警方用以驱散人群） +
-image:../../+ img_单词图片/w/water cannon.jpg[]
+image:../../+ img_单词图片/w/water cannon.jpg[100,100]
 
 
 1. round : n. a single shot from a gun; a bullet for one shot 一次射击；一发子弹
@@ -382,7 +382,7 @@ image:../../+ img_单词图片/w/water cannon.jpg[]
 - *a two-tier system* of management 两级管理制
 - The protests *eventually ebbed* last year *as* activists 积极分子；活跃分子 *turned their attention to* elections for the territory’s district councils, the only tier(n.) of government *fully elected* by universal suffrage(n.). +
 去年，随着活动人士将注意力转向地方议会选举，抗议活动最终消退。地方议会是香港唯一由普选产生的一级政府。 +
-image:../../+ img_单词图片/t/tier.jpg[]
+image:../../+ img_单词图片/t/tier.jpg[100,100]
 
 1. suffrage : [ˈsʌfrɪdʒ]  n.[不可数名词] the right to vote in political elections 选举权；投票权 +
 => 来自 sub,在 下，向上，-frag,碎开，碎片，词源同 break,fragment.来自古希腊古罗马时期用碎瓦片碎骨片 投票的习俗。比较 ostracism,用碎骨片投票驱逐。 +
@@ -390,11 +390,11 @@ image:../../+ img_单词图片/t/tier.jpg[]
 - *universal suffrage* (= the right of all adults to vote)
 普选权
 - women's suffrage 妇女的选举权 +
-image:../../+ img_单词图片/s/suffrage.jpg[]
+image:../../+ img_单词图片/s/suffrage.jpg[100,100]
 
 1. landslide : |ˈlændslaɪd| n. an election in which one person or party gets very many more votes than the other people or parties 一方选票占压倒多数的选举；一方占绝对优势的选举 / ( also landfall) a mass of earth, rock, etc. that falls down the slope of a mountain or a cliff （山坡或悬崖的）崩塌，塌方，滑坡，地滑
 - She was expected *to win by a landslide* . 预计她会以压倒多数的选票获胜。 +
-image:../../+ img_单词图片/l/landslide.jpg[]
+image:../../+ img_单词图片/l/landslide.jpg[100,100]
 
 1. rebuff : [rɪˈbʌf] n. (formal) an unkind refusal of a friendly offer, request or suggestion 粗暴回绝；生硬的拒绝 +
 => re-,向后，往回，-buff,喷，拟声词。比喻用法。
@@ -438,7 +438,7 @@ image:../../+ img_单词图片/l/landslide.jpg[]
 - *the White House liaison* to organized labor 白宫与工人组织的联络人
 - In January President Xi Jinping *installed*(v.) a loyalist(n.), Luo Huining, *to head* the central government’s outpost(n.) in Hong Kong, the Liaison(n.) Office. +
 今年1月，国家主席x任命忠于他的Luo Huining, 来领导中央政府在香港的联络处。(任中央人民政府驻香港特别行政区联络办公室主任，国务院港澳事务办公室副主任（兼任）) +
-image:../../+ img_单词图片/l/Liaison.jpg[]
+image:../../+ img_单词图片/l/Liaison.jpg[100,100]
 
 1. facilitate : |fəˈsɪlɪteɪt| v. [动词 + 名词短语](formal) to make an action or a process possible or easier 促进；促使；使便利
 - The new trade agreement *should facilitate(v.) more rapid economic growth*. 新贸易协定应当会加快经济发展。
@@ -457,7 +457,7 @@ image:../../+ img_单词图片/l/Liaison.jpg[]
 - Rebel forces *hold sway*(n.) over much of the island. 该岛很大一部分控制在叛军手里。
 - In April, when legal experts *reminded* the office *that* Article 22 of the Basic Law *forbids* interference by mainland entities *in* Hong Kong’s domestic affairs, the office *said* it *was exempt from* this rule. The Hong Kong government *appeared embarrassed* at first. But Mrs Lam *later backed* the Liaison Office’s position -- *confirming*, by doing so, *that* it *held more sway*(n.) than her government. +
 今年4月，当法律专家提醒说, 香港基本法第22条禁止内地实体干涉香港内政时，香港特别行政区基本法办公室表示，它不受这一规定的约束。香港政府起初显得很尴尬。但林太后来支持了联络处的立场 -- 通过这样做，证实联络处比她的政府更有影响力。 +
-image:../../+ img_单词图片/s/sway.jpg[]
+image:../../+ img_单词图片/s/sway.jpg[100,100]
 
 1. assembly : n. [不可数名词, 可数名词] the meeting together of a group of people for a particular purpose; a group of people who meet together for a particular purpose 集会；（统称）集会者
 - They were fighting for *freedom of speech* and *freedom of assembly*.
@@ -481,7 +481,7 @@ image:../../+ img_单词图片/s/sway.jpg[]
 - They were planning to get married and then *the war intervened*. 他们正准备结婚，不巧却因爆发战事而受阻。
 - [In May] the mainland *intervened(v.) angrily* when an exam for school leavers(n.) *invited* a nuanced view of Japan’s role in China’s pre-communist history. +
 今年5月，一场针对毕业生的考试, 引发了对"日本在中国前共产主义历史中所扮演角色"的微妙看法，中国大陆愤怒地进行了干预。 +
-image:../../+ img_单词图片/i/intervene.jpg[]
+image:../../+ img_单词图片/i/intervene.jpg[100,100]
 
 1. leaver : n.  (often in compounds 常构成复合词) a person who is leaving a place 离去者
 - *school-leavers* 中学毕业生
@@ -496,7 +496,7 @@ image:../../+ img_单词图片/i/intervene.jpg[]
 - He watched her face intently *to catch(v.) every nuance of expression*.
 他认真地注视着她的脸，捕捉每一丝细微的表情变化。
 - [In May] the mainland *intervened(v.) angrily* when an exam for school leavers(n.) *invited* a nuanced(a.) view of Japan’s role in China’s pre-communist history. +
-image:../../+ img_单词图片/n/nuance.jpg[]
+image:../../+ img_单词图片/n/nuance.jpg[100,100]
 
 1.  Legco  : Legislative Council 立法委员会
 
@@ -516,7 +516,7 @@ Given 考虑到；鉴于 such methods, *it is hard to predict* whether protests 
 -  wrath => 来自 PIE*wreit,弯，转，扭曲，词源同 wreath,writhe.引申词义愤怒，尤指神的愤怒。
 - vigil : |ˈvɪdʒɪl| n. [可数名词, 不可数名词] a period of time when people stay awake, especially at night, in order to watch a sick person, say prayers, protest, etc. （看望病人、祷告、抗议等的）不眠时间；（尤指）值夜，守夜祈祷 +
 => 来自拉丁语 vigil,警醒，看守，来自 PIE*weg,活力，词源同 vigor,wake.引申词义守夜，值夜。 +
-image:../../+ img_单词图片/v/vigil.jpg[]
+image:../../+ img_单词图片/v/vigil.jpg[100,100]
 - cite : v. *~ sth (as sth)* to mention sth as a reason or an example, or in order to support what you are saying 提及（原因）；举出（示例）；列举 /to speak or write the exact words from a book, an author, etc. 引用；引述；援引 +
 -> *He cited* his heavy workload *as the reason* for his breakdown. 他说繁重的工作负荷是导致他累垮的原因。
 
@@ -527,7 +527,7 @@ Furthermore, support for demonstrations 集会示威；游行示威 *may be ebbi
 -> They were all *moaning and groaning* (= complaining) about the amount of work they had.
 他们对工作量都怨声载道。 +
 -> His parents were beginning *to groan about* the price of college tuition. 他的父母开始抱怨大学的学费太贵。 +
-image:../../+ img_单词图片/g/groan.jpg[]
+image:../../+ img_单词图片/g/groan.jpg[100,100]
 
 - desperate : |ˈdespərət| a. *~ (for sth) | ~ (to do sth)* needing or wanting sth very much 非常需要；极想；渴望 / desperate: （因绝望而）不惜冒险的，不顾一切的，拼命的 +
 => de-离开,分离 + -sper-希望 + -ate形容词词尾 +
@@ -541,7 +541,7 @@ A bellwether 征兆；征兆；风向标, 前导;系铃的公羊 of public suppo
 - *turn out* : to be present at an event 出席（某项活动）；在场 /to point away from the centre 向外；朝外 +
 -> A vast crowd *turned out* to watch the procession. 有一大群人出来观看游行队伍。 +
 -> Her toes *turn out*. 她的脚趾向外撇。 +
-image:../../+ img_单词图片/t/turn out.jpg[]
+image:../../+ img_单词图片/t/turn out.jpg[100,100]
 
 - ardent :|ˈɑ:dnt; 美 ˈɑ:rdnt| a. very enthusiastic and showing strong feelings about sth/sb 热烈的；激情的 +
 同义词 passionate +
@@ -552,7 +552,7 @@ image:../../+ img_单词图片/t/turn out.jpg[]
 *As for* 至于，就…方面说来 business, Hong Kong’s foreign chambers of commerce 商会 *were unusually vocal(a.)大声表达的；直言不讳的;嗓音的；发声的 against* last year’s extradition 引渡（嫌犯或罪犯） bill *but now seem to be* more muted. Mainland firms *will certainly grin(v.) 露齿而笑；咧着嘴笑；龇着牙笑 and bear* it, and they *are becoming* the backbone 支柱；骨干；基础;脊梁骨；脊柱 of Hong Kong’s economy. The number of foreign firms with their Asian headquarters in Hong Kong *fell* last year. But in 2018 the number of mainland businesses with offices of any kind in the city *eclipsed*(v.)(日)食;(月)食遮住…的光; 使失色；使相形见绌；使丧失重要性the number of American firms for the first time (see first chart). Mainland companies *accounted for* 73% of the Hong Kong stockmarket at the end of last year, *compared with* 60% five years before. Many mainland firms *also turn to* the city [when *selling* their bonds] (see second chart). In 2018 they *were responsible for* about 70% of the corporate bonds 公司债券 *issued* in Hong Kong, *says* Natixis, a French bank.
 
 - A *chamber of commerce* is an organization of businessmen that promotes local commercial interests. 商会 /chamber （议会的）议院 +
-image:../../+ img_单词图片/c/chamber of commerce.jpg[]
+image:../../+ img_单词图片/c/chamber of commerce.jpg[100,100]
 
 
 
@@ -580,11 +580,11 @@ image:../../+ img_单词图片/c/chamber of commerce.jpg[]
 -> *There is still a remote chance* that they will find her alive. 他们仍然有一线希望能把她活着找到。
 
 - pawn => 来自古法语peon,兵，卒，来自拉丁语pedonem,步兵，来自拉丁语pedis,脚，来自PIE*ped,脚，词源同foot,biped.最初用于国际象棋卒，后引申词义走卒。 +
-image:../../+ img_单词图片/p/pawn.jpg[]
+image:../../+ img_单词图片/p/pawn.jpg[100,100]
 
 - bid : n. *~ (for sth) | ~ (to do sth)* (used especially in newspapers 尤用于报章) an effort to do sth or to obtain sth 努力争取 /bid : v. to offer to pay a particular price for sth, especially at an auction 出（价）；（尤指拍卖中）喊价 +
 -> *a bid for power* 权力之争 +
-image:../../+ img_单词图片/b/bid.jpg[]
+image:../../+ img_单词图片/b/bid.jpg[100,100]
 
 
 
@@ -641,11 +641,11 @@ Mr Trump *may be* cautious. He *signed* last year’s bill, which *amended* the 
 
 - baulk :|bɔ:k| v.  *~ (at sth)* to be unwilling to do sth or become involved in sth because it is difficult, dangerous, etc. 畏缩；回避 / (马)逡巡不前；突然拒绝前行（如跳越障碍物等）+
 -> Many parents *may baulk(v.) at* the idea of paying $100 for a pair of shoes. 许多做父母的可能不愿出100块钱买一双鞋。 +
-image:../../+ img_单词图片/b/baulk.jpg[]
+image:../../+ img_单词图片/b/baulk.jpg[100,100]
 
 - febrile |ˈfi:braɪl; North American English also ˈfeb-| a. (formal) nervous, excited and very active 狂热的 /(medical 医) (of an illness 疾病) caused by fever 发热引起的；热性的；发热的 +
 -> a product of *her febrile imagination* 她狂想的产物 +
-image:../../+ img_单词图片/f/febrile.jpg[]
+image:../../+ img_单词图片/f/febrile.jpg[100,100]
 
 -  shrill : |ʃrɪl| a. (of sounds or voices 声音或嗓音) very high and loud, in an unpleasant way 刺耳的；尖声的；尖厉的 /loud and determined but often unreasonable 闹着非要…不可的；不依不饶的 +
 同义词 piercing +

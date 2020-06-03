@@ -83,7 +83,7 @@ Investors *hope* the combination of federal loans and aid *can keep* bond market
 -> Rockets and shells continued to hit *the battered port*. 火箭和炮弹继续袭击已遭受重创的港口。 +
 -> Shortfalls *have hit* local governments across America -- and not just *in covid-battered places*.
 资金短缺打击了美国各地的地方政府——不仅仅是在受新冠肺炎疫情打击的地区。 +
-image:../../+ img_单词图片/b/battered.jpg[]
+image:../../+ img_单词图片/b/battered.jpg[100,100]
 
 1. Wyoming /wai'əumiŋ/ n. 美国怀俄明州
 
@@ -169,7 +169,7 @@ image:../../+ img_单词图片/b/battered.jpg[]
 1. median : /ˈmiːdiən/  a. having a value in the middle of a series of values 中间值的；中间的 /located in or passing through the middle 在中间的；通过中点的 / n. ( mathematics 数 ) the middle value of a series of numbers arranged in order of size 中位数+
 -> *the median age/price* 中年；中等价位 +
 -> a median point/line 中点╱线 +
-image:../../+ img_单词图片/m/median.jpg[]
+image:../../+ img_单词图片/m/median.jpg[100,100]
 
 1. general-fund [金融] 普通基金；不指定用途的资金
 
@@ -196,7 +196,7 @@ image:../../+ img_单词图片/m/median.jpg[]
 1. plug : v. to provide sth that has been missing from a particular situation and is needed in order to improve it 补足；补充；供给 / *~ sth (up)* to fill a hole with a substance or piece of material that fits tightly into it 堵塞；封堵 +
 -> A cheaper range of products was introduced *to plug(v.) the gap* at the lower end of the market. 推出相对廉价的一系列产品，是为了填补较低档市场的缺口。 +
 -> *He plugged(v.) the hole* in the pipe with an old rag. 他用一块旧破布把管子上的那个洞塞住了。 +
-image:../../+ img_单词图片/p/plug.jpg[]
+image:../../+ img_单词图片/p/plug.jpg[100,100]
 
 1.  *to date* : until now 迄今为止；到目前为止；直到现在 +
 -> *To date*, we have received over 200 replies. 到目前为止，我们已收到200多封回信。 +

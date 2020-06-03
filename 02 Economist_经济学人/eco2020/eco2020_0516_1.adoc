@@ -401,7 +401,7 @@ e-, 向外。-mer, 服务，部分，词源同merit, polymer.原指服完兵役�
 SYN multiply +
 => 来自拉丁语proles,子孙，后代，-fer,带来，生育，词源同bear,bring.后用于生物学指繁殖，增殖。
 - Books and articles on the subject *have proliferated* over the last year. 过去一年以来，论及这一问题的书和文章大量涌现。 +
-image:../../+ img_单词图片/p/proliferate.jpg[]
+image:../../+ img_单词图片/p/proliferate.jpg[100,100]
 
 1. ingenious : /ɪnˈdʒiːniəs/ a. ( of an object, a plan, an idea, etc. 物体、计划、思想等 ) very suitable for a particular purpose and resulting from clever new ideas 精巧的；新颖独特的；巧妙的 /( of a person 人 ) having a lot of clever new ideas and good at inventing things 心灵手巧的；机敏的；善于创造发明的 +
 => 来自拉丁语ingenium,天生的品质，能力，来自in-,进入，使，内在，-gen,生育，出生，词源同gene,engine.即出生就具有的，后引申词义陪明的，灵巧的，精巧的。
@@ -430,7 +430,7 @@ SYN inferior
 
 1. Pangaea :  /pænˈdʒiːə/  ( geology 地 ) an extremely large area of land which existed millions of years ago, made up of all the present continents 泛大陆，泛古陆（原始大陆，由现在的所有大陆组成） +
 => 地理名词。来自pan-,全部，所有，-gaea,陆地，大地，词源同Gaia,geology. +
-image:../../+ img_单词图片/p/Pangaea.jpg[]
+image:../../+ img_单词图片/p/Pangaea.jpg[100,100]
 
 1. coordinate : v. [ VN ] to organize the different parts of an activity and the people involved in it so that it works well 使协调；使相配合 / to make the different parts of your body work well together 使（身体各部分）动作协调；协同动作
 -  They appointed a new manager *to coordinate the work of the team*. 为协调这个队的工作，他们任用了一位新经理。
@@ -534,7 +534,7 @@ All the places and characters in my novel *are fictitious* (= they do not exist 
 - Stop making that *terrible racket*! 别吵啦！ +
 - Protection rackets(n.), prostitution rings(n.), illegal gambling and the drugs trade *all depend on* people *being able to move around freely*. *So do* imprisoned bosses of organised crime groups if they are to continue to control their businesses. +
 收保护费、卖淫、非法赌博和毒品交易, 这些犯罪活动都必须建立在人们能自由活动的基础上。如果那些被监禁的有组织犯罪集团的老板们, 想继续控制他们的生意，他们也会这么做。  +
-image:../../+ img_单词图片/r/racket.jpg[]
+image:../../+ img_单词图片/r/racket.jpg[100,100]
 
 1. prostitution :n. /ˌprɑːstɪˈtuːʃn/ the work of a prostitute 卖淫；为娼；当男妓 / *~ of sth* ( formal ) the use of your abilities on sth of little value 才能的滥用（或糟蹋） +
 => 来自拉丁语prostituere,卖淫，来自pro-,向前，-stit,站立，词源同stand,institute.字面意思即站在前面，引申词义买卖，供挑选等。
@@ -625,7 +625,7 @@ to twist or change facts, ideas, etc. so that they are no longer correct or true
 供应链的下一阶段——批发并分销——已经被破坏扭曲了。但是黑帮已经开始适应了。
 
 1. Reuters : ['rɔɪtəz] n. 路透社 +
-image:../../+ img_单词图片/r/Reuters.jpg[]
+image:../../+ img_单词图片/r/Reuters.jpg[100,100]
 
 1. drone :  /droʊn/ n. 无人驾驶飞机 /a male bee that does not work 雄蜂 /[ usually sing. ] a continuous low noise 嗡嗡声
 - Syndicates *seem to be using* tunnels and drones *instead*. 犯罪集团似乎转而使用隧道和无人机(来运送毒品)。
@@ -638,7 +638,7 @@ image:../../+ img_单词图片/r/Reuters.jpg[]
 - a consignment of medicines 运送的一批药物
 - Officials in Brazil *have reported that* traffickers(n.) in cocaine, which *enters* from Colombia and Peru *on its way to* Europe and Africa, *are switching* consignments *from* land routes and *onto* boats *travelling down* the Amazon. +
 巴西官员报告称，从哥伦比亚和秘鲁进入欧洲和非洲的可卡因走私者，正将货物从陆路转移到沿亚马逊河航行的船只上。 +
-image:../../+ img_单词图片/c/consignment.jpg[]
+image:../../+ img_单词图片/c/consignment.jpg[100,100]
 
 1. maritime : a.  /ˈmærɪtaɪm/ connected with the sea or ships 海的；海事的；海运的；船舶的
 - a maritime museum 海洋博物馆
@@ -671,7 +671,7 @@ image:../../+ img_单词图片/c/consignment.jpg[]
 
 1. courier : /ˈkʊriər/ n. a person or company whose job is to take packages or important papers somewhere （递送包裹或重要文件的）信使，通讯员，专递公司 +
 => 来自词根cur, 跑，词源同course, current. +
-image:../../+ img_单词图片/c/courier.jpg[]]
+image:../../+ img_单词图片/c/courier.jpg[100,100]]
 
 1. depot :   /ˈdiːpoʊ/  a place where large amounts of food, goods or equipment are stored （大宗物品的）贮藏处，仓库  /( NAmE ) a small station where trains or buses stop 火车小站；公共汽车小站 +
 => 来自deposit的法语拼写形式，引申词义放置，仓库。拼写比较entrepot, compote.
@@ -786,7 +786,7 @@ SYN accounts
 - The risk *is that* `主` politicians *already struggling to cope with* the effects of the pandemic `谓` *will shove* its implications for the underworld *to* the back of their minds and the bottom of their agendas. +
 风险在于，已经疲于应对疫情大流行影响的政客们，会把黑社会这样做"慈善"的潜在影响, 推到脑后, 塞入议事日程的底部。
 +
-image:../../+ img_单词图片/s/shove.jpg[]
+image:../../+ img_单词图片/s/shove.jpg[100,100]
 
 1. implication : n. [ Cusually pl. ] ~ (for/of sth) a possible effect or result of an action or a decision 可能的影响（或作用、结果） /
 [ CU ] something that is suggested or indirectly stated (= sth that is implied) 含意；暗指

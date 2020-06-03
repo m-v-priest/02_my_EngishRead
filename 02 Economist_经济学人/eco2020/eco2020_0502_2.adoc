@@ -70,7 +70,7 @@ And although Mr Xi *has been less green-fingered(a.) than* his predecessors, he 
 
 1. resilience :  /rɪˈzɪliəns/  n. the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc. 快速恢复的能力；适应力 /the ability of a substance to return to its original shape after it has been bent, stretched or pressed 还原能力；弹力 +
 -> The pandemic and a more assertive Communist Party *are  testing their resilience*. 疫情和更加自信的共产党, 正在考验他们的应变能力 +
-image:../../+ img_单词图片/r/resilience.jpg[]
+image:../../+ img_单词图片/r/resilience.jpg[100,100]
 
 1. put : v. [ + adv./prep. ] to express or state sth in a particular way 说；表达 +
 ->  She *put it very tactfully*. 她的话说得很巧妙。 +
@@ -101,7 +101,7 @@ image:../../+ img_单词图片/r/resilience.jpg[]
 +
 ->   *She propped herself up* on one elbow. 她单肘撑起身子。 +
 -> President Xi Jinping *is reversing* a harsh lockdown and *propping up* state firms. +
-image:../../+ img_单词图片/p/prop.jpg[]
+image:../../+ img_单词图片/p/prop.jpg[100,100]
 
 
 1. fiat :  /ˈfiːæt/ n.  [ CU ] ( formal ) an official order given by sb in authority （当权者的）法令，命令，谕 +
@@ -381,7 +381,7 @@ to help sb/sth to develop and be successful 扶持；帮助；支持 +
 1. waiver :  /ˈweɪvər/  n. ( law 律 ) a situation in which sb gives up a legal right or claim; an official document stating this （对合法权利或要求的）弃权；弃权声明 +
 => 来自 waif,摇摆，舍弃，扔弃。 +
 -> Firms got *preferential loans* and *a two-year waiver(n.) on corporate tax*, plus(v.) a discount for another three. 企业获得了优惠贷款,和两年的企业税减免，另外还有三年的折扣。
-image:../../+ img_单词图片/w/waiver.jpg[]
+image:../../+ img_单词图片/w/waiver.jpg[100,100]
 
 1. corporate tax 企业税
 
@@ -454,7 +454,7 @@ image:../../+ img_单词图片/w/waiver.jpg[]
 -> “special economic zones”, *capitalist sandboxes* for firms.  经济特区, 是为中国企业提供的资本主义沙盒.
 
 1. effervescence : /ˌefə-ˈve-sns/  n. 冒泡；[化工] 泡腾；欢腾 +
-image:../../+ img_单词图片/e/effervescence.jpg[]
+image:../../+ img_单词图片/e/effervescence.jpg[100,100]
 
 1. cult : /kʌlt/  n. [ usually sing. ] ~ (of sth) a way of life, an attitude, an idea, etc. that has become very popular （对生活方式、看法、观念等的）狂热，时尚，崇拜 +
 => 来自PIE*kwel,弯，转，耕作，词源同cycle,colony.原指农耕文明靠天吃饭，因而对神灵的无 比虔诚。 +
@@ -548,7 +548,7 @@ She fingered(v.) the silk gently. 她轻轻地触摸丝绸。
 这也是一种有用的“疫苗”—— 能让这个政权防御那些那些太过于任性地为官僚主义的利益服务的人。
 +
 =>  too...to...并不全部都表示否定. 如果 too后为表示情感的形容词，例如：glad, pleased, happy, sad等时，表示的是肯定意义。例如：He is too sad to hear the bad news.听到不幸的消息他太悲伤了。 She is too nice a girl to get along with. 她是一个如此可爱的女孩，很好相处。 +
-image:../../+ img_单词图片/i/inoculate.jpg[]
+image:../../+ img_单词图片/i/inoculate.jpg[100,100]
 
 1. wilful : a. [ usually before noun ] ( of a bad or harmful action 不友好或有害行为 ) done deliberately, although the person doing it knows that it is wrong 故意的；有意的；成心的 /determined to do what you want; not caring about what other people want 任性的；固执的；倔强的 +
 -> *wilful damage* 蓄意破坏 +

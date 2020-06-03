@@ -132,7 +132,7 @@ SYN realistic +
 ->  My career seemed to be *on a downward trajectory*. 我的事业似乎在走下坡路。
 +
 -> `主` Measures *taken to reverse* the trajectory of the pandemic around the world `谓` *have brought with them* remarkable economic losses. 为扭转全球疫情大流行的趋势而采取的措施, 带来了显著的经济损失。 +
-image:../../+ img_单词图片/t/trajectory.jpg[]
+image:../../+ img_单词图片/t/trajectory.jpg[100,100]
 
 1. subscription : n. *~ (to/for sth)* an amount of money you pay, usually once a year, to receive regular copies of a newspaper or magazine, etc.; the act of paying this money （报刊等的）订阅费，订购款，订阅，订购  +
 /( BrE ) a sum of money that you pay regularly to a charity, or to be a member of a club or to receive a service; the act of paying this money （向慈善机构的）定期捐款；（俱乐部的）会员费；（服务的）用户费；会员费（或服务费）的交纳
@@ -184,7 +184,7 @@ image:../../+ img_单词图片/t/trajectory.jpg[]
 - His opinions chimed in with the mood of the nation. 他的主张与国民的心态相吻合。
 - That *chimes with* data which *suggest that* if Americans *chose to avoid* person-to-person proximity(n.) of the length of an arm or less, `主` occupations *worth approximately* 10% of national output `谓` *would become* unviable. +
 这与数据不谋而合，数据表明，如果美国人选择避免人与人之间接近手臂或更短的长度，那么大约相当于国民产出10%的职业将变得不可行。 +
-image:../../+ img_单词图片/c/chime.jpg[]
+image:../../+ img_单词图片/c/chime.jpg[100,100]
 
 1. proximity : /prɑːkˈsɪməti/ n. *~ (of sb/sth) (to sb/sth)* ( formal ) the state of being near sb/sth in distance or time （时间或空间）接近，邻近，靠近 +
 => 来自拉丁语proximus,最近的，来自prope的最高级，来自prope,近的，来自pro的扩大形式，词源同propinquity,approximate.-im,最高级后缀，词源同maximum,ultimate. +
@@ -245,7 +245,7 @@ image:../../+ img_单词图片/c/chime.jpg[]
 
 1. fiat : /ˈfiːɑːt/ n. [ CU ] ( formal ) an official order given by sb in authority （当权者的）法令，命令，谕 +
 => 来自拉丁语facere的被动语态，词源同fact, feat, 即谕令，使做，使完成。 +
-image:../../+ img_单词图片/f/fiat.jpg[]
+image:../../+ img_单词图片/f/fiat.jpg[100,100]
 
 
 1. count : v.  *~ (for sth)* ( not used in the progressive tenses 不用于进行时 ) to be important 重要 +
@@ -348,7 +348,7 @@ SYN amazing +
 - His creditors agreed to give him *a temporary respite*. 他的债权人同意给他一个喘息的机会。
 - The lifting of the most stringent lockdowns *will also provide* respite(n.), both emotionally and physically, since the mere experience of *being told* what you can and cannot do *is* unpleasant. +
 对最严格封锁的解除, 会在情感和身体上提供放松的机会，因为仅仅是被告知你能做什么和不能做什么的经历, 就会令人不愉快。 +
-image:../../+ img_单词图片/r/respite.jpg[]
+image:../../+ img_单词图片/r/respite.jpg[100,100]
 
 1. semblance : n. ~ of sth ( formal ) a situation in which sth seems to exist although this may not, in fact, be the case 表象；假象；外观；外貌 +
 => 来自古法语 sembler,看起来，来自（异化自）拉丁语 simulare,模仿，词源同 same,similar.引 申诸相关词义。
@@ -370,7 +370,7 @@ image:../../+ img_单词图片/r/respite.jpg[]
 => -flux-流 → flux
 - Our society is *in a state of flux* . 我们的社会在不断演变。
 - With rules in flux(n.), it *will feel* hard *to plan* weeks ahead, *let alone* months. 随着规则的变化，要提前几周制定计划将会很困难，更不用说几个月了。 +
-image:../../+ img_单词图片/f/flux.jpg[]
+image:../../+ img_单词图片/f/flux.jpg[100,100]
 
 
 1. *LET ALONE* : used after a statement to emphasize that because the first thing is not true or possible, the next thing cannot be true or possible either 更不用说
@@ -508,7 +508,7 @@ SYN postpone delay
 - There *is* more than one company *founded* in a garage(n.) *now worth* $1trn.
 
 1. ventilator :  /ˈventɪleɪtər/  a piece of equipment with a pump that helps sb to breathe by sending air in and out of their lungs 通气机；呼吸器 +
-image:../../+ img_单词图片/v/ventilator.jpg[]
+image:../../+ img_单词图片/v/ventilator.jpg[100,100]
 
 
 1. mixed success 成败参半
@@ -591,7 +591,7 @@ image:../../+ img_单词图片/v/ventilator.jpg[]
 
 1. slump : [ + adv./prep. ] to sit or fall down heavily 重重地坐下（或倒下）
 - The old man *slumped down in his chair*. 老先生一屁股跌坐到椅子上。 +
-image:../../+ img_单词图片/s/slump.jpg[]]
+image:../../+ img_单词图片/s/slump.jpg[100,100]]
 
 1.  mental capacity 智能；心智容量
 - When mental capacity *is taken up* by worries about whether or not *to touch* that door handle or whether or not *to believe* the results of the latest study on the virus, focusing *is* difficult. +

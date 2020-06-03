@@ -72,7 +72,7 @@ We *are afraid that* a buffet lunch is unavailable 因此 so *take a chance on* 
 
 1. swab :  /swɑːb/  n. a piece of soft material used by a doctor, nurse, etc. for cleaning wounds or taking a sample from sb's body for testing （医用的）拭子，药签 /an act of taking a sample from sb's body, with a swab 用拭子对（人体）化验标本的采集 +
 -> to take a throat swab 用棉签从咽部采集化验样品 +
-image:../../+ img_单词图片/s/swab.jpg[]
+image:../../+ img_单词图片/s/swab.jpg[100,100]
 
 1. snake : v. [ + adv./prep. ] to move like a snake, in long twisting curves; to go in a particular direction in long twisting curves 曲折前行；蛇行；蜿蜒伸展 +
 -> As everyone *needs to stand* six feet (two metres) apart, the queue *currently snakes* around the building. 因为每个人需要彼此距离6英尺(2米)远，所以现在排队的队伍, 都绕着排到了大楼外。
@@ -93,13 +93,13 @@ image:../../+ img_单词图片/s/swab.jpg[]
 
 1. cockpit :  /ˈkɑːkpɪt/  n. the area in a plane, boat or racing car where the pilot or driver sits （飞机、船或赛车的）驾驶舱，驾驶座 +
 => 来自cock和pit的组合词。
-image:../../+ img_单词图片/c/cockpit.jpg[]
+image:../../+ img_单词图片/c/cockpit.jpg[100,100]
 
 1. flask :  /flæsk/  a bottle with a narrow top, used in scientific work for mixing or storing chemicals 烧瓶 +
 -> *a flask of tea/coffee* 一保温瓶的茶╱咖啡 +
 => 来自PIE*plek, 转，编织，词源同ply, complicate, flax. 引申义制陶等容器，陶器，瓶罐。比较cruse, crockery. +
-image:../../+ img_单词图片/f/flask.jpg[] +
-image:../../+ img_单词图片/f/flask2.jpg[] +
+image:../../+ img_单词图片/f/flask.jpg[100,100] +
+image:../../+ img_单词图片/f/flask2.jpg[100,100] +
 
 
 1. cabin crew : n. [ C+sing./pl.v. ] the people whose job is to take care of passengers on a plane （飞机上的）全体乘务员 /cabin one of the areas for passengers to sit in a plane （飞机的）座舱 +
@@ -110,7 +110,7 @@ image:../../+ img_单词图片/f/flask2.jpg[] +
 
 1. beverage :  /ˈbevərɪdʒ/ n.  ( formal ) any type of drink except water （除水以外的）饮料 +
 =>  betroth = bever（喝）+age（名词后缀，表物品）→喝的东西→饮料 词源解释：bever←拉丁语bibere（喝） 同源词：beer（啤酒） +
-image:../../+ img_单词图片/b/beverage.jpg[]
+image:../../+ img_单词图片/b/beverage.jpg[100,100]
 
 1. complimentary :  /ˌkɑːmplɪˈmentri/  a. given free 免费的；赠送的 +
 => 来自compliment, 恭贺，道贺。现该词主要用于在基本服务基础上的免费升级，如免费升舱，免费早餐等。 +
@@ -120,13 +120,13 @@ image:../../+ img_单词图片/b/beverage.jpg[]
 
 1. packet : ( BrE ) a small paper or cardboard container in which goods are packed for selling （商品的）小包装纸袋，小硬纸板盒 +
 -> *a packet of biscuits*/cigarettes/crisps 一包饼干╱香烟╱油炸土豆片 +
-image:../../+ img_单词图片/p/packet.jpg[]
+image:../../+ img_单词图片/p/packet.jpg[100,100]
 
 1. nut : ( often in compounds 常构成复合词 ) a small hard fruit with a very hard shell that grows on some trees 坚果 +
-image:../../+ img_单词图片/n/nuts.jpg[]
+image:../../+ img_单词图片/n/nuts.jpg[100,100]
 
 1. crisp :  /krɪsp/n. ( also poˌtato ˈcrisp ) ( both BrE ) ( NAmE also chip poˈtato chip ) a thin round slice of potato that is fried until hard then dried and eaten cold. Crisps are sold in bags and have many different flavours. 油炸土豆片，炸薯片（有多种风味，袋装） +
-image:../../+ img_单词图片/c/crisp.jpg[]
+image:../../+ img_单词图片/c/crisp.jpg[100,100]
 
 1. squeeze : v. ~ (sb/sth) into, through, etc. sth~ through, in, past, etc. to force sb/sth/yourself into or through a small space （使）挤入；挤过；塞入 +
 -> Just a warning, though, to those of you who have chosen to sit by the window. Passengers must observe(v.) distancing rules(n.) 因此 so you won’t be allowed *to squeeze(v.) past the person in the aisle seat* if they fall asleep. +
@@ -137,7 +137,7 @@ image:../../+ img_单词图片/c/crisp.jpg[]
 
 1. aisle : n. a passage between rows of seats in a church, theatre, train, etc., or between rows of shelves in a supermarket （教堂、戏院、火车等座位间或超级市场货架间的）走道，过道 +
 => 来自词根ala-, 翼，借指走廊，过道等。拼写受单词isle（岛）影响，最终拼写俗化为aisle.
-image:../../+ img_单词图片/a/aisle.jpg[]
+image:../../+ img_单词图片/a/aisle.jpg[100,100]
 
 1.  *go easy on/with sth* : ( informal ) used to tell sb not to use too much of sth 省着点；少用些；别浪费 +
 -> *Go easy on* the sugar. 糖要省着点用。 +
@@ -153,7 +153,7 @@ image:../../+ img_单词图片/a/aisle.jpg[]
 1. passport reader 电子护照阅读器 +
 -> We have good news and bad news. The good news is that passenger traffic is lower than normal. The bad news is that, given the need to disinfect(v.) the electronic passport reader after each use, the line for immigration *is* still two hours long. +
 我们有好消息和坏消息。好消息是，客流量低于正常水平。坏消息是，考虑到每次使用后都需要对电子护照阅读器进行消毒，入境检查的队伍仍然要排两个小时。 +
-image:../../+ img_单词图片/p/passport reader.jpg[]
+image:../../+ img_单词图片/p/passport reader.jpg[100,100]
 
 1. *catch up on sth* : (1) to spend extra time doing sth because you have not done it earlier 补做（未做的事）；赶做；补上 /(2) to find out about things that have happened 了解（已发生的事情）  +
 -> I have a lot of work *to catch up on*. 我有许多工作要补做。 +
@@ -214,7 +214,7 @@ image:../../+ img_单词图片/p/passport reader.jpg[]
 1. foyer : /ˈfɔɪər/  n. a large open space inside the entrance of a theatre or hotel where people can meet or wait （剧院或旅馆的）门厅，休息厅 / ( NAmE ) an entrance hall in a private house or flat/apartment （私宅或公寓的）前厅，门厅 +
 => 来自法语。来自拉丁语focus, 壁炉，炉子。引申词义休息室，前厅，门厅等。 +
 -> This *wouldn’t be* a conference *without* exhibition *stands in* the foyer. + 如果会议大厅里没有展览，那就不叫会议了。
-image:../../+ img_单词图片/f/foyer.jpg[]
+image:../../+ img_单词图片/f/foyer.jpg[100,100]
 
 1. sponsor : a person or company that pays for a radio or television programme, or for a concert or sporting event, usually in return for advertising （广播电视节目、音乐会或运动会的）赞助者，赞助商 / a person or company that supports sb by paying for their training or education （培训或教育的）资助者 / a person who introduces and supports a proposal for a new law, etc. （法案等的）倡议者，发起人，倡导者
 
@@ -280,10 +280,10 @@ Given the rush, *it is perhaps not much of a surprise that* [neither] America’
 
 1. lifeline : n. a line or rope thrown to rescue sb who is in difficulty in the water （水上救援的）救生索 / something that is very important for sb and that they depend on 命脉；生命线 +
 -> The extra payments are *a lifeline* for most single mothers. 额外补助对大多数单身母亲来说都是赖以生存的生命线。 +
-image:../../+ img_单词图片/l/lifeline.jpg[]
+image:../../+ img_单词图片/l/lifeline.jpg[100,100]
 
 1. Paycheck = paycheque : n. N-COUNT Your paycheque is a piece of paper that your employer gives you as your wages or salary, and which you can then cash at a bank. You can also use paycheque as a way of referring to your wages or salary. 工资支票; 工薪 +
-image:../../+ img_单词图片/p/Paycheck.jpg[]
+image:../../+ img_单词图片/p/Paycheck.jpg[100,100]
 
 1. It was “an answer to our prayers” 这是“对我们祈祷的回应”。
 
@@ -304,7 +304,7 @@ image:../../+ img_单词图片/p/Paycheck.jpg[]
 *bail* : v. to release sb on bail 允许保释（某人） / *bail out (of sth)* (1) to jump out of a plane that is going to crash （从即将坠毁的飞机中）跳伞 /to escape from a situation that you no longer want to be involved in 逃避，摆脱（不想再牵连其中的情况）
 +
 =>  除了“保释”外，bail还有一个不太常用的含义“往外舀水”，我们可以理解为“往外捞”——捞人或舀水。 常见搭配：bail out（保释出来，脱离困境）；go bail for sb（为某人做保释人）；take bail（允许保释）；bail bond（保释保证书）；bail bonds（保释公司）；save one’s bail（保释后如期出庭）。 趣味记忆：bail →baol→保了→保释 +
-image:../../+ img_单词图片/b/bail.jpg[]
+image:../../+ img_单词图片/b/bail.jpg[100,100]
 
 1. succour : n. [ U ] ( literary ) help that you give to sb who is suffering or having problems 救助；救援；帮助
 
@@ -318,7 +318,7 @@ image:../../+ img_单词图片/b/bail.jpg[]
 => 英国空军俚语，拟声词，模仿炸弹爆炸的声音。 +
 -> The paper *got clobbered* with libel damages of half a million pounds. 这家报纸被罚以五十万英镑的诽谤损害赔偿金。 +
 -> small and medium-sized businesses (SMEs) *have been clobbered* by the pandemic, *even more* so *than* their larger peers. 中小企业(SMEs)已经受到了疫情大流行的重创，甚至比他们的大同行还要严重。 +
-image:../../+ img_单词图片/c/clobber.jpg[]
+image:../../+ img_单词图片/c/clobber.jpg[100,100]
 
 1. Fully 60% of people (who *worked for* businesses with fewer than ten employees in America) [at the start of the year] `谓` *have since been fired*.  今年年初在美国，雇员人数少于10人的企业中，足足有60%的人被解雇。
 
@@ -331,7 +331,7 @@ image:../../+ img_单词图片/c/clobber.jpg[]
 => 来自阿拉伯语nazir,相反的，来自nazir as-samt,反方向的，与天顶相反的底点，词源同zenith.后引申词义最低点。 +
 -> *the nadir of his career* 他事业上的低谷 +
 -> the S&P 500 index of large American stocks *is* up by 31% since *its nadir*(n.) on March 23rd. 美国大型股票的标准普尔500指数, 从3月23日的最低点上涨了31%
-image:../../+ img_单词图片/n/nadir.jpg[]
+image:../../+ img_单词图片/n/nadir.jpg[100,100]
 
 1. buffer : n. *~ (against sth) /~ (between sth and sth)* a thing or person that reduces a shock or protects sb/sth against difficulties 缓冲物；起缓冲作用的人 +
 -> She often *had to act as a buffer* between father and son. 她常常不得不在父子之间扮演调解人角色。 +
@@ -354,7 +354,7 @@ image:../../+ img_单词图片/n/nadir.jpg[]
 -> *to hog the bathroom* (= to spend a long time in it so that others cannot use it) 长时间占用浴室
 +
 => 来自古英语hogg,猪，来自PIE*kau,击，砍，词源同hew,hoe.引申词义阉割，后用来指阉割以育肥食用的猪。 +
-image:../../+ img_单词图片/h/hog.jpg[]
+image:../../+ img_单词图片/h/hog.jpg[100,100]
 
 1. SME :  abbr. (员工人数少于500的)中小企业（small medium enterprise）
 
@@ -364,7 +364,7 @@ image:../../+ img_单词图片/h/hog.jpg[]
 -> *political savvy*(n.) 政治见识
 +
 => 加勒比混杂英语，借自法语 savez-vous,是否知道，来自 savez,知道，词源同 savant,vous,你， 词源同 rendezvous.电影《加勒比海盗》中杰克船长口头禅。 +
-image:../../+ img_单词图片/s/savvy.jpg[]
+image:../../+ img_单词图片/s/savvy.jpg[100,100]
 
 1. navigate : v. 导航；确定（船、飞机、汽车等）的位置和方向 / 航行；航海；横渡 /  to find the right way to deal with a difficult or complicated situation 找到正确方法（对付困难复杂的情况） +
 -> I'll drive, and *you can navigate*. 我开车，你引路。 +
@@ -438,7 +438,7 @@ SYN revoke +
 => 词源同deal, 分发，分配，发配。引申义施舍或失业救济金。 +
 -> Bigger SMEs *are entitled(v.) to* low-interest loans, typically *covering* three months of payroll. Doling(v.) these out *has proved* tricky.  +
 规模较大的中小企业有资格获得低息贷款，一般可发覆盖到三个月的工资。但事实证明，发放这些贷款非常困难。 +
-image:../../+ img_单词图片/d/dole.jpg[]
+image:../../+ img_单词图片/d/dole.jpg[100,100]
 
 1. *pay sb back (sth) /pay sth back (to sb)* : to return money that you borrowed from sb （向某人）还钱
 
@@ -469,7 +469,7 @@ image:../../+ img_单词图片/d/dole.jpg[]
 -> *a meagre diet* of bread and water 只有面包和水的粗茶淡饭 +
 ->  *She supplements(v.) her meagre income* by cleaning at night. 她靠夜间做清洁工, 来补充其微薄的收入。 +
 -> Britain *managed to allocate* a meagre(a.) £4.1bn ($5.1bn) by April 28th. 到4月28日，英国仅拨款可怜的41亿英镑(51亿美元)。
-image:../../+ img_单词图片/m/meagre.jpg[]
+image:../../+ img_单词图片/m/meagre.jpg[100,100]
 
 1. underwrite : v. to accept financial responsibility for an activity so that you will pay for special costs or for losses it may make 承担经济责任（包括支付特别费用或损失） +
 / to accept responsibility for an insurance policy so that you will pay money in case loss or damage happens 承担保险责任；承保  +
@@ -488,7 +488,7 @@ image:../../+ img_单词图片/m/meagre.jpg[]
 1. toil : v. to work very hard and/or for a long time, usually doing hard physical work （长时间）苦干，辛勤劳作 /[ + adv./prep. ] to move slowly and with difficulty 艰难缓慢地移动；跋涉 +
 => 来自中古英语 toilen,辛劳，辛苦，部分来自古英语 tilian,努力，劳作，耕地，词源同 till,耕地。 +
 -> Nearly half of workers *toil*(v.) in firms with fewer than 50 employees. 近一半的员工在人数少于50人的公司辛劳工作.
-image:../../+ img_单词图片/t/toil.jpg[]
+image:../../+ img_单词图片/t/toil.jpg[100,100]
 
 1. fiscal : /ˈfɪskl/ a. connected with government or public money, especially taxes 财政的；国库的；国家岁入的 +
 => 来自拉丁语fiscus, 钱篓，钱箱，国库，词源同basket, confiscate.比较budget. +
