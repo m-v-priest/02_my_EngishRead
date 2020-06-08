@@ -100,21 +100,38 @@ image:../../+ img_单词图片/r/rail.jpg[100,100]
 
 
 
-It is not hard to see the harm that free-flowing state money could do. Germany represents a quarter of the bloc’s GDP but nearly half of its state aid, because its buoyant public finances allow it to be generous. Tough luck if you are a company in Spain or Italy where tighter budgets mean smaller handouts. Politicians usually favour certain companies -- famous flag-carriers instead of scrappy low-cost airlines, say. And the bail-outs invariably come with nationalist strings. Renault and other French carmakers are promising to keep production and research in France (see article). Once the state becomes a shareholder or creditor, bosses know their firm’s prospects partly depend on a willingness to please their political masters.
+*It is not hard to see* the harm that free-flowing 能自由流动的；自由流畅的 state money *could do*. Germany *represents* 等于；相当于；意味着 a quarter of the bloc’s （政治利益一致的）国家集团 GDP but nearly half of its state aid, because its buoyant(a.)漂浮的；能够漂起的；有浮力的;看涨的；保持高价的；繁荣的;愉快而充满信心的；乐观的 public finances *allow* it *to be* generous. Tough luck 坏运气；真不走运 if you are a company in Spain or Italy where tighter budgets *mean* smaller handouts   捐赠品；救济品;政府拨款（为促进商业活动）. Politicians usually *favour* certain companies -- famous flag-carriers *instead of* scrappy 散乱的；不连贯的；支离破碎的;不整洁的；糟糕的 low-cost airlines, say 比如. And the bail-outs (常通过提供资金) 帮助…摆脱困境 *invariably 始终如一地；一贯地 come with* nationalist strings 特定条件（或限制）. Renault 法国雷诺公司 and other French carmakers *are promising* to keep(v.) production and research in France (see article). Once the state *becomes* a shareholder or creditor 债权人；债主；贷方, bosses *know* their firm’s prospects *partly depend on* a willingness *to please* their political masters 主宰；主人；有控制力的人.
 
-How to ensure that the necessary evil of bail-outs does not cripple the single market? They should be tolerated only when all other options have been exhausted. In America even cruise-liners -- a challenged business model if ever there was one -- have raised bonds and found new shareholders. Europe has shallower capital markets, but plenty of investors with money to spend.
+- represent : v. [ V-N ] ( not used in the progressive tenses 不用于进行时 ) to be sth 等于；相当于；意味着 +
+SYN constitute +
+-> This contract *represents 20% of the company's annual revenue*. 这份合约相当于公司20%的年收入。 +
+-> This decision *represents* a significant departure from previous policy. 这个决定意味着在很大程度上脱离了原先的政策。
 
-The risks of an uneven playing field will ease if bail-out money is distributed evenly around the EU. On May 27th the European Commission unveiled a €750bn plan to offer grants and loans from mainly rich countries to mainly poor ones. Though there is much haggling left to be done, this proposal heads in the right direction.
+- buoyant :  /ˈbɔɪənt,ˈbuːjənt/  a. ( of prices, business activity, etc. 价格、商业活动等 ) tending to increase or stay at a high level, usually showing financial success 看涨的；保持高价的；繁荣的 +
+-> a buoyant economy/market 繁荣的经济╱市场 +
+-> *buoyant sales/prices* 上升的销售额╱价格 +
+image:../../+ img_单词图片/b/buoyant.jpg[100,100]
 
-Most important, all bail-outs need to be carefully policed. This means ensuring that companies are not using public cash to run large losses or to pay for their expansion plans once the economy opens up. Governments may have to take shares in firms in order to safeguard taxpayers’ financial interests. But there should be rigorous enforcement of rules that encourage firms to repay loans and buy back government stakes quickly by banning them from paying dividends and bonuses. Bail-outs are taking place everywhere. But in Europe they are especially dangerous, because they can undermine economic integration and encourage politicians’ inexhaustible appetite to meddle in industry. Creating a giant, open and competitive market has been one of Europe’s great achievements. In the rush to help business it must not be eroded.
+- scrappy : a. consisting of individual sections, events, etc. that are not organized into a whole 散乱的；不连贯的；支离破碎的 /( especially BrE ) not tidy and often of poor quality 不整洁的；糟糕的 +
+-> *a scrappy essay* 一篇内容凌乱的文章 +
+-> The note was written on *a scrappy bit of paper*. 便条写在一片破纸上。 +
+image:../../+ img_单词图片/s/scrappy.jpg[100,100]
 
----
+-  strings  : [ pl. ] special conditions or restrictions 特定条件（或限制） +
+-> Major loans like these *always come with strings*. 诸如此类的大宗贷款总有一些附带条件。
 
 
 
-在欧洲应对covid-19疫情的过程中，这些规定已被悄然搁置。在国家财政部门竭力避免经济萧条之际，给政府一个暂时的喘息是不可避免的。但它也有长期的危险。甚至在危机之前，法国和德国就对欧洲的裁决表示不满，他们认为这些裁决阻止了能够与中国和美国对手竞争的冠军企业的诞生。现在，他们可能会抓住时机，试图永久性地弱化竞争规则。
-不难看出自由流动的政府资金可能带来的危害。德国占欧元区GDP的四分之一，但却占其政府援助的近一半，因为其活跃的公共财政使其能够慷慨大方。如果你是一家西班牙或意大利的公司，那就太不幸了，因为那里的预算紧缩意味着发放的救济品更少。政客们通常会青睐某些公司，比如著名的旗舰航空公司，而不是混乱的低成本航空公司。而且，纾困总是带有民族主义的附加条件。雷诺和其他法国汽车制造商承诺将继续在法国进行生产和研发。一旦国家成为股东或债权人，老板们知道他们公司的前景在一定程度上取决于是否愿意取悦他们的政治主人。
-如何确保必要的纾困之恶不会削弱单一市场?只有当所有其他选择都已用尽时，才应容忍它们。在美国，甚至连邮轮公司(如果有的话，这是一种受到挑战的商业模式)也筹集了债券并找到了新的股东。欧洲的资本市场较浅，但有大量的投资者有钱花。
-如果纾困资金在欧盟各国平均分配，不公平竞争环境的风险就会减轻。5月27日，欧盟委员会公布了一项7500亿欧元的计划，旨在从主要富裕国家向主要贫穷国家提供资助和贷款。尽管还有很多讨价还价的事情要做，但这项提议的方向是正确的。
-最重要的是，所有的纾困都需要谨慎监管。这意味着，一旦经济开放，要确保企业不会利用公共资金进行大规模亏损或为其扩张计划买单。为了保护纳税人的经济利益，政府可能不得不持有公司的股份。但是应该严格执行规定，禁止企业支付股息和奖金，以鼓励企业迅速偿还贷款和回购政府股份。救市行动到处都在进行。但在欧洲，它们尤其危险，因为它们会破坏经济一体化，鼓励政客们没完没了地干预工业。创造一个巨大的、开放的、竞争的市场是欧洲的伟大成就之一。在匆忙帮助商业发展的过程中，它不能被侵蚀。
+
+
+*How to ensure that* the necessary evil of bail-outs *does not cripple*  严重毁坏（或损害）;使残废；使跛；使成瘸子 the single market? They *should be tolerated* only when all other options *have been exhausted*. In America even cruise-liners 远洋邮轮 -- a challenged business model if ever there was one -- *have raised bonds* 债券；公债 and *found* new shareholders. Europe *has* shallower capital markets, but plenty of investors *with money to spend*.
+
+The risks of an uneven(a.)不均衡的；不公平的；不规则的 playing field *will ease* if bail-out money *is distributed* evenly 平均地；均等地 around the EU. On May 27th the European Commission *unveiled* （首次）展示，介绍，推出；将…公之于众;为…揭幕；揭开…上的覆盖物；拉开…的帷幔 a €750bn plan *to offer* grants （政府、机构的）拨款 and loans from mainly rich countries *to* mainly poor ones. Though there *is* much haggling 讨价还价，争论 *left to be done*, this proposal 提议；建议；动议 *heads(v.) in the right direction*.
+
+Most important, all bail-outs *need to be carefully policed*  监督；管制. This *means*(v.) *ensuring that* companies *are not using* public cash *to run* large losses /or *to pay for* their expansion plans 扩张计划 *once* the economy *opens up*. Governments *may have to take shares* in firms *in order to safeguard* taxpayers’ financial interests. But there *should be* rigorous 严格的；严厉的 enforcement of rules that *encourage* firms *to repay(v.)归还；偿还；清偿 loans* and *buy back* government stakes 股本；股份 *quickly* by *banning them from* paying(v.) dividends 红利；股息；股利 and bonuses. Bail-outs *are taking place* 尤指根据安排或计划）发生，进行 everywhere. But in Europe they are especially dangerous, because they *can undermine* 渐削弱（信心、权威等）；使逐步减少效力;从根基处破坏；挖…的墙脚 economic integration 结合；整合；一体化 and *encourage* politicians’ inexhaustible 用之不竭的；无穷无尽的 appetite *to meddle* 管闲事；干涉；干预 in industry. *Creating* a giant, open and competitive market *has been* one of Europe’s great achievements. [In the rush *to help business*] it *must not be eroded*.
+
+- 最重要的是，所有的纾困都需要谨慎监管。这意味着，一旦经济开放，要确保企业不会利用公共资金, 来进行大规模亏损, 或为其扩张计划买单。为了保护纳税人的经济利益，政府可能不得不持有公司的股份。但是应该严格执行规定，禁止企业支付股息和奖金，以鼓励企业迅速偿还贷款, 和回购政府股份。救市行动到处都在进行。但在欧洲，它们尤其危险，因为它们会破坏经济一体化，鼓励政客们没完没了地干预工业。创造一个巨大的、开放的、竞争的市场是欧洲的伟大成就之一。在匆忙帮助商业发展的过程中，要保证它不能被侵蚀。
+
+
+
 
