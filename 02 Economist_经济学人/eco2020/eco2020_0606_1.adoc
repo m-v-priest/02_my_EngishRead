@@ -304,24 +304,48 @@ The relationship between manager and staff *is* more hierarchical 按等级划�
 => 来自PIE*ei, 走，离开。其现在分词ion, 过去分词it, 词源同exit, itinerary, 该词来自其拉丁语现在主动不完全格ire. +
 image:../../+ img_单词图片/e/errand.jpg[100,100]
 
-Working long hours seems to be a way of expressing group solidarity in Chinese companies even though it is not always the most efficient use of time. Reviews by Western employees on Glassdoor, a website where workers can write about their companies, suggest that a lack of work-life balance is the most negative factor. In particular, employees are expected to attend after-work functions as a way of showing team spirit. Chinese companies spend a lot of money on events that are designed to bring workers together. Mr Ross says that such shindigs are an important way of transmitting the corporate culture to their staff. So recruits need to take part.
+Working long hours *seems to be* a way of *expressing* group solidarity 团结；齐心协力；同心同德；相互支持 in Chinese companies *even though* it is not always the most efficient use of time. Reviews （对书籍、戏剧、电影等的）评介，评论 by Western employees on Glassdoor, a website where workers *can write about* their companies, *suggest that* a lack of work-life balance *is* the most negative factor. In particular, employees *are expected to attend* after-work functions *as a way* of showing team spirit. Chinese companies *spend a lot of money on* events that are designed to bring workers together. Mr Ross says that such shindigs  盛大而喧闹的聚会；盛大舞会 are an important way of *transmitting* the corporate culture *to* their staff. [So] recruits 新成员,新兵 *need to take part*.
 
-Even so, foreign workers may struggle to be accepted. One person who worked at the Belgian outpost of ZTE, a telecoms-equipment provider, recalled that the Chinese staff sat in a large open space in the middle of the office while the local staff occupied a small office at the end of the hall. Mr Ross suggests offering to teach colleagues English as a way to establish relationships, leading to collaboration in other areas.
-
-Another problem is that foreign employees can find it hard to work their way up the career ladder. One game developer at Tencent concluded that leaving the company for a competitor and then rejoining at a higher level was the best way of getting promoted.
-
-A further cultural difference is in the style of presentations. Chinese executives don’t reveal anywhere near as many personal details in their speeches as Western CEOs. Presenters don’t tend to make eye contact with the audience but read the text off a laptop they bring on stage. Slides tend to be packed with detail as a way of imparting information. Western-style slides with lots of space are seen as lacking useful content.
-
-Despite all these differences, the trend for foreign workers to join Chinese companies is likely to continue, even if businesses from the People’s Republic are barred from making acquisitions abroad. Many foreigners want to work for a Chinese firm because they think it will enable them to develop skills and knowledge that would help their careers.
-
-Furthermore, Chinese companies want to employ foreign staff to deal with overseas clients, because of the cultural sensitivity and linguistic ability they bring. A number of Chinese companies now provide “onboarding” programmes to help overseas recruits adjust. To update Horace Greeley’s 19th-century motto, the advice for the future might be “Go east, young man”.
+- shindig :  /ˈʃɪndɪɡ/  n.( informal ) a big noisy party 盛大而喧闹的聚会；盛大舞会 +
+=> 俚语，可能来自 shin,胫骨，腿，dig,挖，俚语义摇摆。引申词义盛大舞会。 +
+image:../../+ img_单词图片/s/shindig.jpg[100,100]
 
 
+Even so, foreign workers *may struggle* to be accepted. One person who worked at the Belgian outpost  前哨（基地）;偏远村镇；孤零住区 of ZTE, a telecoms-equipment provider, *recalled that* the Chinese staff *sat* in a large open space in the middle of the office while the local staff *occupied* a small office at the end of the hall. Mr Ross *suggests* offering(v.) to teach(v.) colleagues English *as a way* to establish relationships, *leading to* 导致，造成（后果）;（与…）相连，相通 collaboration 合作；协作 in other areas.
+
+- outpost : n. a small military camp away from the main army, used for watching an enemy's movements, etc. 前哨（基地） / a small town or group of buildings in a lonely part of a country 偏远村镇；孤零住区 +
+image:../../+ img_单词图片/o/outpost.jpg[100,100]
 
 
-在中国企业中，长时间工作似乎是一种表达团队团结的方式，尽管它并不总是最有效地利用时间。西方员工在Glassdoor网站上发表的评论表明，缺乏工作与生活的平衡是最负面的因素。特别是，员工应该参加下班后的活动，以展示团队精神。中国企业在旨在让工人聚在一起的活动上投入了大量资金。罗斯表示，这种狂欢是向员工传递企业文化的重要方式。所以新兵需要参与。
-即便如此，外国工人也很难被接受。电信设备供应商中兴通讯比利时分公司的一名工作人员回忆说，中国员工坐在办公室中间的一个大空地上，而当地员工则坐在大厅尽头的一间小办公室里。罗斯建议，主动教同事英语，作为建立关系的一种方式，有助于在其它领域开展合作。
-另一个问题是，外国雇员可能会发现自己很难在职业阶梯上往上爬。腾讯的一名游戏开发人员得出的结论是，离开公司加入竞争对手，然后在更高的级别重新加入，是获得晋升的最佳途径。
-进一步的文化差异是在表达方式上。中国高管在演讲中透露的个人细节远不及西方ceo。演讲者不倾向于与观众进行眼神交流，而是从他们带到台上的笔记本电脑上阅读文本。作为一种传递信息的方式，幻灯片往往充满了细节。空间大的西式幻灯片被认为缺乏有用的内容。
-尽管存在这些差异，但外国工人加入中国企业的趋势可能会继续下去，尽管中国禁止外国企业在海外进行收购。许多外国人希望在中国公司工作，因为他们认为这将使他们发展技能和知识，对他们的职业生涯有帮助。
-此外，中国公司希望雇用外国员工来处理海外客户，因为他们带来的文化敏感性和语言能力。许多中国企业现在都提供“入职培训”项目，帮助海外员工适应新环境。为了更新贺拉斯•格里利(Horace Greeley) 19世纪的座右铭，对未来的建议可能是“年轻人，去东方”。
+Another problem is that foreign employees can find it hard *to work their way up* 逐步发展到，逐渐达到（更高或更深的程度） the career ladder(梯子，阶梯)职务级别提升，（职务）提级. One game developer at Tencent *concluded that* leaving the company for a competitor and then rejoining at a higher level *was* the best way of getting promoted 提升；晋升.
+
+- *work up to sth* : to develop or move gradually towards sth, usually sth more exciting or extreme 逐步发展到，逐渐达到（更高或更深的程度） +
+-> The music *worked up to* a rousing finale.
+乐曲渐变到一个激动人心的末乐章。 +
+-> I began by jogging in the park and *worked up to* running five miles a day.
+我开始在公园里慢跑，后来逐渐增加到一天跑五英里。
+
+
+A further cultural difference *is* in the style of presentations 提出（或展示、解释等）的方式. Chinese executives *don’t reveal 揭示；显示；透露 anywhere near* 远非；绝不是 [as many] personal details in their speeches [as] Western CEOs. Presenters *don’t tend to make eye contact 目光接触 with* the audience *but read* the text *off* a laptop they bring [on stage]. Slides 幻灯片 *tend to be packed with detail* as a way of *imparting* 通知；透露；传授;把（某性质）赋予；将…给予 information. Western-style slides with lots of space *are seen as* lacking useful content.
+
+- presentation :  the way in which sth is offered, shown, explained, etc. to others 提出（或展示、解释等）的方式 +
+-> I admire *the clear, logical presentation* of her arguments. 我很欣赏她的论证，言辞清晰且有条理。
+
+- *not anywhere near/nowhere near* : far from; not at all 远非；绝不是 +
+-> The job *doesn't pay anywhere (near enough for me)*.
+这份工作付给我的报酬远远不够。
+
+- impart : v. *~ sth (to sb)* to pass information, knowledge, etc. to other people 通知；透露；传授 / *~ sth (to sth)* to give a particular quality to sth 把（某性质）赋予；将…给予
+
+
+
+Despite all these differences, the trend for foreign workers to join Chinese companies *is likely to continue*, even if businesses from the People’s Republic *are barred from* making acquisitions 购置；收购 abroad. Many foreigners *want to work for* a Chinese firm because they think it will enable them to develop skills and knowledge that would help their careers.
+
+Furthermore, Chinese companies *want to employ* foreign staff to deal with overseas clients, because of the cultural sensitivity 文化敏感性 and linguistic 语言的；语言学的 ability they bring. A number of Chinese companies now provide “onboarding” 入职培训 programmes to help overseas recruits adjust. To update Horace Greeley’s 19th-century motto 座右铭；格言；箴言, the advice for the future *might be* “Go east, young man”.
+
+- motto :  /ˈmɑːtoʊ/ => 它和mutter（低语；咕哝）同源；座右铭就是牢记于心，时不时念叨着激励或提醒自己的话语.
+
+
+
+
+
