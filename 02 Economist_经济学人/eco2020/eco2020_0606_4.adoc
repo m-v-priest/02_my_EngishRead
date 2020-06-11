@@ -4,6 +4,30 @@
 
 ---
 
+== 背景知识 - cytokine storm 细胞素风暴, 细胞因子风暴.
+
+是指机体感染微生物后, 引起体液中多种细胞因子如TNF-α、IL-1、IL-6、IL-12、IFN-α、IFN-β、IFN-γ、MCP-1和IL-8等迅速大量产生的现象，是引起"急性呼吸窘迫综合征"和"多脏器衰竭"的重要原因。 +
+免疫系统的日常工作是清除感染，但是如果免疫系统被激活到极限程度或者失去控制，它就会伤害宿主，*极端的免疫攻击是“细胞因子风暴”*。埃博拉病毒感染的最后阶段，细胞因子风暴才是夺命杀手，像禽流感和非典之类的很多病毒都一样，能够触发免疫系统对身体的猛烈攻击。 +
+*免疫细胞,通过"细胞因子"彼此沟通，"细胞因子"是细胞释放到血液中的小分子，可以令免疫细胞冲到感染部位、吞噬遭到损伤的细胞，甚至穿透血管壁。* 细胞因子还可以引发"炎症"，令被破坏的机体肿胀、发热以及疼痛。 +
+*"细胞因子风暴"是一种求助信号，目的是让免疫系统霎时间火力全开。* 这最后一招自杀式的攻击能够损伤病毒，但也会留下一大堆连带伤害。*血管承受了其中最主要的攻势。细胞因子风暴令血管壁变得更容易穿透。因此动脉、静脉和毛细血管都开始渗出血液和血浆。* +
+*"细胞因子风暴"还会引发一氧化氮的大量释放。这种物质会进一步稀释血液并破坏血管。所有这些因素综合起来，把血压降到了危险的水平*，所以患者不是死于失血，而是死于某种类似严重感染性休克的问题。
+
+在SARS-CoV-2危重病人中, 可见"细胞因子风暴"发生。*细胞因子风暴是新冠肺炎患者"轻症"向"重症"和"危重症"转换的一个重要节点*，同时也是现在重症和危重症死亡的一个原因。
+
+细胞种种错综复杂的调节关系, 是怎么进行调节信息传递的呢？这得归功于他们的“联络官” -- 细胞因子。
+
+*免疫细胞在清除有害物质的同时, 会释放促炎细胞因子（包括干扰素（IFN）、白细胞介素（IL）、肿瘤坏血因子（TNF）等），以号召更多的免疫细胞加入这场对抗外敌的战争*，同时这些免疫细胞也会分泌更多的细胞因子，以不断壮大战争队伍，如此形成一个正反馈。*当免疫系统最终控制住入侵的病原体时，细胞因子又会减少，进而减弱炎症反应。* 因此，适当并协调得当的细胞因子释放, 可以及时调动大量免疫细胞到达感染处，抑制感染并清除病原体。
+
+image:../../+ img_单词图片/c/cytokine.jpg[100,100]
+
+*但是当免疫系统因感染、药物、自身免疫疾病等因素, 过度激活时，免疫细胞就会应激过度，产生过多的细胞因子, 从而让炎症加剧，大量分泌的促炎因子, 会导致正反馈循环会突破某个阈值而放大，最终形成"细胞因子风暴"。* 此时联络官变叛变官，反恐精英变成恐怖分子。*火力全开而又不受控制的免疫系统, 相当于一场不受控制的空袭，无差别地攻击包括病原体在内的一切细胞，进而引发全身炎症，多器官衰竭乃至死亡。* 很多人是撑不到输赢见分晓的，随随便便一个器官衰竭了，就直接没命了。
+
+以本次肺炎为例，有专家认为部分重症和死亡患者出现中性粒细胞持续增多可能就是由于病毒诱导的细胞因子风暴引起的。因此从某种程度来说，细胞因子风暴对人体的伤害甚至超过病毒本身对人体的伤害 。除了新冠病毒，多项研究表明，细胞因子风暴也是SARS、甲型H1N1，埃博拉病毒等多种感染疾病的重要夺命杀手。
+
+目前临床上常常使用一些"免疫抑制剂"来调节"细胞因子风暴"，使机体内的免疫反应处于一个正常的范围，既能消灭病毒，又不会过度杀伤正常的组织细胞。由此可见，免疫讲求最重要的还是平衡，免疫过弱，易受外界病毒细菌的侵害，太强又容易“杀敌八百，自损一千 ”。
+
+
+---
 
 ==  The paths of destruction 摧毁；毁灭；破坏  +
 词汇解说
@@ -18,7 +42,7 @@ There *are* direct routes and indirect ones
 Jun 6th 2020 |
 
 
-THE FIRST SET of lungs *felt like* rubber, says Rainer Claus, *so* damaged *that* it was impossible *to imagine* how any amount of oxygen *could get through* them. `主` The lungs in the rest of the ten covid-19 victims that he and his colleagues at the University Medical Centre Augsburg, in Germany, *autopsied* 验尸；尸体解剖 in early April `系` *were* in similarly awful condition.
+THE FIRST SET of lungs *felt like* rubber, says Rainer Claus, *so* damaged *that* it was impossible *to imagine* how any amount of oxygen *could get through* them. `主` The lungs in the rest of the ten covid-19 victims (that he and his colleagues at the University Medical Centre Augsburg, in Germany, *autopsied* 验尸；尸体解剖 in early April) `系` *were* in similarly awful condition.
 
 - autopsy : /ˈɔːtɑːpsi/ n. an official examination of a dead body by a doctor in order to discover the cause of death 验尸；尸体解剖 +
 => 来源于希腊语中由autos(自己)和optos(可见的)组成的复合词autoptes(目击者),经法语autopsie或现代拉丁语autopsia而派生了英语autopsy。 词根词缀： auto-自己(o略) + (-opt-)视,光 + -y名词词尾
@@ -204,49 +228,185 @@ image:../../+ img_单词图片/p/prong.jpg[100,100]
 
 
 
-The immune response to a virus starts with infected cells producing a suite of signalling molecules called cytokines. Some of these tell other cells nearby to be on their guard against attack, thus stymying the virus’s ability to replicate itself. Others tell the immune system to come and put some stick about. Thus called to arms, the immune system launches both a prompt all-purpose response—inflammation—and a subsequent targeted counter-attack using antibodies and cells specifically programmed to attack both virus particles and the cells they have infected. Unfortunately SARS-CoV-2 seems able to interfere with the early steps of the immune response. It can apparently counteract the part that dampens replication in nearby cells. It may also enhance inflammation.
+The immune response(n.) to a virus *starts with* infected cells *producing* a suite （一批）随员，随从;（一套）家具；套房 of signalling molecules 信号分子 called cytokines 细胞因子；细胞激素. Some of these *tell* other cells nearby *to be* on their guard against attack, thus *stymying* 阻挠，妨碍 the virus’s ability *to replicate* itself. Others *tell* the immune system *to come* and put some stick 粘贴；粘住 about. Thus called to arms, the immune system *launches* [both] a prompt 立即；迅速的；及时的 all-purpose 多用途的；通用的 response -- inflammation 发炎；炎症 -- [and] a subsequent targeted(a.)面向，把…对准（某群体） counter-attack(n.v.)（战争、体育运动或争论中的）反攻，反击 *using* antibodies 抗体 and cells *specifically programmed* to attack(v.) both virus particles 病毒颗粒 and the cells (they have infected). Unfortunately SARS-CoV-2 *seems* able to interfere(v.) with the early steps of the immune response. It *can apparently counteract* 抵制；抵消；抵抗 the part that *dampens* 抑制，控制，减弱（感情、反应等） replication in nearby cells. It *may also enhance* inflammation.
 
-Whether the virus helps it along or not, severe inflammation of the lungs often leads to what is known as acute respiratory distress syndrome (ARDS). It is ARDS that sees people rushed to intensive-care units (ICUs) and put on ventilators.
+- cytokine  /'saɪtəʊ,kaɪn/ N any of various proteins, secreted by cells, that carry signals to neighbouring cells. Cytokines include interferon 细胞活素. 一种由细胞分泌的将信号传递给邻近细胞的蛋白质。细胞因子包括干扰素
 
-Because it is hard to tolerate having a tube stuck down your throat and into your lungs, patients on ventilators are heavily sedated and unable to do anything for themselves. Nurses must reposition them every few hours to prevent bed sores. Their doctors keep watch for kidney failure, blood clots and heart problems—risks to critically ill patients in ICUs that anecdote has suggested may be more common in covid-19 patients than in others. Those anecdotes are now being backed up by a few studies. However, as Dominic Wichmann of the University Medical Centre Hamburg-Eppendorf points out, this correlation does not necessarily mean SARS-CoV-2 is itself damaging the organs involved.
+- stymie : /ˈstaɪmi/ [ VN ] ( informal ) to prevent sb from doing sth that they have planned or want to do; to prevent sth from happening 阻挠；阻碍；阻止；妨碍
+
+- all-purpose : a. [只用于名词前] having many different uses; able to be used in many situations 多用途的；通用的 +
+-> Use *all-purpose flour* if you cannot find pastry flour.
+如果找不到面点专用粉，可以用通用面粉。
+
+- 免疫系统对病毒的反应, 始于被感染的细胞产生一组称为"细胞因子"的信号分子。其中一些会告诉附近的其他细胞, 警惕病毒的攻击，从而阻碍病毒自我复制的能力。另一些则告诉免疫系统过来，把它粘起来。于是，免疫系统开始行动起来，同时发起一个快速的通用反应——炎症——以及随后的有针对性的反击，使用专门编程的抗体和细胞, 来攻击病毒颗粒和被它们感染的细胞。不幸的是，SARS-CoV-2似乎能够干扰免疫反应的早期步骤。对于免疫系统能抑制细胞附近的病毒的复制, SARS-CoV-2显然可以抵消掉它, 并且还可能加剧炎症。
 
 
 
-A quarter of covid-19 patients in British ICUs have had kidney problems severe enough to require dialysis. “It’s all part of the second phase of the illness when people, eight to ten days in, suddenly get worse,” says Claire Sharpe of King’s College London. A big part of the problem, she says, is just dehydration, always a risk in ICUs, all the more so when patients are feverish. On top of this, the stress caused to the body by having air pumped in and out amounts to “a double hit on the kidneys”.
+
+Whether the virus *helps it along* or not, severe  极为恶劣的；十分严重的 inflammation of the lungs 肺部炎症 *often leads to* 导致  what *is known as* acute respiratory distress syndrome (ARDS) 急性呼吸窘迫综合征. *It is* ARDS *that sees* people *rushed to* intensive-care 重症特别护理 units (ICUs) and *put on* ventilators 人工呼吸器.
+
+Because *it* is hard *to tolerate* having(v.) a tube *stuck* down your throat and into your lungs, patients on ventilators *are heavily sedated* 给…服镇静剂 and unable to do anything for themselves. Nurses *must reposition*(v.)重新放置; 调换位置 them every few hours *to prevent* bed sores 痛处；伤处；疮. Their doctors *keep watch for* kidney failure 故障；失灵, blood clots  (血液的) 凝块 and heart problems -- `主` risks(n.) to critically(ad.)严重的；不稳定的；可能有危险的 ill patients in ICUs (that anecdote 传闻;逸事；趣闻 *has suggested*) `系` *may be more common* in covid-19 patients than in others. Those anecdotes 传闻;逸事；趣闻 *are now being backed up* 支持；证实（某人所言） by a few studies. However, *as* Dominic Wichmann of the University Medical Centre Hamburg-Eppendorf *points out*, this correlation *does not necessarily mean* SARS-CoV-2 *is itself damaging* the organs involved.
+
+- sedate : /sɪˈdeɪt/ v. [ VN ] [ often passive ] to give sb drugs in order to make them calm and/or to make them sleep 给…服镇静剂 +
+=> 来自拉丁语 sedere,坐，来自 PIE*sed,坐，坐下，词源同 sit,seat.引申比喻义使镇静，使镇定。
+
+- anecdote : /ˈænɪkdoʊt/  => 前缀an-, 没有。前缀ec-,同ex-, 向外。词根don，给予，见donate, 捐赠，过去分词dot. 即“未向外给出、未公布的事”。
+
+- 无论病毒是否起到作用，严重的肺部炎症, 通常会导致所谓的"急性呼吸窘迫综合征"(ARDS)。在"急性呼吸窘迫综合征"(ARDS)中，人们被紧急送往"重症监护病房"(icu)，换上呼吸机。
+因为很难忍受一根管子卡在你的喉咙里，进入你的肺里，使用呼吸机的病人会被严重麻醉，不能自己做任何事情。护士必须每隔几个小时重新放置一次，以防止褥疮。他们的医生会密切关注肾衰竭、血块和心脏问题——在重症监护室中，危重患者面临的风险, 可能在covid-19患者中更为常见。这些轶事现在得到了一些研究的支持。然而，汉堡-埃彭多夫大学医学中心的Dominic Wichmann指出，这种相关性并不一定意味着是SARS-CoV-2本身来损害相关的器官。
+
+A quarter of covid-19 patients in British ICUs *have had* kidney problems *severe enough* to require(v.) dialysis(n.)渗析；透析（尤指将废物从肾病病人的血液中分离出来）. “It’s all part of the second phase of the illness when people, eight to ten days in, *suddenly get worse*,” says Claire Sharpe of King’s College London. A big part of the problem, she says, *is* just dehydration 脱水, always a risk in ICUs, *all the more so* 更加如此，尤其这样; 更是如此 when patients *are* feverish(a.)发烧的；发烧引起的. On top of this 除此以外, `主` the stress (*caused* to the body *by having* air pumped *in and out*) `谓` *amounts to* “a double hit on the kidneys”.
+
+- dialysis : /ˌdaɪˈæləsɪs/ n. ( technical 术语 ) a process for separating substances from a liquid, especially for taking waste substances out of the blood of people with damaged kidneys 渗析；透析（尤指将废物从肾病病人的血液中分离出来） +
+=> dia-, 穿过，整个的。-lys, 分开，记源同lose, analysis. 用于医学名词透析。
+
+- 在英国icu中，四分之一的covid-19患者, 都有严重的肾脏问题，需要进行透析。伦敦大学国王学院的Claire Sharpe说:“当8到10天后，病情突然恶化时, 肾脏问题就是患者病情第二阶段的一部分病况。”她说，这个问题的很大一部分是源于脱水，这在icu中是一个常见风险，当病人发烧时更是如此。除此之外，呼吸机空气的进出, 对身体所造成的压力, 相当于是“对肾脏的双重打击”。
+
 
 Chains of command
 
-Early in the pandemic critical-care doctors in various countries added to the problem by flushing fluids from the body in order to keep the patients’ damaged lungs from filling with liquid. They appreciated the risk of crashing the kidneys that this involved. Their thinking in doing it anyway, Dr Johnson says, was “I have to do everything I can to try to help their oxygen levels, because if I don’t win that then the whole game is lost.” Once doctors began to see high rates of kidney failure in covid-19 patients, though, they stopped “running them dry”. Dr Johnson, whose unit had the benefit of the experience from New York and other early hotspots, says kidney failure is now no more common in his covid-19 patients than in those with other viral pneumonias.
+[Early in the pandemic] critical-care 急救护理；特级护理 doctors in various countries *added to 使（数量）增加；使（规模）扩大 the problem* by *flushing* fluids from the body *in order to keep* the patients’ damaged lungs *from filling with liquid*. They *appreciated* 理解；意识到；领会 the risk of crashing(v.)碰撞；撞击;心脏停止跳动 the kidneys that this involved. `主` Their thinking(n.) in *doing it anyway* 无论如何都要做 , Dr Johnson says, `系` *was* “I have to do everything I can *to try to help* their oxygen levels, because *if I don’t win that* then the whole game is lost.” Once doctors *began to see* high rates of kidney failure 肾衰竭 in covid-19 patients, though, they *stopped* “running them dry”. Dr Johnson, whose unit *had* the benefit of the experience from New York and other early hotspots, says kidney failure *is* now no more common in his covid-19 patients than in those with other viral pneumonias 病毒性肺炎.
 
-Blood clots are another worry for patients in ICUs—so much so that mild blood thinners are routinely used as a prophylactic. Again, the problem may be worse in covid patients. Autopsies of the first 12 people to die of covid-19 in Hamburg found that four had died from a blood clot in the lungs. Autopsies by other teams have turned up lots of small clots in the blood vessels traversing the lungs.
+-  appreciate : v. ( not used in the progressive tenses 不用于进行时 ) to understand that sth is true 理解；意识到；领会 +
+=>  ap-来,临近 + -prec-价格,价值 + -i + -ate动词词尾 → 估价,抬价 +
+-> We *didn't fully appreciate that* he was seriously ill. 我们没有充分认识到他的病情很严重。
 
-
-
-There are lots of reasons why covid-19 patients might be at higher risk of clots in the lung and elsewhere. Immobility is one: patients on ventilators are essentially paralysed, and those with covid-19 tend to stay on ventilators about twice as long as other ICU patients. Dehydration thickens the blood. The severe inflammation seen in covid-19 patients has a big role, too, says Jean Marie Connors of the Harvard Medical School, because clotting substances in the blood tend to increase in lockstep with the chemicals that bring on inflammation. There is also some evidence that the cells which line blood vessels are infected by the virus, she adds. These cells regulate substances that prevent clots—if the virus kills them off clotting can run wild.
-
-Aftermath
-
-At this stage of the disease, cardiologists are also on high alert. Some covid-19 patients whose lungs start to improve then see an extreme deterioration in their heart function. This is not likely to be simply the effect of being in an ICU. But no one knows whether the damage comes from the virus itself infecting the heart, or from the inflammation it triggers.
-
-Harlan Krumholz of the Yale School of Medicine thinks both the virus and the immune response can be involved. In some people the antibody-making process can go awry, and their newly developed antibodies may confuse a healthy cell for an infected one, marking it for destruction by the immune system. That seems to be what happens in a rare sort of inflammation of the heart seen in some children with antibodies to SARS-CoV-2.
-
-In most cases, though, it is the generalised immune response, inflammation, that goes into overdrive. Why some patients are prone to this problem remains unclear. But as data piles up from hospitals around the world clues about the biological pathways of the disease are starting to emerge.
-
-Some of the clues come from the conditions which predispose people to the disease. “You’d think underlying lung problems or immune system problems will be the greatest risk,” says Dr Levitt. “But it seems the biggest risk factors have been hypertension, diabetes and obesity.” That has led many scientists to suspect that the profound inflammation seen in severe cases of covid-19 may be yet another problem linked to SARS-CoV-2’s fondness for ACE2. People with diabetes, hypertension and heart disease have more ACE2 on their cells as a response to the higher levels of inflammation that come with their condition; ACE2 has an anti-inflammatory effect. When SARS-CoV-2 sticks to ACE2 and reduces its ability to do its job, the underlying inflammation gets worse.
+- 在疫情大流行早期，各国的重症监护医生, 通过冲洗体内的液体来防止患者受损的肺部充满液体，从而加剧了问题。他们意识到这可能会导致肾脏崩溃。约翰逊博士说，无论如何，他们的想法是“我必须尽我所能, 来帮助他们提高氧气水平，因为如果我不能赢得这场比赛，那么整个救治就会失败。”然而，一旦医生开始发现, 新冠肺炎患者的肾衰竭比率很高，他们就不再“让他们干涸”。约翰逊博士的单位受益于来自纽约和其他早期热点地区的救治经验，他说，现在他的新冠肺炎患者中, 肾衰竭的现象并不比其他病毒性肺炎患者中更常见。
 
 
 
-When inflammation gets completely out of control the body enters what is called a cytokine storm. Such storms drive the most severe outcomes for covid-19, including multi-organ failure. There is thus an obvious role for anti-inflammatory drugs. But knowing when to administer them is hard. Go too late, and the storm will be unstoppable; go too early, and you may dampen down an immune response that is turning the tide. A recent article in the Lancet suggests that it would help if covid-19 patients were routinely screened for hyper-inflammation to help identify those who might benefit from anti-inflammatory drugs. But not everyone is convinced today’s drugs have much to offer. “We tried [a range of anti-inflammatory treatment] and it actually didn’t work,” says Rajnish Jaiswal, who has been working on the front line of covid-19 treatment at New York’s Metropolitan Hospital.
+Blood clots *are* another worry for patients in ICUs -- so much *so that* mild blood thinners （涂料、清漆等的）稀料，稀释剂 *are routinely 例行地; 常规性地 used as* a prophylactic 预防性药物（或器具、措施）. Again, the problem *may be worse* in covid patients. Autopsies 验尸 of the first 12 people *to die of* covid-19 in Hamburg *found that* four *had died from* a blood clot in the lungs. Autopsies by other teams *have turned up* 找到；发现 lots of small clots in the blood vessels *traversing* 横过；横越；穿过；横渡 the lungs.
 
-All told, just 58% of those who have gone into British ICUs and are not still there have been discharged alive. The rest have died. This mortality rate is double that seen for other viral pneumonias in the past three years.
+- prophylactic :  /ˌproʊfəˈlæktɪk/  n. ( medical 医 ) a medicine, device or course of action that prevents disease 预防性药物（或器具、措施） / a. ( medical 医 ) done or used in order to prevent a disease 预防疾病的 +
+=> pro-,提前，-phlact,看护，保护，词源同phylactery.后用于医学用语预防的。 +
+-> prophylactic treatment 预防性治疗
 
-Many of those who survive a severe bout of covid-19 are likely to have long-term health problems. America’s Society of Critical Care Medicine has identified a collection of health problems including poor muscle strength and sub-par heart and lung function as “post-intensive care syndrome”; people who have had ARDS get it worse than most. Damaged lungs and kidneys can be expected to make good a lot of the harm done to them once a crisis is over, but for some it will take time, and long-term loss of function is possible.
+- 血栓是icu中患者的另一个担忧——它是如此之多，以至于温和的血液稀释剂通常都被用作预防(血栓)药物。covid患者的问题可能更严重。在汉堡，对最早12名死于covid-19的患者的尸检发现, 其中4人死于肺部的血凝块。其他研究小组的尸检发现，在穿过肺部的血管中有许多小血栓。
 
-A big worry is what happens to the brain. Sherry Chou of the University of Pittsburgh says that there is no evidence so far that SARS-COV-2 directly harms the brain or the central nervous system, but in parts of the brain, the spinal cord and the nerves the inflammation associated with the disease can lead to muscle weakness and other problems.
 
-The mere fact of being in an ICU can also lead to cognitive impairment. The effect of more than a week in intensive care is comparable to that of a major head injury. The problems are linked to the delirium people often fall into when severely ill and heavily sedated in an unfamiliar environment. Delirium is a particular problem with covid-19, says Dale Needham of Johns Hopkins University. Patients spend a long time in the ICU during which they see no one they know—and the strangers caring for them in heavy-duty protective wear “look like aliens”.
 
-Patients who have come through ARDS may also suffer from anxiety and post-traumatic stress disorder. It all adds up to a bleak prospect. In 2017 a study in the Baltimore-Washington area found that a third of previously employed patients who survived ARDS were not back at work five years on. Covid-19 will cast as long a shadow over some survivors’ lives as it will over those who mourn the dead.
+There are lots of reasons why covid-19 patients *might be* at higher risk of clots in the lung and elsewhere. Immobility 不动，不能移动, 固定 is one: patients on ventilators *are essentially 本质上；根本上；基本上 paralysed* 使瘫痪, and those with covid-19 *tend to stay on* 留下来继续（学习、工作等） ventilators about twice as long as 两倍的时间 other ICU patients. Dehydration 脱水 *thickens* （使）变厚，变浓，变稠 the blood. The severe inflammation *seen* in covid-19 patients *has* a big role, too, says Jean Marie Connors of the Harvard Medical School, because clotting substances in the blood *tend to increase* in lockstep(n.)齐步走（步伐）;同生同变 with the chemicals that *bring on* 促使（作物、水果等）成长;使发展，导致（通常指坏事） inflammation. There is also some evidence that the cells (which *line* （在某物的内部）形成一层; 沿…形成行（或列、排） blood vessels) *are infected* by the virus, she *adds*. These cells *regulate* substances that *prevent* clots -- [if the virus *kills them off* 大量杀死，大量消灭（动植物等）] clotting *can run wild*.
+
+-  lockstep : n.  a way of walking together where people move their feet at the same time 齐步走（步伐） / a situation where things happen at the same time or change at the same rate 同生同变 +
+-> Politicians and the media *are marching in lockstep on this issue* (= they agree) . 政界和媒体在这一问题上保持一致。 +
+-> Cases of breathing difficulties *increase [in lockstep with air pollution]*. 呼吸困难的病例, 随空气污染的加剧而增加。 +
+image:../../+ img_单词图片/l/lockstep.jpg[100,100]
+
+- *bring sth on*  : to make sth develop, usually sth unpleasant 使发展，导致（通常指坏事） / *bring sb on* : to help sb develop or improve while they are learning to do sth 帮助（学习者）进步；促使提高 +
+同义词 cause +
+-> He was suffering from *stress (brought on by overwork)*.
+他正苦于超负荷工作带来的压力。
+
+- covid-19患者肺部和其他部位发生血栓的风险较高，原因有很多。不活动就是其中之一:使用呼吸机的患者基本上处于瘫痪状态，而covid-19患者使用呼吸机的时间, 往往是其他ICU患者的两倍。脱水使血液变稠。哈佛大学医学院(Harvard Medical School)的让•玛丽•康纳斯(Jean Marie Connors)说，covid-19患者出现的严重炎症也发挥了重要作用，因为血液中的凝血物质, 往往会与引发炎症的化学物质同步增加。她补充说，还有一些证据表明，排列在血管上的细胞受到了病毒的感染。这些细胞能调节阻止凝血的物质——如果病毒杀死它们，血凝块就会失控。
+
+
+
+Aftermath （战争、事故、不快事情的）后果，创伤
+
+At this stage of the disease, cardiologists 心内科医生 *are* also on high alert 处于高级戒备状态, 高度警戒. `主` Some covid-19 patients whose lungs *start to improve* 改进；改善 `谓` then *see* an extreme deterioration 恶化；退化；堕落 in their heart function. This *is not likely to be* simply the effect of *being* in an ICU. But no one *knows* whether the damage *comes from* the virus itself infecting the heart, or *from* the inflammation it triggers.
+
+- 在疾病的这一阶段，心脏病专家也处于高度警戒状态。一些covid-19患者的肺部开始好转，然后他们的心脏功能就出现严重恶化。这不可能仅仅是住在ICU的影响。但没有人知道这种损害是由会感染心脏的病毒本身造成的，还是由它引发的炎症造成的。
+
+Harlan Krumholz of the Yale School of Medicine *thinks* both the virus and the immune response *can be involved*. In some people the antibody-making process *can go awry*(ad.a.)出错；出岔子; 歪；斜, and their newly developed antibodies *may confuse* a healthy cell for an infected one, *marking it* for destruction by the immune system. That *seems to be* what happens in a rare sort of inflammation of the heart *seen* in some children with antibodies to SARS-CoV-2.
+
+
+- awry /əˈraɪ/ : ad. a. if sth *goes awry* , it does not happen in the way that was planned 出错；出岔子 / not in the right position 歪；斜 +
+=> 来自短语on wry . wry, 歪斜，扭曲，来自zero-grade 根wr, 弯，转，词源同verse, 转。 +
+-> All my plans for the party *had gone awry*. 我的聚会计划全乱了套。 +
+-> She rushed out, *her hair awry*. 她披头散发冲了出来。 +
+image:../../+ img_单词图片/a/awry.jpg[100,100]
+
+- 耶鲁大学医学院的Harlan Krumholz认为, 病毒和免疫反应都可能参与其中起作用。有些人的抗体制造过程可能会出错，他们体内新生成的抗体, 可能会将健康细胞与受感染细胞混淆，将健康细胞标记为病毒, 交由免疫系统来摧毁。这似乎是在一些携带着SARS-CoV-2抗体的儿童身上,  他们出现一种罕见的心脏炎症中, 会发生这种情况(即抗体会混淆健康细胞和感染细胞)。
+
+
+
+In most cases, though, it is the generalised 笼统地讲；概括地谈论;概括；归纳 immune response, inflammation, that *goes into overdrive* 加劲；加倍努力；拼命工作/ （汽车的）超速挡. `主` Why some patients *are prone(a.)易于遭受；有做（坏事）的倾向 to* this problem `谓` *remains* unclear. But [as data *piles up* 堆积；积压 from hospitals around the world] clues 线索 about the biological pathways 路径;途径 of the disease *are starting to emerge*.
+
+- generalize : v. [ V ] ~ (from sth) to use a particular set of facts or ideas in order to form an opinion that is considered valid for a different situation 概括；归纳 / [ V ] ~ (about sth) to make a general statement about sth and not look at the details 笼统地讲；概括地谈论 +
+-> It would be foolish *to generalize(v.) from a single example*. 仅从一个事例进行归纳的做法是愚蠢的。 +
+-> It is dangerous *to generalize(v.) about the poor*. 对穷人一概而论是危险的。
+
+- overdrive : n. [ U ] an extra high gear in a vehicle, that you use when you are driving at high speeds （汽车的）超速挡 /  *GO INTO OVERDRIVE* : to start being very active and working very hard 加劲；加倍努力；拼命工作 +
+-> As the wedding approached, the whole family *went into overdrive*. 随着婚礼将近，全家人都忙得不亦乐乎。
+
+- 然而，在大多数情况下，原因是源于全身性免疫反应——炎症——反应过度了。为什么有些病人容易出现这个问题还不清楚。但是随着来自世界各地医院的数据的积累，关于这种疾病的生物学途径的线索开始出现。
+
+
+Some of the clues *come from* the conditions which *predispose* 使…很可能患 (某疾病) people *to* the disease. “You’*d think* underlying 根本的；潜在的；隐含的 lung problems or immune system problems *will be* the greatest risk,” says Dr Levitt. “But it *seems* `主` the biggest risk factors `系` *have been* hypertension 高血压, diabetes 糖尿病；多尿症 and obesity 肥大，肥胖.” That *has led* many scientists *to suspect that* the profound 严重的；完全的；彻底的 inflammation *seen* in severe cases of covid-19 *may be* yet another problem *linked to* SARS-CoV-2’s fondness 爱好；喜爱 for ACE2. People with diabetes 糖尿病, hypertension and heart disease *have* more ACE2 on their cells *as a response to* the higher levels of inflammation that *come* with their condition; ACE2 *has* an anti-inflammatory 消炎的；抗炎的 effect. When SARS-CoV-2 *sticks to* ACE2 and *reduces its ability* to do its job, the underlying inflammation *gets worse*.
+
+-  predispose : /ˌpriːdɪˈspoʊz/ v. *~ sb to sth/to do sth* : to influence sb so that they are likely to think or behave in a particular way 使倾向于；使受…的影响 / *~ sb to sth* : to make it likely that you will suffer from a particular illness 使易于患（某种病） ；容易诱发 +
+=> pre-,在前，早于，预先，dispose,安排。引申词义倾向于。 +
+-> Stress *can predispose* people *to* heart attacks. 紧张容易使人心脏病发作。
+
+-  diabetes : /ˌdaɪəˈbiːtiːz/   n. [ U ] a medical condition caused by a lack of insulin , which makes the patient produce a lot of urine and feel very thirsty 糖尿病；多尿症
+
+- obesity : /oʊˈbiːsəti/ n. 肥大，肥胖
+
+- profound : /prəˈfaʊnd/ a. ( medical 医 ) very serious; complete 严重的；完全的；彻底的 / very great; felt or experienced very strongly 巨大的；深切的；深远的 +
+=> 来自拉丁语profundus,深的，无底的，来自pro-,向前，朝向，fundus,底部，词源同fundamental,bottom.引申词义深邃的，深远的等。拼写受found影响。 +
+-> *profound disability* 严重残疾 +
+-> My father's death *had a profound effect* on us all. 父亲的去世深深地影响了我们全家。
+
+-  ACE2 : 也称为ACEH，称为血管紧张素转化酶2。是新型冠状病毒的细胞表面受体.
+
+
+
+
+[When inflammation *gets completely out of control* 无法管理；失去控制] the body *enters* what is called a cytokine 细胞活素 storm 细胞素风暴, 细胞因子风暴. Such storms *drive* the most severe outcomes 结果；效果 for covid-19, including multi-organ failure 多器官功能衰竭. There is thus an obvious role for anti-inflammatory 消炎的；抗炎的 drugs. But `主` *knowing* when to administer 施行；执行;给予；提供 them `系` *is* hard. *Go [too late]*, and the storm *will be* unstoppable  无法遏止的；不能防止的; *go [too early]*, and you *may dampen down* 抑制，控制（情绪、感情等） an immune response that *is turning the tide* 转变运气；改变形势. A recent article in the Lancet （医生用的）柳叶刀，小刀 *suggests that* it *would help* [if covid-19 patients *were routinely screened* for hyper 既兴奋又紧张的；精力过旺的-inflammation *to help identify* those who *might benefit from* anti-inflammatory drugs]. But not everyone *is convinced* 坚信；深信；确信 today’s drugs *have* much *to offer*. “We *tried* [a range of anti-inflammatory treatment] and it *actually didn’t work*,” says Rajnish Jaiswal, who *has been working on* the front line of covid-19 treatment at New York’s Metropolitan Hospital.
+
+
+-  cytokine : /'saɪtə,kaɪn/  N any of various proteins, secreted by cells, that carry signals to neighbouring cells. Cytokines include interferon 细胞活素
+
+- cytokine storm 细胞素风暴, 细胞因子风暴.
+
+- tide  潮；潮汐；潮水 / *the tide turned | turn the tide* : used to say that there is a change in sb's luck or in how successful they are being 转变运气；改变形势
+
+- 当炎症完全失去控制时，身体就会进入"细胞因子风暴"状态。这种风暴会导致covid-19最严重的后果，包括多器官衰竭。因此，要使用抗炎药物, 作用就是显而易见的了。但要想知道什么时候给药, 却不容易。做得太晚，细胞因子风暴将无法被抑制;  做得太早，你可能反而会抑制正在扭转局势的免疫系统反应。《柳叶刀》杂志(Lancet)最近的一篇文章指出，如果covid-19患者经常接受"过度炎症状态检查"，以帮助确定哪些人可能会从消炎药中受益，这将有所帮助。但并不是每个人都相信今天的药物有很大的作用。“我们尝试了[一系列抗炎治疗]，但实际上没有效果，”Rajnish Jaiswal说，他一直在纽约大都会医院工作，在covid19治疗的第一线。
+
+
+
+All told 合计；总共, `主` just 58% of those who *have gone into* British ICUs and *are not* still there `谓` *have been discharged 准许（某人）离开；解雇;释放;排出；放出；流出 alive*. The rest *have died*. This mortality 死亡数量；死亡率 rate *is* double that seen for other viral pneumonias 肺炎 in the past three years.
+
+- 总的来说，进入英国重症监护室的病人中，只有58%的人活着出院。其他人都死了。这一死亡率是过去三年其他病毒性肺炎死亡率的两倍。
+
+
+`主` Many of those who *survive* a severe bout （疾病的）发作；发病期 of covid-19 `系` *are likely to have* long-term health problems. America’s Society of Critical Care Medicine *has identified* a collection of health problems including poor muscle strength and sub-par 低于标准的；在平均水平以下的；次佳的 heart and lung function *as* “post-intensive care syndrome 综合征；综合症状”; people who *have had* ARDS *get it worse* than most. Damaged lungs and kidneys *can be expected* to make good a lot of the harm (done to them) once a crisis is over, but [for some] it *will take time*, and long-term loss of function *is* possible.
+
+- bout : n.  /baʊt/ *~ (of sth/of doing sth)* a short period of great activity; a short period during which there is a lot of a particular thing, usually sth unpleasant 一阵；一场；（尤指坏事的）一通，一次 / ~ (of sth) an attack or period of illness （疾病的）发作；发病期 / 拳击（或摔跤）比赛 +
+=> 词源不确定，可能来自拟声词。 +
+-> the latest bout of inflation 最近一阵通货膨胀
+-> *a severe bout* of flu/coughing 流感╱咳嗽的猛烈发作
+
+- 许多在covid-19重症发病后存活下来的人, 可能会出现长期的健康问题。美国重症监护医学会(american Society of Critical Care Medicine)已将一系列健康问题确定为“重症监护综合症”，其中包括肌肉力量差、心肺功能低下; 患有ARDS(急性呼吸窘迫综合征)的人, 比大多数人都更糟糕。一旦危机结束，受损的肺和肾有望弥补对它们造成的许多伤害，但对一些人来说，这需要时间，而且长期的功能丧失是可能的。
+
+
+A big worry *is* what *happens to* the brain. Sherry Chou of the University of Pittsburgh *says that* there is no evidence so far *that* SARS-COV-2 *directly harms* the brain or the central nervous system, but [in parts of the brain, the spinal 脊柱的；脊髓的 cord 脊髓 and the nerves] the inflammation associated with the disease *can lead to* muscle weakness and other problems.
+
+- *spinal cord* :  n. the mass of nerves inside the spine that connects all parts of the body to the brain 脊髓
+
+- 一个很大的担忧是大脑会发生什么。匹兹堡大学的Sherry Chou说，到目前为止还没有证据表明SARS-COV-2直接损害大脑或中枢神经系统，但在大脑、脊髓和神经的部分部位，由疾病带来的的炎症, 可能导致肌肉无力和其他问题。
+
+`主` The mere fact of *being* in an ICU `谓` *can also lead to* cognitive 认知的；感知的；认识的 impairment （身体或智力方面的）缺陷，障碍，损伤；某种缺陷. The effect of more than a week in intensive care *is comparable 类似的；可比较的 to* that of a major head injury. The problems *are linked to* the delirium(n.)谵妄，神志失常，说胡话（常由疾病引起）  people *often fall into* when severely ill and *heavily sedated* 给…服镇静剂 in an unfamiliar environment. Delirium 谵妄，神志失常，说胡话（常由疾病引起） *is* a particular problem with covid-19, says Dale Needham of Johns Hopkins University. Patients *spend a long time* in the ICU during which they *see no one* they know -- and the strangers *caring for them* in heavy-duty  结实的；重型的；耐用的 protective wear “*look like* aliens”.
+
+- impairment :/ɪmˈpermənt/  ( technical 术语 ) the state of having a physical or mental condition which means that part of your body or brain does not work correctly; a particular condition of this sort （身体或智力方面的）缺陷，障碍，损伤；某种缺陷 +
+=> im-不,无 + pair(-par-)相等 +
+-> impairment of the functions of the kidney 肾功能障碍 +
+-> *visual impairments* 视力受损
+
+- delirium : /dɪˈlɪriəm/ n. [ U ] a mental state where sb becomes delirious , usually because of illness 谵妄，神志失常，说胡话（常由疾病引起） +
+=> de-, 向下，偏离。-lir, 沟，垄，词源同learn, last. 原指犁地犁偏的，引申义精神错乱。 +
+image:../../+ img_单词图片/d/delirium.jpg[100,100]
+
+- heavy-duty : a. not easily damaged and therefore suitable for hard physical work or to be used all the time 结实的；重型的；耐用的 / ( informal ) ( especially NAmE ) very serious or great in quantity 严重的；严肃的；大量的 +
+-> *a heavy-duty carpet* 耐磨的地毯 +
+-> I think *you need some heavy-duty advice*. 我想你需要一些有分量的意见。
+
+- 仅仅是住在重症监护病房这一事实, 也会导致认知障碍。在重症监护室接受一周以上的治疗，其效果可与遭受严重头部损伤相当。这些问题与人们在不熟悉的环境中患重病和大量镇静时经常陷入的精神错乱有关。约翰霍普金斯大学的戴尔·李约瑟(Dale Needham)说，谵妄是新冠肺炎的一个特别问题。病人在ICU呆了很长一段时间，期间他们看不到任何他们认识的人，而那些穿着重型防护服照顾他们的陌生人“看起来就像是外星人”。
+
+Patients who *have come through* （重病后）康复；避免受严重伤害 ARDS *may also suffer from* anxiety and post-traumatic stress disorder 创伤后精神紧张性障碍,创伤后应激障碍. It all *adds up to* 总共是；总计为;结果是；表示 a bleak prospect. In 2017 a study in the Baltimore-Washington area *found that* a third of previously employed(a.) patients who survived ARDS *were not* back at work five years on. Covid-19 *will cast [as long] a shadow* over some survivors’ lives *[as]* it will over those who mourn(v.)（因失去…而）哀悼，忧伤 the dead.
+
+- 患有急性呼吸窘迫综合征的患者, 还可能患有焦虑症和创伤后应激障碍。这一切加在一起，都使得他们前景黯淡。2017年，巴尔的摩-华盛顿地区的一项研究发现，在ARDS中幸存下来的以前有工作的患者中，有三分之一, 五年后没有重返工作岗位。新冠肺炎将给一些幸存者的生活投下的阴影, 和那些失去亲人, 悼念死者的人一样长。
+
 
 ---
 
@@ -330,36 +490,6 @@ A big worry is what happens to the brain. Sherry Chou of the University of Pitts
 The mere fact of being in an ICU can also lead to cognitive impairment. The effect of more than a week in intensive care is comparable to that of a major head injury. The problems are linked to the delirium people often fall into when severely ill and heavily sedated in an unfamiliar environment. Delirium is a particular problem with covid-19, says Dale Needham of Johns Hopkins University. Patients spend a long time in the ICU during which they see no one they know—and the strangers caring for them in heavy-duty protective wear “look like aliens”.
 
 Patients who have come through ARDS may also suffer from anxiety and post-traumatic stress disorder. It all adds up to a bleak prospect. In 2017 a study in the Baltimore-Washington area found that a third of previously employed patients who survived ARDS were not back at work five years on. Covid-19 will cast as long a shadow over some survivors’ lives as it will over those who mourn the dead.
-
-
-
-
-
-免疫系统对病毒的反应始于被感染的细胞产生一组称为细胞因子的信号分子。其中一些会告诉附近的其他细胞警惕攻击，从而影响病毒复制自身的能力。另一些则告诉免疫系统过来，把它粘起来。于是，免疫系统开始行动起来，同时启动一个快速的万能反应——炎症——以及随后的一个有针对性的反击，使用抗体和细胞来攻击病毒颗粒和它们感染的细胞。不幸的是，SARS-CoV-2似乎能够干扰免疫反应的早期步骤。它显然可以抵消抑制附近细胞复制的部分。它还可能加剧炎症。
-无论病毒是否起到作用，严重的肺部炎症通常会导致所谓的急性呼吸窘迫综合征(ARDS)。在急性呼吸窘迫综合征(ARDS)中，人们被紧急送往重症监护病房(icu)，换上呼吸机。
-因为很难忍受一根管子卡在你的喉咙里，进入你的肺里，使用呼吸机的病人被严重麻醉，不能自己做任何事情。护士必须每隔几个小时重新放置一次，以防止褥疮。他们的医生会密切关注肾衰竭、血块和心脏问题——在重症监护室中，危重患者面临的风险可能在covid-19患者中更为常见。这些轶事现在得到了一些研究的支持。然而，汉堡-埃彭多夫大学医学中心的Dominic Wichmann指出，这种相关性并不一定意味着SARS-CoV-2本身就损害了相关的器官。
-在英国icu中，四分之一的covid-19患者有严重的肾脏问题，需要透析。伦敦大学国王学院的Claire Sharpe说:“这都是患者病情第二阶段的一部分，8到10天后，病情突然恶化。”她说，这个问题的很大一部分只是脱水，这在icu中是一个风险，当病人发烧时更是如此。除此之外，空气的进出对身体造成的压力相当于“对肾脏的双重打击”。
-
-命令链
-在大流行的早期，许多国家的急救医生为了防止病人受损的肺部充满液体而从体内冲洗液体，从而加剧了这一问题。他们意识到这可能会导致肾脏崩溃。约翰逊博士说，他们这样做的想法是“我必须尽我所能来提高他们的氧气水平，因为如果我没有赢，那么整个比赛就输了。”然而，当医生们发现covid-19患者肾衰竭的比例很高时，他们就停止了“烘干”。约翰逊博士说，肾衰竭在他的covid19患者中并不比其他病毒性肺炎患者更常见。
-血栓是icu患者的另一个担忧——如此之多，以至于温和的血液稀释剂通常被用作预防药物。covid患者的问题可能更严重。在汉堡，对前12名死于covid-19的人进行了尸检，发现其中4人死于肺部的血凝块。其他研究小组的尸检发现，在穿过肺部的血管中有许多小血栓。
-covid-19患者肺部和其他部位发生血栓的风险较高，原因有很多。不活动就是其中之一:使用呼吸机的患者基本上处于瘫痪状态，而covid-19患者使用呼吸机的时间往往是其他ICU患者的两倍。脱水使血液变稠。哈佛大学医学院(Harvard Medical School)的让•玛丽•康纳斯(Jean Marie Connors)说，covid-19患者出现的严重炎症也发挥了重要作用，因为血液中的凝血物质往往会与引发炎症的化学物质同步增加。她补充说，还有一些证据表明，排列在血管上的细胞受到了病毒的感染。这些细胞调节阻止凝血的物质——如果病毒杀死它们，凝血就会失控。
-之后
-在疾病的这一阶段，心脏病专家也处于高度警戒状态。一些covid-19患者的肺部开始好转，然后他们的心脏功能出现严重恶化。这不可能仅仅是住在ICU的影响。但没有人知道这种损害是由病毒感染心脏本身造成的，还是由它引发的炎症造成的。
-耶鲁大学医学院的Harlan Krumholz认为病毒和免疫反应都可能参与其中。有些人的抗体生成过程可能出错，他们新开发的抗体可能会将健康细胞与受感染细胞混淆，标志着免疫系统将其摧毁。这似乎是发生在患有SARS-CoV-2抗体的儿童身上的一种罕见的心脏炎症。
-然而，在大多数情况下，是全身性免疫反应——炎症——进入了超负荷状态。为什么有些病人容易出现这个问题还不清楚。但是随着来自世界各地医院的数据的堆积，关于这种疾病的生物学途径的线索开始出现。
-一些线索来自于使人们易患这种疾病的条件。“你可能会认为潜在的肺部问题或免疫系统问题将是最大的风险，”莱维特博士说。“但最大的危险因素似乎是高血压、糖尿病和肥胖。这使得许多科学家怀疑，严重病例中出现的严重炎症可能是与SARS-CoV-2对ACE2的喜爱有关的另一个问题。患有糖尿病、高血压和心脏病的人，他们的细胞中有更多的ACE2，这是对伴随他们的疾病而来的更高水平的炎症的反应;ACE2具有抗炎作用。当SARS-CoV-2粘附在ACE2上并降低了它的工作能力时，潜在的炎症就会恶化。
-
-当炎症完全失去控制时，身体就会进入细胞因子风暴。这种风暴导致covid-19最严重的后果，包括多器官衰竭。因此，抗炎药物的作用是显而易见的。但是知道什么时候给药是困难的。走得太晚，风暴将势不可挡;去得太早，你可能会抑制正在扭转局势的免疫反应。《柳叶刀》杂志(Lancet)最近的一篇文章指出，如果covid-19患者经常接受过度炎症检查，以帮助确定哪些人可能会从消炎药中受益，这将有所帮助。但并不是每个人都相信今天的药物有很大的作用。“我们尝试了[一系列抗炎治疗]，但实际上没有效果，”Rajnish Jaiswal说，他一直在纽约大都会医院工作，在covid19治疗的第一线。
-总的来说，进入英国重症监护室的病人中，只有58%的人活着出院。其他人都死了。这一死亡率是过去三年其他病毒性肺炎死亡率的两倍。
-许多在covid-19重症发作后存活下来的人可能会出现长期的健康问题。美国重症监护医学会(american Society of Critical Care Medicine)已将一系列健康问题确定为“重症监护综合症”，其中包括肌肉力量差、心肺功能低下;患有ARDS的人比大多数人都更糟糕。一旦危机结束，受损的肺和肾可以弥补对它们造成的很多伤害，但对一些人来说，这需要时间，长期的功能丧失是可能的。
-一个很大的担忧是大脑会发生什么。雪莉匹兹堡大学的周说,迄今为止,没有证据表明,SARS-COV-2直接危害大脑或中枢神经系统,但在部分大脑、脊髓和神经炎症相关的疾病会导致肌肉无力和其他问题。
-仅仅住在ICU这一事实也可能导致认知障碍。一个多星期的重症监护的效果与严重的头部损伤相当。这些问题与人们在不熟悉的环境中严重患病和严重服用镇静剂时经常出现的谵妄有关。约翰·霍普金斯大学的戴尔·李约瑟说，谵妄是covid-19的一个特别问题。病人在ICU里呆很长一段时间，在这段时间里他们看不到任何认识的人——而且那些穿着重型防护服照顾他们的陌生人“看起来就像外星人”。
-患有急性呼吸窘迫综合征的患者还可能患有焦虑和创伤后应激障碍。所有这些都使前景暗淡。2017年，在巴尔的摩和华盛顿地区的一项研究发现，三分之一以前有工作的ARDS存活患者五年后没有重返工作岗位。Covid-19给一些幸存者和哀悼死者的人的生命投下的阴影一样长。
-
-
-
-
 
 
 
