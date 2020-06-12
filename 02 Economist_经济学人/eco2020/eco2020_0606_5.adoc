@@ -163,7 +163,7 @@ If Mr Dorsey has had a change of heart and now allows tweets like Mr Trump’s t
 
 == A YouTube mystery 词汇解说
 
-( eco 2020-06-06 / United States / Google and China: Everything in moderation )
+( eco 2020-05-30 / United States / Google and China: Everything in moderation )
 
 Google’s removal 除去；消除；清除 of anti-Beijing comments *raises* political eyebrows 扬起眉毛（表示不赞同或惊讶）
 
@@ -218,7 +218,10 @@ image:../../+ img_单词图片/s/spam.jpg[100,100]
 
 Problems with complex systems like this *can be solved*, but they are opaque(a.)不透明的, 难懂；模糊；隐晦；不清楚 *not just* 不仅...还 through Google’s choice, *but* inherently(ad.)固有的；内在的 through their technical design. If YouTube’s comment-moderation systems *were nudged* （朝某方向）轻推，渐渐推动;（用肘）轻推，轻触 into the automated deletion of anti-CCP phrases, despite the application （尤指理论、发现等的）应用，运用 of the highest tech, similar holes *will surely pop up* 突然出现；不意冒出 in future.
 
-The only way for Google to win this game of cat-and-mouse is to shut down YouTube comments entirely. Or it could gain an edge by spending a lot of money on humans to do the moderating. Neither is likely. Instead, such issues will probably keep providing sticks with which Mr Cruz and friends can beat the tech giant. With the outcome of a Department of Justice investigation into Google’s monopoly power looming, that may prove a liability.
+The only way for Google *to win* this game of cat-and-mouse `系` *is* to shut down YouTube comments entirely. Or it *could gain an edge* （微弱的）优势 by *spending a lot of money on* humans *to do* the moderating. Neither is likely. Instead, such issues *will probably keep* providing(v.) sticks 枝条；枯枝；柴火棍儿 *with which* Mr Cruz and friends *can beat* the tech giant. *With* the outcome 结果；效果 of a Department of Justice investigation into Google’s monopoly power *looming*, that *may prove* a liability （法律上对某事物的）责任，义务.
+
+- 相反，这样的问题可能会继续提供大棒，克鲁兹先生和他的朋友们可以借此打败这家科技巨头。随着司法部(Department Of Justice)对谷歌垄断权的调查结果的迫近，这可能会被证明是一种责任。
+
 
 
 ---
@@ -253,4 +256,3 @@ The only way for Google to win this game of cat-and-mouse is to shut down YouTub
 
 
 
-谷歌要想打赢这场猫捉老鼠的游戏，唯一的办法就是完全关闭YouTube上的评论。或者它可以通过在人类身上花很多钱来做调节来获得优势。既不可能。相反，这些问题可能会继续提供支持，克鲁兹和他的朋友们可以借此打败这家科技巨头。随着美国司法部(Department of Justice)对谷歌垄断权力的调查结果的迫近，这可能会被证明是一种责任。■
