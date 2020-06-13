@@ -148,22 +148,41 @@ And so the tension between the elites’ priorities and those of ordinary Centra
 
 ( eco 2020.6.6 / Asia / Marriage in Japan: Knot happy )
 
-Covid-19 *spurs* single Japanese *to look for* love
+Covid-19 *spurs* 鞭策；激励；刺激；鼓舞;马刺；靴刺 single Japanese *to look for* love
 
-Match-making agencies have received a surge of inquiries
+Match-making 说媒,匹配服务 agencies *have received* a surge of inquiries
 
 Jun 4th 2020 | SUZUKA, MIE PREFECTURE
 
 
-HE HAD ALWAYS imagined he would get married someday. Then covid-19 hit. Yuto (not his real name), a 31-year-old hotel employee from the southern city of Kumamoto, found himself confined to his home, alone. He decided to accelerate his wedding plans, and signed up for an online match-making service to find the love of his life—fast.
+HE *HAD ALWAYS imagined* he *would get married* someday. Then covid-19 *hit*. Yuto (not his real name), a 31-year-old hotel employee from the southern city of Kumamoto, *found* himself *confined to* his home, alone. He *decided to accelerate* his wedding plans, and *signed up for* an online match-making service *to find* the love of his life -- fast.
 
-Yuto is not alone. Since the pandemic broke out, more Japanese singles have been on the hunt for spouses. Sunmarie, a match-making agency, reported a 30% rise in inquiries in April compared with the year before. Both Sunmarie and O-net, a rival agency, have tried to adapt to the times, offering an online rendez-vous service since early April, when the government began curbing gatherings in much of the country. LMO, another firm, offers drive-through meetings, in which singletons can introduce themselves from their cars, in the empty car parks of wedding halls.
+Yuto *is not* alone. Since the pandemic *broke out*, more Japanese singles *have been* on the hunt for spouses. Sunmarie, a match-making agency, *reported* a 30% rise in inquiries in April *compared with* the year before. Both Sunmarie and O-net, a rival agency, *have tried to adapt 使适应，使适合（新用途、新情况） to* the times, *offering* an online rendez-vous  (常指秘密的) 会面;会面地点 service since early April, when the government *began curbing* 控制，抑制，限定，约束（不好的事物）;勒马绳 gatherings(n.) in much of the country. LMO, another firm, *offers* drive-through 免下车的 (餐馆、银行或饭馆) meetings, in which singletons 单身男子（或女子） *can introduce themselves* from their cars, in the empty car parks(n.)停车场；停车房 of wedding halls.
 
-Cooped up in their homes alone for an extended period, singles are getting lonely—hence the surge in business for match-makers, explains Amano Kanako of NLI Research Institute, a think-tank. With covid-19 dominating the news, lonely hearts are also increasingly anxious about the future: they want a partner with whom to face the unknown. “Those who vaguely thought about getting married one day are realising that the time is now,” says Kobayashi Jun of Seikei University.
+- rendezvous : /ˈrɑːndɪvuː,ˈrɑːndeɪvuː/ N-COUNT A rendezvous is a meeting, often a secret one, that you have arranged with someone for a particular time and place. (常指秘密的) 会面;会面地点 / V-RECIP If you rendezvous with someone or if the two of you rendezvous, you meet them at a time and place that you have arranged. (与…) 会面 +
+=> 来自中古法语 rendez vous,呈现你自己，表现你自己，来自 rendez,呈现，给予，来自 rendre 的复数祈使格，词源同 render,vous,你，来自 you 的斜格。
+-> The plan was *to rendezvous with him* on Sunday afternoon. 计划是在星期天下午和他会面。
 
-This marks the reversal of a long trend. Marriage has been in decline for decades. More than 1m couples tied the knot each year in the early 1970s, but only 583,000 did last year. This is not just because the proportion of Japanese in their 20s and 30s (the age at which people most commonly wed) has fallen sharply. In 1970 only 2% of men and 3% of women had never married by 50. By 2015 those shares had climbed to 23% and 14%, respectively.
+- drive-through : ( ˈdrive-thru ) ( NAmE ) a restaurant, bank, etc. where you can be served without having to get out of your car 不必下车即可得到服务的餐馆（或银行等） +
+image:../../+ img_单词图片/d/drive-through.jpg[100,100]
 
-Interest in matrimony also surged after a terrible earthquake, tsunami and nuclear disaster in 2011. Memberships at match-making agencies soared. The steady decline in weddings was interrupted in 2012, when there were 7,000 more than the year before. The nature and scale of the earthquake and pandemic may differ, but their effect on the unmarried has been comparable, says Nagaoka Masamitsu of O-net. “People are stuck at home and have a lot of time to think about their future.”
+- singleton : n. a single item of the kind that you are talking about （所提及的）单项物，单个的人 / a person who is not married or in a romantic relationship 单身男子（或女子）+
+=> single,单个的，单身的，-ton,人，衍生自 simpleton.
+
+
+*Cooped up* 把…关（或禁锢）起来；拘禁 in their homes *alone* for an extended period, singles *are getting lonely* -- hence the surge in business for match-makers, *explains* Amano Kanako of NLI Research Institute, a think-tank. With covid-19 *dominating* the news, lonely hearts *are also increasingly anxious about* the future: they *want* a partner with whom *to face the unknown*. “`主` Those who *vaguely 含糊地；暧昧地；茫然地 thought about* getting married one day `谓` *are realising that* the time is now,” says Kobayashi Jun of Seikei University.
+
+-  coop : a cage for chickens, etc. （关鸡等的）笼子 / v. *coop sb/sth up* : [ usually passive ] to keep a person or an animal inside a building or in a small space 把…关（或禁锢）起来；拘禁 +
+=> 来自拉丁词cupa, 小桶，酒桶，词源同cup. 因形似小桶而引申此词义。
+
+
+This *marks* the reversal 逆转;颠倒；彻底转变；反转；倒置 of a long trend. Marriage *has been in decline* for decades. More than 1m couples *tied the knot* 结婚；结成夫妻 each year in the early 1970s, but only 583,000 *did* last year. *This is not just because* the proportion of Japanese in their 20s and 30s (the age *at which* people *most commonly wed* 人们最常结婚的年龄) *has fallen sharply*. In 1970 only 2% of men and 3% of women *had never married* by 50. By 2015 those shares *had climbed to* 23% and 14%, respectively 各自地; 分别地.
+
+Interest in matrimony 婚配 *also surged* after a terrible earthquake, tsunami 海啸 and nuclear disaster in 2011. Memberships at match-making agencies *soared*. The steady decline in weddings *was interrupted* 使暂停；使中断 in 2012, when there *were* 7,000 more than the year before. The nature and scale of the earthquake and pandemic *may differ*(v.)相异；有区别；不同于, but their effect on the unmarried *has been* comparable 类似的；可比较的, says Nagaoka Masamitsu of O-net. “People *are stuck* at home and *have a lot of time to think about* their future.”
+
+- matrimony : /ˈmætrɪmoʊni/ n. ( formal ) ( technical 术语 ) marriage; the state of being married 婚配 +
+=> matri-,母亲，-mony,名词后缀，词源同alimony.比喻用法。
+
 
 Yuto from Kumamoto is already thinking about settling down with a 43-year-old Tokyoite he met online two months ago. Yet the rush to the altar (or shrine) may be short-lived. After the spike of 2012, there were 8,200 fewer weddings in 2013.
 
@@ -192,14 +211,4 @@ Interest in matrimony also surged after a terrible earthquake, tsunami and nucle
 Yuto from Kumamoto is already thinking about settling down with a 43-year-old Tokyoite he met online two months ago. Yet the rush to the altar (or shrine) may be short-lived. After the spike of 2012, there were 8,200 fewer weddings in 2013.
 
 
-节快乐
-Covid-19促使日本单身人士寻找真爱
-婚介机构收到了大量的咨询
-2020年6月4日，三重县铃鹿|
-他一直幻想着有一天他会结婚。然后covid-19打击。31岁的Yuto(化名)是一名来自日本南部城市熊本的酒店员工，他发现自己被困在家中。他决定加快他的婚礼计划，并注册了一个在线相亲服务，以快速找到他生活中的真爱。
-Yuto并不孤单。自大流行爆发以来，越来越多的日本单身人士开始寻找配偶。一家婚介机构Sunmarie报告说，4月份的问询比去年同期增长了30%。Sunmarie和它的竞争对手O-net都在努力适应这个时代，从4月初政府开始在美国大部分地区限制聚会开始，他们就开始提供在线相亲服务。另一家公司LMO提供免下车会议，单身人士可以在他们的车里，在婚礼大厅空无一人的停车场介绍自己。
-智囊团NLI研究所的天野加奈子解释说，单身人士长期独自呆在家里，变得越来越孤独——因此媒人生意兴隆。随着新冠肺炎成为新闻头条，孤独的心也越来越担心未来:他们希望有一个伴侣来面对未知。Seikei大学的Kobayashi Jun说:“那些模糊地想过有一天结婚的人意识到现在是时候结婚了。”
-这标志着长期趋势的逆转。几十年来，美国的结婚率一直在下降。上世纪70年代初，每年有100多万对新人结婚，而去年只有58.3万对。这不仅仅是因为20多岁和30多岁(人们最常结婚的年龄)的日本人比例急剧下降。1970年，50岁之前，只有2%的男性和3%的女性从未结婚。到2015年，这两家公司的股价分别攀升至23%和14%。
-2011年的可怕地震、海啸和核灾难之后，结婚的兴趣也大增。婚介机构的会员人数激增。婚礼数量的持续下降在2012年中断了，当时的婚礼数量比前一年多了7000场。O-net的Nagaoka Masamitsu说，地震和大流行的性质和规模可能不同，但它们对未婚人群的影响是相似的。“人们被困在家里，有很多时间思考自己的未来。”
-熊本市的Yuto已经在考虑和他两个月前在网上认识的一个43岁的东京人安定下来。然而，这股涌向祭坛(或神龛)的热潮可能是短暂的。在2012年的高峰之后，2013年的婚礼减少了8200场。
 
