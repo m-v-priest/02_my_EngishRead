@@ -165,21 +165,123 @@ Congress 国会，议会, cities and states *have all suggested changes* since G
 Jun 11th 2020 | WASHINGTON, DC
 
 
-FOR YEARS, reformers 改革者；改良者；改造者 *have advocated* 拥护；支持；提倡 a host of policies to make police more accountable to the people they serve, to little avail. But over the past two weeks, police have made better cases for reform than advocates ever could by brutalising journalists and peaceful protesters in broad daylight. Across America the political ground has shifted, as legislators long reluctant to take on the police have started to act.
+FOR YEARS, reformers 改革者；改良者；改造者 *have advocated* 拥护；支持；提倡 a host 许多；大量 of policies *to make* police *more accountable to* the people they serve, *to little avail*  没有什么效果；不成功. But over the past two weeks, police have made better cases for reform *than* advocates 拥护者；支持者；提倡者 ever could [by *brutalising* 使丧失人类情感；使变残忍 journalists and peaceful protesters in broad daylight 大白天, 光天化日之下, 公开地]. Across America the political ground *has shifted*, as legislators (long reluctant *to take on* （运动或比赛）同某人较量；反抗；与某人战斗 the police) *have started to act*.
 
-On June 8th House Democrats unveiled a sweeping reform bill, which would, among other things, make prosecuting and suing police easier, create a national registry of police-misconduct complaints, mandate more extensive data collection, ban chokeholds for federal officers and no-knock warrants in federal drug cases (and require state and local agencies which want federal grant money to do the same) and limit the transfer of military equipment to police. Democrats plan to bring the bill up for a vote by the end of June.
 
-Congressional Republicans, meanwhile, say they are working on their own reform proposal. Tim Scott, the Senate’s lone black Republican and a longtime advocate for police reform, proposed requiring states to report data on no-knock warrants and deadly use of force and increasing funding for body cameras and for hiring “officer candidates who have racial and ethnic characteristics similar to their community”.
+- avail : /əˈveɪl/ v.  [ VN ] ( formal ) ( old-fashioned ) to be helpful or useful to sb 有帮助；有益；有用 / *avail yourself of sth* : ( formal ) to make use of sth, especially an opportunity or offer 利用（尤指机会、提议等） +
+=> 前缀a-同ad-, 去，往. 词根val, 力量，词源同value, valiant. 指有益的，有力量的。 +
+-> Guests are encouraged *to avail themselves of* the full range of hotel facilities. 旅馆鼓励旅客充分利用各种设施。
 
-While legislators in Washington talk, some in cities and states have acted (as they should: most of America’s 18,000 law-enforcement agencies are locally governed). Many police departments have banned or restricted chokeholds and “carotid restraints”—the neck-compression technique that killed George Floyd—though without clear consequences the bans risk being hortatory and ultimately ignored.
+- *to little/no avail* : ( formal ) with little or no success 没有什么效果；不成功 +
+-> The doctors tried everything to keep him alive *but to no avail*. 医生千方百计想使他活下来，但无济于事。 +
 
-The New York Police Department has banned chokeholds since 1993, and that did not stop officer Daniel Pantaleo from choking Eric Garner to death in 2014. So on June 8th New York’s legislature created the crime of “aggravated strangulation”, punishable by up to 15 years in prison, for officers whose chokehold “or similar restraint” kills or seriously injures someone.
+- *of little/no avail*
+( formal ) of little or no use 没有什么用处；没有用 +
+-> Your ability to argue is *of little avail* if the facts are wrong. 如果论据是错的，你的辩才也就没有什么用了。
 
-New York is also poised to pass bills creating an investigative office to look into deaths caused by police officers, requiring courts to publish racial and demographic data on low-level offenders, requiring state-police to wear cameras and repealing a statute that shielded officers’ disciplinary records from the public. Washington, DC’s city council has passed measures that forbid the police department from hiring officers with a history of misconduct and require it to disclose the names of any officers who use force.
+-  *In broad daylight* 在光天化日之下
 
-More radical measures, such as defunding—which in practice can mean something less alarming, like rethinking how police departments function and redirecting some of their budgets—are also getting a hearing. Minneapolis’s city council vowed to disband the city’s police department, though how, when and what might replace it remain unclear. And the mayors of Los Angeles and New York said they would take money from police budgets for social-service programmes.
+- *take sb on* :[无被动态] to play against sb in a game or contest; to fight against sb （运动或比赛）同某人较量；反抗；与某人战斗 / to employ sb 聘用；雇用 +
+-> The rebels *took on* the entire Roman army. 反叛者与整个罗马军队战斗。 +
+-> She *was taken on as* a trainee. 她受聘当实习生。
 
-Along with this flurry of activity have come two important cultural shifts. First, the shares of Americans who support Black Lives Matter and believe that police treat whites better than African-Americans have soared. Second, prosecutors have shed some of their traditional reluctance to go after the police, and have charged officers in several cities who were caught on camera assaulting unarmed people. Perhaps this shift is temporary. Or perhaps a lot of Americans have seen officers act as if they are above the law, and they do not like it.
+- 但在过去的两周里，警察在光天化日之下残暴地对待记者和和平抗议者，这比倡导改革的人更有说服力。随着长期不愿与警方对着干的立法者开始行动，整个美国的政治基础已经发生了变化。
+
+
+On June 8th House Democrats *unveiled* a sweeping 影响广泛的；大范围的；根本性的 reform bill, which *would*, among other things, ① *make* prosecuting 对…提起公诉; 提起公诉 and suing 控告；提起诉讼 police *easier*, ② *create* a national registry 登记处；注册处 of police-misconduct 失职；处理不当；行为不端 complaints, ③ *mandate* 强制执行；委托办理;授权 more extensive  广阔的；广大的；大量的;广泛的；广博的 data collection, ④ *ban* chokeholds (从后用一只手臂)勒住脖子 for federal officers and  ⑤ no-knock 强行搜查的, 突然袭击的 warrants(n.)执行令；授权令 in federal drug cases (and *require* `主` state and local agencies (which *want* federal *grant money*) *to do the same*) and ⑥ *limit* the transfer  搬迁；转移；调动；变换 of military equipment to police. Democrats *plan* *to bring the bill up* 提出（讨论等） for a vote 投票；选举；表决 by the end of June.
+
+- prosecute :  /ˈprɑːsɪkjuːt/  V-T/V-I If the authorities prosecute someone, they charge them with a crime and put them on trial. 对…提起公诉; 提起公诉
+- sue :  /suː/  V-T/V-I If you sue someone, you start a legal case against them, usually in order to claim money from them because they have harmed you in some way. 诉讼
+
+- registry : a place where registers are kept /  A registry is a collection of all the official records relating to something, or the place where they are kept. 记录收藏; 记录保管处  登记处；注册处
+
+- mandate : v.  ( especially NAmE ) to order sb to behave, do sth or vote in a particular way 强制执行；委托办理 / [ VN to inf ] to give sb, especially a government or a committee, the authority to do sth 授权 +
+=> 来自拉丁语mandatum,命令，委托，交付，来自manus,手，词源同manual, -dat,给予，词源同data,date.即交付给某人，引申词义授权，命令等。 +
+-> *The law mandates that* imported goods be identified as such. 法律规定进口货物必须如实标明。 +
+-> The assembly *was mandated* to draft a constitution. 大会被授权起草一份章程。 +
+image:../../+ img_单词图片/m/mandate.jpg[100,100]
+
+- chokehold : /ˈtʃəʊkˌhəʊld/ N the act of holding a person's neck across the windpipe, esp from behind using one arm (从后用一只手臂)勒住脖子 +
+image:../../+ img_单词图片/c/chokehold.jpg[100,100]
+
+- no-knock 强行搜查的, 突然袭击的 +
+image:../../+ img_单词图片/n/no-knock.jpg[100,100]
+
+
+- warrant : n. [ C ] ~ (for sth)~ (to do sth) a legal document that is signed by a judge and gives the police authority to do sth 执行令；授权令 / [ C ] ~ (for sth) a document that gives you the right to receive money, services, etc. （接受款项、服务等的）凭单，许可证 +
+image:../../+ img_单词图片/w/warrant.jpg[100,100]
+
+- *bring sth up* : to mention a subject or start to talk about it 提出（讨论等） +
+同义词 raise +
+-> *Bring it up* at the meeting. 请将此事在会议上提出。
+
+- 6月8日，众议院民主党人公布了一项全面的改革法案，除其他事项外，该法案将使"起诉和控告警察"变得更容易，创建"对警察不当行为投诉"的全国登记，强制进行更广泛的数据收集，禁止联邦官员从后勒脖子，禁止在联邦毒品案件中,发出"允许强行闯入大门的授权令"(并要求希望联邦拨款的州和地方机构也这样做)，并限制向警方转移军事装备。民主党人计划在6月底之前, 将该法案提交投票表决。
+
+
+Congressional Republicans 共和党党员, meanwhile, *say* they *are working on* 努力改善（或完成） their own reform proposal. Tim Scott, the Senate’s lone 单独的；独自的；孤零零的 black Republican and a longtime advocate 拥护者；支持者；提倡者 for police reform, *proposed* 提议；建议 requiring(v.) states *to report* data on no-knock warrants and deadly use of force and *increasing funding for* body cameras 警用随身摄像机 and *for* hiring(v.) “officer candidates who *have* racial and ethnic characteristics similar to their community”.
+
+- body cameras +
+image:../../+ img_单词图片/b/body cameras.jpg[100,100]
+
+- ethnic 通常表示民族，例如我国的少数民族，通常用ethnic groups表示。 +
+racial 表示种族，即不同肤色的人种，通常表示为different racial groups.
+
+- 与此同时，国会共和党人表示，他们正在制定自己的改革提案。参议院唯一的黑人共和党人蒂姆·斯科特(Tim Scott), 是警察改革的长期倡导者，他提议, 要求各州报告"不敲门直接闯入的搜查令"和"致命地使用武力"的数据，增加警用随身相机的资金，并聘请“具有与所在社区相似的民族和种族特征的警官候选人”。
+
+
+While legislators in Washington *talk*, some in cities and states *have acted* (as they should: most of America’s 18,000 law-enforcement agencies *are locally governed*). Many police departments *have banned or restricted* chokeholds and “carotid restraints” -- the neck-compression 压榨，压迫 technique that *killed* George Floyd -- though [without clear consequences] the bans *risk* being hortatory and ultimately 最终；最后；终归;最基本地；根本上 ignored.
+
+- carotid : /kə'rɑtɪd/ adj. （与）颈动脉（有关）的 +
+image:../../+ img_单词图片/c/carotid.jpg[100,100]]
+
+- carotid restraints +
+image:../../+ img_单词图片/c/carotid restraints.jpg[100,100]
+
+- hortatory : /'hɔrtə,tori/ ADJ tending to exhort; encouraging 劝告的; 勉励性的 +
+=> 来自拉丁语hortari,激励，鼓励，刺激，来自PIE*gher,喜欢，渴求，想要，词源同exhort,charisma.
+
+- 当华盛顿的立法者们还在谈论的时候，一些城市和州已经采取了行动(正如他们应该做的那样: 在美国18000个执法机构中的大部分, 是由地方管理的)。许多警察部门已经禁止或限制了扼颈和“颈动脉限制”(杀死乔治·弗洛伊德的颈动脉限制技术). 尽管这些禁令没有明确指出, 违反的话会有怎样的惩罚措施，所以这些禁令可能会只被当作是一种劝告，最终会被忽视掉。
+
+The New York Police Department *has banned* chokeholds since 1993, and that *did not stop* officer Daniel Pantaleo *from choking* Eric Garner *to death* in 2014. So [on June 8th] New York’s legislature *created* the crime 罪；罪行 of “aggravated (罪行)严重的，加重的 strangulation 扼死；勒死；掐死”, *punishable* by up to 15 years in prison, for officers whose *chokehold* “or similar restraint” *kills* or *seriously injures* someone.
+
+- strangulation : /ˌstræŋɡjuˈleɪʃn/  n. the act of killing sb by squeezing their throat tightly; the state of being killed in this way 扼死；勒死；掐死 / ( disapproving ) the act of preventing sth from growing or developing 抑制；压制；扼杀 +
+=> 来自 PIE*strenk,紧的，窄的，拉紧，扭曲， 词源同 strain,stress,strict.引申词义扼死，勒死等。 +
+-> to die of slow strangulation 被缓慢勒死 +
+-> the strangulation of the human spirit 对人的精神压制 +
+image:../../+ img_单词图片/s/strangulation.jpg[100,100]
+
+
+
+New York *is also poised(a.)处于准备状态；蓄势待发 to pass bills* creating an investigative(a.)调查研究的；侦查的 office *to look into deaths*(n.) caused by police officers, *requiring* courts *to publish* racial and demographic(n.)人口统计数据 data on low-level 低级别的；初级的 offenders 罪犯, *requiring* state-police *to wear cameras* and *repealing* 撤销; 废止 (法令) a statute 成文法；法令；法规 that *shielded* 保护某人或某物（免遭危险、伤害或不快） officers’ disciplinary(a.)有关纪律的；执行纪律的；惩戒性的 records *from the public*. Washington, DC’s city council （市、郡等的）政务委员会，地方议会 *has passed measures* that *forbid* the police department *from hiring(v.) officers* with a history of misconduct and *require it* to disclose(v.) the names of any officers who use force.
+
+- poised : a. *~ (on, above, over, etc. sth) | ~ (to do sth)* in a position that is completely still but is ready to move at any moment 处于准备状态；蓄势待发  +
+/ *~ for sth |~ to do sth* completely ready for sth or to do sth 有充分准备；准备好；蓄势待发 +
+/ *~ (in, on, above, etc. sth)* in a position that is balanced but likely to change in one direction or another （暂时）平衡，稳固 +
+-> The world *stood poised* between peace and war. 世界处于战争与和平之间。
+
+- repeal :v. [ VN ] if a government or other group or person with authority repeals a law, that law is no longer valid 废除，撤销，废止（法规） +
+=> 来自古法语 rapeler,叫回，撤消，来自 re-,向后，往回，apeler,呼叫，词源同 appeal.引申词义 废除，废止。
+
+- 纽约州还准备通过法案，设立一个调查办公室，调查警察造成的死亡，要求法院公布低级别的违法者的种族和人口数据，要求州警察佩戴摄像头，并废除一项保护警察纪律记录不让公众看到的法规。华盛顿特区的市议会已经通过了一些措施，禁止警察局雇佣有不当行为历史的警官，并要求其公开任何使用暴力的警官的姓名。
+
+
+More radical 激进的；极端的;根本的；彻底的；完全的 measures, such as defunding 从…抽回资金 -- which in practice *can mean* something less alarming 使人惊恐的；令人惊慌的；引起恐慌的, like *rethinking* how police departments function and *redirecting* （以新的方式或目的）重新使用;使转向 some of their budgets -- *are also getting a hearing*. Minneapolis’s city council *vowed* 起誓；立誓；发誓 to disband(v.)解散；解体；散伙 the city’s police department, though `主` how, when and what *might replace(v.)代替；取代 it* `系` *remain* unclear. And the mayors of Los Angeles and New York *said* they *would take money from* police budgets *for* social-service programmes.
+
+- redirect :v. to use sth, for example money, in a different way or for a different purpose （以新的方式或目的）重新使用 +
+-> Resources *are being redirected to* this important new project. 为这一重要的新项目重新调配了资源。
+
+- 如重新思考警察部门如何运作, 和重新分配他们的一些预算——也得到了关注。明尼阿波里斯市议会誓言解散该市的警察局，但解散的方式、时间, 和用什么来取代警察局, 仍不清楚。洛杉矶和纽约的市长表示，他们将从警察预算中抽出资金用于社会服务项目。
+
+
+Along with 除…以外（还）；与…同样地 this flurry 一阵忙乱（或激动、兴奋等）;一段短暂的紧张期;(雪等的) 一阵  of activity *have come* two important cultural shifts. First, `主` the shares 比例 of Americans who *support* Black Lives *Matter* and *believe that* police *treat* whites *better than* African-Americans `谓` *have soared*. Second, prosecutors *have shed* 去除；摆脱 some of their traditional reluctance *to go after* 追赶某人；跟在某人后面;追求某人；谋求某事（或某物） the police, and *have charged* officers in several cities who *were caught [on camera]* assaulting(v.) unarmed people. Perhaps this shift *is* temporary. Or perhaps a lot of Americans *have seen* officers *act* as if they are above the law, and they do not like it.
+
+- flurry : n. [ usually sing. ] an occasion when there is a lot of activity, interest, excitement, etc. within a short period of time 一阵忙乱（或激动、兴奋等） +
+=> 来自辅音丛fl, 扑腾，拍打，拟声词，词源同flap, flip, flutter. 引申词义忙乱，窸窣的声音，小阵雨，小阵雪等。 +
+-> Her arrival *caused a flurry of excitement* . 她的到来引起了一阵哄动。 +
+image:../../+ img_单词图片/f/flurry.jpg[100,100]
+
+- 伴随这一热潮而来的是两种重要的文化转变。首先，支持黑人生命重要、认为警察对待白人比非洲裔美国人更好的美国人的比例大幅上升。其次，检察官已经摆脱了传统上不愿追究警察的态度，已经对几个城市的警察提出了指控，这些警察被拍摄到袭击手无寸铁的人。也许这种转变是暂时的。或许很多美国人看到警察的行为就好像他们能凌驾于法律之上，而他们不喜欢这样。
+
 
 ---
 
@@ -208,16 +310,4 @@ More radical measures, such as defunding—which in practice can mean something 
 
 Along with this flurry of activity have come two important cultural shifts. First, the shares of Americans who support Black Lives Matter and believe that police treat whites better than African-Americans have soared. Second, prosecutors have shed some of their traditional reluctance to go after the police, and have charged officers in several cities who were caught on camera assaulting unarmed people. Perhaps this shift is temporary. Or perhaps a lot of Americans have seen officers act as if they are above the law, and they do not like it.
 
-将地面
-在美国，抗议活动已经带来了政策的改变
-自从乔治·弗洛伊德被杀后，国会、城市和州都建议进行改革
-2020年6月11日|华盛顿特区
-多年来，改革者们一直在倡导一系列政策，让警察对他们所服务的人民更加负责，但收效甚微。但在过去的两周里，警察在光天化日之下残暴地对待记者和和平抗议者，这比倡导改革的人更有说服力。随着长期不愿与警方对着干的立法者开始行动，整个美国的政治基础已经发生了变化。
-6月8日众议院民主党公布了一项全面的改革法案,这将,除此之外,简化起诉,起诉警察,创建一个国家注册警察不当行为的投诉,要求更广泛的数据收集、禁止上打起联邦官员和强行闯入权证在联邦毒品案件,要求州和地方机构希望联邦资金来做同样的事),限制向警方军事设备的转移。民主党人计划在6月底之前对该法案进行投票。
-与此同时，国会共和党人表示，他们正在制定自己的改革方案。蒂姆·斯科特,参议院的孤独的黑人共和党和长期提倡警察改革提议要求状态报告数据不敲门认股权证和致命的使用武力和增加资金的身体相机和招聘“官候选人有种族和民族的特征类似于他们的社区”。
-当华盛顿的立法者们还在谈论的时候，一些城市和州已经采取了行动(正如他们应该做的那样:美国18000个执法机构中的大部分是由地方管理的)。许多警察部门已经禁止或限制了扼颈和“颈动脉限制”(杀死乔治·弗洛伊德的颈动脉限制技术)，尽管这些禁令没有明确的后果，但可能会被当作劝告，最终被忽视。
-纽约警察局自1993年开始禁止扼喉，但这并没有阻止丹尼尔·潘塔莱奥(Daniel Pantaleo)警官在2014年掐死埃里克·加纳(Eric Garner)。因此，6月8日，纽约立法机构设立了“严重勒死”罪，对掐住喉咙或类似的勒死“致人死亡或严重伤害”的警官处以15年监禁。
-纽约州还准备通过法案，设立一个调查办公室，调查警察造成的死亡，要求法院公布低级违法者的种族和人口数据，要求州警察佩戴摄像头，并废除一项保护警察纪律记录不让公众看到的法规。华盛顿特区的市议会已经通过了一些措施，禁止警察局雇佣有不当行为历史的警官，并要求其公开任何使用暴力的警官的姓名。
-更激进的措施，如减少资金——在实践中可能意味着一些不那么令人担忧的事情，如重新思考警察部门如何运作和重新分配他们的一些预算——也得到了关注。明尼阿波里斯市议会誓言解散该市的警察局，但解散的方式、时间和方式仍不清楚。洛杉矶和纽约的市长表示，他们将从警察预算中提取资金用于社会服务项目。
-伴随这一热潮而来的是两种重要的文化转变。首先，支持黑人生命重要、认为警察对待白人比非洲裔美国人更好的美国人的比例大幅上升。其次，检察官已经摆脱了传统上不愿追究警察的态度，已经对几个城市的警察提出了指控，这些警察被拍摄到袭击手无寸铁的人。也许这种转变是暂时的。或许很多美国人看到过警察的行为似乎他们凌驾于法律之上，但他们并不喜欢。
 
