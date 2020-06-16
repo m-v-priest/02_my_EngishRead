@@ -279,43 +279,151 @@ However, `主` statistical models that *used* a historically accurate amount of 
 
 
 
-Like most forecasts, our model, built with the aid of two academics from Columbia, Andrew Gelman and Merlin Heidemanns, applies past patterns of voters’ behaviour to new circumstances. Its stated probability of victory answers the question: “How often have previous candidates in similar positions gone on to win?” If those historical relationships break down, our forecast will misfire. But one of the paradoxes presented by Mr Trump’s unprecedented presidency is that voters have mostly treated him as they would handle any other Republican.
+Like most forecasts, our model, *built* with the aid of two academics from Columbia, Andrew Gelman and Merlin Heidemanns, *applies* past patterns of voters’ behaviour *to* new circumstances. `主` Its stated 陈述；说明；声明 probability of victory `谓` *answers* the question: “How often *have* previous candidates in similar positions *gone on* to win?” If those historical relationships *break down* (机器或车辆)出故障；坏掉;失败, our forecast *will misfire* (计划或笑话)不奏效；不起作用;(发动机)不起动；打不着火;(枪等)不发火；射不出子弹. But one of the paradoxes 矛盾的人（或事物、情况）;似非而是的隽语；悖论；悖论修辞 *presented* by Mr Trump’s unprecedented  前所未有的；空前的；没有先例的 presidency 主席的职位（或任期等）；总统的职位（或任期等） *is that* voters *have mostly treated* him *as* they *would handle* any other Republican.
+
+- *go on* : if a situation goes on , it continues without changing （情况、形势）继续下去，持续 /  (usually be going on) to happen 发生 +
+-> This *cannot be allowed to go on*. 决不允许这种情况继续下去。 +
+-> *What's going on here*?  这儿出了什么事？
+
+- *go on to do sth* : to do sth after completing sth else （完成某事后）接着做另一事 +
+-> The book *goes on to describe* his experiences in the army. 本书继而描述了他在部队的经历。
+
+- 与大多数预测一样，我们的模型是在两位来自哥伦比亚大学的学者安德鲁•格尔曼(Andrew Gelman)和梅林•海德曼斯(Merlin Heidemanns)的帮助下建立的，它将选民过去的行为模式应用于新的情况。它所陈述的获胜概率, 回答了这样一个问题: “先前处于类似地位的候选人, 获胜的几率有多大?” “如果这些历史关系失效，我们的预测就会失败。但特朗普史无前例的总统任期所带来的矛盾状况之一是，选民对待他的方式，基本上与对待其他任何共和党人一样。
+
+
+Our analysis *begins with* “fundamentals”, or structural factors that *shape* the public’s choices. Predictably 可预言地, when presidents *have* high approval ratings 支持率, their parties’ candidates *tend to get* more votes (see chart 1). Incumbents 在职者；现任者 seeking re-election *also fare better* if the economy *does well*, though growing partisan （对某个人、团体或思想）过分支持的，偏护的，盲目拥护的 polarisation 极化,两极分化 *has shrunk* （使）缩水，收缩，缩小，皱缩 this effect. And voters *seem* to have an “eight-year itch 痒”: only once [since term limits *were enacted* in 1951] *has* the same party *won* three times in a row.
+
+- 我们的分析从“基本面”开始，也就是影响公众选择的结构性因素。可以预见的是，当总统拥有较高的支持率时，其政党的候选人往往会获得更多的选票(见表1)。如果经济状况良好，寻求连任的现任者也会表现得更好，尽管日益增长的党派分化缩小了这种影响。选民们似乎有一种“八年之痒”:自1951年实行任期限制以来，同一政党只有一次连续三次获胜。
+
+image:../../+ img_单词图片/other/other_001.jpg[]
+
+
+Because of the two-term penalty 害处；不利;惩罚；处罚；刑罚, these factors *correctly 正确地；得体地 predicted* Mr Trump’s victory in 2016. Until recently, they *were poised*(a.)处于准备状态；蓄势待发 to favour him again: a typical modern incumbent(n.) with a good-not-great economy and bad-not-terrible approval ratings *should win* around 51% of the vote. However, `主` the recession *set off* 引发；激起;使（炸弹等）爆炸 by covid-19 `谓` *has turned* the fundamentals *against him*.
+
+- *set off* :  to start a process or series of events 引发；激起 +
+-> Panic on the stock market *set off* a wave of selling. 股市恐慌引发了一轮抛售潮。
+
+- 由于两届任期之害，这些因素正确地预测了特朗普在2016年的胜利。直到最近，他们还准备再次支持他:一个典型的现代在任者，在经济增长尚可而不优秀，支持率低而不糟糕的情况下，应该能赢得51%左右的选票。然而，covid-19引发的经济衰退使基本面对他不利。
+
+`主` Just how much this *hurts* Mr Trump `系` *is hard to estimate*. First, no post-war president *has been saddled 给（马）备鞍 with* 使某人（或自己）肩负重担 an economic crash this deep. *Does* moving from 10% unemployment to 15% *hurt* an incumbent *as much as* moving from 5% to 10%? Second, whereas  （用以比较或对比两个事实）然而，但是，尽管 recovery from previous economic calamities(n.)灾难；灾祸 *has been* slow and grinding(a.)没完没了的；无休止的；无改进的, the easing of lockdowns *is likely to put* millions of Americans *back to work* before the election. *Come* November, *will* voters *punish* Mr Trump *for* the big decline since February, or *reward* him *for* a smaller gain since April? Finally, voters *may not treat* a recession caused by a pandemic *the same as* one with economic roots 根源；起因. Despite mass unemployment, Mr Trump’s approval rating *remains* above its lows of 2017.
+
+- calamity : /kəˈlæməti/ n. an event that causes great damage to people's lives, property, etc. 灾难；灾祸 +
+=> 来自calamus, 芦苇。指不结实，豆腐渣。助记窍门：calamity→克拉玛依city→1994年新疆克拉玛依市大火灾→灾祸 +
+image:../../+ img_单词图片/c/calamity.jpg[100,100]
+
+- 这对特朗普有多大伤害是难以估计的。首先，战后没有哪位总统遭受过如此严重的经济危机。失业率从10%上升到15%, 和从5%上升到10%, 对在职者的伤害一样大吗? 其次，尽管从以往的经济灾难中复苏, 是缓慢而艰难的，但放松封锁可能会让数百万美国人在大选前重返工作岗位。到了11月，选民是会因为特朗普自2月以来的大幅经济下跌而惩罚他，还是会因为他自4月以来的经济小幅上涨而奖励他? 最后，选民们可能不会把疫情大流行而造成的经济衰退, 与因为经济本身原因而造成的衰退, 相提并论。尽管存在大规模失业，但特朗普的支持率仍高于2017年的低点。
+
+Our model *acknowledges* these unknowns [by ① *increasing* the uncertainty 犹豫；迟疑；无把握;拿不定的事；令人无把握的局面 in its predictions when economic conditions *differ vastly from* their historical norms 常态；正常行为, and ② *dampening* 抑制，控制，减弱（感情、反应等）;弄湿；使潮湿 the impact of unusually large booms and busts(打破；摔碎)繁荣与萧条(see chart 2)]. As a result, it *treats* the current downturn （商业经济的）衰退，下降，衰退期 *as* merely 40% worse than 2009, *rather than* twice as bad. This *is consistent(a.)与…一致的；相符的；符合的；不矛盾的 with* Mr Biden winning 53% of votes (*cast 投票 for* either him or Mr Trump) -- a margin （获胜者在时间或票数上领先的）幅度，差额，差数 halfway(ad.)在…的中间；在中途；到一半 between Mr Obama’s in 2008 and 2012, and one *similar to* his lead in the polls before the Floyd protests *began*.
+
+- bust : v. to break sth 打破；摔碎 +
+=> 是burst（爆炸、爆发）的变体 +
+-> The lights *are busted*. 灯泡被砸碎了。
+
+- halfway : ad. at an equal distance between two points; in the middle of a period of time 在…的中间；在中途；到一半 +
+-> I'm afraid *we're not even halfway there yet*. 恐怕我们连一半的路都还没走完。
+
+- 我们的模型承认这些未知因素，因此在当经济条件与历史常态相差很大时, 我们的模型会增加其预测的不确定性, 并将不寻常的经济繁荣或萧条, 对总统大选预测的影响度, 进行减轻(见表2). 因此, 我们的模型只是认为当前的经济低迷, 只比2009年糟糕40%，而不是两倍糟糕。这与拜登赢得了53%的投给他或特朗普的选票, 是一致的 -- 这一数值差距, 只是2008年和2012年时奥巴马得票率的一半，与弗洛伊德抗议活动开始前, 他在民调中的领先优势相似。
+
+Such fundamentals, however, *are* only a starting-point. Early in a campaign, they *tend to predict* final results *far more reliably than* polls 民意测验；民意调查 do. Eventually, polls *reveal* whether voters *are indeed reacting to* the candidates *as the fundamentals imply* 含有…的意思；暗示；暗指;说明；表明.
+
+- 然而，这些基本面只是一个起点。在竞选初期，它们往往会比民意调查更可靠地预测最终结果。最终，民意调查将揭示选民是否真的像基本面所暗示的那样对候选人做出反应。
+
+Polls *are prone(a.)易于遭受；有做（坏事）的倾向 to* biases 偏见；偏心；偏向, above and beyond their stated margins of error 误差幅度；误差界限. Their results *vary*(v.)（根据情况）变化，变更，改变 *based on* ① whether they are conducted(v.)组织；安排；实施；执行 by phone or online, ② which demographic 人口统计学的 categories （人或事物的）类别，种类 (they *use* to weight 使加权 responses) and ③ how they *seek* to predict *who will turn out to vote*. Their results *can also oscillate* （情感或行为）摇摆，波动，变化 if one side’s partisans 坚定的支持者；铁杆拥护者 *become* unusually eager(a.) or disinclined(a.)不情愿；不乐意；无意于 *to answer* survey questions -- a phenomenon *known as* “partisan non-response bias”.
+
+- oscillate : /ˈɑːsɪleɪt/ v. *~ (between A and B)* ( formal ) to keep changing from one extreme of feeling or behaviour to another, and back again （情感或行为）摇摆，波动，变化  +
+/ ( physics 物 ) to keep moving from one position to another and back again 摆动；振动  +
+/ ( physics 物 ) ( of an electric current, radio waves, etc. 电流、无线电波等 ) to change in strength or direction at regular intervals 波动；振荡 +
+=> 来自拉丁语os,嘴，词源同oral,-cill,小词后缀。原指在葡萄园入口处挂上的酒神Bacchus的面具，相当于庇佑符，以保佑葡萄丰收。因这个小面具常在风中摇摆，最终词义俗化，引申词义波动，使摇摆。 +
+-> Her moods *oscillated between depression and elation*. 她的情绪时而抑郁，时而亢奋。 +
+-> Watch how the needle on the dial *oscillates*. 仔细看仪表盘上的指针如何摆动。 +
+image:../../+ img_单词图片/o/oscillate.jpg[100,100]
+
+- disinclined :  /ˌdɪsɪnˈklaɪnd/ a. *~ (to do sth)* ( formal ) not willing 不情愿；不乐意；无意于 +
+=> in-,进入，使，-cline,倾向，倾斜，词源同acclivity,decline. +
+-> He *was strongly disinclined to believe anything* that she said. 她说什么他都坚决不肯相信。
+
+- Non-response bias *occurs* in statistical surveys if the answers of respondents 回答问题的人；（尤指）调查对象 *differ from* the potential answers of those who did not answer. It *may occur* [due to several factors] [as *outlined* 概述；略述;显示…的轮廓；勾勒…的外形 in Deming (1990)]. +
+*在统计调查中，如果被调查到的人, 做出的回答, 与那些没有被调查到的人会做出的潜在回答, 有不同，那么就会出现"无回答偏差"。* 正如Deming(1990)所描述的那样，它可能是由几个因素引起的.
+
+- 民意调查的结果往往会有偏差，会高于或低于其声称的误差范围。其调查结果会因以下因素而有变化: 1. 调查方式是通过电话询问, 还是在网上进行的. 2. 调查者用何种人口统计分类, 来加权问卷上的回答的. 3. 调查者是如何预测哪些选民最终会去投票, 并去寻找他们来进行问卷调查的. 如果一方党派的支持者, 变得非常急迫, 或不愿意回答问卷问题, 则问卷调查的结果, 也会随之变化不定. 这种现象被称为“党派的无应答偏倚”。
+
+
+Rather than *analysing* polls *individually* 分别地；单独地；各别地, our model *considers* them *collectively* 集体地，共同地. It *assumes that* `主` ① particular survey methods, ② weighting schemes 加权方式, ③ adjustments 调整；调节 for partisan non-response bias and ④ the like influence (reported) `谓` *results* （因…）发生；（随…）产生 [in unknown ways]. *Using* a statistical method *called* Markov Chain Monte Carlo 马尔可夫链蒙特卡尔理论, it then *estimates*  估价；估算 the impact of these factors, *by finding* the values for them (that best *explain* the differences in results(n.) between pollsters 民意调查者; 民意测验机构 (*surveying* （对…）做民意调查，进行民意测验;查看；审视；审察 similar places [at similar times])). Finally, it *blends* 使混合；掺和;（和某物）混合；融合 the resulting polling average *with* a forecast (*based on* fundamentals), *placing greater weight on* polls [as time goes on].
+
+- 我们的模型不是单独来分析民意调查结果，而是将它们进行综合考虑。因为它假设, 1.特定的调查方法、2.加权方式、3.党派无反应偏差, 4.对"党派无应答偏倚"的纠偏调整, 5.及报道出来的类似的影响, 这些因素, 都在以未知的方式对民意调查结果造成影响. 所以我们的模型是综合考量所有这些因素影响的. +
+我们的模型还使用"马尔科夫链蒙特卡洛统计方法", 并找出能最好的解释清楚"为什么在相同时间和相同地点的民意调查人员, 他们去做的问卷调查, 会结果不同"的原因变量值, 通过这些全部的发现, 来估算出上面5点因素的民意调查结果的影响作用. +
+最后，它将得出的民意调查平均值, 与基于基本面的预测, 相结合，并随着时间的推移，会对民意调查给予更大的重视。
+
+
+With the election (five months away), the model now *relies mostly on* fundamentals. These are sufficiently grim(a.)令人不快的；令人沮丧的;严肃的；坚定的；阴冷的 for Mr Trump that it *gives* him just a 5% chance of *getting* more votes(n.)选票；票 *than* Mr Biden does. However, his overall 全面的；综合的；总体的 odds of victory *are* about four times *higher than* that, *thanks to* a healthy chance that he *once again wins* the electoral college  总统选举团（在美国由各州选民投票推选组成，集中在一起选举总统和副总统） while *losing* the popular vote 普选；直接投票.
+
+- 距离大选还有五个月，我们的模型现在主要依赖于基本面因素。这些对特朗普来说已经够严峻的了，他只有5%的机会比拜登获得更多的选票。然而，他获胜的总几率大约是这个数字的四倍，这是因为他很可能虽然会失去普选, 但却能再次赢得选举人团的青睐。
 
 
 
-Our analysis begins with “fundamentals”, or structural factors that shape the public’s choices. Predictably, when presidents have high approval ratings, their parties’ candidates tend to get more votes (see chart 1). Incumbents seeking re-election also fare better if the economy does well, though growing partisan polarisation has shrunk this effect. And voters seem to have an “eight-year itch”: only once since term limits were enacted in 1951 has the same party won three times in a row.
+Reports of Mr Trump’s vice-like grip on the battleground states 摇摆州,战场州 *are* a bit premature 草率的；仓促的;未成熟的；过早的；提前的. States’ partisan leans relative to each other *shift frequently*. For example, in 2012 Barack Obama *won* Iowa by six percentage points while *losing* Texas by 16. Four years later, Mrs Clinton *came closer to* 接近 winning(v.) Texas than Iowa. Such volatility 波动性;易变;挥发性 *means* advantages in the electoral college *can be* short-lived 短暂的. *Had* the national popular vote *been tied* （用线、绳等）系，拴，绑，捆，束 every year, the college *would have delivered* the presidency 主席的职位（或任期等）；总统的职位（或任期等） *to* Democrats in four of the five elections from 1996 to 2012 (see chart 3).
 
-Because of the two-term penalty, these factors correctly predicted Mr Trump’s victory in 2016. Until recently, they were poised to favour him again: a typical modern incumbent with a good-not-great economy and bad-not-terrible approval ratings should win around 51% of the vote. However, the recession set off by covid-19 has turned the fundamentals against him.
+- volatile : /ˈvɑːlətl/ a. ( often disapproving ) ( of a person or their moods 人或其情绪 ) changing easily from one mood to another 易变的；无定性的；无常性的 / ( of a situation 情况 ) likely to change suddenly; easily becoming dangerous 可能急剧波动的；不稳定的；易恶化的 +
+=> 来自拉丁语 volare,飞，可能来自 will,意愿，引申词义浮动的，挥发的。 +
+-> *a highly volatile personality* 反复无常的个性 +
+image:../../+ img_单词图片/v/volatile.jpg[100,100]
 
-Just how much this hurts Mr Trump is hard to estimate. First, no post-war president has been saddled with an economic crash this deep. Does moving from 10% unemployment to 15% hurt an incumbent as much as moving from 5% to 10%? Second, whereas recovery from previous economic calamities has been slow and grinding, the easing of lockdowns is likely to put millions of Americans back to work before the election. Come November, will voters punish Mr Trump for the big decline since February, or reward him for a smaller gain since April? Finally, voters may not treat a recession caused by a pandemic the same as one with economic roots. Despite mass unemployment, Mr Trump’s approval rating remains above its lows of 2017.
-
-
-
-Our model acknowledges these unknowns by increasing the uncertainty in its predictions when economic conditions differ vastly from their historical norms, and dampening the impact of unusually large booms and busts (see chart 2). As a result, it treats the current downturn as merely 40% worse than 2009, rather than twice as bad. This is consistent with Mr Biden winning 53% of votes cast for either him or Mr Trump—a margin halfway between Mr Obama’s in 2008 and 2012, and one similar to his lead in the polls before the Floyd protests began.
-
-Such fundamentals, however, are only a starting-point. Early in a campaign, they tend to predict final results far more reliably than polls do. Eventually, polls reveal whether voters are indeed reacting to the candidates as the fundamentals imply.
-
-Polls are prone to biases, above and beyond their stated margins of error. Their results vary based on whether they are conducted by phone or online, which demographic categories they use to weight responses and how they seek to predict who will turn out to vote. Their results can also oscillate if one side’s partisans become unusually eager or disinclined to answer survey questions—a phenomenon known as “partisan non-response bias”.
-
-Rather than analysing polls individually, our model considers them collectively. It assumes that particular survey methods, weighting schemes, adjustments for partisan non-response bias and the like influence reported results in unknown ways. Using a statistical method called Markov Chain Monte Carlo, it then estimates the impact of these factors, by finding the values for them that best explain the differences in results between pollsters surveying similar places at similar times. Finally, it blends the resulting polling average with a forecast based on fundamentals, placing greater weight on polls as time goes on.
-
-With the election five months away, the model now relies mostly on fundamentals. These are sufficiently grim for Mr Trump that it gives him just a 5% chance of getting more votes than Mr Biden does. However, his overall odds of victory are about four times higher than that, thanks to a healthy chance that he once again wins the electoral college while losing the popular vote.
+- 有关特朗普像副总统一样掌控着摇摆州的报道, 有点为时尚早。州之间的党派倾向经常发生变化。例如，2012年，巴拉克•奥巴马(Barack Obama)以6个百分点的优势赢得了爱荷华州，却以16个百分点的劣势输掉了德克萨斯州。四年后，希拉里赢得德克萨斯州的几率, 比赢得爱荷华州的几率更小。这种不确定性意味着选举人团的优势可能是短暂的。如果每年的全国普选票数都是相同的，那么从1996年到2012年的5次选举中，选举人团就会有4次将总统职位交给了民主党人(见图3)。
 
 
+There *is* no guarantee 保证；担保 that the electoral college *will continue to favour* Mr Trump. Mr Biden *has fared well* in polls  民意测验；民意调查 of Arizona, whose Republican lean *has shrunk* since 2016. The state *could provide* him *with* another path to victory [if he *cannot wrest 攫取，抢夺（权力） back* Wisconsin 威斯康星州] -- or, *along with* 连同…一起 Florida, a sunbelt 阳光地带（美国南部和西南部地区，全年大部分时间气候温暖） alternative to the entire rustbelt 铁锈地带（指从前工业繁盛,今已衰落的发达国家一些地区）（尤指美国北部衰败或萧条的工业区）.
 
-Reports of Mr Trump’s vice-like grip on the battleground states are a bit premature. States’ partisan leans relative to each other shift frequently. For example, in 2012 Barack Obama won Iowa by six percentage points while losing Texas by 16. Four years later, Mrs Clinton came closer to winning Texas than Iowa. Such volatility means advantages in the electoral college can be short-lived. Had the national popular vote been tied every year, the college would have delivered the presidency to Democrats in four of the five elections from 1996 to 2012 (see chart 3).
+- rustbelt : 铁锈地带. 最初指的是美国东北部-五大湖附近，传统工业衰退的地区，现可泛指工业衰退的地区。 +
+美国东北部-五大湖附近因为水运便利、矿产丰富，因此成为了重工业中心。然而自从美国步入第三产业为主导的经济体系之后，这些地区的重工业纷纷衰败。很多工厂被废弃，而工厂里的机器渐渐布满了铁锈，因此那里被称为了铁锈地带，简称锈带。 +
+image:../../+ img_单词图片/r/rustbelt.jpg[200,200]
 
-There is no guarantee that the electoral college will continue to favour Mr Trump. Mr Biden has fared well in polls of Arizona, whose Republican lean has shrunk since 2016. The state could provide him with another path to victory if he cannot wrest back Wisconsin—or, along with Florida, a sunbelt alternative to the entire rustbelt.
+- 不能保证选举团会继续支持特朗普。拜登在亚利桑那州的民调中表现良好，该州的共和党优势自2016年以来已经缩小。如果他不能夺回威斯康辛州，亚利桑那州可以为他提供另一条通往胜利的道路。或者还有佛罗里达州也能为他提供胜利, 佛罗里达州可以作为整个“铁锈带”州的另一个选择.
 
-At the same time, there is also no evidence that Mr Trump’s electoral-college advantage has dwindled. In 2016 his vote share (excluding third parties) in Wisconsin, the state that delivered him the election, was 1.4 percentage points higher than his performance overall. Today, our model puts Mr Biden on track to win 53.5% of the nationwide two-party vote, and 52% in Pennsylvania, the most likely decisive state—a nearly identical gap of 1.5 points.
+image:../../+ img_单词图片/e/electoral college.jpg[]
 
-An electoral-college advantage of this size would not save Mr Trump if Mr Biden’s lead remains near its current level. But if Mr Trump were to cut Mr Biden’s edge in half, the current state of the electoral map would make him highly competitive. In such a scenario, Mr Biden would win the popular vote by as much as Mr Obama did in 2012—and be rewarded with a near-tie and possibly a disputed election.
 
-The eerie resemblance between our estimate of Mr Biden’s chances and many calculations of Mrs Clinton’s odds four years ago may give Democrats a sense of déjà vu. Now as then, Mr Trump has a clear path to victory. An accelerating economic recovery, a continuing edge in battleground states, and an ill-timed gaffe, senior moment or scandal from Mr Biden could do the trick. Our model does not account for the impact of covid-19 on voter turnout (or, potentially, on the health of the two geriatric male nominees). As the underdog, Mr Trump should welcome this uncertainty. His chances of re-election are far greater than Mr Biden’s were in late February of winning the Democratic nomination.
+At the same time, *there is also no evidence that* Mr Trump’s electoral-college advantage *has dwindled* （逐渐）减少，变小，缩小. In 2016 his vote share (excluding third parties) in Wisconsin, the state that *delivered* him the election, was 1.4 percentage points *higher than* his performance overall. Today, our model *puts* Mr Biden *on* track *to win* 53.5% of the nationwide two-party vote, and 52% in Pennsylvania, the most likely decisive 决定性的；关键的 state -- a nearly identical 完全同样的；相同的 gap of 1.5 points.
 
-But just as it was wrong to count Mr Trump out four years ago, it is wrong to regard him as invincible now. In 2016 polls favoured Mrs Clinton, whereas fundamentals favoured Mr Trump.
+- dwindle : /ˈdwɪndl/ [ V ] *~ (away) (to sth)* to become gradually less or smaller （逐渐）减少，变小，缩小 +
+=> 词源同dye, 死亡，消逝。-le, 表反复，逐渐。即减少，逐渐消亡。 +
+-> Support for the party *has dwindled away to nothing*. 支持这个党派的人渐渐化为乌有。
 
-This time, history suggests that the electorate will punish an unpopular incumbent saddled with a depressed economy, and voters are currently telling pollsters they plan to do just that. What Mr Biden needs to do is run out the clock.
+- 与此同时，也没有证据表明特朗普的选举人团优势已经减弱。2016年，他在威斯康辛州的得票率(不包括第三党派)比他的整体表现高出1.4个百分点。威斯康辛州是他赢得大选的州。今天，我们的模型显示拜登在全国范围内赢得了53.5%的两党选票，在宾夕法尼亚州赢得了52%的选票，宾夕法尼亚州是最有可能决定胜负的州. 这个差距几乎与特朗普当年在此州高出的那个1.4%相同，如今则是拜登高出1.5个百分点。
+
+An electoral-college advantage of this size *would not save* Mr Trump if Mr Biden’s lead *remains* near its current level. But if Mr Trump *were* to cut Mr Biden’s edge in half, the current state of the electoral map *would make him* highly competitive. In such a scenario 设想；方案；预测, Mr Biden *would win* the popular vote 普选；直接投票 *by* as much as Mr Obama did in 2012 -- and *be rewarded with* a near-tie 平局；得分相同；不分胜负 and possibly a disputed 有争议的 election.
+
+- tie : n.  a situation in a game or competition when two or more players have the same score 平局；得分相同；不分胜负 +
+-> The match *ended in a tie*. 这场比赛以平局结束。
+
+
+`主` The eerie 怪异的；神秘的；恐怖的 resemblance 相似；相像 between our estimate of Mr Biden’s chances and many calculations 计算;估计；预测；推测 of Mrs Clinton’s odds  （事物发生的）可能性，概率，几率，机会 four years ago `谓` *may give* Democrats a sense of déjà vu 似曾经历过的感觉. Now as then 此时此刻正如彼时彼刻, Mr Trump *has a clear path* to victory. `主` An accelerating economic recovery, a continuing edge （微弱的）优势 in battleground states, and an ill-timed 不适时的；不合时宜的 gaffe(n.)失礼；失态；失言, senior moment 老年性痴呆的瞬间；老年人的瞬间记忆丧失 or scandal from Mr Biden `谓` *could do the trick* 奏效；起作用；达到目的. Our model *does not account for* 解释；说明 the impact of covid-19 on voter turnout 投票人数 (or, potentially, on the health of the two geriatric(n.)老年人；老头子；老婆子；老年病人 male nominees). As the underdog  处于劣势的人（或团队、国家等）；弱者；比赛前不被看好者, Mr Trump *should welcome* this uncertainty. His chances of re-election *are* far greater than Mr Biden’s *were* (in late February of *winning* the Democratic nomination).
+
+- eerie : /ˈɪri/ a. strange, mysterious and frightening 怪异的；神秘的；恐怖的 +
+=> 来自古英语earg, 可怕的。 +
+->  an eerie yellow light 神秘兮兮的黄灯 +
+->  I found the silence underwater *really eerie*. 我发觉水下的寂静真令人恐怖。 +
+image:../../+ img_单词图片/e/eerie.jpg[100,100]
+
+- déjà vu : /ˌdeɪʒɑː ˈvu/ n [ U ] ( from French ) the feeling that you have previously experienced sth which is happening to you now 似曾经历过的感觉
+
+- gaffe : /ɡæf/ n. a mistake that a person makes in public or in a social situation, especially sth embarrassing 失礼；失态；失言 +
+=> 原义为钩子，同gaff. 失礼义词源不详，可能是来自拟声词，鸭子叫声，拙劣的说话。 +
+image:../../+ img_单词图片/g/gaffe.jpg[100,100]
+
+- *senior moment*  : n. ( humorous ) an occasion when sb forgets sth, or does not think clearly (thought to be typical of what happens when people get older)  尊长表现（老年人失忆、忘事、糊涂的典型状况）
+
+- *do the trick* : ( informal ) to succeed in solving a problem or achieving a particular result 奏效；起作用；达到目的 +
+-> I don't know what it was *that did the trick*, but I am definitely feeling much better. 我不知道是什么起的作用，但是我确实觉得好多了。
+
+- 我们对拜登获胜几率的估计，与四年前对希拉里获胜几率的许多估算, 惊人地相似，这可能让民主党人有一种似曾相识的感觉。现在和当时一样，特朗普有一条清晰的胜利之路。加速经济复苏，保持住在摇摆州的持续优势，以及拜登不合时宜的失态及丑闻, 都会起到有利于特朗普的作用。我们的模型没有考虑covid-19对选民投票率的影响(或对两名被提名的老年男性的身体健康所存在的潜在影响)。作为处于大选劣势的人，特朗普应该欢迎这种不确定性。他再次当选的几率, 远高于拜登在2月底赢得民主党提名的几率。
+
+
+But just as *it* was wrong *to count Mr Trump out* 不把某人算入；不包括 four years ago, *it* is wrong *to regard him as* invincible 不可战胜的；(信念、态度)不可动摇的，不可改变的 now. [In 2016] polls *favoured* Mrs Clinton, whereas fundamentals *favoured* Mr Trump.
+
+This time, history *suggests that* the electorate （一国或一地区的）全体选民 *will punish* an unpopular incumbent *saddled 使某人（或自己）肩负重担 with* a depressed economy, and voters *are currently telling pollsters* 民意调查人；民意测验机构 they *plan* to do just that. What Mr Biden needs to do *is* run out the clock 拖延时间等待终场;(足,篮球赛中)为保持领先地位而拖时间.
+
+- 这一次，历史表明，选民们将惩罚因经济低迷而不受欢迎的现任总统，而选民们目前告诉民调机构，他们正计划这么做。而拜登需要做的, 是保持住自己的领先, 拖延时间直到大选完成。
+
 
 ---
 
@@ -387,40 +495,6 @@ The eerie resemblance between our estimate of Mr Biden’s chances and many calc
 But just as it was wrong to count Mr Trump out four years ago, it is wrong to regard him as invincible now. In 2016 polls favoured Mrs Clinton, whereas fundamentals favoured Mr Trump.
 
 This time, history suggests that the electorate will punish an unpopular incumbent saddled with a depressed economy, and voters are currently telling pollsters they plan to do just that. What Mr Biden needs to do is run out the clock.
-
-
-
-与大多数预测一样，我们的模型是在两位来自哥伦比亚大学的学者安德鲁•格尔曼(Andrew Gelman)和梅林•海德曼斯(Merlin Heidemanns)的帮助下建立的，它将选民过去的行为模式应用于新的情况。它所陈述的获胜概率回答了这样一个问题:“先前处于类似地位的候选人获胜的几率有多大?”“如果这些历史关系破裂，我们的预测就会失败。但特朗普史无前例的总统任期所带来的矛盾之一是，选民对待他的方式，基本上与对待其他任何共和党人一样。
-我们的分析从“基本面”开始，也就是影响公众选择的结构性因素。可以预见的是，当总统拥有较高的支持率时，其政党的候选人往往会获得更多的选票(见表1)。如果经济状况良好，寻求连任的现任者也会表现得更好，尽管日益增长的党派分化缩小了这种影响。选民们似乎有一种“八年之痒”:自1951年实行任期限制以来，同一政党只有一次连续三次获胜。
-由于特朗普被判两届任期，这些因素正确地预测了特朗普在2016年的胜利。直到最近，他们还准备再次支持他:一个典型的现代在任者，经济好而不坏，支持率不高，应该能赢得51%左右的选票。然而，covid-19引发的经济衰退使基本面对他不利。
-这对特朗普有多大伤害是难以估计的。首先，战后没有哪位总统遭受过如此严重的经济危机。失业率从10%上升到15%和从5%上升到10%对在职者的伤害一样大吗?其次，尽管从以往的经济灾难中复苏是缓慢而艰难的，但放松封锁可能会让数百万美国人在大选前重返工作岗位。到了11月，选民是会因为特朗普自2月以来的大幅下跌而惩罚他，还是会因为他自4月以来的小幅上涨而奖励他?最后，选民们可能不会把大流行造成的衰退与经济根源造成的衰退相提并论。尽管存在大规模失业，但特朗普的支持率仍高于2017年的低点。
-
-我们的模型承认这些未知数通过增加其预测的不确定性,当经济条件大大从历史标准不同,和抑制异常大的繁荣和萧条的影响(见表2)。因此,它将当前的低迷视为仅仅比2009年的40%,而不是坏的两倍。这与拜登赢得53%的选票支持他或特朗普是一致的——这是奥巴马在2008年和2012年的一半优势，与他在弗洛伊德抗议开始之前的民调领先相似。
-然而，这些基础只是一个起点。在竞选初期，他们往往会比民意调查更可靠地预测最终结果。最终，民意调查将揭示选民是否真的像基本面所暗示的那样对候选人做出反应。
-民意调查往往会有偏差，超出其声明的误差范围。他们的结果会因以下因素而有所不同:是通过电话还是网上进行的，他们使用何种人口统计分类来衡量回复的权重，以及他们如何试图预测谁会去投票。如果其中一方的党派变得异常急切或不愿意回答调查问题，他们的结果也会摇摆不定——这种现象被称为“党派不回应偏见”。
-我们的模型不是单独分析民意调查，而是综合考虑。它假设特定的调查方法、加权方案、党派无反应偏差的调整以及类似的影响以未知的方式报告结果。然后使用马尔科夫链蒙特卡洛统计方法，通过找到这些因素的值来估计这些因素的影响，这些值可以最好地解释调查人员在类似时间、类似地点调查结果的差异。最后，它将得出的民意调查平均值与基于基本面的预测相结合，随着时间的推移，对民意调查给予更大的重视。
-距离大选还有五个月，这种模式现在主要依赖于基本面因素。这些对特朗普来说已经够严峻的了，他只有5%的机会比拜登获得更多的选票。然而，他获胜的总几率大约是这个数字的四倍，这是因为他很有可能在失去普选的情况下再次赢得选举团。
-有关特朗普像副总统一样掌控着摇摆州的报道有点为时尚早。州之间的党派倾向经常发生变化。例如，2012年，巴拉克•奥巴马(Barack Obama)以6个百分点的优势赢得了爱荷华州，却以16个百分点的劣势输掉了德克萨斯州。四年后，希拉里赢得德克萨斯州的几率比赢得爱荷华州的几率更小。这种不确定性意味着选举人团的优势可能是短暂的。如果每年的全国普选票数都是相同的，那么从1996年到2012年的5次选举中，该学院就有4次将总统职位交给了民主党人(见图3)。
-不能保证选举团会继续支持特朗普。拜登在亚利桑那州的民调中表现良好，该州的共和党倾向自2016年以来有所减弱。如果他不能夺回威斯康辛州，或者和佛罗里达州一样，成为整个“锈带”的另一个选择，这个州可以为他提供另一条胜利之路。
-与此同时，也没有证据表明特朗普的选举人团优势已经减弱。2016年，他在威斯康辛州的投票份额(不包括第三党派)比他的总体表现高出1.4个百分点。威斯康辛州是他赢得大选的州。今天，我们的模式使拜登先生有望在全国范围内赢得53.5%的两党选票，在最有可能起决定性作用的宾夕法尼亚州赢得52%的选票——相差几乎相同的1.5个百分点。
-如果拜登的领先优势保持在目前的水平附近，这种规模的选举人团优势也救不了特朗普。但如果特朗普将拜登的优势减半，目前的选举形势将使他极具竞争力。在这样的情况下，拜登先生将会和奥巴马先生在2012年一样赢得普选，并且回报是一场势均力敌，甚至可能是一场有争议的选举。
-
-我们对拜登获胜几率的估计，与四年前对希拉里获胜几率的许多估算惊人地相似，这可能让民主党人有一种似曾相识的感觉。现在和当时一样，特朗普有一条清晰的胜利之路。加速的经济复苏，摇摆州的持续优势，以及拜登先生不合时宜的失态，高级职位的出现或者丑闻都可能会起到作用。我们的模型没有考虑covid-19对选民投票率的影响(或对两名被提名的老年男性的健康的潜在影响)。作为弱者，特朗普应该欢迎这种不确定性。他再次当选的几率远高于拜登在2月底赢得民主党提名的几率。
-但是，就像四年前把特朗普排除出去是错误的一样，现在认为他不可战胜也是错误的。2016年的民调支持希拉里，而基本面则支持特朗普。
-这一次，历史表明，选民们将惩罚经济低迷而不受欢迎的现任总统，而选民们目前正告诉民调机构，他们正计划这么做。拜登需要做的是把时间用完。
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
