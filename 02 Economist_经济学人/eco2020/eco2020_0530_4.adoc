@@ -2,38 +2,13 @@
 = eco 2020-05-30
 :toc:
 
----
-
-== Europe’s bail-outs
-
-(eco 2020-05-30 / Leaders / State aid in Europe: A €2trn loophole )
-
-Government handouts threaten Europe’s single market
-
-The dangers of Europe’s bail-outs
-
-May 28th 2020 |
-
-
-A BILLION OR two here, a giant government cheque there: the money doled out by European governments to support businesses is starting to add up. Some €2trn ($2.2trn) or so has been earmarked to keep firms afloat. The early beneficiaries included bakeries, bookshops and the like. Now it is increasingly the turn of corporate titans. This week France announced an €8bn package to support its carmakers, including a large loan to Renault. Lufthansa is negotiating a €9bn bail-out from Germany which may involve the state taking a 20% stake. Now the taps are open, more blue-chip bail-outs are expected.
-
-In normal times such state aid is all but banned by the European Union to ensure a level playing field for firms across the bloc (see article). The idea is to ensure that companies thrive on their merits, not government favours. Restricting state aid frustrates politicians of a dirigiste persuasion -- there are lots -- but is vital to spare taxpayers, consumers and competitors the burden of a rigged market.
-
-The rules have been quietly shelved as Europe grapples with covid-19. Giving governments a temporary reprieve was unavoidable as national exchequers battle to stave off depression. But it also carries long-term dangers. Even before the crisis, France and Germany railed against European rulings that they say prevented the creation of corporate champions able to compete with rivals from China and America. Now they may seize the moment to try to water down competition rules permanently.
-
-
-
-It is not hard to see the harm that free-flowing state money could do. Germany represents a quarter of the bloc’s GDP but nearly half of its state aid, because its buoyant public finances allow it to be generous. Tough luck if you are a company in Spain or Italy where tighter budgets mean smaller handouts. Politicians usually favour certain companies -- famous flag-carriers instead of scrappy low-cost airlines, say. And the bail-outs invariably come with nationalist strings. Renault and other French carmakers are promising to keep production and research in France (see article). Once the state becomes a shareholder or creditor, bosses know their firm’s prospects partly depend on a willingness to please their political masters.
-
-How to ensure that the necessary evil of bail-outs does not cripple the single market? They should be tolerated only when all other options have been exhausted. In America even cruise-liners -- a challenged business model if ever there was one -- have raised bonds and found new shareholders. Europe has shallower capital markets, but plenty of investors with money to spend.
-
-The risks of an uneven playing field will ease if bail-out money is distributed evenly around the EU. On May 27th the European Commission unveiled a €750bn plan to offer grants and loans from mainly rich countries to mainly poor ones. Though there is much haggling left to be done, this proposal heads in the right direction.
-
-Most important, all bail-outs need to be carefully policed. This means ensuring that companies are not using public cash to run large losses or to pay for their expansion plans once the economy opens up. Governments may have to take shares in firms in order to safeguard taxpayers’ financial interests. But there should be rigorous enforcement of rules that encourage firms to repay loans and buy back government stakes quickly by banning them from paying dividends and bonuses. Bail-outs are taking place everywhere. But in Europe they are especially dangerous, because they can undermine economic integration and encourage politicians’ inexhaustible appetite to meddle in industry. Creating a giant, open and competitive market has been one of Europe’s great achievements. In the rush to help business it must not be eroded.
 
 ---
 
 == Europe’s bail-outs 词汇解说
+
+
+(eco 2020-05-30 / Leaders / State aid in Europe: A €2trn loophole )
 
 Government handouts(n.)政府拨款（为促进商业活动）; 捐赠品；救济品 *threaten* Europe’s single market
 
@@ -132,6 +107,35 @@ Most important, all bail-outs *need to be carefully policed*  监督；管制. T
 
 - 最重要的是，所有的纾困都需要谨慎监管。这意味着，一旦经济开放，要确保企业不会利用公共资金, 来进行大规模亏损, 或为其扩张计划买单。为了保护纳税人的经济利益，政府可能不得不持有公司的股份。但是应该严格执行规定，禁止企业支付股息和奖金，以鼓励企业迅速偿还贷款, 和回购政府股份。救市行动到处都在进行。但在欧洲，它们尤其危险，因为它们会破坏经济一体化，鼓励政客们没完没了地干预工业。创造一个巨大的、开放的、竞争的市场是欧洲的伟大成就之一。在匆忙帮助商业发展的过程中，要保证它不能被侵蚀。
 
+
+
+---
+
+== Europe’s bail-outs
+
+
+Government handouts threaten Europe’s single market
+
+The dangers of Europe’s bail-outs
+
+May 28th 2020 |
+
+
+A BILLION OR two here, a giant government cheque there: the money doled out by European governments to support businesses is starting to add up. Some €2trn ($2.2trn) or so has been earmarked to keep firms afloat. The early beneficiaries included bakeries, bookshops and the like. Now it is increasingly the turn of corporate titans. This week France announced an €8bn package to support its carmakers, including a large loan to Renault. Lufthansa is negotiating a €9bn bail-out from Germany which may involve the state taking a 20% stake. Now the taps are open, more blue-chip bail-outs are expected.
+
+In normal times such state aid is all but banned by the European Union to ensure a level playing field for firms across the bloc (see article). The idea is to ensure that companies thrive on their merits, not government favours. Restricting state aid frustrates politicians of a dirigiste persuasion -- there are lots -- but is vital to spare taxpayers, consumers and competitors the burden of a rigged market.
+
+The rules have been quietly shelved as Europe grapples with covid-19. Giving governments a temporary reprieve was unavoidable as national exchequers battle to stave off depression. But it also carries long-term dangers. Even before the crisis, France and Germany railed against European rulings that they say prevented the creation of corporate champions able to compete with rivals from China and America. Now they may seize the moment to try to water down competition rules permanently.
+
+
+
+It is not hard to see the harm that free-flowing state money could do. Germany represents a quarter of the bloc’s GDP but nearly half of its state aid, because its buoyant public finances allow it to be generous. Tough luck if you are a company in Spain or Italy where tighter budgets mean smaller handouts. Politicians usually favour certain companies -- famous flag-carriers instead of scrappy low-cost airlines, say. And the bail-outs invariably come with nationalist strings. Renault and other French carmakers are promising to keep production and research in France (see article). Once the state becomes a shareholder or creditor, bosses know their firm’s prospects partly depend on a willingness to please their political masters.
+
+How to ensure that the necessary evil of bail-outs does not cripple the single market? They should be tolerated only when all other options have been exhausted. In America even cruise-liners -- a challenged business model if ever there was one -- have raised bonds and found new shareholders. Europe has shallower capital markets, but plenty of investors with money to spend.
+
+The risks of an uneven playing field will ease if bail-out money is distributed evenly around the EU. On May 27th the European Commission unveiled a €750bn plan to offer grants and loans from mainly rich countries to mainly poor ones. Though there is much haggling left to be done, this proposal heads in the right direction.
+
+Most important, all bail-outs need to be carefully policed. This means ensuring that companies are not using public cash to run large losses or to pay for their expansion plans once the economy opens up. Governments may have to take shares in firms in order to safeguard taxpayers’ financial interests. But there should be rigorous enforcement of rules that encourage firms to repay loans and buy back government stakes quickly by banning them from paying dividends and bonuses. Bail-outs are taking place everywhere. But in Europe they are especially dangerous, because they can undermine economic integration and encourage politicians’ inexhaustible appetite to meddle in industry. Creating a giant, open and competitive market has been one of Europe’s great achievements. In the rush to help business it must not be eroded.
 
 
 

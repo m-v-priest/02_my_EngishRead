@@ -4,46 +4,17 @@
 
 ---
 
-== To hell with experts
+== To hell with （表示愤怒或厌恶，不再在乎）见鬼去吧，随便 experts  词汇解说
 
 (eco 2020-5-23 / United States / The Centres for Disease Control and Prevention: Handcuffing an institution )
 
-How the world’s premier(a.) public-health agency *was handcuffed*
+How the world’s premier(a.)首要的；最著名的；最成功的；第一的 public-health agency *was handcuffed* 用手铐铐住（某人）；把（某人）铐在（某物、某人）上
 
-The CDC *has been absent with leave* during the spread of covid-19
+The CDC *has been absent 缺席；不参加；不在 with leave* during the spread of covid-19
 
 May 23rd 2020 |
 
 
-
-
-IN 2014 TOM FRIEDEN, the head of the Centres for Disease Control and Prevention (CDC), *appeared almost daily* to brief(v.) the public *about* the Ebola virus, the last pandemic *to hit* the United States before the coronavirus. His agency *formulated policy* for *dealing with* Ebola, and also *embodied* it. The CDC *trained* 6,500 people in America and 25,000 in West Africa *to look after* victims. `主` The vaccine that *finally treated* the disease `谓` *was tested* in a CDC laboratory. The end of the outbreak *confirmed* the agency *as* the world’s leading public-health body.
-
-*Contrast*(v.) that *with* what has happened during the coronavirus outbreak. On May 17th a senior White House official, the director of trade policy, *said* the CDC “*really let* the country *down*”. The administration *gutted* CDC guidelines *telling* restaurants, child-care centres and others *how to reopen*, *reducing* them *from* more than 50 pages *to* six. The CDC *has been muzzled*, says Jeremy Konyndyk of the Centre for Global Development, a think-tank. It *has held* no public briefings since mid-March. Meanwhile, `主` the first testing kits that the World Health Organisation *is distributing* `谓` *came from* Germany.
-
-What *used to be* America’s most prestigious(a.) public-health body *has been relegated to* one voice among many in the clamour of the White House. The result *is* to squander(v.) expertise, *compound* confusion about who, if anyone, *is in charge of* the federal response to the virus and *make* the reopening of the country *riskier* than it need be.
-
-America *is slowly passing* its peak of infection. As it does so, Donald Trump *is signalling that* governors *should take the lead* in reopening states. In public-health terms, however, states *play(v.) only a secondary role*; state and city public-health departments *mostly do* routine things *such as* providing vaccines for children and hygiene certificates(n.) for restaurants. *Combating* an emergency, by *running* laboratories or *conducting* epidemiological research, *is financed* by the federal government; 55% of state and local public-health spending *comes from* federal sources. In public health, therefore, the CDC *is* by far the most important agency and state health departments *depend upon* it. Some *are seeing* sharp falls(n.) *in* the number of people *testing positive* for the virus, including New York and New Jersey. They *may be* in relatively good shape. But in parts of the South and Midwest, the number of new cases or hospitalisations *is rising*. Here, the diminishing of the CDC *may imperil*(v.) recovery.
-
-How was the agency *brought* so low? On February 5th, the CDC *sent to* state laboratories a testing kit for covid-19 that it *had been working on* at headquarters. *Something was wrong with* one of the reagents /and state labs *could not get* the test *to work*. The Food and Drug Administration (FDA), which *regulates* medical devices, including tests, then *dithered* for three weeks before *allowing* private and university laboratories *to work on the problem*, which they *soon fixed*. But when tests *did become* available, the CDC *restricted* them *to* a handful of Americans. By the time the rules *were relaxed*, the CDC *had missed* the vital first stages of the epidemic; community transmission *was* rife(a.).
-
-The agency *was* at fault. But so *were* others: the FDA and the head of the Department of Health and Human Services, who *has* political responsibility. President Trump, who *is taking* hydroxychloroquine, an anti-malarial drug *not approved* against the coronavirus, *hardly needs* an excuse *to ignore* medical science. But whoever *was* at fault, the episode *widened* a gap of distrust between the CDC and the White House.
-
-According to the Washington Post, Deborah Birx, co-ordinator of the White House’s coronavirus task-force, says “There is nothing from the CDC I can trust.” The administration *has set up* a parallel data-gathering operation, *asking* a private company *to provide* statistics on hospital capacity, covid-19 deaths and so on, which the CDC *already has*. Marc Lipsitch of the Harvard Chan School of Public Health *talks of* “the handcuffing of a great institution”.
-
-There is a second explanation for the CDC’s marginalisation: money. Though the agency’s own budget *has been protected*, a wider squeeze on public-health funding *has undermined* its ability *to help* states.
-
-Public health *is* chronically under-funded. In 2018 America *spent* less than $300 per person *on* it, *compared with* over $10,000 on all health care, according to the Trust for America’s Health (TFAH), a not-for-profit group. In the decade to 2017, jobs in public health *fell* by 50,000.
-
-Mr Trump *has proposed* cutting(v.) the CDC’s budget each year by between 10% and 20%, but Congress *has protected* the agency. The CDC’s budget *has been flat* since 2016, and this year emergency-spending bills *will provide* an extra $6bn over the next five years. However, the two main programmes for *helping* state and local health-care systems *prepare for* emergencies, Public Health Emergency Preparedness and the Hospital Preparedness Programme, *have been cut by over 50%* in real terms since 2003. This *has forced* states *to scale back* emergency preparation /and *left* the CDC *bearing* more of that burden.
-
-It *is struggling*. Though the agency *continues to churn out* advice -- its website *has had* 1.2bn clicks since the start of the epidemic -- John Auerbach of TFAH, who *has worked* in state and city health departments for decades, *says* departments *can no longer get the help* they need *from* the CDC. Instead, they *are turning to* less-reliable and often-conflicting advice, *producing* a muddle of different rules.
-
-The combination of financial pressure and White House indifference(n.) *has scuppered* any chance (America had) *to produce* a national strategy for covid-19. In the past the CDC *would have been* central to that effort. Now, it *is competing with* a White House task-force and a group *headed by* the president’s son-in-law *for* Mr Trump’s fitful attention. The institution with the largest concentration of scientific expertise *has been sidelined*(v.), and state health departments *are getting* flawed advice.
-
----
-
-== To hell with experts 词汇解说
 
 1. *TO HELL WITH SB/STH* : ( informal ) used to express anger or dislike and to say that you no longer care about sb/sth and will take no notice of them （表示愤怒或厌恶，不再在乎）见鬼去吧，随便
 - ‘*To hell with him*,’ she thought, ‘I'm leaving.’ “让他见鬼去吧，”她想，“我走了。”
@@ -57,6 +28,10 @@ The combination of financial pressure and White House indifference(n.) *has scup
 1. handcuff : v. [ VN ] [ usually passive ] to put handcuffs on sb or to fasten sb to sth/sb with handcuffs 用手铐铐住（某人）；把（某人）铐在（某物、某人）上
 - How the world’s premier(a.) public-health agency *was handcuffed*.  世界上最重要的公共卫生机构是如何被戴上手铐的
 
+
+IN 2014 TOM FRIEDEN, the head of the Centres for Disease Control and Prevention (CDC), *appeared almost daily* to brief(v.)给（某人）指示；向（某人）介绍情况 the public *about* the Ebola virus, the last pandemic *to hit* the United States before the coronavirus. His agency *formulated 制订；规划；构想；准备 policy* for *dealing with* Ebola, and also *embodied* 具体表现，体现，代表（思想或品质） it. The CDC *trained* 6,500 people in America and 25,000 in West Africa *to look after* victims. `主` The vaccine that *finally treated* the disease `谓` *was tested* in a CDC laboratory. The end of the outbreak *confirmed* the agency *as* the world’s leading public-health body.
+
+
 1. brief :  /briːf/ v. *~ sb (on/about sth)* to give sb information about sth so that they are prepared to deal with it 给（某人）指示；向（某人）介绍情况
 - The officer *briefed her on* what to expect. 长官简要向她说了一下可能遇到的情况。
 - TOM FRIEDEN, the head of the Centres for Disease Control and Prevention (CDC), *appeared almost daily* to brief(v.) the public *about* the Ebola virus, the last pandemic *to hit* the United States before the coronavirus. +
@@ -69,6 +44,10 @@ The combination of financial pressure and White House indifference(n.) *has scup
 
 1. embody : v. to express or represent an idea or a quality 具体表现，体现，代表（思想或品质）
 - a politician *who embodied the hopes of black youth* 代表黑人青年希望的政治家
+
+
+*Contrast*(v.)对比；对照 that *with* what has happened during the coronavirus outbreak. On May 17th a senior White House official, the director of trade policy, *said* the CDC “*really let* the country *down*” 不能帮助，不能支持（某人）；使失望. The administration *gutted* 损毁（建筑物或房屋的）内部;取出…的内脏（以便烹饪） CDC guidelines *telling* restaurants, child-care centres and others *how to reopen*, *reducing* them *from* more than 50 pages *to* six. The CDC *has been muzzled* 压制，钳制（言论）；使缄默;（给狗）戴口套, says Jeremy Konyndyk of the Centre for Global Development, a think-tank. It *has held* no public briefings since mid-March. Meanwhile, `主` the first testing kits that the World Health Organisation *is distributing* `谓` *came from* Germany.
+
 
 1. contrast : v. [ VN ] *~ (A and/with B)* to compare two things in order to show the differences between them 对比；对照 +
 => contra-, 相对，相反。-st, 站，词源同stand. 即相对而站进行比较。
@@ -93,6 +72,10 @@ image:../../+ img_单词图片/m/muzzle.jpg[100,100]
 
 1. It *has held* no public briefings since mid-March. Meanwhile, `主` the first testing kits that the World Health Organisation *is distributing* `谓` *came from* Germany. +
 自3月中旬以来，它(美国疾病控制与预防中心)没有举行公开简报。与此同时，世界卫生组织正在分发的第一批来自德国的检测试剂盒。
+
+
+What *used to be* America’s most prestigious(a.)有威望的；声誉高的 public-health body *has been relegated 使贬职；使降级；降低…的地位 to* one voice among many in the clamour 喧闹声；嘈杂声；吵闹 of the White House. The result *is* to squander(v.)浪费，挥霍（金钱、时间等） expertise 专门知识；专门技能；专长, *compound* 使加重；使恶化 confusion about who, if anyone, *is in charge of* the federal response to the virus and *make* the reopening of the country *riskier* than it need be.
+
 
 1. prestigious :  /preˈstiːdʒəs/  a.[ usually before noun ] respected and admired as very important or of very high quality 有威望的；声誉高的 +
 => 来自法语prestige,欺骗，骗术，幻术，变戏法
@@ -121,6 +104,10 @@ image:../../+ img_单词图片/c/clamour.jpg[100,100]
 => com-, 强调。-pon, 放置，词源同opponent, position. 即放在一起的。
 - *The problems were compounded* by severe food shortages. 严重的食物短缺使问题进一步恶化。
 
+
+America *is slowly passing* its peak of infection. As it does so, Donald Trump *is signalling that* governors *should take the lead* in reopening states. In public-health terms, however, states *play(v.) only a secondary role*; state and city public-health departments *mostly do* routine things *such as* providing vaccines for children and hygiene 卫生 certificates(n.)证明；证明书 for restaurants. *Combating* an emergency 应对紧急情况, by *running* laboratories or *conducting* epidemiological 流行病学的 research, *is financed* by the federal government; 55% of state and local public-health spending *comes from* federal sources. In public health, therefore, the CDC *is* by far the most important agency and state health departments *depend upon* it. Some *are seeing* sharp falls(n.) *in* the number of people *testing positive* for the virus, including New York and New Jersey. They *may be* in relatively good shape 状况；情况. But in parts of the South and Midwest, the number of new cases or hospitalisations 住院治疗 *is rising*. Here, the diminishing 贬低；贬损；轻视;减少；（使）减弱，缩减；降低 of the CDC *may imperil*(v.)使陷于危险；危及 recovery.
+
+
 1. America *is slowly passing* its peak of infection. As it does so, Donald Trump *is signalling that* governors *should take the lead* in reopening states. +
 美国正在慢慢度过感染的高峰期。与此同时，唐纳德·特朗普(Donald Trump)发出信号，要求各州州长在重新开放各州的问题上发挥主导作用。
 
@@ -144,6 +131,10 @@ image:../../+ img_单词图片/c/clamour.jpg[100,100]
 - But in parts of the South and Midwest, the number of new cases or hospitalisations *is rising*. Here, the diminishing of the CDC *may imperil*(v.) recovery. +
 但在南部和中西部部分地区，新病例或住院人数正在上升。在这方面，疾病控制和预防中心的削弱, 可能危及复苏。
 
+
+How was the agency *brought* so low? On February 5th, the CDC *sent to* state laboratories a testing kit for covid-19 that it *had been working on* 努力改善（或完成） at headquarters. *Something was wrong with* one of the reagents 试剂 /and state labs *could not get* the test *to work*. The Food and Drug Administration (FDA), which *regulates* medical devices, including tests, then *dithered* 犹豫不决；踌躇 for three weeks before *allowing* private and university laboratories *to work on the problem*, which they *soon fixed*. But when tests *did become* available, the CDC *restricted* them *to* a handful of Americans. By the time the rules *were relaxed*, the CDC *had missed* the vital first stages of the epidemic; community transmission *was* rife(a.)（坏事）盛行，普遍.
+
+
 1. reagent : /riˈeɪdʒənt/ n. ( chemistry 化 ) a substance used to cause a chemical reaction, especially in order to find out if another substance is present 试剂 ; 常用于测试某一成分是否存在 +
 => re-向后;相反 + -ag-做,行动 + -ent名词词尾
 - How was the agency *brought* so low? On February 5th, the CDC *sent to* state laboratories a testing kit for covid-19 that it *had been working on* at headquarters. *Something was wrong with* one of the reagents /and state labs *could not get* the test *to work*. +
@@ -155,21 +146,27 @@ image:../../+ img_单词图片/c/clamour.jpg[100,100]
 1. dither : /ˈdɪðər/ v.  *~ (over sth)* to hesitate about what to do because you are unable to decide 犹豫不决；踌躇 +
 => 来自古英语didderen变体，踌躇，蹒跚。词源可能同dawdle, diddle, doodle, doddle.
 - *She was dithering over* what to wear. 她拿不定主意穿什么好。
-- The Food and Drug Administration (FDA), which *regulates* medical devices, including tests, then *dithered*(v.) for three weeks before *allowing* private and university laboratories *to work on the problem*, which they *soon fixed*. But when tests *did become* available, the CDC *restricted* them *to* a handful of Americans. By the time the rules *were relaxed*, the CDC *had missed* the vital first stages of the epidemic; community transmission *was* rife(a.). +
-美国食品和药物管理局(FDA), 负责监管医疗设备, 包括检测, 其犹豫了三周，才允许私人和大学实验室, 来解决这个问题，并很快解决了这个问题。但是，当测试确实可用时，疾病控制中心将其限制用在少数美国人身上。当这些规定放松时，疾病控制和预防中心已经错过了疫情最关键的第一阶段; 社区传播已经很普遍。 +
-(疾病预防控制中心最终于2月5日开始向州和地方卫生实验室发送试剂盒。但是在2月12日，它表明由于一种试剂存在问题，几个实验室难以验证测试结果。原则上，全国许多医院和学术实验室都有能力自行进行测试。但是目前，未经FDA批准，他们不允许这样做。)
-
 
 1. rife :  /raɪf/ a. if sth bad or unpleasant is rife in a place, it is very common there （坏事）盛行，普遍 / *~ (with sth)* full of sth bad or unpleasant 充斥，充满（坏事） +
 => 词源同 river,rift.通常用于形容坏事的盛行。
 - It is a country *where corruption is rife*. 这是个腐败成风的国家。
 
+1. 美国食品和药物管理局(FDA), 负责监管医疗设备, 包括检测, 其犹豫了三周，才允许私人和大学实验室, 来解决这个问题，并很快解决了这个问题。但是，当测试确实可用时，疾病控制中心将其限制用在少数美国人身上。当这些规定放松时，疾病控制和预防中心已经错过了疫情最关键的第一阶段; 社区传播已经很普遍。 +
+(疾病预防控制中心最终于2月5日开始向州和地方卫生实验室发送试剂盒。但是在2月12日，它表明由于一种试剂存在问题，几个实验室难以验证测试结果。原则上，全国许多医院和学术实验室都有能力自行进行测试。但是目前，未经FDA批准，他们不允许这样做。)
+
+
+The agency *was* at fault. But so *were* others: the FDA and the head of the Department of Health and Human Services, who *has* political responsibility. `主` President Trump, who *is taking* hydroxychloroquine 羟化氯喹, an anti-malarial 疟疾的 drug *not approved* against the coronavirus, `谓` *hardly needs* an excuse 借口；理由；辩解 *to ignore* medical science. But whoever *was* at fault, the episode *widened* a gap of distrust between the CDC and the White House.
+
 1. hydroxychloroquine : /hai,drɔksi'klɔ:rəkwi:n/ n. [药] 羟化氯喹
 
 1. malarial : /məˈleriəl/ ADJ You can use malarial to refer to things connected with malaria or areas which are affected by malaria. 疟疾的
 
-1. `主` President Trump, who *is taking* hydroxychloroquine, an anti-malarial drug *not approved* against the coronavirus, `谓` *hardly needs* an excuse 借口；理由；辩解 *to ignore* medical science. But whoever *was* at fault, the episode *widened* a gap of distrust between the CDC and the White House. +
-特朗普总统正在服用羟基氯喹(一种未经批准用于治疗冠状病毒的抗疟疾药物)，他对医学的忽视几乎不需要借口。但不管是谁的错，这一事件扩大了CDC和白宫之间的不信任。
+1. 特朗普总统正在服用羟基氯喹(一种未经批准用于治疗冠状病毒的抗疟疾药物)，他对医学的忽视几乎不需要借口。但不管是谁的错，这一事件扩大了CDC和白宫之间的不信任。
+
+
+According to the Washington Post, Deborah Birx, co-ordinator 协调人, 统筹人 of the White House’s coronavirus task-force (执行特定任务的)工作组, says “There is nothing from the CDC I can trust.” The administration *has set up* a parallel 平行的 data-gathering operation, *asking* a private company *to provide* statistics on hospital capacity, covid-19 deaths and so on, which the CDC *already has*. Marc Lipsitch of the Harvard Chan School of Public Health *talks of* “the handcuffing 手铐;用手铐铐住 of a great institution”.
+
+There is a second explanation for the CDC’s marginalisation 边缘化: money. Though the agency’s own budget *has been protected*, a wider squeeze on public-health funding *has undermined*  从根基处破坏；挖…的墙脚;逐渐削弱（信心、权威等）；使逐步减少效力 its ability *to help* states.
 
 1. co-ordinator 协调人, 统筹人
 
@@ -183,13 +180,16 @@ image:../../+ img_单词图片/c/clamour.jpg[100,100]
 1. marginalisation : /,ma:dʒinəlai'zeiʃən/ n. 边缘化
 - There is a second explanation for the CDC’s marginalisation: money. CDC被边缘化的第二个原因是:钱。
 
+
+Public health *is* chronically 长期地；慢性地；习惯性地 under-funded 经费不足的. In 2018 America *spent* less than $300 per person *on* it, *compared with* over $10,000 on all health care, according to the Trust 受托基金机构；受托团体 for America’s Health (TFAH), a not-for-profit group. In the decade to 2017 在截至2017年的10年里, jobs in public health *fell* by 50,000.
+
 1. under-funded :ADJ An organization or institution that is underfunded does not have enough money to spend, and so it cannot function properly. 经费不足的
 - Public health *is* chronically under-funded(a.). 公共卫生长期资金不足。
 
 1. trust : [ C ] ( law 律 ) an organization or a group of people that invests money that is given or lent to it and uses the profits to help a charity 受托基金机构；受托团体
 - the Trust for America’s Health (TFAH), a not-for-profit group. 非营利组织美国健康信托(TFAH)
 
-1. In the decade to 2017 在截至2017年的10年里
+Mr Trump *has proposed* cutting(v.) the CDC’s budget each year by between 10% and 20%, but Congress *has protected* the agency. The CDC’s budget *has been flat* since 2016, and this year emergency-spending bills *will provide* an extra $6bn over the next five years. However, the two main programmes for *helping* state and local health-care systems *prepare for* emergencies, Public Health Emergency Preparedness 准备好的状态；愿意 and the Hospital Preparedness Programme, *have been cut by over 50%* in real terms since 2003. This *has forced* states *to scale back* 按比例缩减，相应缩减 emergency preparation /and *left* the CDC *bearing* more of that burden.
 
 1. The CDC’s budget *has been flat* since 2016 自2016年以来，CDC的预算一直持平
 
@@ -198,17 +198,22 @@ image:../../+ img_单词图片/c/clamour.jpg[100,100]
 - The troops are *in a state of preparedness*. 军队处于备战状态。
 -  Public Health Emergency Preparedness /and the Hospital Preparedness Programme 公共卫生应急准备方案和医院应急方案
 
+It *is struggling*. Though the agency *continues to churn out* （粗制滥造地）大量生产，大量炮制;剧烈搅动；（使）猛烈翻腾 advice -- its website *has had* 1.2bn clicks since the start of the epidemic -- John Auerbach of TFAH, who *has worked* in state and city health departments for decades, *says* departments *can no longer get the help* they need *from* the CDC. Instead, they *are turning to* less-reliable and often-conflicting advice, *producing* a muddle 混乱；乱七八糟;（局面）一团糟，混乱 of different rules.
+
 1. *churn sth out* : ( informal often disapproving ) to produce sth quickly and in large amounts （粗制滥造地）大量生产，大量炮制 / churn : v. ~ (sth) (up) if water, mud, etc. churns , or if sth churns it (up) , it moves or is moved around violently 剧烈搅动；（使）猛烈翻腾
 - the agency *continues to churn out* advice. CDC机构在不断地提供建议.
 
 1. muddle : n.
- a state of confusion in which things are untidy 混乱；乱七八糟 /*~ (about/over sth)* a situation in which there is confusion about arrangements, etc. and things are done wrong （局面）一团糟，混乱
+a state of confusion in which things are untidy 混乱；乱七八糟 /*~ (about/over sth)* a situation in which there is confusion about arrangements, etc. and things are done wrong （局面）一团糟，混乱
 SYN mess +
 => 来自mud,泥浆，-le,表反复。引申词义搅混，使困惑，杂乱。
 - My papers are *all in a muddle* . 我的文件混乱不堪。
 - There followed *a long period of confusion and muddle*. 接下来是很长一段时间的困惑和混乱。
 - departments *can no longer get the help* they need *from* the CDC. Instead, they *are turning to* less-reliable and often-conflicting advice, *producing* a muddle of different rules. +
 各政府部门不再能从疾控中心获得他们需要的帮助。取而代之的是，他们正在转向不太可靠且经常相互冲突的建议，产生了混乱的不同规则。
+
+The combination of financial pressure and White House indifference(n.)漠不关心；冷淡；不感兴趣；无动于衷 *has scuppered* 使泡汤；使成泡影; (船的)排水孔; 排水管 any chance (America had) *to produce* a national strategy for covid-19. In the past the CDC *would have been central* to that effort. Now, it *is competing with* a White House task-force  (执行特定任务的)工作组 and a group *headed by* the president’s son-in-law 女婿 *for* Mr Trump’s fitful 断断续续的；一阵阵的；间歇的 attention. The institution with the largest concentration of scientific expertise *has been sidelined*(v.)把…排除在核心之外；使靠边;使退出比赛，使下场（尤指由于受伤）, and state health departments *are getting* flawed advice.
+
 
 1. indifference : n. *~ (to sb/sth)* a lack of interest, feeling or reaction towards sb/sth 漠不关心；冷淡；不感兴趣；无动于衷
 - Their father *treated them with indifference*. 他们的父亲对他们漠不关心。
@@ -238,50 +243,56 @@ image:../../+ img_单词图片/s/scupper.jpg[100,100]
 
 ---
 
-== Immaculate misconceptions
+
+
+== To hell with experts
+
+(eco 2020-5-23 / United States / The Centres for Disease Control and Prevention: Handcuffing an institution )
+
+How the world’s premier(a.) public-health agency was handcuffed 
+
+The CDC has been absent with leave during the spread of covid-19
+
+May 23rd 2020 |
+
+
+IN 2014 TOM FRIEDEN, the head of the Centres for Disease Control and Prevention (CDC), appeared almost daily to brief(v.) the public about the Ebola virus, the last pandemic to hit the United States before the coronavirus. His agency formulated policy for dealing with Ebola, and also embodied it. The CDC trained 6,500 people in America and 25,000 in West Africa to look after victims. `主` The vaccine that finally treated the disease `谓` was tested in a CDC laboratory. The end of the outbreak confirmed the agency as the world’s leading public-health body.
+
+Contrast(v.) that with what has happened during the coronavirus outbreak. On May 17th a senior White House official, the director of trade policy, said the CDC “really let the country down”. The administration gutted CDC guidelines telling restaurants, child-care centres and others how to reopen, reducing them from more than 50 pages to six. The CDC has been muzzled, says Jeremy Konyndyk of the Centre for Global Development, a think-tank. It has held no public briefings since mid-March. Meanwhile, `主` the first testing kits that the World Health Organisation is distributing `谓` came from Germany.
+
+What used to be America’s most prestigious(a.) public-health body has been relegated to one voice among many in the clamour of the White House. The result is to squander(v.) expertise, compound confusion about who, if anyone, is in charge of the federal response to the virus and make the reopening of the country riskier than it need be.
+
+America is slowly passing its peak of infection. As it does so, Donald Trump is signalling that governors should take the lead in reopening states. In public-health terms, however, states play(v.) only a secondary role; state and city public-health departments mostly do routine things such as providing vaccines for children and hygiene certificates(n.) for restaurants. Combating an emergency, by running laboratories or conducting epidemiological research, is financed by the federal government; 55% of state and local public-health spending comes from federal sources. In public health, therefore, the CDC is by far the most important agency and state health departments depend upon it. Some are seeing sharp falls(n.) in the number of people testing positive for the virus, including New York and New Jersey. They may be in relatively good shape. But in parts of the South and Midwest, the number of new cases or hospitalisations is rising. Here, the diminishing of the CDC may imperil(v.) recovery.
+
+How was the agency brought so low? On February 5th, the CDC sent to state laboratories a testing kit for covid-19 that it had been working on at headquarters. Something was wrong with one of the reagents /and state labs could not get the test to work. The Food and Drug Administration (FDA), which regulates medical devices, including tests, then dithered for three weeks before allowing private and university laboratories to work on the problem, which they soon fixed. But when tests did become available, the CDC restricted them to a handful of Americans. By the time the rules were relaxed, the CDC had missed the vital first stages of the epidemic; community transmission was rife(a.).
+
+The agency was at fault. But so were others: the FDA and the head of the Department of Health and Human Services, who has political responsibility. President Trump, who is taking hydroxychloroquine, an anti-malarial drug not approved against the coronavirus, hardly needs an excuse to ignore medical science. But whoever was at fault, the episode widened a gap of distrust between the CDC and the White House.
+
+According to the Washington Post, Deborah Birx, co-ordinator of the White House’s coronavirus task-force, says “There is nothing from the CDC I can trust.” The administration has set up a parallel data-gathering operation, asking a private company to provide statistics on hospital capacity, covid-19 deaths and so on, which the CDC already has. Marc Lipsitch of the Harvard Chan School of Public Health talks of “the handcuffing of a great institution”.
+
+There is a second explanation for the CDC’s marginalisation: money. Though the agency’s own budget has been protected, a wider squeeze on public-health funding has undermined its ability to help states.
+
+Public health is chronically under-funded. In 2018 America spent less than $300 per person on it, compared with over $10,000 on all health care, according to the Trust for America’s Health (TFAH), a not-for-profit group. In the decade to 2017, jobs in public health fell by 50,000.
+
+Mr Trump has proposed cutting(v.) the CDC’s budget each year by between 10% and 20%, but Congress has protected the agency. The CDC’s budget has been flat since 2016, and this year emergency-spending bills will provide an extra $6bn over the next five years. However, the two main programmes for helping state and local health-care systems prepare for emergencies, Public Health Emergency Preparedness and the Hospital Preparedness Programme, have been cut by over 50% in real terms since 2003. This has forced states to scale back emergency preparation /and left the CDC bearing more of that burden.
+
+It is struggling. Though the agency continues to churn out advice -- its website has had 1.2bn clicks since the start of the epidemic -- John Auerbach of TFAH, who has worked in state and city health departments for decades, says departments can no longer get the help they need from the CDC. Instead, they are turning to less-reliable and often-conflicting advice, producing a muddle of different rules.
+
+The combination of financial pressure and White House indifference(n.) has scuppered any chance (America had) to produce a national strategy for covid-19. In the past the CDC would have been central to that effort. Now, it is competing with a White House task-force and a group headed by the president’s son-in-law for Mr Trump’s fitful attention. The institution with the largest concentration of scientific expertise has been sidelined(v.), and state health departments are getting flawed advice.
+
+
+---
+
+== Immaculate 无误的；无过失的 misconceptions 词汇解说
 
 (eco2020-5-23 /Business /  Chip wars: Immaculate misconceptions)
 
-America’s latest salvo(n.) against Huawei *is aimed at* chipmaking in China
+America’s latest salvo(n.)齐射；齐投；奇袭 against Huawei *is aimed at* chipmaking in China
 
 It may *push* the industry *out of* America, too
 
 May 21st 2020 | HONG KONG
 
-
-AMERICA *HAS it in for* Huawei -- and *not just because* some of its politicians *fear* the Chinese giant’s networking gear *lets* spooks in Beijing *eavesdrop(v.) on* customers’ communications. The firm, a world leader in futuristic(a.) 5G telecoms, *also symbolises*(v.) China’s technological and economic ascent. President Donald Trump *does not like it* [one bit]. William Barr, his attorney-general, *has warned that* America *risks*(v.) “*surrendering* dominance” *to* China if it *cannot “blunt*(v.) Huawei’s drive” to 5G supremacy.
-
-`主` An earlier attempt at blunting, which *made* it illegal *to sell* American-made components *to* Huawei, *including* advanced computer chips *on* which the Chinese firm *relies*, `系` *was not* the knock-out blow the White House hoped it to be. Chipmakers *were able keep shipping* Huawei semiconductors *from* factories outside America. So on May 15th the Trump administration *extended* its restrictions *from* chips *to* the tools *used to make* them -- many of which *come from* America. *So long as* big microprocessor producers, like Taiwan Semiconductor Manufacturing Company (TSMC), *use* American-made equipment, they *will no longer be able to forge* Huawei-designed chips anywhere in the world.
-
-In a press conference on May 18th a reticent(a.) Huawei *said that* the new rule *put* its survival *at risk*. Three days later President Xi Jinping *vowed to invest* $1.4trn by 2025 *to increase* China’s tech independence. Yet *as with* America’s original restrictions, the latest blast in the Sino-American chip war *may not end up* having the intended effect.
-
-*Playing dirty* in the clean room
-
-The new rule *may miss* its target *entirely*. Huawei *pays* contract manufacturers *to assemble* its phones and base stations. `主` The chips that TSMC *makes* for Huawei `谓` *are sent to* those companies, *not to* the Chinese firm, *for* integration. Finished products *are usually sent directly to* Huawei’s customers. Huawei *need not touch* the blacklisted chips [at any point]. This *may get* Huawei *off the hook*. Some lawyers *note that* the new restriction *does not seem to apply to* items *sent to* third parties and *not destined(a.) for* Huawei, even where these *are being supplied* [at Huawei’s direction].
-
-*Even if* the legal experts are wrong, the rule *will be difficult* to enforce: the clean rooms of Asian chip foundries *are hard* to monitor. More important, the $412bn semiconductor industry *is so* globalised *that* even the long arm of American law *will struggle to pin it down*. The likelier upshot of the new export controls *may be* to drive(v.) a portion of America’s chipmaking industry from its shores.
-
-The industry’s geographic scope *was already becoming broader* -- and less American -- over time. One crude yardstick for this *is* to track(v.) where its physical assets *sit*, as *recorded* in the filings of public tech businesses (see chart). The top dozen global semiconductor firms, for example, now *have* only 20% of their plant in America. Asian firms, such as TSMC, SMIC and Samsung, mostly *locate* their factories *at home*. American chipmakers, meanwhile, and many suppliers, *have been diversifying geographically* for years, *says* Dan Hutcheson of VLSI, a consultancy -- partly *in pursuit of* cheap labour, partly *to protect against* natural disasters.
-
-
-
-*Consider* Intel, which *makes* chips of its own design *for* customers (among them Huawei) that *assemble* electronic devices. In 2019 the American giant *had* 宾over 35% of its $55bn in physical assets, a rough proxy for manufacturing capacity, 宾补 abroad. Some $8bn-worth *sat* in Israel and another $4bn in Ireland. Industry insiders *report that* China-bound shipments from both places *have increased* since America’s Huawei-baiting *began*. Intel *also has* more than $5bn in assets in China, its biggest market. *All told*, $20bn of its $72bn in revenues last year *came from China*.
-
-Another example *is* Analog Devices, a smaller American firm which *makes* radio-frequency chips *on which* Huawei *relies heavily* for the assembly of telecoms base stations. It, too, *is spread around*: half of its assets *sit* in the Philippines, Ireland, Singapore and Malaysia. Perhaps that *might make it easier* for the firm *to explore the option* of *making* its Huawei-bound chips in non-American facilities.
-
-Geographic complexity *has made it hard* for America’s government *to stop* chipmakers’ kit *from* reaching(v.) Huawei. Hence the new focus on chipmaking tools, many of which *are still made* in America and *so easier* for Washington *to control*. `主` Applied Materials, *based in* California, *builds* kit *used* to etch(v.) patterns into silicon, `谓` *has* 90% of its assets in the United States. `主` Lam Research, an American maker equipment *used by* TSMC and others *to process* silicon wafers, `谓` *has* 88% of its $1.1bn plant *at home*.
-
-`主` One big unknown *surrounding* the new Huawei rule -- which the chip industry’s lawyers *are busily unpacking* -- `系` *is* `主` whether, under it, equipment (*manufactured*(v.) at American firms’ overseas facilities) `谓` *counts as* “American”. If so, `主` advanced chipmaking factories that *rely on* such kit *to fabricate* cutting-edge chips for Huawei, as TSMC does, `谓` *will need* alternative suppliers. The American toolmakers’ Japanese rivals, such as Tokyo Electron and Hitachi High-Technologies, *suddenly find themselves* with a new geopolitical competitive edge.
-
-Another mystery *relates to* an announcement (*made* just as `主` the new American measures against Huawei `谓` *were being unveiled*). On May 15th TSMC *confirmed* it *would build* a $12bn chip factory in Arizona, *to be up* and *running* by 2024. Why *would* the Taiwanese firm, which *gets* 15% of its revenue *from* Huawei, *agree* to pour(v.) billions into America *just as* its new host(n.) [in effect] *deprived* it *of* a big customer? It *may be currying(v.) favour with* the administration, *hoping to avert*(v.) sanctions against more Chinese customers. Observers *point to* another possibility. TSMC *could equip* the Arizona foundry *with* American gear *from* its existing factories, *freeing space* in its Taiwanese operations *for* brand(v.) new non-American kit that *can freely serve* Chinese customers. TMSC *did not respond to* a request for comment.
-
-Even if that *is not* TSMC’s intention, workarounds *are bound to proliferate*(v.). On May 18th the boss of Samsung Electronics *toured* his company’s new chip factory in Xian, a city in central China. The South Korean firm, which *plans to invest* $115bn *in* its chipmaking business over the next decade, *has made it clear that* it *will not ignore* China. America’s export controls *may prompt it* to *kit out* its foundries *with* equipment that *will not fall foul of* Sino-American geopolitics.
-
-Chip-industry insiders *report that* semiconductor equipment *is already being marketed* inside China *as* “EAR free” -- *meaning* Chinese buyers *need not worry about* the “export administration regulations” that the Trump administration *is using* to attack Huawei. A person close to American toolmakers *says* some of them *are thinking about* moving(v.) their patents abroad *to rebuild* operations *from scratch* away from America’s jurisdiction, *in order to circumvent* present and future anti-Chinese restrictions. Mr Trump’s attempt *to de-Sinify*(v.) the semiconductor industry *may do* more *to de-Americanise* it *[instead]*.
-
----
-
-== Immaculate misconceptions 词汇解说
 
 1. immaculate  /ɪˈmækjələt/ a. containing no mistakes 无误的；无过失的 /extremely clean and tidy 特别整洁的 +
 => im-,不，非，maculate,有污点的，有瑕疵的。
@@ -294,6 +305,9 @@ Chip-industry insiders *report that* semiconductor equipment *is already being m
 - *The first salvo*(n.) exploded(v.) a short distance away. 第一批投下的炸弹在不远处爆炸。 +
 - America’s latest salvo(n.) against Huawei *is aimed at* chipmaking in China. 美国攻击华为, 其目标是针对中国的芯片制造 +
 image:../../+ img_单词图片/s/salvo.jpg[100,100]
+
+
+AMERICA *HAS it in for* 跟某人过不去 Huawei -- and *not just because* some of its politicians *fear* the Chinese giant’s networking gear （某种活动的）设备，用具，衣服 *lets* spooks 间谍；特工;鬼 in Beijing *eavesdrop(v.)偷听，窃听（其他人谈话） on* customers’ communications. The firm, a world leader in futuristic(a.)极其现代的；未来派的 5G telecoms, *also symbolises*(v.)象征；是…的象征；代表 China’s technological and economic ascent. President Donald Trump *does not like it* [one bit]. William Barr, his attorney-general 总检察长；首席检察官, *has warned that* America *risks*(v.) “*surrendering* dominance” *to* China if it *cannot “blunt*(v.)使减弱；使降低效应;使（尖端、刃）变钝 Huawei’s drive” to 5G supremacy 至高无上；最大权力；最高权威；最高地位.
 
 1. *have it in for sb* :( informal ) to not like sb and be unpleasant to them 跟某人过不去
 - AMERICA *HAS it in for* Huawei. 美国跟华为过不去
@@ -323,6 +337,10 @@ image:../../+ img_单词图片/s/salvo.jpg[100,100]
 1. supremacy  /suːˈpreməsi/ n. *~ (over sb/sth)* a position in which you have more power, authority or status than anyone else 至高无上；最大权力；最高权威；最高地位
 - the battle for *supremacy in the region* 争夺地区霸权的较量
 
+
+`主` An earlier attempt at blunting, which *made* it illegal *to sell* American-made components *to* Huawei, *including* advanced computer chips *on* which the Chinese firm *relies*, `系` *was not* the knock-out 破坏 blow the White House hoped it to be. Chipmakers *were able keep shipping* Huawei semiconductors *from* factories outside America. So on May 15th the Trump administration *extended* its restrictions *from* chips *to* the tools *used to make* them -- many of which *come from* America. *So long as* 只要 big microprocessor producers, like Taiwan Semiconductor Manufacturing Company (TSMC), *use* American-made equipment, they *will no longer be able to forge* 锻造；制作 Huawei-designed chips anywhere in the world.
+
+
 1. knock-out : PHRASAL VERB If something *is knocked out* by enemy action or bad weather, it is destroyed or stops functioning because of it. 破坏
 
 1. so long as 只要; “as/so long as”的变体 : only if 只要
@@ -331,6 +349,10 @@ image:../../+ img_单词图片/s/salvo.jpg[100,100]
 1. forge : v.  to shape metal by heating it in a fire and hitting it with a hammer; to make an object in this way 锻造；制作
 - *So long as* big microprocessor producers, like Taiwan Semiconductor Manufacturing Company (TSMC), *use* American-made equipment, they *will no longer be able to forge*(v.) Huawei-designed chips anywhere in the world. +
 只要像台积电(TSMC)这样的大型微处理器生产商, 使用了美国制造的(芯片制造)设备，它们就无法在世界任何地方, 来生产华为设计的芯片。
+
+
+In a press conference on May 18th a reticent(a.)寡言少语；不愿与人交谈；有保留 Huawei *said that* the new rule *put* its survival *at risk*. Three days later President Xi Jinping *vowed to invest* $1.4trn by 2025 *to increase* China’s tech independence. Yet *as with* 正如；与…一样；就…来说 America’s original restrictions, the latest blast 爆炸；（爆炸引起的）气浪，冲击波 in the Sino-American chip war *may not end up* having the intended effect.
+
 
 1. reticent  /ˈretɪsnt/ a. *~ (about sth)* unwilling to tell people about things 寡言少语；不愿与人交谈；有保留 +
 => 来自拉丁语 reticere,保持安静，来自 re-,表强调，tacere,安静，词源同 tacit.引申词义寡言少语 的。
@@ -344,6 +366,11 @@ SYN reserved uncommunicative
 然而，正如美国最初的限制措施一样，这个中美芯片战争的最新冲击波, 可能最终不会产生预期的效果。
 
 1. blast : n. an explosion or a powerful movement of air caused by an explosion 爆炸；（爆炸引起的）气浪，冲击波
+
+
+*Playing dirty* 用诈术, 作弊, 耍猫腻，耍花招 in the clean room
+
+The new rule *may miss* its target *entirely*. Huawei *pays* contract manufacturers 合约制造商 *to assemble* its phones and base stations 基站. `主` The chips that TSMC *makes* for Huawei `谓` *are sent to* those companies, *not to* the Chinese firm, *for* integration 结合；整合；一体化. Finished products *are usually sent directly to* Huawei’s customers. Huawei *need not touch* the blacklisted chips [at any point]. This *may get* Huawei *off the hook* （使）摆脱困境，逃避惩罚. Some lawyers *note that* the new restriction *does not seem to apply to* items *sent to* third parties and *not destined(a.)开往；运往；前往;预定；注定；（尤指）命中注定 for* Huawei, even where these *are being supplied* [at Huawei’s direction].
 
 1. play dirty 用诈术, 作弊, 耍猫腻，耍花招
 - *Playing dirty* in the clean room 在干净的房间里玩脏活
@@ -367,6 +394,9 @@ to free yourself or sb else from a difficult situation or a punishment （使）
 - Some lawyers *note that* the new restriction *does not seem to apply to* items *sent to* third parties and *not destined(a.) for* Huawei, even where these *are being supplied* [at Huawei’s direction]. +
 一些律师指出，新的限制似乎不适用于发送给第三方而不是运往华为的物品，即使这些物品是按照华为的指示供应的。
 
+
+*Even if* the legal experts are wrong, the rule *will be difficult* to enforce: the clean rooms of Asian chip foundries 铸造厂；玻璃厂 *are hard* to monitor. More important, the $412bn semiconductor industry *is so* globalised *that* even the long arm of American law *will struggle to pin it down* 按住；使动弹不得. The likelier upshot 最后结果；结局 of the new export controls *may be* to drive(v.) a portion 部分;一份 of America’s chipmaking industry from its shores 国家（尤指濒海国家）.
+
 1. foundry :  /ˈfaʊndri/ a factory where metal or glass is melted and made into different shapes or objects 铸造厂；玻璃厂 +
 - the clean rooms of Asian chip foundries *are hard* to monitor.  亚洲芯片代工厂的洁净室很难监控。
 image:../../+ img_单词图片/f/foundry.jpg[100,100]
@@ -386,6 +416,8 @@ image:../../+ img_单词图片/f/foundry.jpg[100,100]
 - foreign shores 外国
 
 
+The industry’s geographic scope *was already becoming broader* -- and less American -- over time. One crude yardstick （好坏或成败的）衡量标准；准绳;码尺 for this *is* to track(v.) where its physical assets *sit*, as *recorded* in the filings 存档；归档 of public tech businesses (see chart). The top dozen global semiconductor firms, for example, now *have* only 20% of their plant in America. Asian firms, such as TSMC, SMIC and Samsung, mostly *locate* their factories *at home*. American chipmakers, meanwhile, and many suppliers, *have been diversifying geographically* for years, *says* Dan Hutcheson of VLSI, a consultancy -- partly *in pursuit of* cheap labour, partly *to protect against* natural 自然的；天然的;正常的；自然的；意料之中的 disasters.
+
 1. yardstick  /ˈjɑːrdstɪk/ n. a standard used for judging how good or successful sth is （好坏或成败的）衡量标准；准绳 /( especially NAmE ) a ruler for measuring one yard 码尺 +
 => yard,码，stick,棍，引申词义准绳，标准。比较 canon,gauge.
 - Exam results are not *the only yardstick* of a school's performance. 考试结果不是衡量学校水平的唯一标准。 +
@@ -394,6 +426,10 @@ image:../../+ img_单词图片/f/foundry.jpg[100,100]
 image:../../+ img_单词图片/y/yardstick.jpg[100,100]
 
 1. American chipmakers, meanwhile, and many suppliers, *have been diversifying geographically* for years. 美国芯片制造商和许多供应商, 多年来一直在进行(工厂选址)地域的多元化.
+
+
+
+*Consider* Intel, which *makes* chips of its own design *for* customers (among them Huawei) that *assemble* electronic devices. In 2019 the American giant *had* 宾 over 35% of its $55bn in physical assets, a rough proxy （测算用的）代替物，指标 for manufacturing capacity 制造能力, 生产能力, 宾补 abroad. Some $8bn-worth *sat* in Israel and another $4bn in Ireland. Industry insiders *report that* China-bound shipments from both places *have increased* since America’s Huawei-baiting 攻击;嘲笑...的信仰 *began*. Intel *also has* more than $5bn in assets in China, its biggest market. *All told* 总之, 总共, 合计, $20bn of its $72bn in revenues last year *came from China*.
 
 1. proxy : ( technical 术语 ) *~ for sth* ( formal ) something that you use to represent sth else that you are trying to measure or calculate （测算用的）代替物，指标 / *~ (for sb)* a person who has been given the authority to represent sb else 代理人；受托人；代表
 - The number of patients on a doctor's list was seen as *a good proxy* for assessing how hard they work. 医生诊单上的病人数, 被看作是衡量他们工作努力程度的可靠指标。
@@ -412,16 +448,21 @@ image:../../+ img_单词图片/y/yardstick.jpg[100,100]
 1. all told 总之, 总共, 合计
 - *All told*, $20bn of its $72bn in revenues last year *came from China*. 总体而言，该公司去年720亿美元的营收中, 有200亿美元来自中国。
 
-1. radio-frequency n. 射频；无线电频率
+
+Another example *is* Analog Devices, a smaller American firm which *makes* radio-frequency 射频；无线电频率 chips *on which* Huawei *relies heavily* for the assembly of telecoms base stations 电信基站. It, too, *is spread around*: half of its assets *sit* in the Philippines, Ireland, Singapore and Malaysia. Perhaps that *might make it easier* for the firm *to explore the option* of *making* its Huawei-bound chips in non-American facilities.
 
 1. telecoms base stations 电信基站
 - Another example *is* Analog Devices, a smaller American firm which *makes* radio-frequency chips *on which* Huawei *relies heavily* for the assembly of telecoms base stations.  +
 另一个例子是模拟设备公司，这是一家规模较小的美国公司，生产无线电频率芯片，华为在电信基站的组装中严重依赖于这些芯片。
 
+Geographic complexity *has made it hard* for America’s government *to stop* chipmakers’ kit *from* reaching(v.) Huawei. Hence the new focus on chipmaking tools, many of which *are still made* in America and *so easier* for Washington *to control*. `主` Applied Materials 公司名, *based in* California, *builds* kit *used* to etch(v.) patterns into silicon, `谓` *has* 90% of its assets in the United States. `主` Lam Research, an American maker equipment *used by* TSMC and others *to process* silicon wafers 薄片, `谓` *has* 88% of its $1.1bn plant *at home*.
+
 1. wafer /ˈweɪfər/ ~ (of sth) a very thin piece of sth 薄片 /a thin crisp light biscuit/cookie, often eaten with ice cream 威化饼，薄脆饼（常与冰激凌同吃）
 - Lam Research, an American maker equipment *used by* TSMC and others *to process* silicon wafers, *has* 88% of its $1.1bn plant *at home*. +
 Lam Research公司是一家美国制造商，台积电和其他公司用来加工硅片的设备，其11亿美元的工厂中有88%在国内。 +
 image:../../+ img_单词图片/w/wafer.jpg[100,100]
+
+`主` One big unknown *surrounding* the new Huawei rule -- which the chip industry’s lawyers *are busily unpacking* 分析；剖析 -- `系` *is* `主` whether, under it, equipment (*manufactured*(v.) at American firms’ overseas facilities) `谓` *counts as* “American”. If so, `主` advanced chipmaking factories that *rely on* such kit *to fabricate* 制造；装配；组装 cutting-edge 先进的，尖端的 chips for Huawei, as TSMC does, `谓` *will need* alternative suppliers. The American toolmakers’ Japanese rivals, such as Tokyo Electron and Hitachi High-Technologies, *suddenly find themselves* with a new geopolitical competitive edge （微弱的）优势.
 
 1. unpack : [ VN ] to separate sth into parts so that it is easier to understand 分析；剖析
 - *to unpack a theory* 剖析一个理论
@@ -436,6 +477,9 @@ image:../../+ img_单词图片/w/wafer.jpg[100,100]
 - They have the edge on us. 他们略胜我们一筹。
 - The American toolmakers’ Japanese rivals, such as Tokyo Electron and Hitachi High-Technologies, *suddenly find themselves with a new geopolitical competitive edge*(n.). +
 美国工具制造商的日本竞争对手，如东京电子和日立高科技，突然发现自己拥有新的地缘政治竞争优势。
+
+
+Another mystery *relates to* an announcement (*made* just as `主` the new American measures against Huawei `谓` *were being unveiled*). On May 15th TSMC *confirmed* it *would build* a $12bn chip factory in Arizona, *to be up* and *running* by 2024. Why *would* the Taiwanese firm, which *gets* 15% of its revenue *from* Huawei, *agree* to pour(v.) billions into America *just as* its new host(n.)主人;东道主 [in effect] *deprived* 剥夺；使丧失；使不能享有 it *of* a big customer? It *may be currying(v.)讨好；奉承；拍马屁 favour with* the administration, *hoping to avert*(v.)防止，避免（危险、坏事）;转移目光；背过脸 sanctions 制裁 against more Chinese customers. Observers *point to* another possibility. TSMC *could equip* the Arizona foundry 铸造厂；玻璃厂 *with* American gear *from* its existing factories, *freeing space* in its Taiwanese operations *for* brand(v.)给（牲畜）打烙印 new non-American kit that *can freely serve* Chinese customers. TMSC *did not respond to* a request for comment.
 
 1. Another mystery *relates to* an announcement (*made* just as `主` the new American measures against Huawei `谓` *were being unveiled*). +
 另一个谜团, 与美国的一项声明有关, 当时, 美国宣布了对华为要采取的新措施。
@@ -454,8 +498,10 @@ image:../../+ img_单词图片/w/wafer.jpg[100,100]
 - It *may be currying(v.) favour with* the administration, *hoping to avert*(v.) sanctions against more Chinese customers. +
 它(台积电)可能在讨好美国政府，希望避免对其更多中国的客户实施制裁。
 
-1. Observers *point to* another possibility. TSMC *could equip* the Arizona foundry *with* American gear *from* its existing factories, *freeing space* in its Taiwanese operations *for* brand(v.) 给…打上烙印 new non-American kit that *can freely serve* Chinese customers. TMSC *did not respond to* a request for comment. +
-观察人士指出了另一种可能性。台积电可以为亚利桑那州的代工厂配备现有工厂的美国设备，为其台湾业务腾出空间，让全新的非美国设备可以免费为中国客户提供服务。TMSC没有回复记者的置评请求。
+1. 观察人士指出了另一种可能性。台积电可以为亚利桑那州的代工厂配备现有工厂的美国设备，为其台湾业务腾出空间，让全新的非美国设备可以免费为中国客户提供服务。TMSC没有回复记者的置评请求。
+
+
+Even if that *is not* TSMC’s intention, workarounds 应变方法；变通方法 *are bound to proliferate*(v.)迅速繁殖（或增殖）；猛增. On May 18th the boss of Samsung Electronics *toured* 在…旅游；在…巡回演出（或做宣传广告等） his company’s new chip factory in Xian, a city in central China. The South Korean firm, which *plans to invest* $115bn *in* its chipmaking business over the next decade, *has made it clear that* it *will not ignore* China. America’s export controls *may prompt it* to *kit out* （为特定活动而）使某人装备起来 its foundries *with* equipment that *will not fall foul of* （因做错事或不法行为）与…发生麻烦，与…产生纠葛，冒犯 Sino-American geopolitics.
 
 1. workaround : /ˈwɜːrkə-raʊnd/ ( computing 计 ) a way in which you can solve or avoid a problem when the most obvious solution is not possible 应变方法；变通方法
 
@@ -475,6 +521,9 @@ SYN multiply +
 - *to fall foul of* the law 触犯了法律
 - America’s export controls *may prompt it* to *kit out* its foundries *with* equipment that *will not fall foul of* Sino-American geopolitics. +
 美国的出口管制, 可能会促使其(三星), 为铸造厂配备那些不会与中美地缘政治冲突的设备。
+
+
+Chip-industry insiders *report that* semiconductor equipment *is already being marketed* 推销；促销 inside China *as* “EAR free” -- *meaning* Chinese buyers *need not worry about* the “export administration regulations” that the Trump administration *is using* to attack Huawei. A person close to American toolmakers *says* some of them *are thinking about* moving(v.) their patents abroad *to rebuild* operations *from scratch* 从头开始；从零开始 away from America’s jurisdiction 司法权；审判权；管辖权;管辖区域；管辖范围, *in order to circumvent* 设法回避；规避;绕过；绕行；绕道旅行 present and future anti-Chinese restrictions. Mr Trump’s attempt *to de-Sinify*(v.)去中国化 the semiconductor industry *may do* more *to de-Americanise* it *[instead]*.
 
 1. markete : [ VN ] *~ sth (to sb) (as sth)* to advertise and offer a product for sale; to present sth in a particular way and make people want to buy it 推销；促销
 - *It is marketed* as a low-alcohol wine. 它作为一种低度酒投放市场。
@@ -496,5 +545,52 @@ image:../../+ img_单词图片/c/circumvent.jpg[100,100]
 1.  Sinify : vt. 使中国化（等于Sinicize）, de为英语前缀，前缀de-来自拉丁语，意为"away from"，所以这个前缀的意义之一就是"离开"、"出"。
 - Mr Trump’s attempt *to de-Sinify*(v.) the semiconductor industry *may do* more *to de-Americanise* it *[instead]*. +
 特朗普试图让半导体行业去中国化，可能反而会让半导体行业去美国化。
+
+
+---
+
+
+== Immaculate misconceptions
+
+(eco2020-5-23 /Business /  Chip wars: Immaculate misconceptions)
+
+America’s latest salvo(n.) against Huawei is aimed at chipmaking in China
+
+It may push the industry out of America, too
+
+May 21st 2020 | HONG KONG
+
+
+AMERICA HAS it in for Huawei -- and not just because some of its politicians fear the Chinese giant’s networking gear lets spooks in Beijing eavesdrop(v.) on customers’ communications. The firm, a world leader in futuristic(a.) 5G telecoms, also symbolises(v.) China’s technological and economic ascent. President Donald Trump does not like it [one bit]. William Barr, his attorney-general, has warned that America risks(v.) “surrendering dominance” to China if it cannot “blunt(v.) Huawei’s drive” to 5G supremacy.
+
+`主` An earlier attempt at blunting, which made it illegal to sell American-made components to Huawei, including advanced computer chips on which the Chinese firm relies, `系` was not the knock-out blow the White House hoped it to be. Chipmakers were able keep shipping Huawei semiconductors from factories outside America. So on May 15th the Trump administration extended its restrictions from chips to the tools used to make them -- many of which come from America. So long as big microprocessor producers, like Taiwan Semiconductor Manufacturing Company (TSMC), use American-made equipment, they will no longer be able to forge Huawei-designed chips anywhere in the world.
+
+In a press conference on May 18th a reticent(a.) Huawei said that the new rule put its survival at risk. Three days later President Xi Jinping vowed to invest $1.4trn by 2025 to increase China’s tech independence. Yet as with America’s original restrictions, the latest blast in the Sino-American chip war may not end up having the intended effect.
+
+Playing dirty in the clean room
+
+The new rule may miss its target entirely. Huawei pays contract manufacturers to assemble its phones and base stations. `主` The chips that TSMC makes for Huawei `谓` are sent to those companies, not to the Chinese firm, for integration. Finished products are usually sent directly to Huawei’s customers. Huawei need not touch the blacklisted chips [at any point]. This may get Huawei off the hook. Some lawyers note that the new restriction does not seem to apply to items sent to third parties and not destined(a.) for Huawei, even where these are being supplied [at Huawei’s direction].
+
+Even if the legal experts are wrong, the rule will be difficult to enforce: the clean rooms of Asian chip foundries are hard to monitor. More important, the $412bn semiconductor industry is so globalised that even the long arm of American law will struggle to pin it down. The likelier upshot of the new export controls may be to drive(v.) a portion of America’s chipmaking industry from its shores.
+
+The industry’s geographic scope was already becoming broader -- and less American -- over time. One crude yardstick for this is to track(v.) where its physical assets sit, as recorded in the filings of public tech businesses (see chart). The top dozen global semiconductor firms, for example, now have only 20% of their plant in America. Asian firms, such as TSMC, SMIC and Samsung, mostly locate their factories at home. American chipmakers, meanwhile, and many suppliers, have been diversifying geographically for years, says Dan Hutcheson of VLSI, a consultancy -- partly in pursuit of cheap labour, partly to protect against natural disasters.
+
+
+
+Consider Intel, which makes chips of its own design for customers (among them Huawei) that assemble electronic devices. In 2019 the American giant had 宾over 35% of its $55bn in physical assets, a rough proxy for manufacturing capacity, 宾补 abroad. Some $8bn-worth sat in Israel and another $4bn in Ireland. Industry insiders report that China-bound shipments from both places have increased since America’s Huawei-baiting began. Intel also has more than $5bn in assets in China, its biggest market. All told, $20bn of its $72bn in revenues last year came from China.
+
+Another example is Analog Devices, a smaller American firm which makes radio-frequency chips on which Huawei relies heavily for the assembly of telecoms base stations. It, too, is spread around: half of its assets sit in the Philippines, Ireland, Singapore and Malaysia. Perhaps that might make it easier for the firm to explore the option of making its Huawei-bound chips in non-American facilities.
+
+Geographic complexity has made it hard for America’s government to stop chipmakers’ kit from reaching(v.) Huawei. Hence the new focus on chipmaking tools, many of which are still made in America and so easier for Washington to control. `主` Applied Materials, based in California, builds kit used to etch(v.) patterns into silicon, `谓` has 90% of its assets in the United States. `主` Lam Research, an American maker equipment used by TSMC and others to process silicon wafers, `谓` has 88% of its $1.1bn plant at home.
+
+`主` One big unknown surrounding the new Huawei rule -- which the chip industry’s lawyers are busily unpacking -- `系` is `主` whether, under it, equipment (manufactured(v.) at American firms’ overseas facilities) `谓` counts as “American”. If so, `主` advanced chipmaking factories that rely on such kit to fabricate cutting-edge chips for Huawei, as TSMC does, `谓` will need alternative suppliers. The American toolmakers’ Japanese rivals, such as Tokyo Electron and Hitachi High-Technologies, suddenly find themselves with a new geopolitical competitive edge.
+
+Another mystery relates to an announcement (made just as `主` the new American measures against Huawei `谓` were being unveiled). On May 15th TSMC confirmed it would build a $12bn chip factory in Arizona, to be up and running by 2024. Why would the Taiwanese firm, which gets 15% of its revenue from Huawei, agree to pour(v.) billions into America just as its new host(n.) [in effect] deprived it of a big customer? It may be currying(v.) favour with the administration, hoping to avert(v.) sanctions against more Chinese customers. Observers point to another possibility. TSMC could equip the Arizona foundry with American gear from its existing factories, freeing space in its Taiwanese operations for brand(v.) new non-American kit that can freely serve Chinese customers. TMSC did not respond to a request for comment.
+
+Even if that is not TSMC’s intention, workarounds are bound to proliferate(v.). On May 18th the boss of Samsung Electronics toured his company’s new chip factory in Xian, a city in central China. The South Korean firm, which plans to invest $115bn in its chipmaking business over the next decade, has made it clear that it will not ignore China. America’s export controls may prompt it to kit out its foundries with equipment that will not fall foul of Sino-American geopolitics.
+
+Chip-industry insiders report that semiconductor equipment is already being marketed inside China as “EAR free” -- meaning Chinese buyers need not worry about the “export administration regulations” that the Trump administration is using to attack Huawei. A person close to American toolmakers says some of them are thinking about moving(v.) their patents abroad to rebuild operations from scratch away from America’s jurisdiction, in order to circumvent present and future anti-Chinese restrictions. Mr Trump’s attempt to de-Sinify(v.) the semiconductor industry may do more to de-Americanise it [instead].
+
+
 
 
