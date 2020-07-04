@@ -440,7 +440,7 @@ image:../../+ img_单词图片/t/threshold.jpg[100,100]
 - 例如，在孟加拉国，早早给人们钱来躲避洪水, 已被证明是有效的。一些科学家认为，一旦达到触发指标的阈值，他们就可以在记录单个病例之前, 预测非洲的霍乱爆发；及早采取行动, 可以大大减少损害。Lowcock先生想试验一种承诺，即对预先商定好的, 适用于本处理方法的问题, 提供资金支持。“你可能在很多方面都是错的，”他说，“但这仍然是有意义的。”
 
 
-In the medium term 中期, attention *turns to* the Sustainable Development Goals (SDGs) 可持续发展目标, a set of aspirations 渴望；抱负；志向 in 17 broad categories (with 169 targets) (*agreed upon* by the UN General Assembly in 2015 and *meant 被普遍认为是 to be achieved by 2030*). *They make a comprehensive list* of human development, *covering everything* [from] *ending(v.) poverty and hunger* [to] *fighting(v.) inequality and pollution*. If *all the goals were achieved*, humanity *would be happy*. But in many areas *they are badly behind schedule*, and covid-19 *will set them back further*. This year, for the first time this century, the proportion of people in extreme poverty *is expected to grow*, *wiping out almost all the gains* of the past five years, if not more. The SDGs *are* anyway more of a call to action *than* a realistic plan. In that vein 风格；方式, the UN *is campaigning 从事运动 for* a “Decade of Action” *to honour* 信守，执行（承诺） these promises.
+In the medium term 中期, attention *turns to* the Sustainable Development Goals (SDGs) 可持续发展目标, `a set of aspirations` 渴望；抱负；志向 in 17 broad categories (with 169 targets) (*agreed upon* by `the UN General Assembly` 联合国大会 in 2015 and *meant 被普遍认为是 to be achieved by 2030*). *They make a comprehensive list* of human development, *covering(v.) everything* [from] `ending(v.) poverty and hunger` [to] `fighting(v.) inequality and pollution`. If `all the goals *were achieved*`, humanity *would be happy*. But in many areas `they *are* badly behind schedule`, and covid-19 *will set them back further*. This year, for the first time this century, the proportion of people `in extreme poverty` *is expected to grow*, `*wiping out* almost all the gains` of the past five years, if not more. The SDGs *are* anyway *more* of `a call to action` *than* `a realistic plan`. In that vein 风格；方式, the UN *is campaigning 从事运动 for* a “Decade of Action” *to honour* 信守，执行（承诺） these promises.
 
 - *be meant to be sth* : to be generally considered to be sth 被普遍认为是 +
 -> This restaurant *is meant to be excellent*. 都说这家饭店很棒
@@ -453,13 +453,40 @@ In the medium term 中期, attention *turns to* the Sustainable Development Goal
 - 中期而言，人们的注意力转向了可持续发展目标(SDGs)。2015年，联合国大会通过了17大类目标(共169项目标)的一系列目标，并计划到2030年实现。他们列出了人类发展的全面清单，涵盖了从消除贫困和饥饿, 到消除不平等和污染的方方面面。如果所有的目标都实现了，人类将会感到幸福。但在许多地区，它们严重落后于时间表，covid-19将使它们进一步倒退。今年，极端贫困人口的比例, 预计将出现本世纪第一次增长，这将抵消过去五年(甚至更长时间)取得的几乎所有成果。可持续发展目标, 更多的是一种行动号召，而不是一个现实的计划。本着这种精神，联合国正在开展“十年行动”，以兑现这些承诺。
 
 
-Mr Guterres started as secretary-general by emphasising crisis prevention, but this has proved heavy going, given the divisions among the big powers and the growing complexity of conflicts. The climate crisis has since come to the fore, both because of its intrinsic, long-term importance and because it seems to offer the UN a way to resonate with young people. In New York last September Mr Guterres organised a climate-action summit. Greta Thunberg, a teenage Swedish activist, warned leaders that “young people are starting to understand your betrayal”.
+Mr Guterres *started [as secretary-general]* by *emphasising* crisis prevention, but `this *has proved* heavy going`(n.)进展速度；难度, *given* `the divisions 分歧；不和；差异 among the big powers` and `the growing complexity of conflicts`. The climate crisis *has since come to the fore* 涌现出来,崭露头角,变得重要（或突出）；起重要作用, *both because of* its intrinsic 固有的；内在的；本身的, long-term importance *and because* it seems to offer the UN a way *to resonate(v.)产生共鸣；发出回响；回荡;使产生联想；引起共鸣；和…的想法（或观念）类似 with* young people. In New York last September Mr Guterres *organised* a climate-action summit. Greta Thunberg, a teenage Swedish activist, *warned* leaders *that* “young people are starting to understand your betrayal”(n.)（被）背叛，出卖.
 
-The pandemic has meant the postponement of the COP26 climate summit in Glasgow (as well as a biodiversity summit in Kunming and an ocean conference in Lisbon), to which countries were meant to bring bolder national commitments to cut carbon emissions. But the delay has a green lining. Mr Guterres has tried to link the twin crises, arguing for policies that ensure that the recovery from covid-19 helps to save the planet.
+- going : n. [ U ] ( used with an adjective 与形容词连用 ) *the speed with which sb does sth*; *how difficult it is to do sth* 进展速度；难度 +
+-> Walking four miles in an hour *is pretty good going* for me. 一小时走四英里对我来说是相当不错了。 +
+-> She had her own company by 25—*not bad going* ! 她25岁时就有了自己的公司—干得不错！ +
+-> *It was hard going* getting up at five every morning. 每天早上五点钟起床太难了。
 
-On Earth Day, April 22nd, he proposed a six-point framework to that effect. His suggestions are extremely broad -- tie business rescues to creating green jobs, for example, end fossil-fuel subsidies and, unsurprisingly, “work together as an international community” -- but they are a taste of a campaign to come. Advocacy of drastic climate action has become something of a rallying cry for the UN. As Richard Gowan, UN director at the International Crisis Group (ICG), an NGO, points out: “UN optimists are mostly people with the bleakest view on climate, because they imagine it’s what draws the UN back together.”
+- *be/come to the fore* : (British English) (North Amercian English *be at the fore*) to be/become important and noticed by people; to play an important part 变得重要（或突出）；起重要作用
+.. She *has always been to the fore* at moments of crisis.
+在危急时刻她总是挺身而出。
+.. The problem *has come to the fore again* in recent months.
+近几个月来这个问题又成为热点。
 
-Has Mr Guterres got his priorities right? The criticism that stings most is personal. It is that the secretary-general puts politics over core principles and pulls his punches in an area that is neither short-, medium- nor long-term but timeless: human rights. Mr Guterres is accused of failing to defend the charter (which commits the UN to promote “universal respect for, and observance of, human rights”) by speaking out against abuses by powerful governments, including China’s detention of Uighurs and Saudi Arabia’s murder of Jamal Khashoggi, a critic of the regime. Some predecessors, such as Kofi Annan, were more forceful. Even the often invisible Ban Ki-moon launched Human Rights up Front, a campaign to insert the issue across the UN’s work. Zeid Ra’ad al-Hussein, a former UN human-rights commissioner, has condemned Mr Guterres’s “weakness”. Kenneth Roth, head of Human Rights Watch, an NGO, has warned that his term was becoming “defined by his silence on human rights”.
+- 古特雷斯在担任联合国秘书长之初就强调了预防危机，但鉴于大国之间的分歧和日益复杂的冲突，这被证明是一项艰巨的任务。从那时起, 气候危机问题就引人注目起来，不光是因为它具有着内在的、长期的重要性，也因为它似乎为联合国提供了一种途径, 能与年轻人产生共鸣。去年9月，古特雷斯在纽约组织了一次气候行动峰会。一位名叫Greta Thunberg的瑞典青少年活动家警告领导人说, “年轻人开始明白你们的背叛”。
+
+
+
+The pandemic *has meant* the postponement 延期 of `the COP26 climate summit` in Glasgow (as well as `a biodiversity 生物多样性 summit` in Kunming and `an ocean conference` in Lisbon), to which countries *were meant to* bring(v.) bolder national commitments 承诺；许诺 *to cut carbon emissions*. But the delay *has* a green lining. Mr Guterres *has tried to link* the twin crises, *arguing for* policies  政策 that *ensure that* the recovery from covid-19 *helps* to save the planet.
+
+- 这场疫情大流行, 意味着在格拉斯哥举行的COP26气候峰会(以及昆明的生物多样性峰会, 和里斯本的海洋会议), 被推迟. 各国本应在这次会议上做出更大胆的国家承诺，减少碳排放。但推迟也有一线希望。古特雷斯试图将这两场危机联系起来，主张制定政策，确保从covid-19中的恢复, 能帮助拯救地球。
+
+On `Earth Day` 世界地球日, April 22nd, he *proposed* a six-point framework *to* that effect. His suggestions *are extremely broad* -- *tie*(v.)连接；联合；使紧密结合 `business rescues` *to* `creating(v.) green jobs`, for example, *end*(v.) `fossil-fuel 化石燃料 subsidies` 补贴金 and, unsurprisingly 不出所料的；不出奇的；意料中的, “*work together [as* an international community”] -- but they *are* a taste 体验；尝试 of `a campaign to come`. Advocacy(n.) （对某思想、行动方针、信念的）拥护，支持，提倡 of `drastic climate action` *has become* something of `a rallying cry` （团结众人的）战斗口号，信念 for the UN. *As* Richard Gowan, UN director at the International Crisis Group (ICG), an NGO, *points out*: “UN optimists 乐观主义者 *are* mostly people (*with the bleakest 不乐观的；无望的；暗淡的(最高级) view* on climate), because they *imagine* `it’s what *draws* the UN *back together*`.”
+
+- tie : [ usually passive ] v. *~ sb/sth (to sth/sb)* to connect or link sb/sth closely with sb/sth else 连接；联合；使紧密结合
+.. Pay increases *are tied(v.) to inflation*. 提高工资和通货膨胀紧密相关。
+
+- *rallying cry* :  n. a phrase or an idea that is used to encourage people to support sb/sth （团结众人的）战斗口号，信念
+
+- 在4月22日的世界地球日，他为此提出了一个六点框架。他提的建议, 与创造绿色就业机会有着极其广泛的联系，例如，结束化石燃料补贴，并不出所料地“作为一个国际社会共同努力” -- 但这些都只是一场即将到来的运动的一个尝试。倡导采取严厉的气候行动, 已经成为联合国的战斗口号。正如非政府组织"国际危机组织"(ICG)的联合国事务总监理查德·高恩(Richard Gowan)指出的那样：“联合国的乐观主义者, 大多是对气候问题持最悲观看法的人，因为他们认为, 正是气候问题, 才将联合国重新团结在一起。”
+
+- The World Earth Day : 世界地球日. 每年的4月22日，专为世界环境保护而设立的节日.
+
+
+*Has* Mr Guterres *got his priorities 优先处理的事 right*? `主` The criticism (that *stings* 激怒；使不安;刺；蜇；叮 most) `系` *is* personal. *It is that* the secretary-general *puts politics [over `core principles`]* and *pulls his punches*(n.)重拳击打；用力的捶打 in an area `that is *neither* short-, medium- *nor* long-term *but* timeless`(a.)永恒的；不受时间影响的: human rights. Mr Guterres *is accused of* failing(v.) *to defend(v.) the charter* (which *commits* the UN *to promote* “universal `respect(n.) for`, and `observance(n.)（对法律、习俗的）遵守，奉行 of`, human rights”) by *speaking out against* 挺身（反对某事物）；公开站出来（反对） abuses by powerful governments, including China’s detention of Uighurs and Saudi Arabia’s murder of Jamal Khashoggi, a critic of the regime. Some predecessors, such as Kofi Annan, were more forceful. Even the often invisible Ban Ki-moon launched Human Rights up Front, a campaign to insert the issue across the UN’s work. Zeid Ra’ad al-Hussein, a former UN human-rights commissioner, has condemned Mr Guterres’s “weakness”. Kenneth Roth, head of Human Rights Watch, an NGO, has warned that his term was becoming “defined by his silence on human rights”.
 
 Mr Guterres’s defenders say such attacks are unfair. He has picked his moments to speak up in public, whether on Uighurs in China or Rohingyas in Myanmar, and has championed women’s rights, within the UN and beyond. Yes, he avoids confrontations that would be counter-productive (he never criticises Donald Trump by name, for example). But this gives him the ability to deliver a strong message behind the scenes. What powder he has must be kept dry. “At the UN there is practically no power at all,” he says. “When you’re in government you have some power. Here it’s basically a bluff, or an illusion.”
 
@@ -523,10 +550,7 @@ A second, broader, criticism of the UN is that it simply does too much. It is, i
 
 
 
-中期而言，人们的注意力转向了可持续发展目标(SDGs)。2015年，联合国大会通过了17大类目标(共169项目标)的一系列目标，并计划到2030年实现。他们列出了人类发展的全面清单，涵盖了从消除贫困和饥饿, 到消除不平等和污染的方方面面。如果所有的目标都实现了，人类将会感到幸福。但在许多地区，它们严重落后于时间表，covid-19将使它们进一步倒退。今年，极端贫困人口的比例, 预计将出现本世纪第一次增长，这将抵消过去五年(甚至更长时间)取得的几乎所有成果。可持续发展目标, 更多的是一种行动号召，而不是一个现实的计划。本着这种精神，联合国正在开展“十年行动”，以兑现这些承诺。
-古特雷斯在担任联合国秘书长之初就强调了预防危机，但鉴于大国之间的分歧和冲突日益复杂，这已被证明是一项艰巨的任务。气候危机从那时起就显现出来，既是因为它内在的、长期的重要性，也是因为它似乎为联合国提供了一种与年轻人产生共鸣的途径。去年9月，古特雷斯在纽约组织了一次气候行动峰会。一位名叫Greta Thunberg的瑞典活动家警告领导人说“年轻人开始理解你们的背叛”。
-这一流行病意味着格拉斯哥的COP26气候峰会(以及昆明的生物多样性峰会和里斯本的海洋会议)的推迟，各国本应在这些会议上做出更大胆的减排承诺。但这一延迟背后有一条绿线。古特雷斯试图将这两个危机联系起来，主张制定政策，确保从covid-19中恢复有助于拯救地球。
-在4月22日的地球日，他提出了一个六点框架。他的建议非常广泛，例如，结束化石燃料补贴，以及不出所料地“作为一个国际社会一起合作”，对创造绿色就业机会的商业救助 --  -- 但这些都是一场即将到来的运动的一个尝试。倡导采取严厉的气候行动已经成为联合国的战斗口号。正如非政府组织国际危机组织(ICG)的联合国主任理查德·高恩(Richard Gowan)所指出的:“联合国的乐观主义者大多是对气候问题持最悲观看法的人，因为他们认为正是气候问题将联合国拉回一起。”
+
 古特雷斯先生的首要任务做对了吗?最伤人的批评是针对个人的。而是秘书长将政治置于核心原则之上，并在一个既非短期、中期也非长期，而是永恒的领域有所克制:人权。古特雷斯被指控未能捍卫《宪章》(该宪章要求联合国促进“普遍尊重和遵守人权”)，他公开反对强势政府的暴行，包括中国拘留维吾尔人以及沙特阿拉伯谋杀政权批评者贾马尔•哈苏吉。一些前任，如科菲•安南(Kofi Annan)，更为强硬。甚至连经常隐身的潘基文也发起了“人权前沿”(Human Rights up Front)运动，将这个问题贯穿联合国的工作。前联合国人权专员扎伊德•拉阿德•侯赛因谴责古特雷斯的“软弱”。非政府组织人权观察(Human Rights Watch)的负责人肯尼斯•罗斯(Kenneth Roth)警告说，他的措辞正变得“被他在人权问题上的沉默所定义”。
 古特雷斯的支持者说这样的攻击是不公平的。无论是在中国的维族人还是在缅甸的罗兴亚人问题上，他都抓住机会公开发言，并在联合国内外支持妇女权利。是的，他避免会适得其反的对抗(例如，他从不指名道姓地批评唐纳德·特朗普(Donald Trump))。但这让他有能力在幕后传递强有力的信息。他所拥有的火药必须保持干燥。他说:“在联合国几乎没有任何权力。”“当你在政府里的时候，你有一些权力。这基本上是虚张声势，或错觉。”
 对联合国的第二个更广泛的批评是，它做得太多了。实际上，它曾多次试图拯救世界。它的许多目标可能是美妙的、相互关联的，但它缺乏有效地实现所有目标的能力。它已经承担了超过它的设计。而且设计本身也需要一个全新的外观。
