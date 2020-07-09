@@ -134,7 +134,9 @@ And for all the good intentions of the secretary-general’s panel on digital in
 
 ---
 
-==  Time to rediscover statesmanship 词汇解说
+==  Time to rediscover(v.)重新发现；重新找到 statesmanship 政治才能；治国才干 词汇解说
+
+(eco 2020-6-20 / Special report / Three future scenarios 设想; 可能的情况: Bedlam 混乱嘈杂的场面；喧闹, bumbling 笨手笨脚的（常马虎出错）;装模作样 or boldness 大胆；冒失；显著?)
 
 Three future scenarios for the UN
 
@@ -142,16 +144,93 @@ Bedlam, bumbling or boldness?
 
 Jun 20th 2020 |
 
+- scenario : /səˈnærioʊ/
 
-IN A SPEECH in January Mr Guterres conjured up “four horsemen” to describe the challenges facing the world. The first represented the worst geostrategic tensions in years, with a real risk of a “great fracture”. Next, said the secretary-general, the planet was burning, and an existential crisis was close to a point of no return. His third horseman took the form of rising global mistrust, often spilling into hatred, amid discontent over inequality and the sense among too many that globalisation is not working. Lastly, the dark side of digital technology threatened to invade privacy, disrupt work and unleash lethal autonomous machines in war.
+- bedlam : /ˈbedləm/ n. [ U ] a scene full of noise and confusion 混乱嘈杂的场面；喧闹 SYN chaos +
+=> bedlam是Bethlehem（伯利恒）的缩写 Bethlem（伯利恒）是英国伦敦一所著名的精神病院。单词bedlam就来自该精神病院的名称，用来表示“精神病院”。后来，该词又衍生出“喧闹”或“喧闹之地”的含义，并一直使用到现在，成为该词当前的主要含义。 助记窍门：bedlam→bed lamb→床上有只羔羊→喧闹的地方
 
-If this was not apocalyptic enough, a fifth horseman is now galloping around the globe. Covid-19 has claimed hundreds of thousands of lives and plunged the world into a recession far deeper than that of 2008-09. Worse could be to come if the virus proceeds to devastate poorer countries before boomeranging back into rich ones. And in response the world has seemed rudderless. National leaders have been too preoccupied fighting the disease in their own countries to have much appetite for international efforts. And at the UN, the Security Council has been a bystander.
+- 是时候重新发现政治家的才能了 +
+联合国未来的三种情况 : 争吵喧闹, 装模作样, 还是大胆革新?
 
-The nightmare scenario is a descent into deepening disorder. Imagine that after the covid-19 crisis is over, Mr Guterres’s horsemen run rampant. Any hope that the world can summon the will to tackle climate change vanishes. Under pressure, institutions that have sustained a rules-based system buckle. Unrestrained protectionism kills the WTO. America abandons NATO, as its European partners slash defence spending to prioritise economic recovery. Divisions between northern and southern members prove too much for the EU. The UN goes the way of the League of Nations, failing to stop rival powers from provoking each other and, in the end, fighting.
 
-While such bedlam is possible, a likelier scenario is less dramatic: bumbling along. Inertia helps the main multilateral institutions survive, despite their inability to modernise themselves, and second-tier powers keep co-operation alive. Future American presidents restore a degree of confidence in the country’s commitment to the international order, although the trauma of transactional Trumpism casts a long shadow. America’s return to the Paris agreement lends weight to efforts to tackle climate change.
+[IN A SPEECH in January] Mr Guterres *conjured 使…呈现于脑际；使想起 up* “four horsemen” 骑兵；骑士 *to describe* the challenges *facing the world*. The first *represented* the worst `geostrategic 地缘政治学的 tensions` in years, with a real risk of a “great fracture” （指事实）骨折，断裂，折断，破裂. Next, said the secretary-general, the planet 行星;地球（尤指环境） *was burning*, and `an existential 存在主义的；有关存在的 crisis` *was close to a point of* no return 不可逆转. His third horseman *took the form of* 表现为…的形式 rising(a.) global mistrust, often *spilling 溢出；漫出 into hatred*(n.)仇恨；憎恨；厌恶, amid ① `discontent(n.)不满；不满足 over inequality` and ② `the sense(n.)（对重大事情的）感觉，意识 (among too many 许多人) that globalisation *is not working*`. Lastly, the dark side of digital technology *threatened ① to invade(v.) privacy*, ② `*disrupt*(v.) work` ③ and `*unleash*(v.) lethal 致命的；可致死的 autonomous 自主的；有自主权的 machines in war`.
 
-The tussle between America and China continues. But America makes a more concerted counter-push, working with its European and Asian allies, with a revived championing of universal values. In many parts of the world mistrust of China runs deep. Russia still makes mischief, but less often, since a more coherent West gives it fewer opportunities. The multipolar system becomes less “chaotic” and more contained, settling into an uneasy stalemate. Perhaps this is enough to keep the four horsemen in their stables.
+- Four Horsemen of the Apocalypse : 末日四骑士，又称天启四骑士，出自《圣经新约》末篇《启示录》第6章，传统上和文学作品里, 将其解释为 : +
+.. 白马骑士-征服（或胜利）(/瘟疫)、 +
+.. 红马骑士-战争、 +
+.. 黑马骑士-饥荒、 +
+.. 绿马骑士（一说灰马骑士）-死亡， +
+不过，对于白马骑士的解释略有争议，有神职人员和宗教学者认为其代表瘟疫。
+
+- conjure : /ˈkɑːndʒər/ : v. to do clever tricks such as making things seem to appear or disappear as if by magic 变魔术；变戏法；使…变戏法般地出现（或消失） +
+=> con-, 强调。-jur, 发誓，念咒，词源同abjure, jurist. +
+image:../../+ img_单词图片/c/conjure.jpg[100,100]
+
+- *CONJURE STH UP* :
+(1) to make sth appear as a picture in your mind 使…呈现于脑际；使想起 / (2) to make sb/sth appear by using special magic words 用咒语使…出现
+
+- 在今年1月的一次演讲中，古特雷斯用“末日四骑士”来描述世界面临的挑战。第一个危机, 是多年来最严重的地缘政治紧张局面，存在实际的风险会“关系大破裂”。接着的第二个危机，秘书长说，大地正在燃烧，一场生存危机已经接近于不可逆转的地步(临界点)。第三个危机的表现形式是 : 全球不信任的加剧，往往会演变(蔓延)成仇恨 / 对不平等的不满 / 以及太多的人感觉到, 全球化并没有发挥作用。最后一个危机，是数字技术的阴暗面, 有着三大威胁 : 侵犯隐私 / 破坏(扰乱)正常的工作 / 及 在战争中制造出(释放出)致命的具有自主能力的武器.
+
+
+If this *was not apocalyptic(a.)描述（历史）大动乱的；预示（未来）大灾变的;似末世的；像世界末日的 enough*, a fifth horseman *is now galloping(v.)（马等）飞奔，奔驰，疾驰 around the globe*. Covid-19 *has claimed hundreds of thousands of lives* and `*plunged* 使经历，使陷入（不快的事情） the world *into* a recession` *far deeper than* that of 2008-09. *Worse could be to come* if `the virus *proceeds*(v.)继续做（或从事、进行） *to devastate* 彻底破坏；摧毁；毁灭 poorer countries` before *boomeranging 回旋镖,飞去来器 back into* rich ones. And [in response] the world *has seemed rudderless*(a.)无人管理的；无指导的；漫无目的的. National leaders *have been too preoccupied*(a.)心事重重；一门心思 fighting(v.) the disease in their own countries *to have much appetite 食欲；胃口;强烈欲望 for* international efforts. And at the UN, the Security Council *has been a bystander* 旁观者.
+
+- apocalyptic : /əˌpɑːkəˈlɪptɪk/ a. describing very serious damage and destruction in past or future events 描述（历史）大动乱的；预示（未来）大灾变的 / like the end of the world 似末世的；像世界末日的
+
+- gallop  /ˈɡæləp/  => 来自wallop的拼写变体，即well leap.
+
+- boomerang : /ˈbuːməræŋ/ [ V ] if a plan boomerangs on sb, it hurts them instead of the person it was intended to hurt 害人反害己；自食其果 +
+=> 来自澳大利亚土著语。现主要用于短语boomerang kid, 啃老族。 +
+image:../../+ img_单词图片/b/boomerang.jpg[100,100]
+
+- rudderless : a. /ˈrʌdərləs/ ( formal ) with nobody in control; not knowing what to do 无人管理的；无指导的；漫无目的的 +
+=> rudder  :（船的）舵；（飞机的）方向舵. 来自古英语 rothor,舵，来自 Proto-Germanic*rothru,舵，来自*ro,划，划船，词源同 row,-thor, 工具格后缀，词源同 tether,weather.古英语-th-简化为-d-,比较 burden,来自古英语 byrthen.
+
+- 如果这还不够预示世界末日的话，第五个骑士(危机)正在世界各地驰骋。新冠肺炎夺去了数十万人的生命，使世界陷入比2008-09年严重得多的衰退。如果这种病毒在传染回富裕国家之前, 继续在贫穷国家中肆虐的话, 那么情况就会更糟糕。对此，世界似乎失去了领导。各国领导人一直忙于在本国抗击疫情，对国际社会的努力没有多大兴趣。在联合国，安理会一直是旁观者。
+
+
+The nightmare scenario *is* `a descent 下降；下倾 into deepening disorder`(n.)混乱;骚乱；动乱. *Imagine that* `[after the covid-19 crisis *is over*], Mr Guterres’s horsemen *run(v.) rampant*`(a.)(坏事)泛滥的；猖獗的. `主` Any hope(n.) (that `the world *can summon 召唤; 召集，召开（会议） the will*`(n.) to tackle(v.) climate change) `谓` *vanishes*(v.)复存在；消亡；绝迹;（莫名其妙地）突然消失. Under pressure, `主` institutions (that *have sustained* a rules-based system) `谓` *buckle* （被）压垮，压弯;双腿发软. Unrestrained 无节制的；放纵的；不加制约的 protectionism （贸易）保护主义 *kills* the WTO. America *abandons* NATO 北大西洋公约组织, 因为 *as* its European partners *slash*(v.)大幅度削减；大大降低 defence spending(n.) 目的状 *to prioritise*(v.)优先处理 economic recovery. Divisions(n.) between northern and southern members *prove too much* for the EU. The UN *goes(v.) the way of the League of Nations*, *failing to stop* rival powers *from* provoking(v.)挑衅；激怒；刺激 each other and, in the end, *fighting*.
+
+- buckle : /ˈbʌkl/ v. to become crushed or bent under a weight or force; to crush or bend sth in this way （被）压垮，压弯 / n. （皮带等的）搭扣，锁扣
+[ V ] +
+=> 来自拉丁词bucca, 下巴，脸颊。原指系在下巴上的帽子，搭扣。来自PIE *bheu, 膨胀，鼓起来，词源同bucket.
+.. The steel frames *began to buckle*(v.) under the strain. 钢架在重压下开始变形。
+( figurative )
+.. A weaker man *would have buckled*(v.) under the pressure. 意志薄弱的人在这种压力下可能就垮了。 +
+image:../../+ img_单词图片/b/buckle.jpg[100,100]
+
+- 噩梦般的情景是, 世界会陷入越来越严重的混乱。想象一下，在covid-19危机结束后，Guterres所说的灾难四骑士们会肆虐。任何的"世界能够唤起解决气候变化的意愿", 这些希望消失了。在压力下，原本基于规则来行事的国际机构, 崩溃了。毫无节制的保护主义扼杀了世贸组织。美国放弃了北约，因为它的欧洲伙伴们削减国防开支以优先考虑经济复苏。北方和南方成员国之间的分歧, 对欧盟来说太大了。联合国走的是国际联盟(League of Nations)的老路，未能阻止敌对国家间的相互挑衅，并最终导致争斗。
+
+
+While `such bedlam(n.)混乱嘈杂的场面；喧闹 *is possible*`, a likelier scenario *is less dramatic*: *bumbling(v.)笨手笨脚；跌跌撞撞 along*. ① Inertia 惯性 *helps* the main multilateral institutions 宾补 *survive*, despite `their inability(n.) *to modernise(v.)使（制度、方法等）现代化 themselves*`, ② and second-tier powers 二线大国 *keep co-operation alive*. Future American presidents *restore(v.)恢复（某种情况或感受） a degree of confidence* in the country’s commitment to the international order, although `主` the trauma 痛苦经历；挫折; 损伤；外伤 of transactional 交易型的；事务性的；事务处理的 Trumpism 特朗普主义 `谓` *casts a long shadow*. America’s return to the Paris agreement  *lends 给予，提供（帮助、支持等） weight 重要性；影响力；力量 to* efforts(n.) *to tackle* climate change.
+
+- bedlam => 来自于13世纪伦敦Hospital of Saint Mary of Bethlehem, 一所专门收治精神病人的医院。bedlam为Bethlehem的变体。
+
+- Trumpism : 特朗普主义,有两层含义：(1) 美国政客唐纳德·特朗普倡导的政策，特别是那些涉及抵制当前政治体制以及积极追求美国民族利益的政策。(2) 唐纳德·特朗普发表的有争议或令人震惊的声明。
+
+- lend : v. *~ sth (to sb/sth) | ~ (sb/sth) sth* to give or provide help, support, etc. 给予，提供（帮助、支持等）
+.. I was more than happy *to lend my support to* such a good cause. 我非常乐意给这样美好的事业提供援助。
+.. He came along *to lend me moral support*. 他来给予我精神上的支持。
+
+- 尽管这种(四骑士带来的)混乱是可能的，但更有可能出现的情况, 却并不那么戏剧化 -- 国际社会依然会向以前那样蹒跚前行。尽管主要多边机构, 无力实现自身的现代化，但惯性帮助它们生存下来，而二线大国则让合作得以延续。尽管交易型的特朗普主义, 造成的创伤很大, 但在"美国对国际秩序的承诺"这个问题上, 未来的美国总统, 在一定程度上恢复了人们对此的信心. 美国重返巴黎协定, 也有助于应对气候变化的努力。
+
+
+The tussle(n.)扭打，争斗，争执（尤指为了争得物品） between America and China *continues*. But America *makes* a more concerted 协调的；共同筹划决定的；同心协力的 counter-push 反推,反击；回击, *working with* its European and Asian allies, with `a revived 重新使用；使重做 championing 为…而斗争；捍卫；声援 of` universal values. [In many parts of the world] mistrust(n.) of China *runs deep*. Russia still *makes mischief*(n.)(伤害；毁损)搬弄是非；挑拨离间, but *less often*, 因为 since `a more coherent 连贯的;能把自己的意思说清楚的;(看法、思想、论点等)合乎逻辑的；有条理的；清楚易懂的 West` *gives it fewer opportunities*. The multipolar system *becomes less “chaotic” and more contained* 包含的,容纳的, *settling into* 安顿下来；习惯于（新居）；适应（新工作） an uneasy stalemate. Perhaps `this is enough *to keep* the four horsemen *in their stables*` 马厩.
+
+- tussle : /ˈtʌsl/ => 来自 tousle 拼写变体，来自 tease,拔羊毛，-le,表反复。引申词义扭打，争斗。
+
+- mischief : /ˈmɪstʃɪf/ n. 淘气；恶作剧；顽皮 / 恶意；使坏的念头 / ( formal ) harm or injury that is done to sb or to their reputation 伤害；毁损 +
+=> mis-,坏的，错的，不好的，-chief,头，词源同captain,chief.此处用于比喻义发生，露头，即坏事发生的苗头，不幸，厄运，恶意，伤害。后词义弱化为指小孩淘气，恶作剧。
+.. The incident *caused a great deal of political mischief*. 这一事件造成了严重的政治危害。 +
+image:../../+ img_单词图片/m/mischief.jpg[100,100]
+
+- *MAKE MISCHIEF* : to do or say sth deliberately to upset other people, or cause trouble between them 搬弄是非；挑拨离间
+
+- coherent +
+image:../../+ img_单词图片/c/coherent.jpg[100,100]
+
+
+- 中美之间的争斗仍在继续。但美国采取了更加协调一致的反击行动，与欧洲和亚洲盟友合作，重新拥护普世价值。世界上许多地方对中国的不信任很深。俄罗斯仍在挑拨离间，但已经不那么频繁了，因为一个更加协调的西方国家给了它更少的机会。多极体系变得不那么“混乱”，更加包容，以一种不稳定的状态存在了下来。也许这就足够把这四骑士关在马厩里了。
+
 
 Just possibly, extraordinary times could provide the jolt the world needs to be bolder
 
@@ -213,10 +292,14 @@ Such a prospect looks far-fetched when the world is consumed by the fight agains
 疯人院，装模作样还是胆大妄为?
 2020年6月20日|
 在今年1月的一次演讲中，古特雷斯用“四骑士”来描述世界面临的挑战。第一次是多年来最严重的地缘战略紧张，存在“大破裂”的切实风险。接下来，秘书长说，地球正在燃烧，一场生存危机已接近不可逆转的临界点。他的第三个“骑马者”表现为全球不信任加剧，往往会蔓延成仇恨，以及对不平等的不满，以及太多人感觉全球化没有发挥作用。最后，数字技术的阴暗面威胁着侵犯隐私，扰乱工作，并在战争中释放致命的自主机器。
-如果这还不够预示世界末日的话，第五个骑马者正在世界各地驰骋。新冠肺炎夺去了数十万人的生命，使世界陷入比2008-09年严重得多的衰退。更糟糕的是，如果这种病毒在返回富裕国家之前继续摧毁贫穷国家的话。作为回应，世界似乎失去了方向。各国领导人一直忙于在本国抗击疫情，对国际社会的努力没有多大兴趣。在联合国，安理会一直是旁观者。
-噩梦般的情景是陷入越来越严重的混乱。想象一下，在covid-19危机结束后，古特雷斯先生的骑士们会猖狂乱跑。任何希望世界能够鼓起决心来解决气候变化的希望都消失了。在压力下，维持了基于规则的体系的机构崩溃了。毫无节制的保护主义扼杀了世贸组织。美国放弃了北约，因为它的欧洲伙伴们削减国防开支以优先考虑经济复苏。北方和南方成员国之间的分歧对欧盟来说太大了。联合国走的是国际联盟(League of Nations)的老路，未能阻止敌对国家相互挑衅，最终导致冲突。
-尽管这种混乱是可能的，但更有可能出现的情况却不那么戏剧性:蹒跚前行。尽管主要多边机构无力实现自身现代化，但惯性帮助它们生存下来，而二线国家则让合作得以延续。未来的美国总统在一定程度上恢复了美国对国际秩序承诺的信心，尽管交易型特朗普主义的创伤留下了很长的阴影。美国重返巴黎协定有助于应对气候变化的努力。
-中美之间的争斗仍在继续。但美国采取了更加协调一致的反击行动，与欧洲和亚洲盟友合作，重新拥护普世价值。世界上许多地方对中国的不信任很深。俄罗斯仍在挑拨离间，但已经不那么频繁了，因为一个更加协调的西方国家给了它更少的机会。多极体系变得不那么“混乱”，更加包容，陷入一种令人不安的僵局。也许这就足够把这四个骑士关在马厩里了。
+如果这还不够预示世界末日的话，第五个骑士(危机)正在世界各地驰骋。新冠肺炎夺去了数十万人的生命，使世界陷入比2008-09年严重得多的衰退。如果这种病毒在传染回富裕国家之前, 继续在贫穷国家中肆虐的话, 那么情况就会更糟糕。对此，世界似乎失去了领导。各国领导人一直忙于在本国抗击疫情，对国际社会的努力没有多大兴趣。在联合国，安理会一直是旁观者。
+
+噩梦般的情景是, 世界会陷入越来越严重的混乱。想象一下，在covid-19危机结束后，Guterres所说的灾难四骑士们会肆虐。任何的"世界能够唤起解决气候变化的意愿", 这些希望消失了。在压力下，原本基于规则来行事的国际机构, 崩溃了。毫无节制的保护主义扼杀了世贸组织。美国放弃了北约，因为它的欧洲伙伴们削减国防开支以优先考虑经济复苏。北方和南方成员国之间的分歧, 对欧盟来说太大了。联合国走的是国际联盟(League of Nations)的老路，未能阻止敌对国家间的相互挑衅，并最终导致争斗。
+尽管这种(四骑士带来的)混乱是可能的，但更有可能出现的情况, 却并不那么戏剧化 -- 国际社会依然会向以前那样蹒跚前行。尽管主要多边机构, 无力实现自身的现代化，但惯性帮助它们生存下来，而二线大国则让合作得以延续。尽管交易型的特朗普主义, 造成的创伤很大, 但在"美国对国际秩序的承诺"这个问题上, 未来的美国总统, 在一定程度上恢复了人们对此的信心. 美国重返巴黎协定, 也有助于应对气候变化的努力。
+
+未来的美国总统, 在一定程度上恢复信心, 即美国会对国际秩序做出承诺，尽管交易型特朗普主义的创伤留下了很长的阴影。美国重返巴黎协定, 也有助于应对气候变化的努力。
+
+中美之间的争斗仍在继续。但美国采取了更加协调一致的反击行动，与欧洲和亚洲盟友合作，重新拥护普世价值。世界上许多地方对中国的不信任很深。俄罗斯仍在挑拨离间，但已经不那么频繁了，因为一个更加协调的西方国家给了它更少的机会。多极体系变得不那么“混乱”，更加包容，以一种不稳定的状态存在了下来。也许这就足够把这四骑士关在马厩里了。
 非常时期可能会给世界带来更大胆所需的震荡
 以这种方式蹒跚前行不会是最坏的结果。但这将是对危机的浪费。非常时期可能会给世界带来更大胆所需的震荡，尽管目前看来这似乎不太可能。在特朗普的领导下，美国几乎无法或根本无法发挥全球领导力。这场大流行把大多数其他问题抛在了一边:原定的有关气候变化和核不扩散等重大全球问题的会议被推迟。然而，延期或许是因祸得福，给了新思维一个机会。
 一些人已经看到了未来的机遇。在欧洲，马克龙意识到，提出大想法的时机可能已经成熟。英国的鲍里斯•约翰逊(Boris Johnson)总是欢迎有机会扮演丘吉尔(Churchill)。让新冠肺炎疫情后的经济更加绿色的想法正在涌现，人们也在关注如何让经济更加公平。或许中国可以被说服参与新一轮的核军备控制，这可以作为与俄罗斯重建关系的开始。
