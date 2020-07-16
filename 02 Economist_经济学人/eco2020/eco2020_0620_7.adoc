@@ -264,13 +264,24 @@ The claim *seemed wildly at odds with* （与…）有差异，相矛盾 another
 
 This scepticism 怀疑态度；怀疑主义, though, *is dogged*(v.)(问题或不幸)（长期）困扰，折磨，纠缠 by two misunderstandings 误解；误会. The first *is* the conviction 坚定的看法（或信念） that China’s rural-poverty line *must be* ridiculously 荒唐可笑地 stingy 小气的；吝啬的, *lower than* the global standard of $1.90 a day. The second is the belief, *inspired*  激励；鼓舞;赋予灵感；引起联想；启发思考 by Mr Li’s imprecise remarks, that 600m Chinese *live on* 1,000 yuan a month or less. Neither claim *is* true.
 
-[About a decade ago] China *drew* its rural poverty line *at* 2,300 yuan a year, or 6.3 yuan a day. `主` The World Bank’s most commonly used `global poverty line` `系` *is* $1.90 a day. Since 6.3 yuan *is worth* only about $0.90 [at today’s `exchange rate`], it *seems natural* 正常的；自然的；意料之中的 to think(v.) that `China’s poverty line` *is much lower than* the World Bank’s.
+[About a decade ago] China *drew* its `rural poverty line` *at* 2,300 yuan a year, or 6.3 yuan a day. `主` The World Bank’s most commonly used(a.) `global poverty line` `系` *is* $1.90 a day. Since 6.3 yuan *is worth* only about $0.90 [at today’s `exchange rate`], *it seems natural 正常的；自然的；意料之中的 to think(v.) that* China’s poverty line *is much lower than* the World Bank’s.
 
-Natural, but wrong. A fair comparison *must first note that* China and the World Bank *drew* their poverty lines *with* different years in mind. China’s line *is based on* the prices prevailing in 2010; the World Bank’s, on prices in 2011. China updates its line every year to reflect the inflation faced by the rural poor. In 2011 the threshold was 2,536 yuan, or 6.95 yuan a day.
+Natural, but wrong. A fair comparison *must first note that* China and the World Bank *drew* their poverty lines *with* different years [*in mind* 记住，考虑到，想到；在心里]. China’s line *is based on* the prices *prevailing* 普遍存在；盛行；流行 in 2010; the World Bank’s, on prices in 2011. China *updates*(v.) its line every year *to reflect* the inflation *faced by* the rural poor. In 2011 the threshold 门槛；门口;阈；界；起始点 *was* 2,536 yuan, or 6.95 yuan a day.
 
-That is still a meagre amount. But because prices tend to be lower in rural China than in America, 6.95 yuan stretches further than the equivalent amount of dollars would in America. So the yuan should be converted into dollars not at the market exchange rate, but at the purchasing-power-parity rate. That was 3.04 yuan per dollar in 2011, according to Martin Ravallion of Georgetown University, who helped set the World Bank’s line. Thus China’s rural-poverty line is equivalent to about $2.30 a day in 2011 purchasing-power-parity dollars, comfortably above the $1.90 global line. Indeed, the bank’s poverty count for China is lower than the government’s.
+- 会这么想很自然，但却是错误的。要进行公平的比较，首先必须注意到，中国和世界银行在制定贫困线时, 考虑的年份不同。中国的标准是基于2010年的现行价格；世界银行的标准是基于2011年的价格。中国每年都会更新其路线，以反映农村贫困人口面临的通胀。2011年的门槛是2536元，即每天6.95元。
 
-What about the second misunderstanding? After the furore caused by Mr Li’s comments, China’s National Bureau of Statistics tried to sort out the confusion this week. It pointed out that the 610m people living in the bottom 40% of China’s households had a monthly income per person of almost 1,000 yuan. In other words, if their combined income were divided equally between them, they would each receive roughly 1,000 yuan (ie, 3,000 yuan for a typical household of three). That is the basis for Mr Li’s statement. But it is different from saying that all of these 610m live on 1,000 yuan or less. Imagine a country of ten people, where the bottom four earn $1, $2, $3 and $4 a day, respectively. Their income per person is $2.50. But only two of them live on less than this amount. China’s leaders often quote official statistics that flatter the economy. But on this occasion, Mr Li’s comments unflattered to deceive.
+That is still a meagre 少量且劣质的 amount. But because prices *tend to be lower* in rural China *than* in America, 6.95 yuan *stretches 足够买（或支付） further than* the equivalent amount of dollars *would* in America. So the yuan *should be converted into* dollars *not at* the market exchange rate, *but at* the purchasing-power-parity 购买力平价 rate. That was 3.04 yuan per dollar in 2011, according to Martin Ravallion of Georgetown University, who *helped* set(v.) the World Bank’s line. Thus China’s rural-poverty line *is equivalent to* about $2.30 a day in 2011 purchasing-power-parity dollars, comfortably above the $1.90 global line. Indeed, `主` the bank’s poverty *count* for China `系` *is lower than* the government’s.
+
+- 这仍然是一个微不足道的数字。但由于中国农村的物价往往比美国低，6.95元人民币比美国的等值美元, 要能买更多的东西。因此，人民币不应该按照市场汇率兑换成美元，而应该按照"购买力平价"兑换。乔治城大学(Georgetown University)的马丁·拉瓦利安(Martin Ravallion)说，2011年, 1美元兑3.04元人民币，他帮助设定了世界银行的标准。因此，按2011年"购买力平价"美元计算，中国的农村贫困线, 相当于每天2.30美元，远远高于1.90美元的全球标准。事实上，世行对中国的贫困统计, 比政府的要低。
+
+
+What about the second misunderstanding? After the furore(n.)群情激愤；骚动；轰动 *caused by* Mr Li’s comments, China’s `National Bureau of Statistics` *tried to sort out 解决(问题);理清(细节) the confusion* this week. *It pointed out that* the 610m people living in the bottom 40% of China’s households *had a monthly income* per person of almost 1,000 yuan. In other words, if their `combined income` *were divided equally* between them, they *would each receive* roughly 1,000 yuan (ie, 3,000 yuan for a typical household of three). That is the basis 基础；要素；基点;原因；缘由 for Mr Li’s statement. But *it is different from saying that* all of these 610m *live on 1,000 yuan or less*. *Imagine* a country of ten people, where the bottom four *earn* $1, $2, $3 and $4 a day, respectively. Their income per person *is* $2.50. But only two of them *live on less than this amount*. China’s leaders *often quote* official statistics *that flatter(v.)使显得更漂亮；使胜过本人; 奉承；讨好；向…谄媚 the economy*. But on this occasion, Mr Li’s comments *unflattered* 不加掩饰 to deceive(v.)欺骗；蒙骗；诓骗.
+
+- furore :  /ˈfjʊrɔːr/ n. ( especially in NAmE furor   /ˈfjʊərɔː(r)/   ) *~ (about/over sth)* great anger or excitement shown by a number of people, usually caused by a public event 群情激愤；骚动；轰动 +
+-> *the recent furore(n.) over the tax* increases(v.) 近来因增税引起的骚动
+
+- 那第二个误会呢？在李总理的言论引起轩然大波后，中国国家统计局本周试图解释清混乱局面。它指出，生活在中国最底层40%的家庭中的6.1亿人, 其人均月收入接近1000元。换句话说，如果他们的总收入平均分配给他们，他们每人将获得大约1000元(即, 一个典型的三口之家的收入是3000元)。这就是李先生声明的基础。但这与说这6.1亿人全部靠1000元或更少的钱生活, 是不同的。想象一下，一个有十个人的国家，最底层的四个人每天分别挣1美元、2美元、3美元和4美元。他们的人均收入是2.50美元。但其中只有两个人的生活费, 低于这个数字。中国领导人经常引用官方数据来吹捧经济。但这一次，李先生的言论毫不掩饰地具有欺骗性。
+
 
 ---
 
@@ -299,10 +310,5 @@ What about the second misunderstanding? After the furore caused by Mr Li’s com
 
 
 
-大约十年前，中国将农村贫困线定为每年2300元，即每天6.3元。世界银行最常用的全球贫困线是每天1.9美元。由于按今天的汇率计算，6.3元人民币仅相当于0.9美元左右，因此认为中国的贫困线远低于世界银行的贫困线似乎是很自然的。
 
-这是正常的，但却是错误的。要进行公平的比较，首先必须注意到，中国和世界银行在制定贫困线时考虑的年份不同。中国的标准是基于2010年的现行价格；世界银行的标准是基于2011年的价格。中国每年都会更新其路线，以反映农村贫困人口面临的通胀。2011年的门槛是2536元，即每天6.95元。
 
-这仍然是一个微不足道的数字。但由于中国农村的物价往往比美国低，6.95元人民币比美国的等值美元要贵得多。因此，人民币不应该按照市场汇率兑换成美元，而应该按照购买力平价兑换。乔治城大学(Georgetown University)的马丁·拉瓦利安(Martin Ravallion)说，2011年1美元兑3.04元人民币，他帮助设定了世界银行的标准。因此，按2011年购买力平价美元计算，中国的农村贫困线相当于每天2.30美元，远远高于1.90美元的全球标准。事实上，世行对中国的贫困统计比政府的要低。
-
-那第二个误会呢？在李彦宏的言论引起轩然大波后，中国国家统计局本周试图理清混乱局面。报告指出，生活在中国最底层40%的家庭中的6.1亿人的人均月收入接近1000元。换句话说，如果他们的总收入平均分配给他们，他们每人将获得大约1000元(即一个典型的三口之家3000元)。这就是李先生声明的基础。但这与说这6.1亿人全部靠1000元或更少的钱生活是不同的。想象一下，一个有十个人的国家，最底层的四个人每天分别挣1美元、2美元、3美元和4美元。他们的人均收入是2.50美元。但其中只有两个人的生活费低于这个数字。中国领导人经常引用官方数据来吹捧经济。但这一次，李先生的言论毫不掩饰地具有欺骗性。
