@@ -366,7 +366,8 @@ That *was not* a complete surprise. `主` What *did surprise* her, though, `系`
 南希不确定该怎样看待米克的道歉。
 
 
-- 正如这个例子所表明的那样，要想正确地解开北极冰层、大气和海洋生物之间的相互作用，就需要全年地收集数据，这是因为, 两极的冬季和夏季之间的反差, 比地球上其他任何地方都要大。Polarstern号未被预料到的绕行，是以牺牲了其中一些数据的获取为代价的，但部分地, 作为补偿，探险队在冰上留下了几台自主运行的机器，以便在船不在期间能继续收集尽可能多的信息。幸运的是，这次远征考察, 得以挽救保留, 而没被放弃. 考察队得以完成了迄今为止最全面的关于北极及其对气候影响的研究。
+- 正如这个例子所表明的那样，要想正确地解开北极冰层、大气和海洋生物之间的相互作用，就需要全年地收集数据，这是因为, 两极的冬季和夏季之间的反差, 比地球上其他任何地方都要大。Polarstern号未被预料到的绕行，是以牺牲了其中一些数据的获取为代价的，但部分地, 作为补偿，探险队在冰上留下了几台自主运行的机器，以便在船不在期间能继续收集尽可能多的信息。幸运的是，这次远征考察, 得以挽救保留, 而没被放弃. 考察队得以完成了迄今为止最全面的关于北极及其对气候影响的研究。如果的确如此，船上的研究人员, 就度过了可想象到的最有工作成果的"封锁" -- 还没用到视频会议。
+
 
 ---
 
@@ -457,11 +458,4 @@ The link between the sea ice cracking and the release of potential cloud seeds s
 
 As this example shows, properly disentangling the interactions between Arctic ice, atmosphere and ocean life will require data collected across a full year—for the contrast between winter and summer at the poles is greater than anywhere else on the planet. Polarstern’s unexpected detour has come at the cost of some of these data, but in partial compensation the expedition left several autonomous machines on the ice, to continue harvesting as much information as possible during the ship’s absence. With luck, then, the expedition has been saved to finish what will be the most comprehensive study so far made of the Arctic and its influence on the climate. If that happens, the researchers on board will have had the most productive lockdown imaginable—with no Zoom involved.
 
-如果这的确如此, 船上的研究人员,
 
-
-
-
-如果这种情况发生，机上的研究人员将获得可想象的最有效的锁定——不涉及缩放。
-
-正如这个例子所表明的那样，适当地解开北极冰、大气和海洋生物之间的相互作用将需要收集一整年的数据-因为两极的冬季和夏季之间的反差比地球上任何其他地方都要大。北极星出人意料的绕道是以牺牲其中一些数据为代价的，但作为部分补偿，探险队在冰上留下了几台自动机器，以便在船不在期间继续收集尽可能多的信息。幸运的是，探险队得以得救，完成了迄今为止对北极及其对气候影响的最全面研究。如果发生这种情况，船上的研究人员将拥有可以想象到的最高效的锁定-不涉及变焦。
