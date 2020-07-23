@@ -1,0 +1,236 @@
+
+= eco 2020-06-27
+:toc:
+
+---
+
+==  Like a ton of bricks 词汇解说
+
+
+(eco 2020-6-27 / Finance & economics / Commercial property: Like a ton of bricks)
+
+*Is* investors’ love affair 事件；事情 with commercial property *ending*?
+
+After covid-19, the investment world *will become more discriminating* 有识别力的；有辨别力的；有鉴赏力的
+
+Jun 25th 2020 |
+
+- 就像一吨砖头 +
+投资者对商业地产的迷恋, 是否已经结束? +
+新冠肺炎疫情发生后，投资领域将更加具有鉴别力
+
+THE SECOND week of March *was* a heartbreaking 令人极度伤心的 one for Will Beckett. `主` The boss of Hawksmoor, a chain of steakhouses 牛排餐厅 that *employs*(v.)雇用 700 workers in Britain, `谓` *had been* days(n.) *away from* opening(v.) his first New York outpost 前哨（基地）. [Instead] government-imposed lockdowns *forced* him *to close* all his restaurants *down* （使）停业; （使）停产. The City types 具有某种特征的人；典型 that usually *queue （人、车等）排队等候 for* its sizzling 酷热的;热烈的；激情迸发的热烈的；激情迸发的 cuts(n.) （从动物躯体上）割下的一块肉 *were forced to go without*. So too *were* Mr Beckett’s landlords, after *he told them* he *could not afford to pay(v.) rent* for the second quarter. Most of his peers 身份（或地位）相同的人；同龄人；同辈, he says, *have also yet to square 贿赂；收买；买通 the bill*. Restaurateurs 餐馆老板；餐厅经理 *are likely to miss their payments* for the third quarter too.
+
+- sizzling : v. 发咝咝声 adj. 极热的，酷热的；/ very exciting 热烈的，激情迸发的 +
+-> a sizzling love affair 热烈的风流韵事
+
+- cut : n. a piece of meat cut from an animal （从动物躯体上）割下的一块肉 +
+-> a lean cut(n.) of pork 一块瘦猪肉
+
+- 3月的第二周对威尔·贝克特来说是令人心碎的一周。霍克穆尔是一家在英国雇佣700名工人的牛排连锁店，他距离开设他在纽约的第一家前哨餐厅只有几天时间了。然而, 政府强制的封锁迫使他停业了所有的餐厅。通常会排队等待其发出咝咝声音牛排的市民, 也被迫放弃前往。同样感到心痛的, 还有贝克特的房东，因为贝克特告诉他, 付不起第二季度的房租了。他说，他的大多数同行也还没有付清房租。餐馆老板可能在第三季度也毫无收入。
+
+
+Activity *is gradually restarting*. On June 23rd Boris Johnson, Britain’s prime minister, *said* he *would allow* restaurants *to re-open* on July 4th. `主` A moratorium(n.)暂停，中止（尤指经官方同意的） on repossessions(n.)（财产、商品等的）收回 , *introduced* in March, `谓` *has been extended to* September. Yet `social distancing` and `warier 小心翼翼的,谨慎的, cash-strapped 囊中羞涩,没有足够资本的,缺钱的 diners` *will squeeze* eateries’ 餐馆 margins. Jonathan Downey, who *runs street-food markets* in London, says the hospitality （款待客人、顾客等的）食物，饮料，服务；款待 industry 酒店业；服务业 *risks* “rent apocalypse”  大动乱；大灾变,天启.
+
+- moratorium : /ˌmɔːrəˈtɔːriəm/ n. (pl. -riums or -toria)
+*~ (on sth)* : a temporary stopping of an activity, especially by official agreement 暂停，中止（尤指经官方同意的） +
+=> 来自拉丁语morari,延迟，词源同demur.引申词义暂停，中止。 +
+->  The convention called for *a two-year moratorium* on commercial whaling. 会议呼吁两年内暂停商业捕鲸活动。
+
+- repossession : /ˌriːpəˈzeʃn/ n. [ UC ] the act of repossessing property, goods, etc. （财产、商品等的）收回 / [ C ] a house, car, etc. that has been repossessed 被收回的房子（或汽车等） +
+=> repossess : re-,向后，往回，possess,拥有，所有。
+.. families (*threatened with repossession*) 受到房子将被收回威胁的家庭
+
+- eatery : /ˈiːtəri/ => eat, 吃。-ery, 地点。
+
+- 商业活动正在逐渐恢复。6月23日，英国首相鲍里斯·约翰逊表示，他将允许餐馆在7月4日重新开业。从3月份开始的"暂停收回房屋(商铺?)"的规定, 已延长到9月份。然而，社交距离限制, 和(因疫情而)更加谨慎的，并收入大减的食客, 会压低餐馆的利润。在伦敦经营街头食品市场的乔纳森•唐尼(Jonathan Downey)表示，酒店业面临着“租金末日”的风险。
+
+
+Most people probably have more sympathy for chefs and waiters than for landlords. But many do not realise that payments made to commercial landlords are increasingly channelled towards their own pension pots or insurance claims. The global stock of investible commercial property—hotels, shops, offices and warehouses—has quadrupled since 2000, to $32trn (see chart 1). More than a third is owned by institutional investors, which piled in, lured by lucrative, solid returns.
+
+
+
+Covid-19 has upended the impression of solidity. Most immediately, it has severely impaired tenants’ ability to pay rent. It also raises questions about where shopping, work or leisure will happen once the crisis abates. Both are likely to prompt investors to become more discriminating. Some institutions may shift their funds away from riskier properties; other investors, meanwhile, might hunt for bargains, or seek to repurpose unfashionable stock.
+
+
+
+The infatuation with commercial property began in earnest after the global financial crisis of 2007-09. Interest rates were cut to almost zero across much of the rich world, making it harder to generate the safe cash flows that pension funds and insurers need to meet future liabilities. “Core” property—often in desirable places and needing little refurbishment—typically produced secure annual returns in the high single digits to low teens, mostly in the form of contractual, often inflation-adjusted, rent payments (see chart 2). Buying property allows investors to park vast sums of money—from tens of millions to billions of dollars—which they can forget about for years (commercial leases often last a decade or more). And the returns have been less volatile in crises than those from public equities and commodities.
+
+
+
+As a result both the numbers of institutional investors buying up property and the amounts they have allocated to it have risen since 2010 (see chart 3). A chunk is channelled through private property funds, which have raised $1.6trn since 2008, according to Private Equity Real Estate, a publication. All together, institutions hold about $6trn worth of assets privately, and $5trn through listed vehicles. Property is typically financed by helpings of debt, which accounts for just under half of the market’s value in America.
+
+Investors’ appetite has been met by a growing supply of assets. Since 2000, businesses ranging from burger chains to banks have spun out trillions of dollars of property they used to own to free up cash, often leasing it back immediately after divesting. Worldwide, offices and shops account for 61% of assets, though the share of commercial housing (ie, student housing and condominiums) and logistics assets has been rising.
+
+Shop till you drop
+
+By the start of this year there were signs of froth. Both offices and industrial properties (warehouses, chiefly) reached record prices at the turn of 2020. Retail-property prices had already peaked in 2018. Rent growth, however, had started to level off across most sectors. All this depressed yields, and returns had started to flag.
+
+Then the pandemic hit. As investors panicked, stockmarkets tumbled and property markets froze. Transaction volumes in May were down by about a third in the West and two-fifths in Asia, according to Real Capital Analytics, a data firm. The proportion of offers that fell through before completion doubled in Europe and rose sevenfold in America. Indices tracking listed trusts that invest in commercial property (dubbed REITs) cratered in March. Part of that might have reflected an indiscriminate sell-off of shares by investors rather than an ebbing taste for property. But benchmarks have recovered only about half their losses.
+
+Covid-19 jolts investors out of their complacency in two ways. First, swarms of tenants have simply stopped paying rent as the economy has reeled; the extent to which losses will persist is especially uncertain. Second, it may speed up long-term shifts within the sector: from shops, say, towards warehouses. Some types of property could become less bankable.
+
+Start with delinquency. As lockdowns shuttered shops and businesses, rent collections collapsed. Less than half of all tenants in Britain paid rent on time at the end of March; a quarter of it was still due seven weeks later, says Remit Consulting, a research firm. Hotels have been worst hit: with borders closed and travel restricted, average occupancy fell from 70% before the pandemic to a low of 15% in early April. In America, average revenue per room shrank by 84%, to $16 per night, in April. Stand-alone shops and shopping malls have also suffered. Collection rates have fallen below 50% on both sides of the Atlantic.
+
+Offices have proved sturdier. Firms that rent out co-working spaces on short-term leases have suffered. Other tenants, bound by decades-long leases, have continued to pay. Still, collection rates range between 57% in Britain and 90% in America. Late or missed rent payments in the double digits are hardly normal.
+
+
+
+The resulting lost rental income is likely to have passed through to missed mortgage payments. Many banks report losses with a lag and with limited detail, but delinquency rates on commercial-mortgage-backed securities (CMBS)—bundles of loans sold on capital markets—provide a barometer. In America this month they exceeded levels seen during the financial crisis (see chart 4). A fifth of debt payments on shopping properties are late; a quarter of those due on “lodgings”—including student housing, vacant since universities closed—have also been skipped.
+
+As activity resumes, properties are adapting, at some capital expense. Hotels are implementing contactless check-in, automatic doors and new cleaning routines. Offices are introducing temperature checks and reducing pinch points at lifts. Brian Kingston, who runs the property arm of Brookfield, a private-equity firm, says it is reorganising mall layouts and car parks to make kerbside pickup easier.
+
+But fresh outbreaks, or lingering fears of infection, could throttle the return to normality. Cash-poor and fearful, companies may limit business travel. Households may shun far-flung holidays and perhaps even shopping trips at home. That is bad news for hotels, restaurants and shops. Erin Stafford of DBRS Morningstar, a rating agency, reckons that, short of a fast recovery, half of America’s independent restaurants may go under.
+
+Such effects will be compounded as the vast support provided by governments is rolled back. Since March the authorities have propped up commercial tenants by paying employees’ wages, topping up business cash reserves, legislating against eviction, backstopping banks and reducing credit constraints. Most measures are set to expire within months. Coface, a trade-credit insurer, expects insolvencies to jump by a third worldwide by 2021. Landlords could find that rental income dries up just as lenders, tolerant thus far, lose patience. Without progress on a vaccine or a treatment over the next three to six months, says Michael Van Konynenburg of Eastdil Secured, a bank, “we’ll start to see more enforcement actions”.
+
+Bricks and mortal
+
+Further ahead, covid-19 will also make some types of commercial property less of a safe bet than others, by accelerating trends that were visible even before the coronavirus began to spread. The most obvious is the rise of online shopping. Since February the rich world has seen a surge in e-commerce activity. Many shoppers may choose to stick with the speed and convenience of click-and-deliver. In 2019 a record 9,300 bricks-and-mortar stores closed in America; Coresight Research, a data firm, says 15,000 could fold this year. JCPenney, a century-old department-store chain, went bust last month.
+
+Shopping malls, particularly those in the sticks, could be in trouble. On top of the reduced rent caused by shop closures, the vacating of department stores, which often act as “anchor” tenants, may give other stores the right to pay lower rents, or even to cancel lease agreements, says Aditya Sanghvi of McKinsey, a consultancy. A third of America’s 1,100 malls could end up being demolished. On June 23rd Intu, which owns shopping centres in Britain, appointed administrators.
+
+The pandemic’s effect on office space is less clear. Many workers may find that they quite like working from their bedrooms or kitchens. Others say they miss the camaraderie of the office. Social distancing may also force firms to spread out more, reversing a trend that saw office space per employee fall by half in a decade. If the net effect were a reduction in rented space, it could cause havoc. Victor Calanog of Moody’s, a rating agency, calculates that if tenants in New York gave up even 10% of their space over the next five years, it could result in a halving of rents sought on vacant properties.
+
+Meanwhile, the shift to remote shopping and working presents investment opportunities. Storage and distribution facilities remain geared towards industrial use rather than pick-and-pack. Brian Chinappi of Actis, a London-based private-equity firm, says the crisis has made it even hungrier for data centres, which it is now building in Asia and Africa.
+
+The writing on the wall
+
+Assessing the extent of potential losses from the crisis is hard. Britain’s financial watchdog thinks uncertainty on values is so strong that it has forced listed funds to suspend redemptions. Analysts canvassed by The Economist reckon property values will fall by less than 20% overall this year, and rents by 5-10%. That compares with falls of 25% and 10-20%, respectively, in 2008-09. But a lot depends on how long rent suspensions last. MSCI, an index provider, estimates that assets subject to a six-month rent holiday and a recession could lose 37% of their worth. REIT prices suggest retail properties could have further to fall.
+
+
+
+Booking losses
+
+Figuring out who will bear those losses is even tricker. Laws differ as to whether creditors or equity holders should get preferred treatment, with the former favoured in Europe and the latter better protected in America. Most important, ownership of property assets is “a big, complicated web” that cannot easily be untangled by outsiders, says a consultant. Property vehicles are often owned by large asset managers that aggregate pension-fund money from all over the world. Despite improvements in disclosures, private funds remain opaque. Lenders are not always best-in-class either. “Try getting a French bank to reveal its property-type breakdown for commercial real-estate lending,” says one analyst.
+
+What seems clear is that banks are in a sounder position than during the financial crisis. Loan-to-value ratios were below 60% at the end of 2019, compared with 70% in 2007, so there is more equity to absorb drops in values, says Richard Bloxam of JLL, a property consultancy. Banks’ capital buffers are bigger. In America CMBSs can catalyse credit crunches, because property lenders often use them as collateral to finance more loans. But these account for 15% of total property debt, down from over 50% in 2007. And they have held up well so far, thanks to purchases by the Federal Reserve. (The Fed’s programme, which excludes newly issued CMBSs, expires on September 30th.)
+
+A more diverse lending universe, though, means more entities are exposed to potential losses—including institutional investors, which have piled $235bn into specialist private property-debt funds since 2008. Some funds are already struggling to repay the short-term debt they have raised against long-dated assets. Bigger shocks may well occur when batches of loans mature. Britain faces a £43bn ($53bn) commercial-property refinancing wall in 2020-21; America’s is worth $2trn over the next five years.
+
+Such losses notwithstanding, investors’ love affair with commercial property is unlikely to be at an end. Interest rates in the rich world are close to zero, if not below it, and going nowhere. The spread between real-estate and government-bond yields is still alluring. Private-equity firms’ mountains of dry powder—now worth a third of assets under management, the highest since 2010—will put a floor under values. But those who once blindly piled in are likely to think twice. The result could be a more discerning investment approach. Institutional investors could become more cautious, favouring targets like housing blocks or prime offices that provide long-term secure income; more money seems to be chasing a shrinking pool of “defensive” assets, which could push prices up further and dampen yields. Some will hedge their bets. Alisa Mall of the Carnegie Corporation of New York, a $3.5bn endowment with a 10.5% allocation to property, says it wants to add generalist managers who can invest across sectors and geographies to its portfolio of “sharpshooter” specialists.
+
+Yet others, mostly private real-estate funds, hope to swoop on bargains (most public vehicles are trading below their underlying asset values). Craig Duffy of GLP, a private-equity firm based in Singapore with a vast portfolio of warehouses, says the firm has $7bn of dry powder to deploy, and hopes to raise another $8bn-9bn by the end of 2020. Some will focus on debt at a time when liquidity to stretched borrowers comes at a premium: Skardon Baker of Apollo, a firm that invests in distressed assets, says its European opportunistic fund has deployed €500m in the past 12 weeks.
+
+The big winners will probably be giant firms like Brookfield, which closed a $15bn fund last year, and Blackstone, which raised a record $20.5bn vehicle a few months later. They have war-chests allowing them to command price discounts by buying bundles of assets at once. And they are among the few firms with the development skills needed to turn buildings round. Ever greater demand for their services may allow them to charge hefty fees, on ever bigger sums. Pension funds and insurers are becoming warier of commercial property. But for private-equity barons it remains a giant moneymaker.
+
+---
+
+== Like a ton of bricks
+
+Is investors’ love affair with commercial property ending?
+
+After covid-19, the investment world will become more discriminating
+
+Jun 25th 2020 |
+
+
+THE SECOND week of March was a heartbreaking one for Will Beckett. The boss of Hawksmoor, a chain of steakhouses that employs 700 workers in Britain, had been days away from opening his first New York outpost. Instead government-imposed lockdowns forced him to close all his restaurants down. The City types that usually queue for its sizzling cuts were forced to go without. So too were Mr Beckett’s landlords, after he told them he could not afford to pay rent for the second quarter. Most of his peers, he says, have also yet to square the bill. Restaurateurs are likely to miss their payments for the third quarter too.
+
+Activity is gradually restarting. On June 23rd Boris Johnson, Britain’s prime minister, said he would allow restaurants to re-open on July 4th. A moratorium on repossessions, introduced in March, has been extended to September. Yet social distancing and warier, cash-strapped diners will squeeze eateries’ margins. Jonathan Downey, who runs street-food markets in London, says the hospitality industry risks “rent apocalypse”.
+
+Most people probably have more sympathy for chefs and waiters than for landlords. But many do not realise that payments made to commercial landlords are increasingly channelled towards their own pension pots or insurance claims. The global stock of investible commercial property—hotels, shops, offices and warehouses—has quadrupled since 2000, to $32trn (see chart 1). More than a third is owned by institutional investors, which piled in, lured by lucrative, solid returns.
+
+
+
+Covid-19 has upended the impression of solidity. Most immediately, it has severely impaired tenants’ ability to pay rent. It also raises questions about where shopping, work or leisure will happen once the crisis abates. Both are likely to prompt investors to become more discriminating. Some institutions may shift their funds away from riskier properties; other investors, meanwhile, might hunt for bargains, or seek to repurpose unfashionable stock.
+
+
+
+The infatuation with commercial property began in earnest after the global financial crisis of 2007-09. Interest rates were cut to almost zero across much of the rich world, making it harder to generate the safe cash flows that pension funds and insurers need to meet future liabilities. “Core” property—often in desirable places and needing little refurbishment—typically produced secure annual returns in the high single digits to low teens, mostly in the form of contractual, often inflation-adjusted, rent payments (see chart 2). Buying property allows investors to park vast sums of money—from tens of millions to billions of dollars—which they can forget about for years (commercial leases often last a decade or more). And the returns have been less volatile in crises than those from public equities and commodities.
+
+
+
+As a result both the numbers of institutional investors buying up property and the amounts they have allocated to it have risen since 2010 (see chart 3). A chunk is channelled through private property funds, which have raised $1.6trn since 2008, according to Private Equity Real Estate, a publication. All together, institutions hold about $6trn worth of assets privately, and $5trn through listed vehicles. Property is typically financed by helpings of debt, which accounts for just under half of the market’s value in America.
+
+Investors’ appetite has been met by a growing supply of assets. Since 2000, businesses ranging from burger chains to banks have spun out trillions of dollars of property they used to own to free up cash, often leasing it back immediately after divesting. Worldwide, offices and shops account for 61% of assets, though the share of commercial housing (ie, student housing and condominiums) and logistics assets has been rising.
+
+Shop till you drop
+
+By the start of this year there were signs of froth. Both offices and industrial properties (warehouses, chiefly) reached record prices at the turn of 2020. Retail-property prices had already peaked in 2018. Rent growth, however, had started to level off across most sectors. All this depressed yields, and returns had started to flag.
+
+Then the pandemic hit. As investors panicked, stockmarkets tumbled and property markets froze. Transaction volumes in May were down by about a third in the West and two-fifths in Asia, according to Real Capital Analytics, a data firm. The proportion of offers that fell through before completion doubled in Europe and rose sevenfold in America. Indices tracking listed trusts that invest in commercial property (dubbed REITs) cratered in March. Part of that might have reflected an indiscriminate sell-off of shares by investors rather than an ebbing taste for property. But benchmarks have recovered only about half their losses.
+
+Covid-19 jolts investors out of their complacency in two ways. First, swarms of tenants have simply stopped paying rent as the economy has reeled; the extent to which losses will persist is especially uncertain. Second, it may speed up long-term shifts within the sector: from shops, say, towards warehouses. Some types of property could become less bankable.
+
+Start with delinquency. As lockdowns shuttered shops and businesses, rent collections collapsed. Less than half of all tenants in Britain paid rent on time at the end of March; a quarter of it was still due seven weeks later, says Remit Consulting, a research firm. Hotels have been worst hit: with borders closed and travel restricted, average occupancy fell from 70% before the pandemic to a low of 15% in early April. In America, average revenue per room shrank by 84%, to $16 per night, in April. Stand-alone shops and shopping malls have also suffered. Collection rates have fallen below 50% on both sides of the Atlantic.
+
+Offices have proved sturdier. Firms that rent out co-working spaces on short-term leases have suffered. Other tenants, bound by decades-long leases, have continued to pay. Still, collection rates range between 57% in Britain and 90% in America. Late or missed rent payments in the double digits are hardly normal.
+
+
+
+The resulting lost rental income is likely to have passed through to missed mortgage payments. Many banks report losses with a lag and with limited detail, but delinquency rates on commercial-mortgage-backed securities (CMBS)—bundles of loans sold on capital markets—provide a barometer. In America this month they exceeded levels seen during the financial crisis (see chart 4). A fifth of debt payments on shopping properties are late; a quarter of those due on “lodgings”—including student housing, vacant since universities closed—have also been skipped.
+
+As activity resumes, properties are adapting, at some capital expense. Hotels are implementing contactless check-in, automatic doors and new cleaning routines. Offices are introducing temperature checks and reducing pinch points at lifts. Brian Kingston, who runs the property arm of Brookfield, a private-equity firm, says it is reorganising mall layouts and car parks to make kerbside pickup easier.
+
+But fresh outbreaks, or lingering fears of infection, could throttle the return to normality. Cash-poor and fearful, companies may limit business travel. Households may shun far-flung holidays and perhaps even shopping trips at home. That is bad news for hotels, restaurants and shops. Erin Stafford of DBRS Morningstar, a rating agency, reckons that, short of a fast recovery, half of America’s independent restaurants may go under.
+
+Such effects will be compounded as the vast support provided by governments is rolled back. Since March the authorities have propped up commercial tenants by paying employees’ wages, topping up business cash reserves, legislating against eviction, backstopping banks and reducing credit constraints. Most measures are set to expire within months. Coface, a trade-credit insurer, expects insolvencies to jump by a third worldwide by 2021. Landlords could find that rental income dries up just as lenders, tolerant thus far, lose patience. Without progress on a vaccine or a treatment over the next three to six months, says Michael Van Konynenburg of Eastdil Secured, a bank, “we’ll start to see more enforcement actions”.
+
+Bricks and mortal
+
+Further ahead, covid-19 will also make some types of commercial property less of a safe bet than others, by accelerating trends that were visible even before the coronavirus began to spread. The most obvious is the rise of online shopping. Since February the rich world has seen a surge in e-commerce activity. Many shoppers may choose to stick with the speed and convenience of click-and-deliver. In 2019 a record 9,300 bricks-and-mortar stores closed in America; Coresight Research, a data firm, says 15,000 could fold this year. JCPenney, a century-old department-store chain, went bust last month.
+
+Shopping malls, particularly those in the sticks, could be in trouble. On top of the reduced rent caused by shop closures, the vacating of department stores, which often act as “anchor” tenants, may give other stores the right to pay lower rents, or even to cancel lease agreements, says Aditya Sanghvi of McKinsey, a consultancy. A third of America’s 1,100 malls could end up being demolished. On June 23rd Intu, which owns shopping centres in Britain, appointed administrators.
+
+The pandemic’s effect on office space is less clear. Many workers may find that they quite like working from their bedrooms or kitchens. Others say they miss the camaraderie of the office. Social distancing may also force firms to spread out more, reversing a trend that saw office space per employee fall by half in a decade. If the net effect were a reduction in rented space, it could cause havoc. Victor Calanog of Moody’s, a rating agency, calculates that if tenants in New York gave up even 10% of their space over the next five years, it could result in a halving of rents sought on vacant properties.
+
+Meanwhile, the shift to remote shopping and working presents investment opportunities. Storage and distribution facilities remain geared towards industrial use rather than pick-and-pack. Brian Chinappi of Actis, a London-based private-equity firm, says the crisis has made it even hungrier for data centres, which it is now building in Asia and Africa.
+
+The writing on the wall
+
+Assessing the extent of potential losses from the crisis is hard. Britain’s financial watchdog thinks uncertainty on values is so strong that it has forced listed funds to suspend redemptions. Analysts canvassed by The Economist reckon property values will fall by less than 20% overall this year, and rents by 5-10%. That compares with falls of 25% and 10-20%, respectively, in 2008-09. But a lot depends on how long rent suspensions last. MSCI, an index provider, estimates that assets subject to a six-month rent holiday and a recession could lose 37% of their worth. REIT prices suggest retail properties could have further to fall.
+
+
+
+Booking losses
+
+Figuring out who will bear those losses is even tricker. Laws differ as to whether creditors or equity holders should get preferred treatment, with the former favoured in Europe and the latter better protected in America. Most important, ownership of property assets is “a big, complicated web” that cannot easily be untangled by outsiders, says a consultant. Property vehicles are often owned by large asset managers that aggregate pension-fund money from all over the world. Despite improvements in disclosures, private funds remain opaque. Lenders are not always best-in-class either. “Try getting a French bank to reveal its property-type breakdown for commercial real-estate lending,” says one analyst.
+
+What seems clear is that banks are in a sounder position than during the financial crisis. Loan-to-value ratios were below 60% at the end of 2019, compared with 70% in 2007, so there is more equity to absorb drops in values, says Richard Bloxam of JLL, a property consultancy. Banks’ capital buffers are bigger. In America CMBSs can catalyse credit crunches, because property lenders often use them as collateral to finance more loans. But these account for 15% of total property debt, down from over 50% in 2007. And they have held up well so far, thanks to purchases by the Federal Reserve. (The Fed’s programme, which excludes newly issued CMBSs, expires on September 30th.)
+
+A more diverse lending universe, though, means more entities are exposed to potential losses—including institutional investors, which have piled $235bn into specialist private property-debt funds since 2008. Some funds are already struggling to repay the short-term debt they have raised against long-dated assets. Bigger shocks may well occur when batches of loans mature. Britain faces a £43bn ($53bn) commercial-property refinancing wall in 2020-21; America’s is worth $2trn over the next five years.
+
+Such losses notwithstanding, investors’ love affair with commercial property is unlikely to be at an end. Interest rates in the rich world are close to zero, if not below it, and going nowhere. The spread between real-estate and government-bond yields is still alluring. Private-equity firms’ mountains of dry powder—now worth a third of assets under management, the highest since 2010—will put a floor under values. But those who once blindly piled in are likely to think twice. The result could be a more discerning investment approach. Institutional investors could become more cautious, favouring targets like housing blocks or prime offices that provide long-term secure income; more money seems to be chasing a shrinking pool of “defensive” assets, which could push prices up further and dampen yields. Some will hedge their bets. Alisa Mall of the Carnegie Corporation of New York, a $3.5bn endowment with a 10.5% allocation to property, says it wants to add generalist managers who can invest across sectors and geographies to its portfolio of “sharpshooter” specialists.
+
+Yet others, mostly private real-estate funds, hope to swoop on bargains (most public vehicles are trading below their underlying asset values). Craig Duffy of GLP, a private-equity firm based in Singapore with a vast portfolio of warehouses, says the firm has $7bn of dry powder to deploy, and hopes to raise another $8bn-9bn by the end of 2020. Some will focus on debt at a time when liquidity to stretched borrowers comes at a premium: Skardon Baker of Apollo, a firm that invests in distressed assets, says its European opportunistic fund has deployed €500m in the past 12 weeks.
+
+The big winners will probably be giant firms like Brookfield, which closed a $15bn fund last year, and Blackstone, which raised a record $20.5bn vehicle a few months later. They have war-chests allowing them to command price discounts by buying bundles of assets at once. And they are among the few firms with the development skills needed to turn buildings round. Ever greater demand for their services may allow them to charge hefty fees, on ever bigger sums. Pension funds and insurers are becoming warier of commercial property. But for private-equity barons it remains a giant moneymaker.
+
+
+
+
+大多数人可能更同情厨师和服务员，而不是房东。但许多人没有意识到，支付给商业房东的款项正越来越多地流向他们自己的养老基金或保险索赔。可投资的商业地产——酒店、商店、办公室和仓库——的全球存量自2000年以来已经翻了四倍，达到32万亿美元(见表1)。超过三分之一的资产为机构投资者所有，他们被丰厚、稳定的回报吸引而蜂拥而入。
+Covid-19颠覆了人们对疫情稳定的印象。最直接的影响是，它严重损害了租户的支付能力。它还提出了这样一个问题:一旦危机消退，人们将在哪里购物、工作或休闲。这两种情况都可能促使投资者变得更具鉴别力。一些机构可能会将资金从风险较高的房地产中转移;与此同时，其他投资者可能会逢低吸纳，或将不受欢迎的股票作为投资目标。
+对商业地产的迷恋始于2007-09年全球金融危机之后。许多富裕国家的利率几乎降到了零，这使得养老基金和保险公司难以产生安全的现金流来支付未来的债务。“核心”property-often可取的地方,需要小refurbishment-typically安全生产年回报率高个位数的青少年较低,主要是在合同的形式,通常经通胀调整后,租金(见图表2)。买房允许投资者公园巨额资金从数千万到数十亿美元,他们可以忘记多年(商业租赁往往持续10年或更多)。而且，在危机中，回报率的波动性要小于公开发行的股票和大宗商品。
+因此，自2010年以来，购买房产的机构投资者数量和他们所配置的房产数量都在上升(见表3)。其中很大一部分是通过私人房地产基金筹集的，据一份出版物《私人股本房地产》(private Equity Real Estate)称，自2008年以来，这些基金已经筹集了1.6万亿美元。机构私人持有的资产总计约为6万亿美元，通过上市工具持有的资产为5万亿美元。房地产通常是通过债务融资的，这占美国房地产市场价值的近一半。
+不断增加的资产供应满足了投资者的需求。自2000年以来，从汉堡连锁店到银行，各行各业已经剥离了价值数万亿美元的资产来释放现金，通常在剥离后立即将其租回来。在全球范围内，写字楼和商铺占据了61%的资产，尽管商品房(即学生公寓和公寓)和物流资产的份额一直在上升。
+
+
+买到你买不动为止
+今年年初出现了泡沫的迹象。办公楼和工业地产(主要是仓库)在2020年达到了历史最高价格。零售地产价格已经在2018年见顶。然而，大多数行业的租金增长已开始趋于平稳。所有这些压低了收益率，回报率也开始下降。
+然后大流行爆发了。随着投资者的恐慌，股票市场暴跌，房地产市场冻结。数据公司Real Capital Analytics的数据显示，5月份西方的交易量下降了约三分之一，亚洲下降了五分之二。在欧洲，未能完成的收购比例翻了一番，在美国则上升了7倍。追踪上市的投资于商业地产的信托基金(被称为REITs)的指数在3月份出现了暴跌。这在一定程度上可能反映了投资者不分青红皂白地抛售股票，而不是对房地产的兴趣减退。但基准股指仅收复了约一半的失地。
+Covid-19从两个方面动摇了投资者的自满情绪。首先，由于经济不景气，大批租户干脆停止支付租金;损失将持续到何种程度尤其不确定。其次，它可能加速该行业内部的长期转变:比如从商店向仓库的转变。某些类型的财产可能变得不那么有价值。
+从犯罪开始。由于关闭关闭了商店和企业，租金大幅下降。3月底，英国只有不到一半的租户按时支付了租金;一家研究公司称，其中四分之一的债务在七周后仍未到期。酒店遭受的打击最为严重:由于边境关闭和旅行限制，平均入住率从大流行前的70%下降到4月初15%的低点。在美国，每个房间的平均收入在4月份下降了84%，只有每晚16美元。独立的商店和购物中心也受到了影响。大西洋两岸的收费率已经下降到50%以下。
+事实证明，办公室更加坚固。以短期租约出租共同办公空间的公司遭受了损失。其他受数十年租约约束的租户仍在继续支付租金。尽管如此，英国的收费率还是在57%到美国的90%之间。拖欠或错过两位数的租金并不正常。
+由此造成的租金收入损失很可能会转嫁到抵押贷款的拖欠上。许多银行报告亏损的时间滞后且细节有限，但商业抵押贷款支持证券(CMBS)——在资本市场上出售的贷款组合——的拖欠率提供了一个晴雨表。在美国，这个月的债务超过了金融危机期间的水平(见表4)。四分之一的“住宿”——包括因大学关闭而空置的学生宿舍——也被跳过。
+随着经济活动恢复，房地产行业正在调整，但需要付出一定的资本成本。酒店正在实施非接触式入住、自动门和新的清洁程序。办公室正在引入温度检查，并减少电梯的夹点。布莱恩·金斯顿(Brian Kingston)经营着一家私募股权公司布鲁克菲尔德(Brookfield)的房地产部门。他说，该公司正在重组商场布局和停车场，以便于在路边接车。
+但是，新的疫情爆发，或者对感染的持续担忧，可能会阻碍疫情恢复正常。现金短缺和担心，公司可能会限制商务旅行。家庭可能会避开遥远的假期，甚至在家购物。这对酒店、餐馆和商店来说是个坏消息。DBRS晨星(一家评级机构)的艾琳•斯塔福德(Erin Stafford)认为，如果不能快速复苏，一半的美国独立餐馆可能会倒闭。
+随着各国政府提供的大量支持逐渐减少，这种影响将更加严重。自今年3月以来，当局通过支付员工工资、充实企业现金储备、立法禁止拆迁、支持银行和减少信贷约束等方式支撑着商业租户。大多数措施将在几个月内到期。贸易信用保险公司Coface预计，到2021年全球破产将跃升三分之一。房东可能会发现，租金收入正在枯竭，就像迄今宽容的放贷者失去耐心一样。Eastdil Secured银行的Michael Van Konynenburg说，如果在未来三到六个月内疫苗或治疗方面没有进展，“我们将开始看到更多的执法行动”。
+
+砖和凡人
+进一步说，covid-19还将加速甚至在冠状病毒开始传播之前就已可见的趋势，从而使某些类型的商业地产变得不如其他地产安全。最明显的就是网上购物的兴起。自2月份以来，发达国家的电子商务活动激增。许多购物者可能会选择继续使用快捷方便的“点击-送货”方式。2019年，美国有9300家实体店关闭;数据公司Coresight Research表示，今年15000人的数量可能会翻倍。拥有百年历史的连锁百货公司JCPenney上月破产。
+购物中心，尤其是那些生活在偏远地区的购物中心，可能会陷入困境。麦肯锡咨询公司的Aditya Sanghvi说，除了商店关闭导致的租金下降之外，作为“锚”租户的百货公司的空出可能会给其他商店更低的租金，甚至取消租赁协议的权利。美国1100家购物中心中，有三分之一可能最终被拆除。6月23日，在英国拥有购物中心的Intu任命了管理者。
+大流行对办公场所的影响尚不清楚。许多员工可能会发现他们非常喜欢在卧室或厨房工作。其他人说他们怀念办公室里的同志情谊。社交距离可能还会迫使公司扩大办公范围，扭转过去10年里每位员工办公面积减少一半的趋势。如果净效应是出租空间的减少，它可能会造成严重破坏。评级机构穆迪的维克多•卡拉诺估计，如果纽约的租户在未来五年内放弃哪怕是10%的空间，那么空置房产的租金就会减半。
+与此同时，向远程购物和工作的转变带来了投资机会。储存和配送设施仍然面向工业用途，而不是挑选和包装。总部位于伦敦的私募股权公司英联投资的Brian Chinappi说，经济危机使得他们更加渴望在亚洲和非洲建立数据中心。
+不祥之兆
+评估这场危机的潜在损失程度是困难的。英国金融监管机构认为，价值的不确定性如此强烈，以至于它已迫使上市基金暂停赎回。经《经济学人》咨询的分析师估计，今年整体房价将下跌不到20%，租金将下跌5-10%。相比之下，2008-09年的降幅分别为25%和10-20%。但这在很大程度上取决于停租时间的长短。指数提供商摩根士丹利资本国际(MSCI)估计，六个月的租期和经济衰退可能导致资产缩水37%。房地产投资信托基金的价格表明，零售地产价格可能还会进一步下跌。
+预订的损失
+弄清楚谁将承担这些损失就更棘手了。在债权人和股权持有者应该得到优先待遇这一问题上，法律存在分歧，前者在欧洲更受青睐，后者在美国得到更好的保护。一位顾问说，最重要的是，房地产资产的所有权是“一个庞大而复杂的网络”，不可能轻易被外人解开。房地产工具通常由大型资产管理公司拥有，这些公司汇集了来自世界各地的养老基金资金。尽管披露有所改善，但私人基金仍不透明。贷方也不总是一流的。“试着让一家法国银行公布其商业房地产贷款的房地产类型分类，”一位分析师说。
+有一点似乎很清楚，银行的处境比金融危机期间更加稳固。房地产咨询公司仲量行(JLL)的Richard Bloxam说，与2007年的70%相比，2019年底贷款价值比低于60%，因此有更多的股本来吸收价值的下降。银行的资本缓冲更大。在美国，CMBSs可以催化信贷紧缩，因为房地产贷款人经常用它们作为抵押来提供更多的贷款。但这些占了总房地产债务的15%，低于2007年的50%。到目前为止，由于美联储(Federal Reserve)的购买，股市表现良好。(美联储的计划不包括新发行的CMBSs，将于9月30日到期。)
+然而，更加多样化的贷款领域意味着更多的实体暴露在潜在的损失之下——包括机构投资者，自2008年以来，机构投资者已经向专业的私人房产债务基金投入了2350亿美元。一些基金已经难以偿还它们以长期资产为抵押而筹集的短期债务。当一批贷款到期时，更大的冲击很可能发生。2020-21年，英国将面临430亿英镑(530亿美元)的商业地产再融资障碍;未来5年，美国的资产价值将达到2万亿美元。
+
+
+发达国家的利率即使没有低于零，也接近于零，而且没有任何发展。房地产和政府债券之间的息差仍然诱人。私募股权公司堆积如山的“干粉”——目前已占其管理资产的三分之一，为2010年以来的最高水平——将为其价值提供支撑。但那些曾经盲目涌入的人可能会三思而行。其结果可能是一种更具鉴别力的投资方式。机构投资者可能会变得更加谨慎，偏爱提供长期稳定收入的住宅小区或主要办公楼等目标;更多的资金似乎在追逐缩水的“防御性”资产，这可能进一步推高价格并抑制收益。一些人会对冲他们的赌注。纽约卡耐基基金会(Carnegie Corporation of New York)的艾丽莎•商城(Alisa Mall)表示，希望在其“神射手”专家组合中增加能够跨行业和地域投资的多能型经理人。卡耐基基金会的捐款规模为35亿美元，其中房地产投资占10.5%。
+最大的赢家可能是布鲁克菲尔德(Brookfield)和百仕通(Blackstone)这样的大公司。布鲁克菲尔德去年关闭了一只150亿美元的基金，而百仕通几个月后又筹集了创纪录的205亿美元。他们有充足的资金，可以通过一次性购买大量资产获得价格折扣。他们是为数不多的拥有扭转建筑困境所需的开发技能的公司之一。对他们服务的更大需求可能会让他们收取更大金额的高额费用。养老基金和保险公司对商业地产越来越谨慎。但对于私募巨头来说，它仍然是一个巨大的赚钱机器。
+
