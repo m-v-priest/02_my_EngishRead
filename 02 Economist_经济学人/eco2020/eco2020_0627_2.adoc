@@ -46,43 +46,184 @@ Activity *is gradually restarting*. On June 23rd Boris Johnson, Britain’s prim
 - 商业活动正在逐渐恢复。6月23日，英国首相鲍里斯·约翰逊表示，他将允许餐馆在7月4日重新开业。从3月份开始的"暂停收回房屋(商铺?)"的规定, 已延长到9月份。然而，社交距离限制, 和(因疫情而)更加谨慎的，并收入大减的食客, 会压低餐馆的利润。在伦敦经营街头食品市场的乔纳森•唐尼(Jonathan Downey)表示，酒店业面临着“租金末日”的风险。
 
 
-Most people probably have more sympathy for chefs and waiters than for landlords. But many do not realise that payments made to commercial landlords are increasingly channelled towards their own pension pots or insurance claims. The global stock of investible commercial property—hotels, shops, offices and warehouses—has quadrupled since 2000, to $32trn (see chart 1). More than a third is owned by institutional investors, which piled in, lured by lucrative, solid returns.
+Most people probably *have more sympathy(n.)同情 for* chefs 厨师；（尤指餐馆、饭店等的）主厨，厨师长 and waiters （餐馆等的）服务员，侍者 *than for* landlords. But many *do not realise that* `主` payments *made to* commercial landlords `谓` *are increasingly channelled （利用某途径）输送资金，提供帮助 towards* their own `pension pots` （某种用途的）容器 or `insurance claims` 保险索赔. The global stock of investible commercial property -- hotels, shops, offices and warehouses -- *has quadrupled*  （使）变为四倍 since 2000, *to* $32trn (see chart 1). More than a third *is owned by* institutional 机构的；慈善机构的 investors, which *piled (许多人)蜂拥至；拥挤到 in*, *lured* 劝诱；引诱；诱惑 by lucrative  赚大钱的；获利多的, solid 可靠的；可信赖的；坚实的;连续的；不间断的；整整的 returns.
+
+- lucrative : /ˈluːkrətɪv/
+
+- solid : a. ( informal ) without a pause; continuous 连续的；不间断的；整整的 +
+-> It rained *for two hours solid*(a.) this afternoon. 今天下午连着下了两个小时的雨。
+
+- 大多数人可能更同情厨师和服务员，而不是房东。但许多人没有意识到，支付给商业房东的款项, 正越来越多地流向他们自己的养老金罐或保险索赔上。全球可投资的商业地产的存量--酒店、商店、写字楼和仓库--自2000年以来已经翻了四倍，达到32万亿美元(见表1)。超过三分之一的资产为机构投资者所有，他们被丰厚、稳定的回报吸引, 而蜂拥而入。
+
+
+Covid-19 *has upended* 翻倒；倒放；使颠倒 the impression of solidity 固态；坚固性；可靠性. Most immediately  立即；马上；即刻, it *has severely impaired*(v.)损害；削弱 tenants’ 房客；租户；佃户 ability *to pay rent*. *It also raises questions about* where shopping, work or leisure *will happen* [once the crisis *abates* （使）减弱，减退，减轻，减少]. Both *are likely to prompt* investors *to become more discriminating* 有识别力的；有辨别力的；有鉴赏力的. Some institutions *may shift* their funds *away from* riskier properties; other investors, meanwhile, *might hunt for* 搜寻；搜索;追踪；追捕 bargains 减价品；便宜货, or *seek to repurpose*(v.)（为适合新用途）对…稍加修改，略微改动 unfashionable 不时兴的；不时髦的；过时的 stock 股份；股票;公债；公债券.
+
+- impair => im-,进入，使，-pair,缩写自pejorative,更坏的，贬低的。即进一步贬低的，引申词义损伤，伤害。
+
+- abate => 前缀a-同ad-. -bate同beat, 指打压下去。
+
+- Covid-19颠覆了人们认为生活会稳定的印象。最直接的影响是，它严重损害了租户的支付能力。它也提出了这个问题:一旦危机消退，人们将在哪里购物、工作或休闲。这两个问题都能促使投资者更多去思考, 变得更具鉴别力。一些机构可能会将资金, 从风险较高的房地产中转移; 与此同时，其他投资者可能会寻找更便宜的投资品, 逢低吸纳，或调整不受欢迎的股票组合。
+
+
+The infatuation （尤指一时的）热恋，痴迷 with commercial property *began [in earnest]* （更加）严肃地，认真地，坚定地; 郑重其事；当真  after the global financial crisis of 2007-09. Interest rates 利息,利率 *were cut to almost zero* across much of the rich world, *making it harder to generate the safe cash flows* that pension funds and insurers *need to meet(v.)支付；偿付;满足；使满意 future liabilities* 欠债；负债；债务. “Core” property -- often in desirable places and *needing* little refurbishment 翻新; 整修 -- *typically produced* secure annual returns *in the high single digits 高个位数 to low teens* 十几岁（13至19岁之间）, mostly `*in the form of* contractual(a.) 合同的；契约的；按合同（或契约）规定的, often inflation-adjusted 扣除物价上涨(通货膨胀)因素的,是去除通胀后的实际数据, rent payments` (see chart 2). Buying property *allows* investors *to park 停放（车）；放置；寄存 vast sums of money* -- *from* tens of millions *to* billions 数十亿 of dollars -- which they *can forget about* for years (commercial leases （房屋、设备或土地的）租约，租契 *often last(v.) a decade or more*). And the returns *have been less volatile*(a.)(情况)可能急剧波动的；不稳定的；易恶化的 in crises *than* those from public equities 股票 and commodities 商品.
+
+- infatuation : /ɪnˌfætʃuˈeɪʃn/ n. *~ (with/for sb/sth)* very strong feelings of love or attraction for sb/sth, especially when these are unreasonable and do not last long （尤指一时的）热恋，痴迷 +
+=> in-,进入，使，fatuous,愚蠢的，傻的。用于指犯傻的，迷恋的，痴迷的。
+
+- earnest  : /ˈɜːrnɪst/ a. very serious and sincere 非常认真的；诚实的；真诚的
+.. Despite *her earnest efforts*, she could not find a job. 尽管她已尽心竭力，但是仍然找不到工作。
+
+- *IN EARNEST* :
+(1) more seriously and with more force or effort than before （更加）严肃地，认真地，坚定地 +
+-> The work on the house *will begin [in earnest]* on Monday. 这栋房子的修建工作将在星期一正式开始。 +
+(2) very serious and sincere about what you are saying and about your intentions; in a way that shows that you are serious 郑重其事；当真 +
+-> You may laugh *but I'm in deadly earnest* . 你可以笑，不过我可是正经八百的。
+
+- meet : [ VN ] to pay sth 支付；偿付
+.. The cost *will be met by the company*. 费用将由公司支付。
+
+- refurbishment :/ˌriːˈfɜːrbɪʃmənt/ N-UNCOUNT The refurbishment of something is the act or process of cleaning it, decorating it, and providing it with new equipment or facilities. 翻新; 整修 +
+=> re-,再，重新，furbish,磨光，擦亮。
+
+- 高个位数: 就是比较大个位数,如7% 8% 9%,但不会超过10% +
+低个位数: 就是2% 3% 4%之类的
+
+- teens一般是从13开始到19的，teenage也是13-19岁的少年男女.
+.. low teens : 13-14
+.. mid teens : 15-16
+.. high teens : 17-19
+
+- volatile :  /ˈvɑːlətl/  a. ( of a situation 情况 ) likely to change suddenly; easily becoming dangerous 可能急剧波动的；不稳定的；易恶化的  +
+/ ( often disapproving ) ( of a person or their moods 人或其情绪 ) changing easily from one mood to another 易变的；无定性的；无常性的  +
+/ ( technical 术语 ) ( of a substance 物质 ) that changes easily into a gas (物质)易挥发的；易发散的 +
+=> 来自拉丁语 volare,飞，可能来自 will,意愿，引申词义浮动的，挥发的。
+.. *a highly volatile situation* from which riots might develop 可能会出现动乱的极不稳定的局势
+.. *a volatile exchange rate* 剧烈波动的汇率 +
+image:../../+ img_单词图片/v/volatile.jpg[100,100]
+
+- 对商业地产的迷恋, 始于2007-09年全球金融危机之后。许多富裕国家的利率几乎降到了零，这使得养老基金和保险公司难以产生安全的现金流, 来支付未来的债务。“核心”房产通常位于理想的地段，而且几乎不需要翻修，通常会产生的年回报率, 从高个位数(8,9%)到低十几位数(13,14%)，并且主要是以合同形式来支付租金的，而且是随着通胀调整的(见表2)。购买房产可以让投资者寄存巨额资金--从数千万美元到数十亿美元--他们可以多年不用在乎这一点(商业租赁通常会持续十年或更长时间)。而且，在危机中，投资房产的回报率的波动性, 要小于公开发行的股票和大宗商品。
+
+
+[As a result] `主` *both* the numbers of `institutional investors` (*buying up* 全部（或尽量）买下某物；收购 property) *and* the amounts (they *have allocated 拨…（给）；划…（归）；分配…（给） to* it) `谓` *have risen* since 2010 (see chart 3). A chunk  相当大的量;厚块；厚片；大块 *is channelled （利用某途径）输送资金，提供帮助 through* `private property funds`, which *have raised $1.6trn* since 2008, according to `Private Equity Real Estate`, a publication. All together 一起,总共, institutions *hold* about $6trn worth of assets *privately*, and $5trn *through* `listed(a.)使 (公司) 上市; (公司) 上市 vehicles` （赖以表达思想、感情或达到目的的）手段，工具. Property *is typically financed by* helpings(n.) of debt, which *accounts for* just `under half of` the market’s value in America.
+
+- channel : v. *~ sth (through sth)* to send money, help, etc. using a particular route （利用某途径）输送资金，提供帮助
+
+- 因此，自2010年以来，购买房地产的机构投资者数量, 和他们分配给房地产的投资金额, 都有所上升(见表3)。根据出版物“私募股权房地产”(Private Equity Real Estate)的数据，其中一大部分是通过私人房地产基金进行的，自2008年以来，这些基金已经筹集了1.6万亿美元。机构私下持有的资产总额约为6万亿美元，通过上市工具持有的资产总额为5万亿美元。房地产通常是通过债务融资的，在美国，债务只占市场价值的不到一半。
+
+Investors’ appetite *has been met* by a growing supply of assets. Since 2000, `主` businesses *ranging from* burger 汉堡包 chains(n.) *to* banks `谓` *have spun out* （从现有公司中） 剥离出，独立，分立; 拖长; 拉长 trillions of dollars of property (they *used to own*)  *to free up 使可用（于某目的）; 使能腾出时间 cash*, often *leasing 租用，租借，出租（尤指房地产或设备） it back* immediately after *divesting* 使（某人）脱去（衣服）;处理掉；丢弃;使解除；使摆脱. Worldwide, offices and shops *account for* 61% of assets, *though* the share of commercial housing (ie, student housing and condominiums 公寓) and logistics(n.)后勤；物流；组织工作 assets *has been rising*.
+
+- spin : v. *~ (sth) (round/around)* to turn round and round quickly; to make sth do this （使）快速旋转
+- *spin sth off* : ( business 商 ) ( especially NAmE ) to form a new company from parts of an existing one 从…脱离出来（组建新公司） +
+-> The transportation operation *will be spun off into a separate company*. 运输部门将脱离出来组建为一家独立公司。
+- *spin sth out* : to make sth last as long as possible 拉长；拖长 +
+image:../../+ img_单词图片/s/spin.jpg[100,100]
+
+- free : v. *~ sb/sth (up)* to make sb/sth available for a particular purpose 使可用（于某目的） / to give sb the extra time to do sth that they want to do 使能腾出时间
+.. The government has promised *to free up more resources for education*. 政府保证调拨更多资源用于教育。
+.. Winning the prize *freed him* to paint full-time. 获奖使他能腾出时间整天作画。
+
+- divest : v. /daɪˈvest/ *~ sb/yourself of sth* : to remove clothes 使（某人）脱去（衣服） +
+=> di-, 不，非，使相反，来自dis-变体。vest, 衣服，袍子。即使脱去衣服。 +
+/ *~ yourself of sth* : to get rid of sth 处理掉；丢弃 +
+-> The company *is divesting itself of* some of its assets. 公司正在处理掉它的部分资产。 +
+/ *~ sb/sth of sth* : to take sth away from sb/sth 使解除；使摆脱 +
+-> After her illness *she was divested of* much of her responsibility. 她生病后便给解除了许多责任。
+
+- condominium : /ˌkɑːndəˈmɪniəm/ ( also informal condo ) ( especially NAmE ) an apartment building in which each flat/apartment is owned by the person living in it but the building and shared areas are owned by everyone together; a flat/apartment in such a building 公寓（套房私有，其他地方属业主共有）；一套公寓住房；公寓的单元 +
+=> con-, 强调。-dom, 管理，控制，词源同domineer, domesticate. 即共管区域。 +
+image:../../+ img_单词图片/c/condominium.jpg[100,100]
+
+- 不断增加的资产供应满足了投资者的需求。自2000年以来，从汉堡连锁店到银行，各行各业已经剥离了价值数万亿美元的资产, 来获得现金，通常会在卖出后, 再立即将其租回来。在全球范围内，写字楼和商铺占据了61%的资产，尽管商品房(即学生公寓和公寓)和物流资产的份额一直在上升。
 
 
 
-Covid-19 has upended the impression of solidity. Most immediately, it has severely impaired tenants’ ability to pay rent. It also raises questions about where shopping, work or leisure will happen once the crisis abates. Both are likely to prompt investors to become more discriminating. Some institutions may shift their funds away from riskier properties; other investors, meanwhile, might hunt for bargains, or seek to repurpose unfashionable stock.
+*Shop* till you drop 累倒；累垮;（使）变弱，降低，减少
+
+[By the start of this year] there *were* signs of froth 泡沫. Both offices and industrial properties (warehouses, chiefly) *reached record prices* at the turn of 2020. Retail-property prices *had already peaked* in 2018. `主` Rent growth, however, `谓` *had started to level(v.) off* （停止升降而）保持水平 across most sectors. `All this *depressed* yields` 产量；产出；利润, and `returns *had started to flag*`(v.) 疲乏；变弱；热情衰减.
+
+- *level(v.) off/out* +
+(1) to stop rising or falling and remain horizontal （停止升降而）保持水平 +
+-> The plane *levelled off at 1 500 feet*. 飞机在1 500英尺的高空保持水平飞行。 +
+(2) to stay at a steady level of development or progress after a period of sharp rises or falls （经过急剧的涨落后）保持平稳发展 +
+-> *Sales have levelled off* after a period of rapid growth. 销售经过一段时间的快速增长后呈稳定状态。
+
+- 买到你买不动为止 +
+今年年初出现了泡沫的迹象。办公楼和工业地产(主要是仓库)在2020年达到了历史最高价格。零售地产(商业地产)的价格已经在2018年见顶。然而，大多数行业的租金增长已开始趋于平稳。所有这些都压低了地产投资上的收益率，地产投资的回报率也开始下降。
+
+Then the pandemic *hit*. *As* investors *panicked*, stockmarkets *tumbled*  （价格或数量）暴跌，骤降 and property markets *froze*. `主` Transaction （一笔）交易，业务，买卖 volumes` in May `谓` *were down* by about `a third` in the West and `two-fifths` in Asia, according to Real Capital Analytics, a data firm. `主` The proportion of offers 出价；报价 that *fell through* 落空；失败；成为泡影 before completion 完成；结束 `谓` *doubled* in Europe and *rose sevenfold* in America. `主` Indices （物价和工资等的）指数(index的复数) (*tracking* `listed trusts` that *invest in* commercial property (*dubbed* 把…戏称为；给…起绰号 REITs 房地产信托投资基金)) `谓` *cratered* 形成坑；消亡 in March. Part of that *might have reflected* `an indiscriminate(a.)随意的；恣意的；不加选择的;不加分析的；不加判断的 sell-off(n.)（证券）抛售 of shares` by investors *rather than* `an ebbing 衰退;退潮 taste` for property. But benchmarks 衡量基准 *have recovered only about* half their losses.
+
+- *fall(v.) through* : to not be completed, or not happen 落空；失败；成为泡影
+.. *Our plans fell through* because of lack of money. 我们的计划由于缺钱而落空了。
+
+- REITs : REITs(Real Estate Investment Trusts，房地产投资信托基金)是一种以发行收益凭证的方式汇集特定多数投资者的资金，由专门投资机构进行房地产投资经营管理，并将投资综合收益按比例分配给投资者的一种信托基金。 +
+与我国信托纯粹属于私募性质所不同的是，国际意义上的REITs在性质上等同于基金，少数属于私募，但绝大多数属于公募。REITs既可以封闭运行，也可以上市交易流通，类似于我国的开放式基金与封闭式基金。 +
+REITs的魅力在于：通过资金的“集合”,为中小投资者提供了投资于利润丰厚的房地产业的机会;专业化的管理人员将募集的资金用于房地产投资组合,分散了房地产投资风险;投资人所拥有的股权可以转让,具有较好的变现性。
+
+- crater : /ˈkreɪtər/ n. 火山口  /（由炸弹爆炸或巨物撞击形成的）坑 +
+=> 来自PIE*sker, 转，弯，搅拌，词源同cradle, crib. 原义为搅拌东西的大海碗，后指碗状的火山口。 +
+image:../../+ img_单词图片/c/crater.jpg[100,100]
 
 
-
-The infatuation with commercial property began in earnest after the global financial crisis of 2007-09. Interest rates were cut to almost zero across much of the rich world, making it harder to generate the safe cash flows that pension funds and insurers need to meet future liabilities. “Core” property—often in desirable places and needing little refurbishment—typically produced secure annual returns in the high single digits to low teens, mostly in the form of contractual, often inflation-adjusted, rent payments (see chart 2). Buying property allows investors to park vast sums of money—from tens of millions to billions of dollars—which they can forget about for years (commercial leases often last a decade or more). And the returns have been less volatile in crises than those from public equities and commodities.
-
+- 然后疫情爆发了。随着投资者的恐慌，股票市场暴跌，房地产市场的交易也被冻结。数据公司Real Capital Analytics的数据显示，5月份, 西方的房地产交易量下降了约三分之一，亚洲下降了五分之二。在欧洲，未能完成的房地产收购比例翻了一番，在美国则上升了7倍。用于追踪上市了的投资于商业地产的信托基金(被称为REITs)的指数, 在3月份出现了暴跌。这在一定程度上可能反映了投资者不分青红皂白地抛售股票，而不是对房地产的兴趣减退。但基准股指仅收复了约一半的失地。
 
 
-As a result both the numbers of institutional investors buying up property and the amounts they have allocated to it have risen since 2010 (see chart 3). A chunk is channelled through private property funds, which have raised $1.6trn since 2008, according to Private Equity Real Estate, a publication. All together, institutions hold about $6trn worth of assets privately, and $5trn through listed vehicles. Property is typically financed by helpings of debt, which accounts for just under half of the market’s value in America.
+Covid-19 *jolts* 使受到震惊（而采取行动）；唤醒；使觉醒;（使）震动，摇动，颠簸 investors *out of* their complacency 自满；自得；自鸣得意 *in two ways*. First, swarms 一大群，一大批（向同方向移动的人）;一大群（蜜蜂等昆虫） of tenants *have simply stopped paying rent* as the economy *has reeled* 踉跄；摇摇晃晃地挪动；蹒跚; `主` the extent (*to which* losses *will persist*) `系` *is especially uncertain*. Second, it *may speed up* long-term shifts *within the sector*: *from* shops, say, *towards* warehouses. Some types of property *could become less bankable* 可赚钱的；可赢利的.
 
-Investors’ appetite has been met by a growing supply of assets. Since 2000, businesses ranging from burger chains to banks have spun out trillions of dollars of property they used to own to free up cash, often leasing it back immediately after divesting. Worldwide, offices and shops account for 61% of assets, though the share of commercial housing (ie, student housing and condominiums) and logistics assets has been rising.
+- jolt : v.  *~ sb (into sth) |~ sb (out of sth)* to give sb a sudden shock, especially so that they start to take action or deal with a situation 使受到震惊（而采取行动）；唤醒；使觉醒 / jolt : to move or to make sb/sth move suddenly and roughly （使）震动，摇动，颠簸 +
+=> 可能来自中古英语jollen,击，打，连续猛击。引申词义震动，晃动。
+.. His remark *jolted her into action*. 他的话使她猛然醒悟而行动起来。
+.. a method of *jolting the economy out of recession* 使经济从衰退中复苏的方法
 
-Shop till you drop
+- Covid-19从两个方面动摇了投资者的自满情绪。首先，由于经济不景气，大批租户干脆停止支付租金; 损失将持续到何种程度, 尤其不确定。其次，它可能加速该行业内部的长期转变:比如从投资于商店向投资于仓库的转变。某些类型的财产可能变得不那么赚钱。
 
-By the start of this year there were signs of froth. Both offices and industrial properties (warehouses, chiefly) reached record prices at the turn of 2020. Retail-property prices had already peaked in 2018. Rent growth, however, had started to level off across most sectors. All this depressed yields, and returns had started to flag.
+*Start with* delinquency  （常指青年人的）犯罪，违法行为. *As* lockdowns *shuttered* shops and businesses, rent collections *collapsed*. *Less than* half of all tenants in Britain *paid rent [on time]* at the end of March; a quarter of it *was still due*(a.)应缴款（如俱乐部会费）;应支付；应给予；应归于 seven weeks later, says Remit Consulting, a research firm. Hotels *have been worst hit*: with `borders closed` and `travel restricted`, average occupancy(n.)（房屋、土地等的）占用，使用，居住 *fell from 70%* before the pandemic *to a low of 15%* in early April. In America, average revenue per room *shrank by 84%*, *to $16* per night, in April. Stand-alone (公司、组织) 独立的(非接受外来融资的) shops and shopping malls *have also suffered*. `Collection rates` 回款率 *have fallen below 50%* on both sides of the Atlantic.
 
-Then the pandemic hit. As investors panicked, stockmarkets tumbled and property markets froze. Transaction volumes in May were down by about a third in the West and two-fifths in Asia, according to Real Capital Analytics, a data firm. The proportion of offers that fell through before completion doubled in Europe and rose sevenfold in America. Indices tracking listed trusts that invest in commercial property (dubbed REITs) cratered in March. Part of that might have reflected an indiscriminate sell-off of shares by investors rather than an ebbing taste for property. But benchmarks have recovered only about half their losses.
+- delinquency : /dɪˈlɪŋkwənsi/ => de-, 向下，离开。-linqu, 留下，遗弃，词源同leave, relinquish. 即被遗弃的人，缺乏管教的人，后主要指少年犯，不良青少年。
 
-Covid-19 jolts investors out of their complacency in two ways. First, swarms of tenants have simply stopped paying rent as the economy has reeled; the extent to which losses will persist is especially uncertain. Second, it may speed up long-term shifts within the sector: from shops, say, towards warehouses. Some types of property could become less bankable.
+- due : a. [ not before noun ] *~ (to sb)* : owed to sb as a debt, because it is their right or because they have done sth to deserve it 应支付；应给予；应归于
+.. Have they been paid the money *that is due(a.) to them*? 他们应得的钱付给他们了吗？
 
-Start with delinquency. As lockdowns shuttered shops and businesses, rent collections collapsed. Less than half of all tenants in Britain paid rent on time at the end of March; a quarter of it was still due seven weeks later, says Remit Consulting, a research firm. Hotels have been worst hit: with borders closed and travel restricted, average occupancy fell from 70% before the pandemic to a low of 15% in early April. In America, average revenue per room shrank by 84%, to $16 per night, in April. Stand-alone shops and shopping malls have also suffered. Collection rates have fallen below 50% on both sides of the Atlantic.
+-  collection rate :  it shows the correlation to the portion of collectible receivables to the portion of actual collectible receivables collected. = 实际收到的账款 / 应收账款 +
+销售回款率=实际收到销售款/销售总收入*100%
 
-Offices have proved sturdier. Firms that rent out co-working spaces on short-term leases have suffered. Other tenants, bound by decades-long leases, have continued to pay. Still, collection rates range between 57% in Britain and 90% in America. Late or missed rent payments in the double digits are hardly normal.
+- 从违反法规开始。由于疫情导致商店和企业的关闭，租金大幅下降。3月底，英国只有不到一半的租户按时支付了租金;一家研究公司称，其中四分之一的应缴租金在七周后仍未支付。酒店遭受的打击最为严重:由于边境关闭和旅行限制，平均入住率从疫情前的70%, 下降到4月初15%的低点。在美国，每个房间的平均收入在4月份下降了84%，只有每晚16美元。独立的商店和购物中心也受到了影响。大西洋两岸(美国和西欧)的收款率已经下降到50%以下。
+
+Offices *have proved sturdier* (物品)结实的；坚固的;(人)强壮的；健壮的(比较级). `主` Firms that *rent out* 出租；将…租给 co-working spaces [*on short-term leases* （房屋、设备或土地的）租约，租契] `谓` *have suffered*. `主` Other tenants, *bound by decades-long leases*, `谓` *have continued to pay*. Still, collection rates 回款率 *range between* 57% in Britain *and* 90% in America. `主` Late or missed(a.) rent payments (in the double digits) `系` *are hardly normal*.
+
+- 事实证明，办公室的租赁情况更加稳固。以短期租约的方式出租"共同办公空间"的公司, 遭受了损失。而其他的受数十年租约约束的租户, 仍在继续支付租金。尽管如此，收款率在英国的57%到美国的90%之间。但高达两位数的逾期或未支付租金率, 也很难说是正常的势态。
+
+The resulting lost `rental income` 租金收入 *is likely to have passed through to* missed `mortgage 抵押 payments`. Many banks *report* losses *with a lag and with limited detail*, but `主` `delinquency rates`` 违约率,拖欠率 on commercial-mortgage-backed securities 有价证券;抵押品 (CMBS) 商业抵押贷款支持证券 -- bundles （一）捆，包，扎 of loans *sold(v.) on capital markets* -- `谓` *provide* a barometer  （显示经济、社会、政治变化的）晴雨表，标志，指标. [In America this month] they *exceeded* levels *seen during the financial crisis* (see chart 4). `主` A fifth of `debt payments` 债务支付,债务的偿还 on shopping properties `系` *are late*; `主` a quarter of those due 应缴款（如俱乐部会费） (on “lodgings”)  暂住；寄宿；借宿;租住的房间  -- including student housing, vacant(a.)空着的；未被占用的 since universities closed - `谓` *have also been skipped*.
+
+- CMBS : Commercial Mortgage Backed Securities，指商业房地产抵押贷款支持证券，债权银行以原有的商业抵押贷款为资本，发行证券。
+
+- 由此造成的租金收入损失, 很可能会传导到房地产投资人对抵押贷款的拖欠上。许多银行在进行亏损报告时, 时间已经是滞后的了, 并且提供的细节也有限. 不过, 商业抵押贷款支持证券(CMBS)的拖欠率, 提供了一个晴雨表指标。CMBS就是在资本市场上出售的贷款组合(商业抵押担保证券:将多种商业不动产的抵押贷款重新包装，以债券形式向投资者发行。)。本月在美国，这个违约率, 超过了金融危机期间的水平(见表4)。有五分之一的对商店物业的债务偿还, 被延迟；四分之一的“住宿”到期债务--包括由于大学关闭后而空置的学生公寓--也被跳过。
 
 
+As activity *resumes*, properties *are adapting*, at some capital expense 费用；价钱. Hotels *are implementing* `contactless check-in` （机场的）办理登机手续, `automatic doors` and `new cleaning routines` 常规；正常顺序;例行程序. Offices *are introducing(v.) temperature checks* and *reducing* pinch points 拥挤处,易堵塞处 at lifts. Brian Kingston, who *runs* `the property 不动产；房地产 arm` of Brookfield, a private-equity firm, *says* it *is reorganising* 重新组织；改组；整顿 `mall layouts`(n.)布局；布置；设计；安排 and `car parks` *to make* kerbside 人行道靠近路缘的部分 pickup(n.)接人；收取物品；提货;轻型货车 *easier*.
 
-The resulting lost rental income is likely to have passed through to missed mortgage payments. Many banks report losses with a lag and with limited detail, but delinquency rates on commercial-mortgage-backed securities (CMBS)—bundles of loans sold on capital markets—provide a barometer. In America this month they exceeded levels seen during the financial crisis (see chart 4). A fifth of debt payments on shopping properties are late; a quarter of those due on “lodgings”—including student housing, vacant since universities closed—have also been skipped.
+- kerbside :  /ˈkɜːrbsaɪd/ n. ( BrE ) ( NAmE curb·side ) [ U ] the side of the street or path near the kerb 人行道靠近路缘的部分
 
-As activity resumes, properties are adapting, at some capital expense. Hotels are implementing contactless check-in, automatic doors and new cleaning routines. Offices are introducing temperature checks and reducing pinch points at lifts. Brian Kingston, who runs the property arm of Brookfield, a private-equity firm, says it is reorganising mall layouts and car parks to make kerbside pickup easier.
+- 随着经济活动恢复，房地产行业也在进行调整，但需要付出一定的成本。酒店正在实施非接触式办理入住手续、自动门和新的清洁程序。办公室正在引入体温检查，并减少电梯的拥挤点。布莱恩·金斯顿(Brian Kingston)经营着一家私募股权公司布鲁克菲尔德(Brookfield)的房地产部门。他说，该公司正在重组商场布局和停车场，以便于在路边接车。
 
-But fresh outbreaks, or lingering fears of infection, could throttle the return to normality. Cash-poor and fearful, companies may limit business travel. Households may shun far-flung holidays and perhaps even shopping trips at home. That is bad news for hotels, restaurants and shops. Erin Stafford of DBRS Morningstar, a rating agency, reckons that, short of a fast recovery, half of America’s independent restaurants may go under.
 
-Such effects will be compounded as the vast support provided by governments is rolled back. Since March the authorities have propped up commercial tenants by paying employees’ wages, topping up business cash reserves, legislating against eviction, backstopping banks and reducing credit constraints. Most measures are set to expire within months. Coface, a trade-credit insurer, expects insolvencies to jump by a third worldwide by 2021. Landlords could find that rental income dries up just as lenders, tolerant thus far, lose patience. Without progress on a vaccine or a treatment over the next three to six months, says Michael Van Konynenburg of Eastdil Secured, a bank, “we’ll start to see more enforcement actions”.
+But fresh outbreaks (暴动、疾病等的) 爆发, or lingering (想法、感觉、疾病)继续存留；缓慢消失 fears of infection, *could throttle* 使窒息；掐死；勒死 the return to normality. Cash-poor and fearful, companies *may limit* business travel. Households *may shun* 避开；回避；避免 far-flung 遥远的 holidays *and perhaps even shopping trips 购物出行 at home*. *That is bad news for* hotels, restaurants and shops. Erin Stafford of DBRS Morningstar, a `rating agency` 评级机构, 信用评级机构 , *reckons that*, short of 不足；短缺 a fast recovery, half of America’s independent restaurants *may go under* （商行等）倒闭，垮掉；（项目）中止，失败;（船）沉没；（人）沉入水中.
+
+- linger  : v. /ˈlɪŋɡər/ *~ (on)* : to continue to exist for longer than expected 继续存留；缓慢消失
+.. The civil war *lingered on well into the 1930s*. 这次内战到20世纪30年代还拖了好几年。
+
+- throttle : /ˈθrɑːtl/ => 来自 throat,喉咙，-le,表反复或工具格后缀。引申动词词义掐死，勒死，名词词义节流阀等。
+
+- 但是，新的疫情爆发，或者对疫情感染的持续担忧，可能会阻碍经济恢复正常。由于现金短缺和担心的存在，公司可能会限制商务旅行。家庭可能会取消假期远游，甚至在家附近购物。这对酒店、餐馆和商店来说是个坏消息。DBRS晨星(一家评级机构)的艾琳•斯塔福德(Erin Stafford)认为，如果经济不能快速复苏，美国一半的独立餐馆可能会倒闭。
+
+
+Such effects *will be compounded* 使加重；使恶化;混合；掺和；拌和 as the vast support(n.) provided by governments *is rolled back* 逐渐减少;逐步结束. [Since March] the authorities *have propped up* 支撑 commercial tenants *by paying employees’ wages*, *topping up* 装满，注满（未满的容器）;补足；将…增加到所需的量 business cash reserves 现金储备, *legislating 制定法律；立法 against* eviction 驱逐, *backstopping 支持 banks* and *reducing credit constraints* 限制；限定；约束, 严管. Most measures *are set to expire （因到期而）失效，终止；到期 within months*. Coface, a trade-credit 商业信用；贸易信贷 insurer, *expects* insolvencies *to jump* by a third worldwide by 2021. Landlords could find that rental income dries up just as lenders, tolerant thus far, lose patience. Without progress on a vaccine or a treatment over the next three to six months, says Michael Van Konynenburg of Eastdil Secured, a bank, “we’ll start to see more enforcement actions”.
+
+- prop : v. *~ sth/sb (up) (against sth)* : to support an object by leaning it against sth, or putting sth under it etc.; to support a person in the same way 支撑 / n.  支柱；支撑物 +
+=> 来自pro-,向前，-pag,固定，词源同page,compact. +
+.. She *propped herself up* on one elbow. 她单肘撑起身子。
+
+- eviction : /ɪˈvɪkʃn/   N-VAR Eviction is the act or process of officially forcing someone to leave a house or piece of land. 驱逐
+
 
 Bricks and mortal
 
@@ -200,22 +341,13 @@ The big winners will probably be giant firms like Brookfield, which closed a $15
 
 
 
-大多数人可能更同情厨师和服务员，而不是房东。但许多人没有意识到，支付给商业房东的款项正越来越多地流向他们自己的养老基金或保险索赔。可投资的商业地产——酒店、商店、办公室和仓库——的全球存量自2000年以来已经翻了四倍，达到32万亿美元(见表1)。超过三分之一的资产为机构投资者所有，他们被丰厚、稳定的回报吸引而蜂拥而入。
-Covid-19颠覆了人们对疫情稳定的印象。最直接的影响是，它严重损害了租户的支付能力。它还提出了这样一个问题:一旦危机消退，人们将在哪里购物、工作或休闲。这两种情况都可能促使投资者变得更具鉴别力。一些机构可能会将资金从风险较高的房地产中转移;与此同时，其他投资者可能会逢低吸纳，或将不受欢迎的股票作为投资目标。
-对商业地产的迷恋始于2007-09年全球金融危机之后。许多富裕国家的利率几乎降到了零，这使得养老基金和保险公司难以产生安全的现金流来支付未来的债务。“核心”property-often可取的地方,需要小refurbishment-typically安全生产年回报率高个位数的青少年较低,主要是在合同的形式,通常经通胀调整后,租金(见图表2)。买房允许投资者公园巨额资金从数千万到数十亿美元,他们可以忘记多年(商业租赁往往持续10年或更多)。而且，在危机中，回报率的波动性要小于公开发行的股票和大宗商品。
-因此，自2010年以来，购买房产的机构投资者数量和他们所配置的房产数量都在上升(见表3)。其中很大一部分是通过私人房地产基金筹集的，据一份出版物《私人股本房地产》(private Equity Real Estate)称，自2008年以来，这些基金已经筹集了1.6万亿美元。机构私人持有的资产总计约为6万亿美元，通过上市工具持有的资产为5万亿美元。房地产通常是通过债务融资的，这占美国房地产市场价值的近一半。
-不断增加的资产供应满足了投资者的需求。自2000年以来，从汉堡连锁店到银行，各行各业已经剥离了价值数万亿美元的资产来释放现金，通常在剥离后立即将其租回来。在全球范围内，写字楼和商铺占据了61%的资产，尽管商品房(即学生公寓和公寓)和物流资产的份额一直在上升。
 
 
-买到你买不动为止
-今年年初出现了泡沫的迹象。办公楼和工业地产(主要是仓库)在2020年达到了历史最高价格。零售地产价格已经在2018年见顶。然而，大多数行业的租金增长已开始趋于平稳。所有这些压低了收益率，回报率也开始下降。
-然后大流行爆发了。随着投资者的恐慌，股票市场暴跌，房地产市场冻结。数据公司Real Capital Analytics的数据显示，5月份西方的交易量下降了约三分之一，亚洲下降了五分之二。在欧洲，未能完成的收购比例翻了一番，在美国则上升了7倍。追踪上市的投资于商业地产的信托基金(被称为REITs)的指数在3月份出现了暴跌。这在一定程度上可能反映了投资者不分青红皂白地抛售股票，而不是对房地产的兴趣减退。但基准股指仅收复了约一半的失地。
-Covid-19从两个方面动摇了投资者的自满情绪。首先，由于经济不景气，大批租户干脆停止支付租金;损失将持续到何种程度尤其不确定。其次，它可能加速该行业内部的长期转变:比如从商店向仓库的转变。某些类型的财产可能变得不那么有价值。
-从犯罪开始。由于关闭关闭了商店和企业，租金大幅下降。3月底，英国只有不到一半的租户按时支付了租金;一家研究公司称，其中四分之一的债务在七周后仍未到期。酒店遭受的打击最为严重:由于边境关闭和旅行限制，平均入住率从大流行前的70%下降到4月初15%的低点。在美国，每个房间的平均收入在4月份下降了84%，只有每晚16美元。独立的商店和购物中心也受到了影响。大西洋两岸的收费率已经下降到50%以下。
-事实证明，办公室更加坚固。以短期租约出租共同办公空间的公司遭受了损失。其他受数十年租约约束的租户仍在继续支付租金。尽管如此，英国的收费率还是在57%到美国的90%之间。拖欠或错过两位数的租金并不正常。
-由此造成的租金收入损失很可能会转嫁到抵押贷款的拖欠上。许多银行报告亏损的时间滞后且细节有限，但商业抵押贷款支持证券(CMBS)——在资本市场上出售的贷款组合——的拖欠率提供了一个晴雨表。在美国，这个月的债务超过了金融危机期间的水平(见表4)。四分之一的“住宿”——包括因大学关闭而空置的学生宿舍——也被跳过。
-随着经济活动恢复，房地产行业正在调整，但需要付出一定的资本成本。酒店正在实施非接触式入住、自动门和新的清洁程序。办公室正在引入温度检查，并减少电梯的夹点。布莱恩·金斯顿(Brian Kingston)经营着一家私募股权公司布鲁克菲尔德(Brookfield)的房地产部门。他说，该公司正在重组商场布局和停车场，以便于在路边接车。
-但是，新的疫情爆发，或者对感染的持续担忧，可能会阻碍疫情恢复正常。现金短缺和担心，公司可能会限制商务旅行。家庭可能会避开遥远的假期，甚至在家购物。这对酒店、餐馆和商店来说是个坏消息。DBRS晨星(一家评级机构)的艾琳•斯塔福德(Erin Stafford)认为，如果不能快速复苏，一半的美国独立餐馆可能会倒闭。
+随着经济活动恢复，房地产行业也在进行调整，但需要付出一定的成本。酒店正在实施非接触式办理入住手续、自动门和新的清洁程序。办公室正在引入体温检查，并减少电梯的拥挤点。布莱恩·金斯顿(Brian Kingston)经营着一家私募股权公司布鲁克菲尔德(Brookfield)的房地产部门。他说，该公司正在重组商场布局和停车场，以便于在路边接车。
+
+
+但是，新的疫情爆发，或者对疫情感染的持续担忧，可能会阻碍经济恢复正常。由于现金短缺和担心的存在，公司可能会限制商务旅行。家庭可能会取消假期远游，甚至在家附近购物。这对酒店、餐馆和商店来说是个坏消息。DBRS晨星(一家评级机构)的艾琳•斯塔福德(Erin Stafford)认为，如果经济不能快速复苏，美国一半的独立餐馆可能会倒闭。
+
 随着各国政府提供的大量支持逐渐减少，这种影响将更加严重。自今年3月以来，当局通过支付员工工资、充实企业现金储备、立法禁止拆迁、支持银行和减少信贷约束等方式支撑着商业租户。大多数措施将在几个月内到期。贸易信用保险公司Coface预计，到2021年全球破产将跃升三分之一。房东可能会发现，租金收入正在枯竭，就像迄今宽容的放贷者失去耐心一样。Eastdil Secured银行的Michael Van Konynenburg说，如果在未来三到六个月内疫苗或治疗方面没有进展，“我们将开始看到更多的执法行动”。
 
 砖和凡人
