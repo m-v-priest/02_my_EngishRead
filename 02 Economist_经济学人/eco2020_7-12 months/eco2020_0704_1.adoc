@@ -7,7 +7,7 @@
 == America’s 2020 election 词汇解说
 
 
-(eco 2020-6-13 / United States / The presidential election: Donald Trump’s uphill battle)
+(eco 2020-7-4 / United States / The presidential election: Donald Trump’s uphill battle)
 
 
 Donald Trump *faces a much bigger task* than he did in 2016
@@ -203,7 +203,5 @@ This time our model points with much greater confidence to a defeat for Mr Trump
 But is Mr Trump capable of doing what is needed to win? He would have to take the country’s ever-worsening outbreak of covid-19 seriously, change his tone and actions on racial justice and pursue economic policies that reverse the coronavirus-induced depression (renewed growth would certainly be a boon to his prospects). And then he would have to perform the nearly impossible task of making himself appear more moderate and likeable than his opponent. Mr Biden is routinely achieving 50% support in opinion polls, far higher than Mrs Clinton or Barack Obama managed in 2016 or 2012.
 
 All this puts Mr Trump on a path to a resounding rebuke of his presidency in November. Every day that passes without a course-correction increases the likelihood of his defeat.
-
----
 
 
