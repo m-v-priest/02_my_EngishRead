@@ -62,9 +62,29 @@ Strikingly, *neither* last year’s turmoil 动乱；骚动；混乱；焦虑 *n
 
 - 引人注目的是，无论是去年的动荡, 还是今年的疫情，都没有削弱香港的卓越地位。去年11月，阿里巴巴在香港二次上市，筹资近130亿美元。另一家电商巨头京东(JD.com)上月紧随其后，融资39亿美元。政府官员和金融业高管, 都在谈论即将到来的上市热潮。香港甚至是中美紧张关系的受益者。除其他因素外，美国收紧审计程序的举措, 使中国公司在纽约上市变得更加困难。
 
-Yet business is also a source of social tension. Yes, finance and related services remain globally competitive, accounting for about a quarter of the economy. But finance employs relatively few people compared with less competitive services, and pushes up prices for everyone in the territory. In the absence of other vibrant sectors, property prices have grown out of kilter with most Hong Kongers’ incomes. Government efforts to foster high tech, the arts, medical tourism and even wine trading have produced little. In the time it took Alibaba, JD.com and a dozen other Chinese startups to emerge as giants, no new Hong Kong company has achieved the same.
+Yet business is also a source of social tension. Yes, finance and related services *remain* globally competitive(a.)竞争的,有竞争力的, *accounting for* about a quarter of the economy. But finance *employs*(v.) relatively few people *compared with* less competitive services, and *pushes up prices* for everyone in the territory. *In the absence 不存在；缺乏 of* other vibrant(a.)充满生机的；生气勃勃的；精力充沛的 sectors, property prices *have grown out of kilter(n.) 不正常；失常;（与…）不一致，不同 with* most Hong Kongers’ incomes. `主` Government efforts to *foster* 抚育，照料（他人子女一段时间）;促进；助长；培养；鼓励 high tech, the arts, `medical tourism` 旅游业；观光业 and even `wine trading` `谓` *have produced little*. In the time (it *took* Alibaba, JD.com and a dozen other Chinese startups *to emerge as* giants), no new Hong Kong company *has achieved the same*.
 
-This is a consequence of the government’s close ties with business. Nearly every major business sector is in the hands of one or another of the city’s handful of established property conglomerates. These stifle competition and keep the cost of property (the world’s most expensive) and other basic services prohibitively high.
+- *OUT OF KILTER(n.)* : (1) not agreeing with or the same as sth else （与…）不一致，不同 +
+-> His views *are out of kilter with* world opinion. 他的观点与世人的看法不一致。 +
+(2) no longer continuing or working in the normal way 不正常；失常 +
+-> Long flights *throw my sleeping pattern out of kilter for days*. 长途飞行使我的睡眠习惯给打乱了好几天。 +
+=> kilter : 来自英语方言kelter,秩序，常见于短语out of kilter,混乱，不一致。
+
+- 然而，商业上的问题也是社会紧张的一个根源。是的，香港的金融及相关服务业, 仍在全球具有竞争力，约占中国经济的四分之一。但是与竞争力较弱的服务业相比，金融业能雇佣的员工相对较少，并且推高了香港所有人的价格。在缺乏其他充满活力的行业的情况下，房地产价格已经与大多数香港人的收入不平衡。政府培育高科技、艺术、医疗旅游甚至饮酒贸易的努力, 收效甚微。在阿里巴巴、京东(JD.com)和其他十多家中国初创企业, 发展成为巨头的那段时间里，没有一家新的香港公司取得同样的成就。
+
+
+This is a consequence of `the government’s close ties with business`. `主` Nearly every `major business sector` `系` *is in the hands of* one or another of the city’s handful of `established 著名的；成名的；公认的 property conglomerates` 联合大公司；企业集团. These *stifle*(v.)压制；扼杀；阻止；抑制;（使）窒息，无法自如地呼吸，感觉窒闷 competition /and *keep* the cost of property (the world’s most expensive) and other basic services *prohibitively(ad.)(价格或费用)高昂得令人难以承受的；贵得买不起的 high*.
+
+- conglomerate  /kənˈɡlɑːmə-rət/ n. [ C ] ( business 商 ) a large company formed by joining together different firms 联合大公司；企业集团 / [ sing. ] ( formal ) a number of things or parts that are put together to form a whole 合成物；组合物；聚合物 / [ U ] ( geology 地 ) a type of rock made of small stones held together by dried clay 砾岩 +
+=> con-, 强调。-glom, 球，块，词源同global, agglomerate.
+
+- stifle : /ˈstaɪfl/ v. （使）窒息，无法自如地呼吸，感觉窒闷 +
+=> 词源不确定，可能最终来自 PIE*steip,压紧，打包，塞满，词源同 stiff,stuff.-le,表反复。引申 词义窒息，压制，扼杀等。
+
+- prohibitive => pro-前 + -hibit-持,握 + -ive形容词词尾. 来自prohibit,禁止。引申词义昂贵的，贵得买不起的。
+
+- 这是政府与商业密切联系的结果。几乎每一个主要的商业领域, 都掌握在香港为数不多的几家成熟的房地产企业集团的手中。这抑制了竞争，并使房地产(世界上最昂贵的)和其他基本服务的成本, 高得令人望而却步。
+
 
 The government should years ago have broken the dominance of such family-owned groups. And it should have done much more to build new public housing. Instead, writes Simon Cartledge for Gavekal Dragonomics, a consultancy, because these firms are over-represented in government, “Hong Kong’s single biggest disincentive to risk-taking and entrepreneurship—its high costs, especially for property—cannot be tackled.” That is why the back-to-business message is unlikely to resonate with ordinary Hong Kongers.
 
@@ -123,9 +143,6 @@ Much as it would like to reassure firms, the government is failing to do so. The
 For the long term, the security law introduces a new and potentially ominous dimension into the business-political nexus. Under it, Luo Huining, the head of the central government’s liaison office in Hong Kong has been appointed as commissar to “advise” on national security. But he also oversees a secretive portfolio of investments in Hong Kong encompassing over 300 properties and the largest bookseller and publisher. If you think that Hong Kong’s anti-corruption body, which reports to the chief executive, would have no qualms about going hard after irregularities within that Communist Party-controlled empire, think again. Mr Luo is one of China’s most powerful men. Carrie Lam, the chief executive, is fast becoming just another small-town mayor.
 
 
-
-然而，商业也是社会紧张的一个根源。是的，金融及相关服务业仍在全球具有竞争力，约占中国经济的四分之一。但与竞争力较弱的服务业相比，金融业雇佣的员工相对较少，并推高了香港所有人的价格。在缺乏其他充满活力的行业的情况下，房地产价格已经与大多数香港人的收入不平衡。政府培育高科技、艺术、医疗旅游甚至葡萄酒贸易的努力收效甚微。在阿里巴巴、京东(JD.com)和其他十多家中国初创企业成为巨头的那段时间里，没有一家新的香港公司取得了同样的成就。
-这是政府与商业密切联系的结果。几乎每一个主要的商业领域都掌握在香港为数不多的几家成熟的房地产企业集团的手中。这抑制了竞争，并使房地产(世界上最昂贵的)和其他基本服务的成本高得令人望而却步。
 
 
 在建造新的公共住房方面，政府应该做得更多。相反，咨询公司Gavekal Dragonomics的Simon Cartledge写道，由于这些公司在政府中的比例过高，“香港对冒险和创业最大的阻碍是高昂的成本，尤其是房地产成本，无法解决。”这就是为什么回归商业的信息不太可能引起普通香港人的共鸣。
