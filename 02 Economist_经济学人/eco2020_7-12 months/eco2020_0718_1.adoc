@@ -86,20 +86,69 @@ This is a consequence of `the government’s close ties with business`. `主` Ne
 - 这是政府与商业密切联系的结果。几乎每一个主要的商业领域, 都掌握在香港为数不多的几家成熟的房地产企业集团的手中。这抑制了竞争，并使房地产(世界上最昂贵的)和其他基本服务的成本, 高得令人望而却步。
 
 
-The government should years ago have broken the dominance of such family-owned groups. And it should have done much more to build new public housing. Instead, writes Simon Cartledge for Gavekal Dragonomics, a consultancy, because these firms are over-represented in government, “Hong Kong’s single biggest disincentive to risk-taking and entrepreneurship—its high costs, especially for property—cannot be tackled.” That is why the back-to-business message is unlikely to resonate with ordinary Hong Kongers.
+The government *should years ago have broken the dominance 优势; 统治地位 of* such family-owned groups. And it *should have done much more to build* new public housing. Instead, *writes* Simon Cartledge for Gavekal Dragonomics, a consultancy, because these firms *are over-represented* 使代表人数超出比例，使有过多的代表 in government, “Hong Kong’s single biggest disincentive(n.)起抑制作用的事物；遏制因素 to risk-taking and entrepreneurship 企业家(身份、行为); 企业家精神 -- its high costs, *especially for* property -- *cannot be tackled* 应付，处理，解决（难题或局面）.” That *is* `主` why the back-to-business message `系` *is unlikely to resonate 使产生联想；引起共鸣；和…的想法（或观念）类似;（使）回响，起回声 with* ordinary Hong Kongers.
 
-The security law, meanwhile, may generate problems for business. Admittedly, many executives say they are confident that street turmoil on last year’s scale is unlikely to erupt again, and that the stockmarket will keep booming. Many local firms say they support the new law. But some dare not voice their anxiety. A new survey of members of the American Chamber of Commerce is revealing: 76% of respondents said they were somewhat or extremely worried about the legislation.
+- disincentive => dis-, 不，非，使相反。incentive, 刺激因素。
 
-In private, concerns are more fully aired. Hong Kong is a world leader in commercial arbitration, a niche the government has actively promoted. Yet leading experts in this field fear that clients with mainland counterparties will, however irrationally, think that the law undermines Hong Kong’s impartiality and will stipulate a seat for possible disputes other than Hong Kong. Singapore is vigorously recruiting Hong Kong arbitration lawyers.
+- resonate => re-,向后，往回，-son,声音，词源同 sound,sonorous.即回声，引申词义共鸣，回响。
 
-Foreign media companies are also alarmed. The law requires tightened management of them and allows their communications to be seized or intercepted. This week the New York Times said it would move its digital operations, about a third of its Hong Kong staff, to South Korea.
+- 政府早就应该在几年前打破这种家族集团的主导地位。而且在建造新的公共住房方面, 它应该做得更多。然而，咨询公司龙洲经讯(Gavekal Dragonomics)的西蒙·卡特利奇(Simon Cartledge)写道，由于这些公司在政府中有过多的代表，“对于承担风险和企业家精神的最大阻碍 -- 高昂的成本，尤其是房地产成本 -- 香港政府无法解决。”这就是为什么"回归到商业上"的信息, 不太可能引起普通香港人的共鸣。
 
-Tech and social-media companies have the biggest worries. The law demands they take down material in breach of national security, or provide user information demanded by police investigating national-security cases. Alarm at having to do this has led Facebook, Twitter and others to pause all consideration of all requests from the government. Providers of cloud services, including Amazon, Google and Microsoft, are also under pressure to agree to demands from regulators for customers’ banking records. They too are stalling, but that can only be a stopgap. If executives are not to face fines or prison, firms must either comply or leave. The Hong Kong Autonomy Act only sharpens their dilemma. Helping America to enforce sanctions would violate the security law. Not doing so would incur American penalties.
 
-Much as it would like to reassure firms, the government is failing to do so. The Economist asked the commerce secretary, Edward Yau, what measures would be taken against the media under the security law. He offered no details. Perhaps local officials are as much in the dark about the central government’s specific intentions as anyone. Asked whether the departure of Google, Facebook and Twitter would count as a bad day in the office for him, Mr Yau said that over time the picture would become clearer for tech companies when courts give rulings related to the security law. He added that it was not the job of a light-touch government to pick which business sectors should prosper and which should fail. Yet fostering tech is one of the government’s priorities, while the threat to the sector is the opposite of light-handed.
+The security law, meanwhile, *may generate(v.) problems for* business. Admittedly （尤用于句首）诚然，无可否认, many executives *say* they *are confident that* `主` street turmoil 动乱；骚动；混乱；焦虑 on last year’s scale `系` *is unlikely to erupt again*, and *that* the stockmarket *will keep booming*. Many local firms *say* they *support(v.) the new law*. But some *dare(v.) not voice(v.) their anxiety*. A new survey of members of the American `Chamber of Commerce` 商会 *is revealing*: 76% of respondents 回答问题的人；（尤指）调查对象 *said* they *were somewhat or extremely worried about* the legislation.
 
-For the long term, the security law introduces a new and potentially ominous dimension into the business-political nexus. Under it, Luo Huining, the head of the central government’s liaison office in Hong Kong has been appointed as commissar to “advise” on national security. But he also oversees a secretive portfolio of investments in Hong Kong encompassing over 300 properties and the largest bookseller and publisher. If you think that Hong Kong’s anti-corruption body, which reports to the chief executive, would have no qualms about going hard after irregularities within that Communist Party-controlled empire, think again. Mr Luo is one of China’s most powerful men. Carrie Lam, the chief executive, is fast becoming just another small-town mayor.
+- *Chamber of Commerce* :  n. a group of local business people who work(v.) together to help business and trade in a particular town 商会
 
+- 与此同时，安全法可能会给企业带来问题。诚然，许多高管表示，他们相信去年那种规模的街头骚乱, 不太可能再次爆发，股市将继续繁荣。许多当地公司表示，他们支持新法律。但有些人不敢说出他们的焦虑。一项针对美国商会成员的新调查显示：76%的受访者表示，他们多多少少地, 或非常担心这项立法。
+
+
+In private, concerns *are more fully aired*(=air)公开发表. Hong Kong *is* a world leader *in* commercial arbitration 仲裁；公断, a niche 生态位; （产品的）商机；市场定位 the government *has actively promoted*. Yet `leading experts` in this field *fear that* clients 客户；顾客；委托人 with mainland counterparties *will, however irrationally 无理性地，不合理地, think that* `the law *undermines* Hong Kong’s impartiality`(n.)公正，公平；不偏不倚 and `*will stipulate 保证,规定；明确要求 a seat for* possible disputes 争论；辩论；争端；纠纷 *other than* Hong Kong`. Singapore *is vigorously 精神旺盛地，活泼地 recruiting* 征募；聘用 Hong Kong `arbitration lawyers`.
+
+- niche : /nɪtʃ/ n. a comfortable or suitable role, job, way of life, etc. 舒适或称心的工作（或生活等） +
+=> niche舒适或称心的工作，商机，壁龛
+来自法语niche,狗窝，可能来自拉丁语 nidus,鸟巢，窝，词源同nest.引申词义壁龛，商机，称心的工作等。 +
+-> He *eventually found his niche* in sports journalism. 最后他在体育新闻界找到了理想的工作。 +
+2.( business 商 ) an opportunity to sell a particular product to a particular group of people （产品的）商机；市场定位 +
+-> *They spotted a niche* in the market, with no serious competition. 他们看到市场上一个竞争不激烈的商机。 +
+3.a small hollow place, especially in a wall to contain a statue, etc., or in the side of a hill 壁龛；（山体）凹进的地方 +
+SYN nook +
+4.( biology 生 ) the conditions of its environment within which a particular type of living thing can live successfully 生态位（一个生物所占生境的最小单位） +
+image:../../+ img_单词图片/n/niche.jpg[100,100]
+
+- 在私下里，人们的关注会更充分地表达出来。香港是世界上商业仲裁的领头羊，政府一直积极推动这一领域的发展。然而，这一领域的主要专家担心，与内地交易方有往来的客户会认为法律破坏了香港的公正性，并保证了一个席位给在香港以外地方可能发生的纠纷。新加坡正在大力招聘香港的仲裁律师。
+
+
+Foreign media companies *are also alarmed*. The law *requires* `tightened(v.) management of them` and *allows* their communications 通信；信息；书信；电话 *to be seized 起获；没收；扣押 or intercepted* 拦截；拦阻；截住. This week the New York Times *said* it *would move* its digital operations 数字业务, about a third of its Hong Kong staff, *to* South Korea.
+
+- 外国的媒体公司也对此感到震惊。法律要求加强对他们的管理，并允许扣押或拦截他们的通信信息。本周，“纽约时报”(New York Times)表示，将把其数字业务(人数约占香港员工总数的三分之一)迁往韩国。
+
+Tech and social-media companies *have the biggest worries*. The law *demands* they *take down* 拆掉；拆除；拆卸 material 材料；原料 *in breach （对法规等的）违背，违犯 of* `national security`, or *provide* user information *demanded by* police investigating(v.) `national-security cases`. `主` Alarm 惊恐；惊慌；恐慌;警报 at `having to do this` `谓` *has led* Facebook, Twitter and others *to pause* `all consideration` 仔细考虑；深思；斟酌 of `all requests from the government`. Providers of `cloud services`, *including* Amazon, Google and Microsoft, *are also under pressure* to agree(v.) to `demands`(n.) from regulators （某行业等的）监管者，监管机构 `for customers’ banking records`. They too *are stalling* 故意拖延（以赢得时间）, but *that can only be a stopgap* 权宜之计；临时替代的东西. If executives *are not to face(v.) fines 罚款 or prison*, firms *must [either] comply [or] leave*. The Hong Kong Autonomy Act *only sharpens(v.) their dilemma* （进退两难的）窘境，困境. `主` *Helping* America *to enforce sanctions* 制裁 `谓` *would violate* the security law. `主` Not doing so `谓` *would incur* 招致；遭受；引起 American penalties(n.)惩罚；处罚；刑罚.
+
+- penalty : /ˈpenəlti/ => -pen-惩罚 + -al形容词词尾 + -ty名词词尾
+
+- 科技和社交媒体公司, 有着最大的担忧。该法要求他们删除违反"国家安全"的内容，或将用户信息提供给警方, 以方便警方调查国家安全案件。由于担忧不得不这么做，Facebook、Twitter和其他网站, 都暂停了对政府一切请求的考虑。包括亚马逊(Amazon)、谷歌和微软(Microsoft)在内的云服务提供商, 也面临着压力，要求它们同意监管机构的要求, 即交出客户的银行记录信息。他们也在拖延，但这只能是权宜之计。如果高管们不想面临罚款或牢狱之灾，它们要么必须遵守法规，要么离开香港。《香港自治法》只会加剧他们的困境。如果他们帮助美国来执行制裁, 将违反香港安全法。如果他们不这样做, 又会招致美国的惩罚。
+
+*Much as* 虽然，尽管（表让步） it *would like to reassure* 使…安心；打消…的疑虑 firms, the government *is failing to do so*. The Economist *asked* the commerce secretary 商务部长, Edward Yau, what measures *would be taken against* the media [*under the security law*]. He *offered no details*. Perhaps local officials *are [as much] in the dark about* 完全不知道;一无所知 the central government’s specific intentions 打算；计划；意图；目的 *[as] anyone*. *Asked* whether the departure 离开；起程；出发 of Google, Facebook and Twitter *would count as* `a bad day` in the office for him, Mr Yau *said that* [over time] the picture *would become clearer* for tech companies when courts *give rulings(n.) (related to the security law)*. He *added that* it was not the job of `a light-touch 轻触；低干涉（一种经营模式） government` *to pick* which business sectors *should prosper* and which *should fail*. Yet `主` *fostering* 促进；抚育 tech `系` *is* one of the government’s priorities 优先事项；最重要的事；首要事情, while the threat to the sector *is the opposite 对面的；另一边的;相反的；迥然不同的 of* light-handed 手法高明的;手巧的.
+
+- be in the dark about 完全不知道, 对……完全不知;一无所知
+
+- 虽然政府很想安抚公司，但它做不到这一点。《经济学人》问商务部长邱腾华，根据国安法, 将会采取什么措施来打击媒体? 他没有提供任何细节。也许地方官员和任何人一样不清楚中央政府的具体意图。当被问及谷歌、Facebook和Twitter的离开, 是否会被视为他在办公室里的糟糕一天时，丘德威表示，随着时间的推移，当法院做出与安全法有关的裁决时，科技公司的情况将变得更加明朗。他补充称，选择哪些商业部门应该繁荣、哪些应该失败，不是一个"低干预性"政府的职责。然而，培育科技产业发展是政府的首要任务之一，而该行业面临的威胁, 则带来了与政府轻巧手段相反的结果。
+
+
+For the long term, the security law *introduces* `a new and potentially ominous 预兆的；恶兆的；不吉利的 dimension` 维度 *into* the business-political nexus （错综复杂的）关系，联结，联系. Under it, `主` Luo Huining, the head of `the central government’s liaison(n.)联络；联系 office` in Hong Kong `谓` *has been appointed as* commissar （尤指旧时苏联的）政治委员，政委 *to “advise”(v.) on national security*. But he *also oversees* `a secretive portfolio （个人或机构的）投资组合，有价证券组合;文件夹；公事包 of investments` in Hong Kong *encompassing*(v.)包含，包括，涉及（大量事物） over 300 properties and the largest bookseller and publisher. If you *think that* `主` Hong Kong’s anti-corruption body, which *reports to* the chief executive, `谓` *would have no qualms(n.) （对自己行为的）顾虑，不安 about* going hard after irregularities(n.)不合乎常规的行为；不正常的做法 (within that Communist Party-controlled empire), *think again*. Mr Luo *is* one of China’s most powerful men. Carrie Lam, the chief executive, *is fast becoming* just another small-town mayor.
+
+- liaison /ˈliːəzɑːn,liˈeɪzɑːn/ n [ Using. ] *~ (between A and B)* a relationship between two organizations or different departments in an organization, involving the exchange of information or ideas 联络；联系 +
+=> 来自拉丁语ligare,绑定，连结，词源同ligament,oblige.引申词义联络，联系。
+
+- commissar : /ˌkɑːmɪˈsɑːr/ an officer of the Communist Party, especially in the past in the Soviet Union （尤指旧时苏联的）政治委员，政委 +
+=> com-, 强调。-miss, 派遣，词源同mission.用于俄语，即派到军队的政治人员，思想指导员。
+
+- qualm : /kwɔːm/ n..  *~ (about sth)* a feeling of doubt or worry about whether what you are doing is right （对自己行为的）顾虑，不安
+SYN misgiving +
+=> 来自古英语cwealm,死亡，谋杀，折磨，词源同kill,quell.引申词义有死亡危险的，恐惧的，后词义弱化为顾虑，不安。 +
+->  He had been working very hard *so he had no qualms(n.) about* taking a few days off. 他一直辛勤工作，所以休息几天他觉得心安理得。
+
+- 从长期来看，安全法为政商关系引入了一个新的、潜在的不祥的维度。根据该决议，中央政府驻香港联络办公室主任骆惠宁, 被任命为政委，就国家安全问题提供“建议”。但他也在香港监管着一个秘密的投资组合，包括300多处房产和最大的书商和出版商。如果你认为, 香港的反腐机构(向行政长官汇报), 会毫不犹豫地对这个共产党控制的帝国内部的违规行为, 采取严厉措施，那你就得三思了。罗是中国最有权势的人之一。香港特首林郑月娥(Carrie Lam)正迅速成为另一个小城的市长。
 
 ---
 
@@ -143,10 +192,6 @@ Much as it would like to reassure firms, the government is failing to do so. The
 For the long term, the security law introduces a new and potentially ominous dimension into the business-political nexus. Under it, Luo Huining, the head of the central government’s liaison office in Hong Kong has been appointed as commissar to “advise” on national security. But he also oversees a secretive portfolio of investments in Hong Kong encompassing over 300 properties and the largest bookseller and publisher. If you think that Hong Kong’s anti-corruption body, which reports to the chief executive, would have no qualms about going hard after irregularities within that Communist Party-controlled empire, think again. Mr Luo is one of China’s most powerful men. Carrie Lam, the chief executive, is fast becoming just another small-town mayor.
 
 
+---
 
-
-在建造新的公共住房方面，政府应该做得更多。相反，咨询公司Gavekal Dragonomics的Simon Cartledge写道，由于这些公司在政府中的比例过高，“香港对冒险和创业最大的阻碍是高昂的成本，尤其是房地产成本，无法解决。”这就是为什么回归商业的信息不太可能引起普通香港人的共鸣。
-科技和社交媒体公司的担忧最大。该法要求他们删除违反国家安全的内容，或提供警方调查国家安全案件时要求的用户信息。由于政府不得不这么做，Facebook、Twitter和其他网站都暂停了对政府的所有请求的考虑。包括亚马逊(Amazon)、谷歌和微软(Microsoft)在内的云服务提供商也面临着压力，要求它们同意监管机构对客户银行记录的要求。他们也在拖延，但这只能是权宜之计。如果高管们不会面临罚款或牢狱之灾，企业必须要么遵守规定，要么离开。《香港自治法》只会加剧他们的困境。帮助美国执行制裁将违反安全法。不这样做将招致美国的惩罚。
-虽然政府很想安抚公司，但它做不到这一点。《经济学人》问商务部长邱腾华，根据安全法将采取什么措施来打击媒体。他没有提供任何细节。也许地方官员和任何人一样不清楚中央政府的具体意图。当被问及谷歌、Facebook和Twitter的离开是否会被视为他在办公室里的糟糕一天时，丘德威表示，随着时间的推移，当法院做出与安全法有关的裁决时，科技公司的情况会变得更加清楚。他补充称，选择哪些商业部门应该繁荣、哪些应该失败，不是一个温和型政府的职责。然而，培育科技产业是政府的首要任务之一，而该行业面临的威胁则与之相反。
-从长期来看，安全法为政商关系引入了一个新的、可能是不祥的维度。根据该决议，中央政府驻香港联络办公室主任罗会宁被任命为政委，就国家安全问题提供“建议”。但他也在香港监管着一个秘密的投资组合，包括300多处房产和最大的书商和出版商。如果你认为香港的反腐机构(向行政长官汇报)会毫不犹豫地对这个共产党控制的帝国内部的违规行为采取严厉措施，那你就得三思了。罗是中国最有权势的人之一。香港特首林郑月娥(Carrie Lam)正迅速成为另一个小城的市长。
-
+==

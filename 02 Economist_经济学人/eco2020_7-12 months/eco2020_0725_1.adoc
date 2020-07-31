@@ -1,0 +1,103 @@
+
+= eco 2020-07-25
+:toc:
+
+---
+
+
+== Righting(v.)改正；纠正；使恢复正常 wrongs 词汇解说
+
+(eco 2020-7-25 / China / Miscarriages of justice: Righting wrongs)
+
+China *is growing more willing to review*(v.) `dodgy  有毛病的；运转不良的；状况不佳的; 狡猾的；狡诈的；可疑的 convictions` 判罪；定罪；证明有罪
+
+*But not for* political dissidents 持不同政见者
+
+Jul 23rd 2020 | BEIJING
+
+- 纠正错误 +
+中国越来越愿意重审可疑的定罪 +
+但对持不同政见者来说, 却并非如此
+
+ON A NOVEMBER morning in 2004, Wang Zhansheng’s three- and six-year-old sons *fell suddenly* and *violently ill*. The older boy *recovered*. His little brother *died* the same day. Police in their home province of Henan, in central China, *concluded that* the toddler 学步的儿童；刚学会走路的孩子 *had been murdered*. Soon they *said* they *had caught* the culprit 犯错的人；罪犯;肇事者；引起问题的事物: Wu Chunhong, a 34-year-old neighbour with three children of his own. Under interrogation 审问, Mr Wu *told police that* he *had quarrelled 口角；争吵；拌嘴 with* the boy’s father over a small debt. He *said that* he *had taken revenge* 报复；报仇 by *sneaking 偷偷地走；溜 into* the family’s kitchen and *sprinkling* 撒；洒；把…撒（或洒）在…上 rat poison 老鼠药 *into* cooking ingredients 成分；（尤指烹饪）原料.
+
+- toddler =>  toddle,蹒跚学步，-er,人。
+
+- culprit : /ˈkʌlprɪt/ => 来自culp-,责备，谴责，词源同inculpable.
+
+- sprinkle :  /ˈsprɪŋkl/=>  来自 PIE*spreg,播，洒，溅，词源同 spark,spread,sperm.-le,表反复。
+
+
+[In April this year] Mr Wu *was freed from prison*, his conviction 判罪；定罪；证明有罪 *quashed* 宣布（法庭的裁决）无效；撤销（判决） during a brief hearing *that was held online* as a result of the covid-19 pandemic. For 16 years Mr Wu *had maintained that* his confession 供词；供状；认罪；供认；坦白 *was false* and *had been obtained* through torture 拷打；拷问；酷刑. He *said that* he *had been shackled 给（某人）戴镣铐 and beaten*, and *that* his resistance 反对；抵制；抗拒 *had broken* when police *threatened to subject*(v.) 使臣服；使顺从；（尤指）压服 his wife *to the same treatment*. His case *is* the most recent of more than 60 big miscarriages 流产;冤假错案 of justice *that have been made public* since Xi Jinping *took power* in 2012, researchers at New York University (NYU) *calculate*. The overturning 推翻 of these verdicts （陪审团的）裁定，裁决，裁断 *is* proof 证据；证明, officials *say*, that China’s criminal justice system *is working better*.
+
+- miscarriage : /ˈmɪskærɪdʒ/ 来自miscarry,流产，-age,名词后缀。
+
+- 今年4月，吴被释放，他的定罪在网上举行的简短听证会上被撤销，这次听证会的原因是covid-19大流行。16年来，吴一直坚称自己的供词是假的，是通过严刑逼供得来的。他说，他被戴上镣铐，遭到毒打，当警察威胁要对他的妻子施以同样的待遇时，他的反抗已经瓦解。据纽约大学(NYU)的研究人员计算，自习近平2012年上台以来，已经有60多起误判事件被公开，张的案件是其中最新的一起。官员们表示，这些判决的被推翻证明，中国的刑事司法体系运行比之前更好了。
+
+
+Many wrongful 不公正的；不道德的；不合法的 convictions *have come to light* 为人所知；变得众所周知；暴露 after `re-examination 复查 of cases` (*related to* China’s occasional `nationwide 全国性的；遍及全国的；全国范围的 “strike hard” 严打 campaigns` *against* serious offences 违法行为；犯罪；罪行). `主` Big ones (in 1996 and 2000-01) `谓` *aimed to curb(v.)控制，抑制，限定，约束（不好的事物） a rise (in crime)* (that *followed* ① the dismantling 拆开，拆卸（机器或结构）;（逐渐）废除，取消 of the old state-run economy, and ② the easing 缓和；放松 of `strict social controls` that *went with it*). `主` Short-staffed 人员配备不足；人手短缺 police bureaus `谓` *were given* high targets(n.) *for* the number of people (*to be rounded up* 围捕；围剿) . This *led to* many `arbitrary arrests`, a problem *compounded by* the incompetence and bias of judges and prosecutors 公诉人；检察官, who often *lacked* legal training. Many *had simply been assigned to the jobs* [after `military service`].
+
+- *come to light* : to become known to people 为人所知；变得众所周知；暴露
+
+- 在中国全国范围内偶尔开展的对严重犯罪的“严打”中，经过对相关案件的复审，许多错判案件浮出水面。1996年和2000-01年的大行动, 旨在遏制旧的国有经济解体, 以及随之而来的严格的社会控制放松后犯罪率的上升。人手不足的警察局, 被给予了围捕人数的高目标。这导致了许多任意逮捕，而法官和检察官的无能和偏见, 又加剧了这一问题，他们往往缺乏法律培训。许多人只是在服兵役后被分配到工作岗位上。
+
+
+Anti-crime campaigns (on such a scale) *are rarer* these days, but much about China’s criminal system *remains woeful* 糟糕的；严重的；不合意的; 悲惨的；忧伤的. Only 30% of criminal defendants 被告人；被告 *are represented by lawyers*, *guesses* Ira Belkin of NYU. Verdicts （陪审团的）裁定，裁决，裁断 *are almost always agreed* before trials *begin*, [during private meetings of judges, police and prosecutors]. These officials *are easily intimidated 恐吓；威胁 by* higher-ups  高层人物; 要员 (*seeking* the swift closure of cases), or *by* `families of victims` 受害者 (who *threaten to protest* （公开）反对；抗议;坚决地表示；申辩 [*should* （表示可能）假如，万一 suspects *not be punished*]). Once defendants *reach* a courtroom, the conviction rate  定罪率;判罪率 *is above 99.9%*.
+
+A common cause of wrongful conviction is the convention in serious cases that suspects must confess. Police often use force to make sure this happens. In 2018 academics in Hong Kong and Macau analysed 141 exonerations that had taken place on the mainland since 1982. They found that false admissions of guilt had been a factor in nearly 90% of them. In America, by contrast, false confessions are thought to contribute to about a quarter of wrongful convictions. A more common cause there is mistaken or deceitful testimony by witnesses (a scourge in China, too).
+
+Questioning all this was once taboo. That changed swiftly during the 2000s, in part because of two cases involving egregious errors by the police. One of them was exposed in 2005 when a woman in Hubei, another central province, turned up alive 11 years after her husband told police that he had killed her (she had left her home to begin a new life). The other came to light in 2010 when a villager returned to his home in Henan, more than a decade after his neighbour had admitted to murdering him during an argument. In both cases police had misidentified decomposed bodies. The publicity given to these wrongful convictions was a hint of officials’ concern about the impact such cases were having on public confidence in the justice system and in the Communist Party’s competence.
+
+After taking power, Xi Jinping put new emphasis on a campaign, begun by his predecessors, to stop such embarrassments. Encouraged by this, some lawyers and law professors launched co-ordinated efforts to get shaky-looking cases reopened, using tactics learned from similar grassroots campaigns in America.
+
+Officials have shown no eagerness to re-examine cases involving dissidents—indeed, under Mr Xi’s rule the party’s critics have been subject to harsher repression. Lawyers who have tried to defend ordinary people against the power of the state have been harassed and jailed. But over the past eight years, there has been a string of directives aimed at curbing other miscarriages of justice. Two revisions to the criminal-procedure law, the most recent in 2018, have sought to make it easier for defendants to challenge evidence obtained under duress. In January the government ordered that people accused of major crimes, as well as their lawyers, be interviewed at the end of investigations to ascertain whether torture was used. It has also been trying to make trials less of a mere ritual: for example, by giving courts more power to compel witnesses to appear in person. In 2017 the government said it wanted all defendants in criminal cases to have access to a lawyer, though it gave no deadline.
+
+There have been other encouraging trends. He Jiahong of Renmin University in Beijing says the increasing availability of electronic evidence, such as from mobile phones, cashless payments and security cameras, is likely to reduce the value of obtaining confessions. And he spots a change in attitudes, whereby people who work in the justice system are increasingly inclined to agree that it is better to let the guilty go free than to punish innocents.
+
+But it is difficult to judge how much this is helping to make justice fairer. Information that might be helpful, such as changes in the proportion of cases being concluded without a confession, is hard to come by. Proving trends in abuses committed by police is “almost impossible”, says NYU’s Mr Belkin. The party’s secrecy may also be directly obstructing change. Tobias Smith of the University of California, Berkeley, says the government has neglected its promise to ensure that defence lawyers take part in reviews of death-penalty cases because it does not want them to work out how many people are executed, which is a state secret.
+
+Criminal justice in China is increasingly splitting along two tracks. People accused of crimes that are unrelated to politics are gradually receiving better protection. Those accused of political crimes or official corruption are being treated more harshly, says Joshua Rosenzweig of Amnesty International. The idea is to have a legal system that looks fairer to many citizens but still just as threatening to people whom the party fears might oppose or undermine it. That could be called progress, but few would call it justice.
+
+---
+
+== Righting wrongs
+
+China is growing more willing to review dodgy convictions
+
+But not for political dissidents
+
+Jul 23rd 2020 | BEIJING
+
+
+ON A NOVEMBER morning in 2004, Wang Zhansheng’s three- and six-year-old sons fell suddenly and violently ill. The older boy recovered. His little brother died the same day. Police in their home province of Henan, in central China, concluded that the toddler had been murdered. Soon they said they had caught the culprit: Wu Chunhong, a 34-year-old neighbour with three children of his own. Under interrogation, Mr Wu told police that he had quarrelled with the boy’s father over a small debt. He said that he had taken revenge by sneaking into the family’s kitchen and sprinkling rat poison into cooking ingredients.
+
+In April this year Mr Wu was freed from prison, his conviction quashed during a brief hearing that was held online as a result of the covid-19 pandemic. For 16 years Mr Wu had maintained that his confession was false and had been obtained through torture. He said that he had been shackled and beaten, and that his resistance had broken when police threatened to subject his wife to the same treatment. His case is the most recent of more than 60 big miscarriages of justice that have been made public since Xi Jinping took power in 2012, researchers at New York University (NYU) calculate. The overturning of these verdicts is proof, officials say, that China’s criminal justice system is working better.
+
+Many wrongful convictions have come to light after re-examination of cases related to China’s occasional nationwide “strike hard” campaigns against serious offences. Big ones in 1996 and 2000-01 aimed to curb a rise in crime that followed the dismantling of the old state-run economy, and the easing of strict social controls that went with it. Short-staffed police bureaus were given high targets for the number of people to be rounded up. This led to many arbitrary arrests, a problem compounded by the incompetence and bias of judges and prosecutors, who often lacked legal training. Many had simply been assigned to the jobs after military service.
+
+Anti-crime campaigns on such a scale are rarer these days, but much about China’s criminal system remains woeful. Only 30% of criminal defendants are represented by lawyers, guesses Ira Belkin of NYU. Verdicts are almost always agreed before trials begin, during private meetings of judges, police and prosecutors. These officials are easily intimidated by higher-ups seeking the swift closure of cases, or by families of victims who threaten to protest should suspects not be punished. Once defendants reach a courtroom, the conviction rate is above 99.9%.
+
+A common cause of wrongful conviction is the convention in serious cases that suspects must confess. Police often use force to make sure this happens. In 2018 academics in Hong Kong and Macau analysed 141 exonerations that had taken place on the mainland since 1982. They found that false admissions of guilt had been a factor in nearly 90% of them. In America, by contrast, false confessions are thought to contribute to about a quarter of wrongful convictions. A more common cause there is mistaken or deceitful testimony by witnesses (a scourge in China, too).
+
+Questioning all this was once taboo. That changed swiftly during the 2000s, in part because of two cases involving egregious errors by the police. One of them was exposed in 2005 when a woman in Hubei, another central province, turned up alive 11 years after her husband told police that he had killed her (she had left her home to begin a new life). The other came to light in 2010 when a villager returned to his home in Henan, more than a decade after his neighbour had admitted to murdering him during an argument. In both cases police had misidentified decomposed bodies. The publicity given to these wrongful convictions was a hint of officials’ concern about the impact such cases were having on public confidence in the justice system and in the Communist Party’s competence.
+
+After taking power, Xi Jinping put new emphasis on a campaign, begun by his predecessors, to stop such embarrassments. Encouraged by this, some lawyers and law professors launched co-ordinated efforts to get shaky-looking cases reopened, using tactics learned from similar grassroots campaigns in America.
+
+Officials have shown no eagerness to re-examine cases involving dissidents—indeed, under Mr Xi’s rule the party’s critics have been subject to harsher repression. Lawyers who have tried to defend ordinary people against the power of the state have been harassed and jailed. But over the past eight years, there has been a string of directives aimed at curbing other miscarriages of justice. Two revisions to the criminal-procedure law, the most recent in 2018, have sought to make it easier for defendants to challenge evidence obtained under duress. In January the government ordered that people accused of major crimes, as well as their lawyers, be interviewed at the end of investigations to ascertain whether torture was used. It has also been trying to make trials less of a mere ritual: for example, by giving courts more power to compel witnesses to appear in person. In 2017 the government said it wanted all defendants in criminal cases to have access to a lawyer, though it gave no deadline.
+
+There have been other encouraging trends. He Jiahong of Renmin University in Beijing says the increasing availability of electronic evidence, such as from mobile phones, cashless payments and security cameras, is likely to reduce the value of obtaining confessions. And he spots a change in attitudes, whereby people who work in the justice system are increasingly inclined to agree that it is better to let the guilty go free than to punish innocents.
+
+But it is difficult to judge how much this is helping to make justice fairer. Information that might be helpful, such as changes in the proportion of cases being concluded without a confession, is hard to come by. Proving trends in abuses committed by police is “almost impossible”, says NYU’s Mr Belkin. The party’s secrecy may also be directly obstructing change. Tobias Smith of the University of California, Berkeley, says the government has neglected its promise to ensure that defence lawyers take part in reviews of death-penalty cases because it does not want them to work out how many people are executed, which is a state secret.
+
+Criminal justice in China is increasingly splitting along two tracks. People accused of crimes that are unrelated to politics are gradually receiving better protection. Those accused of political crimes or official corruption are being treated more harshly, says Joshua Rosenzweig of Amnesty International. The idea is to have a legal system that looks fairer to many citizens but still just as threatening to people whom the party fears might oppose or undermine it. That could be called progress, but few would call it justice.
+
+
+
+如今，如此大规模的反犯罪活动已经很少见了，但中国的犯罪体系仍有很多令人遗憾的地方。纽约大学的Ira Belkin猜测，只有30%的刑事被告, 由律师代表。在审判开始前，法官、警察和检察官, 在私下会议上几乎总是会达成一致的判决。这些官员很容易受到寻求迅速了结案件的上级的威胁，或者受到如果嫌疑人不被惩罚就抗议的受害者家属的威胁。一旦被告进入法庭，定罪率就会超过99.9%。
+错误定罪的一个常见原因是，在严重案件中，根据惯例嫌疑人必须坦白。警察经常使用武力来确保这一切发生。2018年，香港和澳门的学者分析了自1982年以来在大陆发生的141起无罪判决。他们发现，近90%的人会错误地承认自己有罪。相比之下，在美国，错误认罪被认为是错误定罪的四分之一。更常见的原因是证人的错误或欺骗证词(这在中国也是一大祸害)。
+质疑这一切曾经是禁忌。这种情况在21世纪初迅速改变，部分原因是警方犯下的两起严重错误。其中一起事件发生在2005年，当时另一个中部省份湖北的一名女子在丈夫告诉警方他杀了她(她离家去开始新生活)11年之后出现，她还活着。另一起事件发生在2010年，一名河南村民回到自己的家中，十多年前，他的邻居承认在一次争吵中谋杀了他。在这两起案件中，警察都错认了腐烂的尸体。对这些错案的公开表明，官员担心此类案件会影响公众对司法体系和共产党能力的信心。
+
+
+受此鼓舞，一些律师和法学教授采取协调行动，从美国类似的草根运动中吸取经验，重新审理看似不稳定的案件。
+但很难判断这在多大程度上有助于使司法更加公平。可能有帮助的信息，比如没有认罪就结案的比例变化，是很难得到的。纽约大学的贝尔金说，要证明警察滥用职权的趋势是“几乎不可能的”。党的保密也可能直接阻碍改革。加州大学伯克利分校的Tobias Smith说，政府忽视了它保证辩护律师参与死刑案件审查的承诺，因为它不想让辩护律师知道有多少人被执行死刑，而这是国家机密。
+中国的刑事司法越来越一分为二。被控与政治无关的犯罪的人逐渐得到更好的保护。大赦国际的乔舒亚·罗森茨威格说，那些被指控犯有政治罪行或官员腐败的人正在受到更加严厉的对待。其想法是建立一个对许多公民来说更公平的法律体系，但对那些党担心会反对或破坏它的人来说，仍然是一种威胁。这可以被称为进步，但很少有人会称之为正义。
