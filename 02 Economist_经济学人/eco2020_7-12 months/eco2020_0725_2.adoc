@@ -1,0 +1,224 @@
+
+= eco 2020-07-25
+:toc:
+
+---
+
+
+== Is there life on Mars? 词汇解说
+
+(eco 2020-6-13 / Science & technology / Astrobiology: Life on Mars: the search continues)
+
+A new generation of spacecraft *may soon find out*
+
+Jul 21st 2020 |
+
+- 火星上有生命吗? +
+新一代的航天器可能很快就会发现
+
+
+[AROUND 3.5BN years ago] conditions on Earth and Mars *were similar*. Both *had* thick atmospheres and liquid water on their surfaces. Both, in other words, *had* the conditions *required to sustain life*. And [on one of those planets] life *was, indeed, sustained*. `主` Precisely when biology *began* on Earth `系` *remains obscure* 费解的；难以理解的;无名的；鲜为人知的. But by 3.5bn years ago, a billion years after the solar system *formed*, it *was well established there* and *has since evolved into* the lush 茂盛的；茂密的；草木繁茂的 abundance of complex forms *seen today*. `主` Mars, meanwhile, `谓` *became* a freezing desert.
+
+- 大约35亿年前，地球和火星的情况相似。它们表面都有厚厚的大气层和液态水。换句话说，两者都具备维持生命所需的条件。在其中一颗行星上，生命确实得以维持。生物学究竟是什么时候开始在地球上存在的, 仍然不清楚。但到了35亿年前，也就是太阳系形成10亿年之后，它在那里建立了牢固的基础，并演化成今天所见的丰富而复杂的形式。与此同时，火星则变成了冰冷的沙漠。
+
+
+The question *nevertheless 尽管如此；不过；然而 remains*: [*given that* `主` the conditions *needed for life to emerge on Earth* `谓` *also seem to have pertained(v.)存在；适用 for a time* on Mars], *might* life *have evolved there*, too? And, if it did, *might* it *still survive* [in some form], *even if* only [in vanishingly 难以察觉地；消遁似地；趋于零地 rare amounts]?
+
+- pertain :  /pərˈteɪn/ [ V ] ( formal ) to exist or to apply in a particular situation or at a particular time 存在；适用
+.. Those laws *no longer pertain*(v.). 那些法律已不适用了。
+
+- 然而，问题仍然存在:如果地球上出现生命所需的条件, 似乎在火星上也存在过一段时间，那么火星上是否也有生命进化? 如果有的话，它还会以某种形式存活下来吗? 即使数量微乎其微?
+
+
+`主` To answer(v.) that question `谓` *means* visiting(v.) the place -  [if not *with people* then] at least *with robots*. And *now is a good time* to do so, for Earth and Mars *are aligned in a way* (that *means* the journey *takes less than seven months*). On July 20th, therefore, `主` the first of `a caravan （供居住用的）有篷马车，大篷车;（尤指穿越沙漠的）旅行队，车队 of craft` (*planning to take advantage of* this alignment) `谓` *set off* 动身;出发;启程. That *was* when `主` Al Amal, meaning “hope”, `谓` *rose* from Japan’s spaceport 太空船发射、维修及测试场;宇航基地 on Tanegashima(たねがしま)种子岛, *off* the southern tip of Kyushu 日本九州. Al Amal is an orbiter （绕天体作轨道运行的）宇宙飞船；轨道飞行器 *intended to study* Mars’s weather, and *also look at* how the Martian atmosphere *is leaking into space*. Its lift-off(n.)（航天器的）发射，起飞，升空 *adds* the United Arab Emirates (UAE) *to* the list of countries that *have dispatched* 发出，发送（邮件、包裹、信息） probes （不载人）航天探测器，宇宙探测航天器 *towards* extraterrestrial 地球外的；外星球的；宇宙的 bodies.
+
+- caravan : /ˈkærəvæn/ ( BrE ) ( NAmE also camp·er ) a road vehicle without an engine that is pulled by a car, designed for people to live and sleep in, especially when they are on holiday/vacation 旅行拖车，宿营拖车（无发动机，由其他车拖动，多供度假时住宿用） +
+image:../../+ img_单词图片/c/caravan.jpg[100,100]
+
+- extra·ter·res·trial : /ˌekstrətəˈrestriəl/ a. connected with life existing outside the planet Earth 地球外的；外星球的；宇宙的 +
+=> extra-, 外面的，超过的。terrestrial, 陆地的，地球的。即地球之外的，外星人。
+
+- 要回答这个问题，就得去探访那个地方——如果不是和人一起去，至少也要和机器人一起去。而现在正是这样做的好时机，因为地球和火星以某种方式排列着，这意味着旅程只需要不到七个月的时间。因此，在7月20日，第一艘计划利用此次有利的行星排列位置的飞船, 出发了。这就是“希望”号, 它从位于九州岛南端的日本种子岛航天发射场, 升空。"hope"号是一个人造卫星，旨在研究火星的天气，并观察火星大气是如何泄漏到太空的。它的发射使阿拉伯联合酋长国(UAE), 名列向地外天体发射探测器的国家之一。
+
+
+Al Amal *was followed*, on July 23rd, *by* Tianwen-1 (“heavenly(a.)天国的；天堂的 questions”), a Chinese mission *consisting of* `an orbiter` （绕天体作轨道运行的）宇宙飞船；轨道飞行器, `a lander` and `a rover`  漫游者；流浪者 that *took off*  (飞机)起飞 from Wenchang Space Launch Centre, on Hainan. The lander’s  (航天)着陆器 `provisional  临时的；暂时的 target` *is* Utopia Planitia 平原低地, a large `impact 撞击；冲撞；冲击力 basin` 盆地；凹地 where an American craft 飞行器；飞机；航天器；宇宙飞船；航天飞机, Viking 2, 维京人, 北欧海盗 *touched down* in 1976. Chinese officials *have [so far] declined 谢绝；婉言拒绝 to release much detail about* Tianwen-1’s scientific aims, but what is known of them *suggests that* it *will study* the distribution 分配；分布 of ice on Mars and *examine* how the planet’s habitability 可居住性,适居性 *has changed [over time]* 随着时间的过去; 久而久之; 慢慢地，渐渐地.
+
+- rover : /ˈroʊvər/ ( literary ) a person who likes to travel a lot rather than live in one place 漫游者；流浪者 +
+=> 来自中古荷兰语 rover,劫匪，海盗，词源同 reave,rob,rip. +
+image:../../+ img_单词图片/r/rover.jpg[100,100]
+
+- provisional => 来自provision,供给，供养。引申词义临时的，暂时的。 +
+.. *provisional arrangements* 暂时性安排
+
+- 继"希望号"之后，7月23日，由轨道器、着陆器和火星车组成的“天文-1”号飞船从海南文昌航天发射中心起飞。着陆器的临时目标是乌托邦平原(Utopia Planitia)，这是一个大型撞击盆地，美国飞船“海盗2号”(Viking 2)曾在1976年在这里着陆。迄今为止，中国官员拒绝透露有关“天文一号”科学目标的更多细节，但目前已知的情况表明，“天文一号”将研究火星上的冰分布，并研究火星的宜居性是如何随着时间变化的。
+
+
+Lack of publicity has not been an issue for the third member of the flotilla. On July 30th NASA, America’s space agency, hopes to launch Perseverance, a one-tonne, six-wheeled rover, from the country’s principal spaceport at Cape Canaveral, in Florida. It will have cost $2.4bn to build and dispatch, and will absorb another $300m in operating costs during its mission. It will be the most sophisticated vehicle yet sent by America to the Martian surface.
+
+Once upon a time...
+
+Perseverance is aimed at a 45km-wide crater called Jezero that was, 3.5bn years ago, home to a lake. The rover’s main goal is to look for signs of ancient life. But it is also the opening gambit in a decade-long plan to bring Martian rocks to Earth. Jezero itself sits on the inner rim of Isidis Planitia, another large impact basin, which was excavated 3.9bn years ago. One source of the water which formed the lake that once lay within it seems to have been a river leading to a well-preserved delta. The layers of sediment in this feature (colour-coded in the picture on the previous page according to their mineral composition) are prime targets in the search for Martian biology.
+
+On Earth, some of the oldest evidence for life comes in the form of stromatolites. These stratified structures form in shallow water when colonies of microbes grow layer upon layer, trapping sediment as they do so. The most ancient examples are thought to be those found in Greenland in 2016, which have been dated to 3.7bn years before the present day. If there was sufficient time for stromatolite-forming organisms to evolve on Earth by this date then there is no obvious reason why they might not also have evolved on Mars.
+
+Spotting stromatolite-like layers in rocks will not, though, be enough on its own. Researchers will also need to consider the textures of the rocks concerned and the distribution within them of potentially telltale minerals and organic molecules. Confusingly, in chemistry-speak, an organic molecule is not necessarily of biological origin. The term just means that it is built around carbon atoms, so organic molecules can also originate inorganically, as it were. The biological nature of an organic molecule has thus to be justified by other evidence. As Kathryn Stack Morgan, a geologist who is the Perseverance mission’s deputy project scientist, observes, “This is exactly the type of thing that we do here on Earth to make a case for biosignatures in our own rock record, and for the very first time using our instruments we can do that on the surface of Mars.”
+
+Rocks and hard places
+
+Perseverance carries two instruments in particular that are intended to examine the surfaces of rocks which the rover encounters. Both will look for pertinent minerals and organic molecules. SHERLOC, situated at the end of the rover’s robotic arm, will shine a laser onto tiny grains in rocks it comes across. By analysing the spectrum of the light that is scattered back, this instrument will be able to identify molecules in the grains under scrutiny. WATSON, a camera, will then take close-ups of rocks that SHERLOC deems worthy of further study.
+
+Mapping SHERLOC’s chemical analyses onto WATSON’s high-resolution images will show how different mineral layers are arranged and textured. That will be a big improvement over the instruments on board NASA’s current operational Mars rover, Curiosity, which arrived in 2012. These are capable only of grinding up rocks to work out whether or not organic molecules are present in the bulk material. If there are stromatolites (or even fossils of more complex creatures) Perseverance will be able to see them, both chemically and optically.
+
+
+
+As did Curiosity, Perseverance will rely on an autopilot to guide it through the atmosphere to the planet’s surface, after arriving at a velocity, relative to its target, of 19,500km per hour. “We refer to it as the seven minutes of terror,” says Matt Wallace, an engineer who is the mission’s deputy project manager. The rover’s autonomy will then carry over to its everyday operations. Because of the time it takes radio waves to travel from Earth to Mars, Perseverance will receive instructions only once a day. On the ground on Mars it will need to find and avoid awkwardly placed rocks, and also more serious hazards, such as cliffs, by processing, in real time, pictures coming from its 23 cameras. This autonomy, NASA is confident, will permit the new rover to cross the Martian surface routinely and safely at a speed of around 150 metres per hour, double that at which Curiosity is usually allowed to travel.
+
+As well as eyes, Perseverance has ears. A pair of microphones on board will permit people to hear the winds of Mars for the first time. They will also be able listen to the whirr of the rover’s gears, the crunch of its wheels as it moves across the regolith (the crushed rock that passes for soil on Mars) and the percussive sounds of the drill at the end of its arm as it chips out samples of rocks to study.
+
+Not all of those samples will be discarded after investigation. Some will be packed for eventual dispatch to Earth by a project called the Mars Sample Return mission. This is a collaboration between NASA and the European Space Agency, ESA, that involves launching five separate spacecraft over the course of a decade. Perseverance is the first, and its collaboration-related job is to seal samples of Martian rock that its operators think worthy of further investigation into one of around 30 titanium tubes which it carries. As the illustration overleaf presages, it will leave these on the surface to be picked up by an ESA-designed “fetch rover” that could arrive as early as 2028. Once collected, the tubes will be brought back to Earth by a system of relay craft, and their contents analysed.
+
+Perhaps most intriguingly of all, Perseverance will also carry a 1.8kg helicopter, called Ingenuity. If this manages to fly in Mars’s thin atmosphere (which has about 1% of the density of Earth’s at the surface), it will represent the first controlled flight, beyond the landing and lift-off of a spacecraft, to take place on another heavenly body. And if that happens, it will pave the way for more sophisticated drones on future missions to act as scouts.
+
+Every contact leaves a trace
+
+The life-seeking instruments on Perseverance are more advanced than anything that has come before them, but this was not the original plan for the next phase, after Curiosity, of NASA’s attempt to find life on Mars. In February 2012, while Curiosity was still making its way there, Barack Obama’s administration slashed NASA’s planet-exploration budget by a fifth. At the time, American scientists had been developing a programme called ExoMars, in collaboration with ESA. This was to involve an orbiter and several rovers being launched from 2016 onwards, with a combination of tools intended to look for signs of life.
+
+Mr Obama’s cuts killed American involvement in ExoMars and, by the time Curiosity reached Mars in August 2012, NASA had no plans to send any future rovers. The overwhelmingly positive public reaction to Curiosity’s nail-biting landing, however, helped persuade the agency’s chiefs to reconsider their priorities and put together a scaled-back version of previous plans that required no increase in the budget. The result, the mission now known as Perseverance, was announced a few months later.
+
+Meanwhile, ESA had kept its part of the ExoMars programme alive, turning to Russia for help with launching and hardware. In 2016 the agency delivered the first part of the programme, the Trace Gas Orbiter. Its goal is to measure the precise concentrations in Mars’s atmosphere of substances, including methane, water vapour, nitrogen oxides and acetylene, that each form less than 1% of the atmosphere’s total volume but which might be signs of biology.
+
+Methane is of particular interest since its presence varies with both time and location on the planet’s surface. Methane does not live long in the Martian atmosphere, suggesting there is an active source of the gas. On Earth, living things emit methane as they digest nutrients. But purely geological processes can also liberate the stuff.
+
+The next step in ESA’s ExoMars programme is a rover, called Rosalind Franklin. This was also scheduled for launch in the current window. However, a combination of technical delays and the effect of covid-19, which has meant the team of engineers involved could not easily travel to complete the manufacture and testing of the rover, has pushed the lift-off date back to the next favourable alignment, in 2022.
+
+When Rosalind Franklin eventually does arrive on Mars (2023, if this timetable is adhered to), the craft will crawl over an area called Oxia Planum. This has clays that date back around 4bn years, which will make it the oldest site yet explored on Mars. Since clay minerals require water to form, there are high hopes that Oxia Planum may once have been a life-friendly region.
+
+Rosalind Franklin’s scientific payload will be capable of much more sophisticated analyses than Perseverance’s. In particular, the Mars Organic Molecule Analyser (MOMA) will be able to extract organic molecules from rocks and regolith more effectively than before.
+
+Previous attempts to study organic molecules on Mars have been plagued by the presence of chemicals called perchlorates. These were first seen in 2008, by NASA’s Phoenix lander, and were confirmed by Curiosity half a decade later. Those missions baked their Martian samples in ovens, to release the organics. That also released chlorine and oxygen from the perchlorates, and these oxidised most of the organic molecules present. MOMA will circumvent this problem by using an ultraviolet laser that will knock organic molecules off rock samples so fast that any perchlorates present will not have time to decompose.
+
+Rosalind Franklin’s most important tool, however, will be a drill that can collect samples from two metres below the surface. This is crucial for recovering material in which organic molecules can be found in a good state of preservation. The thin Martian atmosphere is easily penetrated by ionising radiation from space. This slams into the surface and even travels a little way beneath it. As Jorge Vago, ExoMars’s lead scientist, observes, “Over many millions of years, this ionising radiation acts like gazillion little knives slowly cutting away the functional groups of the organic molecules you would like to hopefully discover.” Use a drill to go deep enough, though, and material it collects will have been protected from radiation by several metres of rock. ESA’s modelling suggests that samples from 1.5 metres down would be scientifically interesting. The deepest any mission has so far sampled under the surface of Mars is a few centimetres.
+
+
+
+Stony ground or bountiful regolith?
+
+The jackpot of this treasure hunt would be to find things like sugars, phospholipids (constituents of the membranes of cells), nucleotides (the “letters” of genetic material) or amino acids (the building blocks of proteins) that are characteristic of life on Earth. But consolation prizes might be available in the form of less direct signals of biology within the chemistry—traces of the actions of enzymes, for example. As Dr Vago observes, the way fatty acids are synthesised biologically on Earth means that they usually have an even number of carbon atoms, although there is nothing in their underlying chemistry which favours that in abiotic syntheses. Finding a pattern like this, or something equally chemically striking, in Martian organic molecules would be encouraging to those who hope that Mars has or once had life.
+
+Many hands
+
+The UAE’s launch of Al Amal shows how even a small country can join the space race if it is determined enough. No one, however, expects it to become a serious space power. China, though, with half a dozen visits to the Moon under its belt, already is one. Nor is Tianwen-1 the first Chinese attempt to join the Mars club. In 2011 a craft called Yinghuo-1 (“firefly”) attempted to hitch a ride with Phobos-Grunt, a Russian probe. Unfortunately, the rocket intended to propel the combined mission on its way malfunctioned, and it never left Earth orbit. This time, China is going it alone.
+
+One thing which is known is that the mission will host around a dozen scientific instruments, including cameras, chemistry sets, magnetometers and radars. Officials from the China National Space Administration say the plan is to make detailed surveys of the surface. A ground-penetrating radar, for example, will measure the thickness and composition of layers within the regolith and identify any ice within 100 metres of the surface.
+
+It will be a sophisticated spacecraft, if details revealed about the landing system are accurate. Zhang Rongqiao, the chief designer, told Chinese television-viewers in 2019 that the lander would separate from the craft’s main body at an altitude of 70 metres and hover until it found a safe landing spot. Cameras and laser scanners will help this lander avoid obstacles as it makes its way to the surface.
+
+Tianwen-1’s lander does not look capable, from its instrument list, of quite the sorts of sophisticated biology-detecting activity planned for Perseverance and, after it, Rosalind Franklin. But even if that is the case, those other two vehicles, combined with the forthcoming ESA and NASA Mars sample-return mission, do now offer a realistic possibility of answering the question of whether there is, or was, life anywhere other than on Earth. A failure to find it would be a disappointment, although the search would no doubt go on, both on Mars and elsewhere. But an answer in the affirmative, even were that life only bacterial and extinct, would surely transform humanity’s view of itself as profoundly as did the discoveries of Nicolaus Copernicus and Charles Darwin.
+
+
+
+---
+
+
+== Is there life on Mars?
+
+A new generation of spacecraft may soon find out
+
+Jul 21st 2020 |
+
+
+AROUND 3.5BN years ago conditions on Earth and Mars were similar. Both had thick atmospheres and liquid water on their surfaces. Both, in other words, had the conditions required to sustain life. And on one of those planets life was, indeed, sustained. Precisely when biology began on Earth remains obscure. But by 3.5bn years ago, a billion years after the solar system formed, it was well established there and has since evolved into the lush abundance of complex forms seen today. Mars, meanwhile, became a freezing desert.
+
+The question nevertheless remains: given that the conditions needed for life to emerge on Earth also seem to have pertained for a time on Mars, might life have evolved there, too? And, if it did, might it still survive in some form, even if only in vanishingly rare amounts?
+
+To answer that question means visiting the place—if not with people then at least with robots. And now is a good time to do so, for Earth and Mars are aligned in a way that means the journey takes less than seven months. On July 20th, therefore, the first of a caravan of craft planning to take advantage of this alignment set off. That was when Al Amal, meaning “hope”, rose from Japan’s spaceport on Tanegashima, off the southern tip of Kyushu. Al Amal is an orbiter intended to study Mars’s weather, and also look at how the Martian atmosphere is leaking into space. Its lift-off adds the United Arab Emirates (UAE) to the list of countries that have dispatched probes towards extraterrestrial bodies.
+
+Al Amal was followed, on July 23rd, by Tianwen-1 (“heavenly questions”), a Chinese mission consisting of an orbiter, a lander and a rover that took off from Wenchang Space Launch Centre, on Hainan. The lander’s provisional target is Utopia Planitia, a large impact basin where an American craft, Viking 2, touched down in 1976. Chinese officials have so far declined to release much detail about Tianwen-1’s scientific aims, but what is known of them suggests that it will study the distribution of ice on Mars and examine how the planet’s habitability has changed over time.
+
+Lack of publicity has not been an issue for the third member of the flotilla. On July 30th NASA, America’s space agency, hopes to launch Perseverance, a one-tonne, six-wheeled rover, from the country’s principal spaceport at Cape Canaveral, in Florida. It will have cost $2.4bn to build and dispatch, and will absorb another $300m in operating costs during its mission. It will be the most sophisticated vehicle yet sent by America to the Martian surface.
+
+Once upon a time...
+
+Perseverance is aimed at a 45km-wide crater called Jezero that was, 3.5bn years ago, home to a lake. The rover’s main goal is to look for signs of ancient life. But it is also the opening gambit in a decade-long plan to bring Martian rocks to Earth. Jezero itself sits on the inner rim of Isidis Planitia, another large impact basin, which was excavated 3.9bn years ago. One source of the water which formed the lake that once lay within it seems to have been a river leading to a well-preserved delta. The layers of sediment in this feature (colour-coded in the picture on the previous page according to their mineral composition) are prime targets in the search for Martian biology.
+
+On Earth, some of the oldest evidence for life comes in the form of stromatolites. These stratified structures form in shallow water when colonies of microbes grow layer upon layer, trapping sediment as they do so. The most ancient examples are thought to be those found in Greenland in 2016, which have been dated to 3.7bn years before the present day. If there was sufficient time for stromatolite-forming organisms to evolve on Earth by this date then there is no obvious reason why they might not also have evolved on Mars.
+
+Spotting stromatolite-like layers in rocks will not, though, be enough on its own. Researchers will also need to consider the textures of the rocks concerned and the distribution within them of potentially telltale minerals and organic molecules. Confusingly, in chemistry-speak, an organic molecule is not necessarily of biological origin. The term just means that it is built around carbon atoms, so organic molecules can also originate inorganically, as it were. The biological nature of an organic molecule has thus to be justified by other evidence. As Kathryn Stack Morgan, a geologist who is the Perseverance mission’s deputy project scientist, observes, “This is exactly the type of thing that we do here on Earth to make a case for biosignatures in our own rock record, and for the very first time using our instruments we can do that on the surface of Mars.”
+
+Rocks and hard places
+
+Perseverance carries two instruments in particular that are intended to examine the surfaces of rocks which the rover encounters. Both will look for pertinent minerals and organic molecules. SHERLOC, situated at the end of the rover’s robotic arm, will shine a laser onto tiny grains in rocks it comes across. By analysing the spectrum of the light that is scattered back, this instrument will be able to identify molecules in the grains under scrutiny. WATSON, a camera, will then take close-ups of rocks that SHERLOC deems worthy of further study.
+
+Mapping SHERLOC’s chemical analyses onto WATSON’s high-resolution images will show how different mineral layers are arranged and textured. That will be a big improvement over the instruments on board NASA’s current operational Mars rover, Curiosity, which arrived in 2012. These are capable only of grinding up rocks to work out whether or not organic molecules are present in the bulk material. If there are stromatolites (or even fossils of more complex creatures) Perseverance will be able to see them, both chemically and optically.
+
+
+
+As did Curiosity, Perseverance will rely on an autopilot to guide it through the atmosphere to the planet’s surface, after arriving at a velocity, relative to its target, of 19,500km per hour. “We refer to it as the seven minutes of terror,” says Matt Wallace, an engineer who is the mission’s deputy project manager. The rover’s autonomy will then carry over to its everyday operations. Because of the time it takes radio waves to travel from Earth to Mars, Perseverance will receive instructions only once a day. On the ground on Mars it will need to find and avoid awkwardly placed rocks, and also more serious hazards, such as cliffs, by processing, in real time, pictures coming from its 23 cameras. This autonomy, NASA is confident, will permit the new rover to cross the Martian surface routinely and safely at a speed of around 150 metres per hour, double that at which Curiosity is usually allowed to travel.
+
+As well as eyes, Perseverance has ears. A pair of microphones on board will permit people to hear the winds of Mars for the first time. They will also be able listen to the whirr of the rover’s gears, the crunch of its wheels as it moves across the regolith (the crushed rock that passes for soil on Mars) and the percussive sounds of the drill at the end of its arm as it chips out samples of rocks to study.
+
+Not all of those samples will be discarded after investigation. Some will be packed for eventual dispatch to Earth by a project called the Mars Sample Return mission. This is a collaboration between NASA and the European Space Agency, ESA, that involves launching five separate spacecraft over the course of a decade. Perseverance is the first, and its collaboration-related job is to seal samples of Martian rock that its operators think worthy of further investigation into one of around 30 titanium tubes which it carries. As the illustration overleaf presages, it will leave these on the surface to be picked up by an ESA-designed “fetch rover” that could arrive as early as 2028. Once collected, the tubes will be brought back to Earth by a system of relay craft, and their contents analysed.
+
+Perhaps most intriguingly of all, Perseverance will also carry a 1.8kg helicopter, called Ingenuity. If this manages to fly in Mars’s thin atmosphere (which has about 1% of the density of Earth’s at the surface), it will represent the first controlled flight, beyond the landing and lift-off of a spacecraft, to take place on another heavenly body. And if that happens, it will pave the way for more sophisticated drones on future missions to act as scouts.
+
+Every contact leaves a trace
+
+The life-seeking instruments on Perseverance are more advanced than anything that has come before them, but this was not the original plan for the next phase, after Curiosity, of NASA’s attempt to find life on Mars. In February 2012, while Curiosity was still making its way there, Barack Obama’s administration slashed NASA’s planet-exploration budget by a fifth. At the time, American scientists had been developing a programme called ExoMars, in collaboration with ESA. This was to involve an orbiter and several rovers being launched from 2016 onwards, with a combination of tools intended to look for signs of life.
+
+Mr Obama’s cuts killed American involvement in ExoMars and, by the time Curiosity reached Mars in August 2012, NASA had no plans to send any future rovers. The overwhelmingly positive public reaction to Curiosity’s nail-biting landing, however, helped persuade the agency’s chiefs to reconsider their priorities and put together a scaled-back version of previous plans that required no increase in the budget. The result, the mission now known as Perseverance, was announced a few months later.
+
+Meanwhile, ESA had kept its part of the ExoMars programme alive, turning to Russia for help with launching and hardware. In 2016 the agency delivered the first part of the programme, the Trace Gas Orbiter. Its goal is to measure the precise concentrations in Mars’s atmosphere of substances, including methane, water vapour, nitrogen oxides and acetylene, that each form less than 1% of the atmosphere’s total volume but which might be signs of biology.
+
+Methane is of particular interest since its presence varies with both time and location on the planet’s surface. Methane does not live long in the Martian atmosphere, suggesting there is an active source of the gas. On Earth, living things emit methane as they digest nutrients. But purely geological processes can also liberate the stuff.
+
+The next step in ESA’s ExoMars programme is a rover, called Rosalind Franklin. This was also scheduled for launch in the current window. However, a combination of technical delays and the effect of covid-19, which has meant the team of engineers involved could not easily travel to complete the manufacture and testing of the rover, has pushed the lift-off date back to the next favourable alignment, in 2022.
+
+When Rosalind Franklin eventually does arrive on Mars (2023, if this timetable is adhered to), the craft will crawl over an area called Oxia Planum. This has clays that date back around 4bn years, which will make it the oldest site yet explored on Mars. Since clay minerals require water to form, there are high hopes that Oxia Planum may once have been a life-friendly region.
+
+Rosalind Franklin’s scientific payload will be capable of much more sophisticated analyses than Perseverance’s. In particular, the Mars Organic Molecule Analyser (MOMA) will be able to extract organic molecules from rocks and regolith more effectively than before.
+
+Previous attempts to study organic molecules on Mars have been plagued by the presence of chemicals called perchlorates. These were first seen in 2008, by NASA’s Phoenix lander, and were confirmed by Curiosity half a decade later. Those missions baked their Martian samples in ovens, to release the organics. That also released chlorine and oxygen from the perchlorates, and these oxidised most of the organic molecules present. MOMA will circumvent this problem by using an ultraviolet laser that will knock organic molecules off rock samples so fast that any perchlorates present will not have time to decompose.
+
+Rosalind Franklin’s most important tool, however, will be a drill that can collect samples from two metres below the surface. This is crucial for recovering material in which organic molecules can be found in a good state of preservation. The thin Martian atmosphere is easily penetrated by ionising radiation from space. This slams into the surface and even travels a little way beneath it. As Jorge Vago, ExoMars’s lead scientist, observes, “Over many millions of years, this ionising radiation acts like gazillion little knives slowly cutting away the functional groups of the organic molecules you would like to hopefully discover.” Use a drill to go deep enough, though, and material it collects will have been protected from radiation by several metres of rock. ESA’s modelling suggests that samples from 1.5 metres down would be scientifically interesting. The deepest any mission has so far sampled under the surface of Mars is a few centimetres.
+
+
+
+Stony ground or bountiful regolith?
+
+The jackpot of this treasure hunt would be to find things like sugars, phospholipids (constituents of the membranes of cells), nucleotides (the “letters” of genetic material) or amino acids (the building blocks of proteins) that are characteristic of life on Earth. But consolation prizes might be available in the form of less direct signals of biology within the chemistry—traces of the actions of enzymes, for example. As Dr Vago observes, the way fatty acids are synthesised biologically on Earth means that they usually have an even number of carbon atoms, although there is nothing in their underlying chemistry which favours that in abiotic syntheses. Finding a pattern like this, or something equally chemically striking, in Martian organic molecules would be encouraging to those who hope that Mars has or once had life.
+
+Many hands
+
+The UAE’s launch of Al Amal shows how even a small country can join the space race if it is determined enough. No one, however, expects it to become a serious space power. China, though, with half a dozen visits to the Moon under its belt, already is one. Nor is Tianwen-1 the first Chinese attempt to join the Mars club. In 2011 a craft called Yinghuo-1 (“firefly”) attempted to hitch a ride with Phobos-Grunt, a Russian probe. Unfortunately, the rocket intended to propel the combined mission on its way malfunctioned, and it never left Earth orbit. This time, China is going it alone.
+
+One thing which is known is that the mission will host around a dozen scientific instruments, including cameras, chemistry sets, magnetometers and radars. Officials from the China National Space Administration say the plan is to make detailed surveys of the surface. A ground-penetrating radar, for example, will measure the thickness and composition of layers within the regolith and identify any ice within 100 metres of the surface.
+
+It will be a sophisticated spacecraft, if details revealed about the landing system are accurate. Zhang Rongqiao, the chief designer, told Chinese television-viewers in 2019 that the lander would separate from the craft’s main body at an altitude of 70 metres and hover until it found a safe landing spot. Cameras and laser scanners will help this lander avoid obstacles as it makes its way to the surface.
+
+Tianwen-1’s lander does not look capable, from its instrument list, of quite the sorts of sophisticated biology-detecting activity planned for Perseverance and, after it, Rosalind Franklin. But even if that is the case, those other two vehicles, combined with the forthcoming ESA and NASA Mars sample-return mission, do now offer a realistic possibility of answering the question of whether there is, or was, life anywhere other than on Earth. A failure to find it would be a disappointment, although the search would no doubt go on, both on Mars and elsewhere. But an answer in the affirmative, even were that life only bacterial and extinct, would surely transform humanity’s view of itself as profoundly as did the discoveries of Nicolaus Copernicus and Charles Darwin.
+
+
+对这艘船队的第三名成员来说，不公开露面并不是问题。7月30日，美国国家航空航天局(NASA)希望从位于佛罗里达州卡纳维拉尔角的美国主要太空港发射“毅力”号，这是一个重达一吨、有六个轮子的漫游者。它的建造和派遣成本将为24亿美元，在执行任务期间还将吸收3亿美元的运营成本。它将是迄今为止美国发射到火星表面的最复杂的运载工具。
+从前……
+“毅力”的目标是一个名为Jezero的45公里宽的火山口，35亿年前，这里是一个湖泊。探测器的主要目标是寻找古代生命的迹象。但这也是将火星岩石带回地球的十年计划的开端。Jezero本身位于另一个大型撞击盆地Isidis Planitia的内缘，该盆地在39亿年前被挖掘。形成这个湖的水源之一似乎是一条河流，通向一个保存完好的三角洲。这一特征上的沉积层(在上一页的图片中根据它们的矿物成分用颜色编码)是寻找火星生物的主要目标。
+在地球上，叠层石是生命存在的最古老证据。这些分层结构形成于浅水中，当微生物菌落一层一层地生长，并在此过程中捕获沉积物时。最古老的例子被认为是2016年在格陵兰岛发现的，可追溯至37亿年前。如果到这个时候地球上有足够的时间进化成叠层石的生物，那么就没有明显的理由说明为什么它们可能在火星上没有进化。
+
+
+研究人员还需要考虑相关岩石的结构，以及岩石内部可能泄露秘密的矿物和有机分子的分布情况。令人困惑的是，从化学的角度来看，一个有机分子并不一定来自生物学。这个术语的意思是它是由碳原子构成的，所以有机分子也可以是非有机的产生。因此，有机分子的生物学性质必须得到其他证据的证明。凯瑟琳堆栈摩根,一位地质学家是毅力任务副项目科学家所观察到的,“这正是我们做的类型在地球上生物特征做一个理由在我们自己的岩石记录,和第一次使用我们的工具,我们可以在火星上。”
+与“好奇号”一样，“毅力号”也将依靠自动驾驶仪在达到相对目标1.95万公里每小时的速度后，引导它穿过大气层到达火星表面。“我们称之为恐怖的七分钟，”该任务的副项目经理、工程师马特•华莱士(Matt Wallace)说。然后，漫游者的自主性将继续用于日常操作。由于无线电波从地球传到火星需要很长时间，所以毅力每天只能收到一次指令。在火星的地面上，它需要通过实时处理23台摄像机拍摄的照片，找到并避免放置尴尬的岩石，以及悬崖等更严重的危险。美国宇航局确信，这种自主性将使新漫游者以每小时150米左右的速度安全地穿越火星表面，这一速度是“好奇号”通常行驶速度的两倍。
+除了眼睛，毅力还有耳朵。机上的一对麦克风将允许人们第一次听到火星上的风。他们还可以听发出的嗡嗡声,罗孚的齿轮、车轮的危机时在风化层(在火星土壤的破碎岩石)和钻的敲击的声音在其手臂芯片的岩石样本研究。
+并不是所有的样本都将在调查后被丢弃。其中一些将被打包，最终由一个名为火星样本返回任务的项目发送到地球。这是美国国家航空航天局和欧洲航天局的合作，包括在十年的时间里发射5个独立的航天器。“坚忍不拔”号是第一个，它的合作任务是密封火星岩石样本，操作人员认为值得对它携带的大约30个钛管中的一个进行进一步研究。正如背面的插图所预示的那样，它将把这些碎片留在火星表面，由esa设计的“取回漫游者”(fetch rover)收集起来，该探测器最早将于2028年到达火星。一旦收集完毕，这些管子将由中继飞船系统带回地球，并对其内容进行分析。
+也许最有趣的是，毅力还将携带一架1.8公斤重的直升机，名为“匠心”。如果它能在火星稀薄的大气中飞行(火星表面的大气密度只有地球的1%)，这将是第一次在航天器着陆和升空之后，在另一个天体上进行的受控飞行。如果这种情况发生，这将为未来更先进的无人机在侦察任务中发挥作用铺平道路。
+
+
+欧空局的ExoMars计划的下一步是一个名为罗莎林德富兰克林的漫游者。它也计划在当前窗口中启动。然而，由于技术上的延迟和covid-19的影响(这意味着参与的工程师团队不能轻易地前往完成漫游者的制造和测试)，使得发射日期推迟到了下一个有利的时间，即2022年。
+当罗莎琳德·富兰克林最终到达火星时(如果这个时间表被坚持的话，是2023年)，飞船将在一个叫做Oxia Planum的区域爬行。这里的黏土可以追溯到大约40亿年前，这将使它成为火星上迄今探索过的最古老的地点。由于粘土矿物需要水才能形成，因此人们对缺氧平原可能曾经是一个生命友好的地区寄予厚望。
+罗莎琳德·富兰克林的科学载荷将比“毅力”号更具有复杂的分析能力。特别是，火星有机分子分析仪(MOMA)将能够比以前更有效地从岩石和风化层中提取有机分子。
+以前研究火星上有机分子的尝试一直受到高氯酸盐化学物质的困扰。NASA的凤凰号着陆器在2008年首次发现了这些现象，并在五年后被“好奇号”确认。这些任务在烤箱中烘烤火星样本，以释放有机物。这也会从高氯酸盐中释放出氯和氧，这些物质氧化了大部分有机分子。现代艺术博物馆将通过使用紫外激光来解决这个问题，这种激光可以快速地从岩石样本上撞击有机分子，以至于任何存在的高氯酸盐都没有时间分解。
+然而，罗莎琳德·富兰克林最重要的工具将是一个钻头，它可以从地下两米处采集样本。这对于回收有机分子保存良好的材料是至关重要的。稀薄的火星大气层很容易被来自太空的电离辐射穿透。它猛撞到表面，甚至在表面下移动了一段距离。ExoMars的首席科学家Jorge Vago观察到:“在几百万年的时间里，这种电离辐射就像无数把小刀子一样，慢慢地把你希望发现的有机分子的官能团切掉。”不过，如果钻到足够深的地方，它所收集的材料就会被几米深的岩石保护起来不受辐射。欧洲航天局的模型表明，从1.5米以下采集的样本在科学上是有趣的。到目前为止，在火星表面下采样的最深深度只有几厘米。
+
+
+但是安慰奖可能以化学中较不直接的生物学信号的形式存在，例如酶的活动的痕迹。正如Vago博士所观察到的，脂肪酸在地球上的生物合成方式意味着它们通常有偶数个碳原子，尽管在它们的基本化学成分中并没有什么有利于非生物合成的元素。在火星的有机分子中发现这样的模式，或者同样具有化学意义的东西，对于那些希望火星曾经或曾经有过生命的人来说，将会是一种鼓舞。
+目前已知的一件事是，这次任务将配备大约12个科学仪器，包括相机、化学装置、磁力仪和雷达。中国国家航天局的官员说，计划是对月球表面进行详细的调查。例如，探地雷达可以测量风化层的厚度和组成，并识别出距离地表100米以内的任何冰。
+如果有关着陆系统的细节披露准确的话，这将是一个复杂的航天器。首席设计师张荣桥在2019年对中国电视观众说，着陆器将在70米的高度与飞船主体分离，并悬停直到找到安全着陆点。照相机和激光扫描仪将帮助这个着陆器在到达表面时避开障碍物。
+从仪器清单上看，天文1号着陆器似乎不具备为坚持不懈以及之后的罗莎琳德·富兰克林(Rosalind Franklin)计划的那种复杂的生物探测活动。但即使是这样，其他两架飞行器，加上即将到来的欧洲航天局和美国宇航局火星样本返回任务，现在确实提供了一种现实的可能性，来回答地球以外是否存在或曾经存在生命的问题。如果找不到它将是一件令人失望的事情，尽管在火星和其他地方的搜寻工作无疑会继续下去。但如果答案是肯定的，即使生命只有细菌和灭绝，也肯定会像哥白尼和达尔文的发现一样深刻地改变人类对自身的看法。

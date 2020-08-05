@@ -203,51 +203,180 @@ In countries such as Norway and Sweden, care for the elderly *is pretty good* bu
 
 Age is just a number
 
-Many governments *spend very little on* long-term care. In rich countries it *ranges from* 0.2% of GDP in Hungary *to* 3.7% in the Netherlands. Canada *spends* 1.3%, *less than* the rich-country average. It *has less than* half the number of care-home workers per 100 residents *as Norway*. [In America and Britain] a frugal  （对金钱、食物等）节约的，节俭的 monopsony  买方垄断 payer (Medicaid and local authorities) *typically reimburses* 报销; 偿还 less than the cost of residential care. To make up the shortfall, American nursing homes actively recruit patients covered by Medicare, a lavish programme that pays medical costs (but not long-term care costs) for the elderly. They tend to come for short stays to recover after operations such as hip replacements, and bring with them more generous reimbursements. But the pandemic has largely stopped that.
+Many governments *spend very little on* long-term care. In rich countries it *ranges from* 0.2% of GDP in Hungary 匈牙利 *to* 3.7% in the Netherlands. Canada *spends* 1.3%, *less than* the rich-country average. It *has less than* half the number of care-home workers per 100 residents *as Norway*. [In America and Britain] a frugal  （对金钱、食物等）节约的，节俭的 monopsony  买方垄断 payer (Medicaid  医疗补助制度（美国政府向贫困者提供的医疗保险） and local authorities) *typically reimburses*(v.)报销; 偿还 *less than* the cost of residential care 住宿式护理. *To make up 凑足;补齐 the shortfall* 缺口；差额；亏空, American nursing homes  养老院; 疗养院 *actively recruit* 吸收（新成员）；征募（新兵） patients *covered by Medicare*, a lavish programme *that pays(v.) medical costs* (but *not* long-term care costs) for the elderly. They *tend to come for short stays(n.) to recover* after operations such as `hip replacements` 髋关节置换, and *bring with them* more generous reimbursements 报销; 偿还. But the pandemic *has largely stopped that*.
 
 - frugal :  /ˈfruːɡl/ 来自fructus, 果实，词源同fruit. 原义为丰产的，丰富的，衍生词义节约的，节俭的，即节俭才能富裕之义。比较thrive, 繁盛，thrift，节俭。
 
+- reimburse : /ˌriːɪmˈbɜːrs/ [ VN ] *~ sb (for sth)* ( formal ) to pay back money to sb which they have spent or lost 偿还；补偿 +
+=>  re-,向后，往回，-im,进入，burse,钱包。引申词义偿还，补偿。
+
+- 许多政府在长期护理上的花费很少。富裕国家中，这一比例, 从匈牙利GDP的0.2%, 到荷兰的3.7%不等。加拿大的支出为1.3%，低于富裕国家的平均水平。它每100名居民中的疗养院工作人员的数量, 不到挪威的一半。在美国和英国，像医疗补助制度, 和当地政府这样的垄断型支付者, 对支出很节约, 他们对"养老院"上的报销费用, 通常少于在"住宿式护理"上的报销费用. 为了弥补费短缺，美国疗养院于是积极招募那些能被联邦医疗保险(Medicare)所覆盖的患者，这是一项为老年人支付医疗费用(但不是长期护理费用)的奢侈计划。该计划针对那些在髋关节置换等手术后, 短暂修养以恢复健康的患者，并为他们带来更慷慨的报销。但疫情在很大程度上阻碍了这一计划。
 
 
-As well as exposing fragile business models, the pandemic has highlighted the tension between keeping old people safe and keeping them happy and well, says Adam Gordon of the University of Nottingham. Regulators encourage nursing homes to focus relentlessly on negative metrics such as falls, bed sores and weight loss. But there is more to quality of life than not falling over. Anne Tumlinson, an expert on ageing, would like to see care homes become less “custodial” and more enthusiastic about “making people happy”.
-
-A better system would make it easier for most people to age at home. Technology could help. The urge to move someone to a care home often starts with concerns for their safety. Care-givers begin to spot unexplained bumps and bruises. Questions about cigarette burns on the duvet are waved away. Pills are not taken. The milk is always off.
-
-Now imagine a home where sensors keep an eye on all of those things. They spot a change in gait, appetite or activity early enough to predict a fall, dehydration or depression. A smart pill dispenser helps with medication. A companion robot provides reassurance, information, brain training and company. Some of the most compelling recent scientific and technological developments aim to help people with dementia. A product produced by Elovee, an American startup, allows them to have simple conversations with a digital avatar styled to look and sound like one of their relatives. The idea is to provide reassurance during moments of anxiety or boredom that occur when their loved ones are not around.
-
-Technology “will never replace the loving attention of a carer,” says Wilco Achterberg of the University of Leiden. But data-crunching could make it easier to work out how to deploy carers more efficiently. Video calling is making it easier for relatives, paid carers and doctors to check in more frequently. Joan Gallimore, a 91-year-old who lives alone in England, says that calling her family using a tablet her home-carers gave her when lockdowns began has been a revelation. She has enjoyed chats with her granddaughters and performances put on by her son-in-law, who is learning to play a ukulele.
-
-Improving conventional ways of providing care at home is essential, too. Buurtzorg, a nursing provider in the Netherlands, champions a model that has been tried out in 25 countries. Its secret is simple, says Jos de Blok, its founder: let nurses do their jobs. Small teams of them are given considerable autonomy to care for a neighbourhood. By stripping away bureaucracy, the model allows nurses to spend more time dispensing help. Because all staff are qualified nurses, their salaries are higher than traditional carers. But because they are better trained they can get as much done despite spending a third less time with each patient.
-
-For some people, particularly the very lonely and those with dementia, home visits are not enough. Day-care centres can help them. Some of those in Switzerland pick people up from their homes, help them get dressed and return them home at the end of the day. In Sweden day care for the elderly is offered by the state, in much the same way as child care is. Chile has only a small formal care sector, but its government has decided to make day care for the elderly a priority.
-
-Day-care services can improve older people’s mental and physical health. They also provide advice and respite for their families. In rich countries more than one in eight people aged over 50 provide care to another person at least once a week. Keeping them from burning out is key to helping people age at home. More support for these carers also helps reduce the risk that their own health will decline, and makes it less likely that they will drop out of the workforce. In America 48% of people who provide help to older adults care for someone with dementia (a quarter of those people have at least one child under the age of 18 to look after as well). Of those who previously had jobs, 18% moved from full- to part-time work when called upon to help. Some 16% took a leave of absence and 9% quit altogether.
-
-Some old people will have to move out of unsuitable homes. But most need not move to an institution, even then. Denmark is a leader in providing alternatives. Its government spends more on non-residential care than the residential sort. Options for ageing Danes include retirement communities and flats built close to but not in care homes. Authorities in some other places are trying to make it easier for families to build annexes that old relatives can move into. Students and some other youngsters in the Netherlands are encouraged to share courtyards or buildings with elderly people who are not part of their family, sometimes in exchange for cheaper rent. The idea is that they will provide them with companionship and occasional help.
-
-Daan Livestro, a consultant at Gupta Strategists, estimates that 25-60% of care given to elderly people in Dutch institutions could be provided at home. In Canada, too, some 40% of residents could go home if given the right support, according to recent research. A study in 2014 in Alabama found that people with similar needs fared about as well in their own houses as those who stayed in care homes. But the group receiving care at home saved $4,500 per year in costs. “Decanting nursing homes” is a growing opportunity, says Zayna Khayat of SE Health, a Canadian care provider.
-
-There will always be people who want or need residential care. In those cases “smaller is often better”, says Dr Grabowski. Research shows that smaller nursing homes use fewer restraints, see fewer infections and have more satisfied residents than larger ones. Small institutions promote closer friendships between residents and closer connections with staff.
+*As well as* exposing(v.) fragile business models, the pandemic *has highlighted(v.) the tension* between *keeping old people safe* and *keeping them happy and well*, says Adam Gordon of the University of Nottingham. Regulators *encourage* `nursing homes` *to focus relentlessly(ad.)不放弃的；严格的；苛刻的；无情的;不停的；持续强烈的；不减弱的 on* `negative 负的；消极的 metrics` 度量标准;公制的；米制的 such as falls, `bed sores` 褥疮 and `weight loss` 体重减轻. But there is more to `quality(n.) of life` *than* not falling over 跌倒，摔倒；绊了一跤. Anne Tumlinson, an expert on ageing, *would like to see* care homes *become less “custodial”*(a.)监禁的；拘留的;监护权的；监管职责 and *more enthusiastic 热情的；热心的 about* “making people happy”.
 
 
+- bed sore :  N-COUNT Bedsores are sore places on a person's skin, caused by having to lie in bed for a long time without changing position. 褥疮. +
+ 压疮又称压力性溃疡、褥疮，是由于局部组织长期受压，发生持续缺血、缺氧、营养不良而致组织溃烂坏死。皮肤压疮在康复治疗、护理中是一个普通性的问题。
 
-In Tupelo, Mississippi, residents of the Green House wake up to the smell of bacon, cinnamon and fresh coffee. The constant smell of baked goods in the open kitchen is deliberate; declining appetite can be a problem in old age. “I’ve seen people come from traditional nursing homes and they start eating again, they start walking again and they start talking again,” says Steve McAlilly, one of the founders. The Green House consists of ten homes, each with 10-12 housemates. There are no vinyl floors, no dinners on trays and no bingo. “Do you have planned activities in your home?” asks Mr McAlilly. “If it isn’t in a home it isn’t in a Green House.” Bill Thomas, an American geriatrician who founded the Green House movement in 2003, calls himself a “nursing home abolitionist” and says he is guided by two principles: “It is better to live in a house than a warehouse,” and “People should be the boss of their own lives.” Care homes that follow the Green House model now exist in more than 30 American states.
+- custodial : /kʌˈstəʊdiəl/ a. connected with the right or duty of taking care of sb; having custody 监护权的；监管职责的；有监护权的 +
+=> 来自PIE*skeu, 覆盖，遮盖，词源同sky, house, hide.
+.. The mother is usually *the custodial(a.) parent* after a divorce. 离婚后通常是母亲拥有孩子的监护权。
+
+- 诺丁汉大学(University Of Nottingham)的亚当·戈登(Adam Gordon)表示，这除了暴露出商业模式的脆弱外，疫情还突显了"保障老年人的安全"与"让他们生活得快乐安康"之间的冲突关系。监管机构鼓励疗养院要不断严格关注老年人的跌倒、褥疮和体重下降等负面指标。但是，生活质量不仅仅是摔倒问题。老龄问题专家安妮·汤姆林森(Anne Tumlinson)希望看到养老院变得不那么“监护”，而应更热诚关注于“令老人们活得幸福”。
+
+
+A better system *would make it easier* for most people *to age(v.) at home*. Technology *could help*. The *urge* to move(v.) someone to a `care home` *often starts(v.) with concerns(v.) for* their safety. Care-givers 照料者，护理者 *begin to spot*(v.) unexplained bumps and bruises. `主` Questions about `cigarette burns` on the duvet  羽绒被 `谓` *are waved away* 对…置之不理；不理会;挥手示意…离开. Pills *are not taken*. The milk *is always off* 不新鲜；变质; (菜单中的项目)没有；不再供应.
+
+- duvet :  /ˈduːveɪ,duːˈveɪ/  羽绒被 +
+=> 来自法语duvet, 绒毛，词源同down. +
+image:../../+ img_单词图片/d/duvet.jpg[100,100]
+
+
+- *wave sth aside/away* : to not accept sth because you do not think it is necessary or important 对…置之不理；不理会
+dismiss +
+.. My objections to the plan *were waved aside*.
+我对这项计划的反对意见未被理会。
+
+- off : ad. (especially British English) (of an item on a menu 菜单中的项目) no longer available or being served 没有；不再供应 / a. (of food 食物) no longer fresh enough to eat or drink 不新鲜；变质
+.. Sorry, *the duck is off*. 对不起，鸭子卖光了。
+.. This fish *has gone off*. 这条鱼已变质了。
+
+- 一个更好的养老制度, 能让大多数人更方便在家里养老。技术可以有所帮助。将老人送到养老院的冲动, 通常始于对老人们安全的担忧。护理人员开始发现老人身上不明原因的肿块和瘀伤。羽绒被上被烟头烫坏的原因得不到回答。老人不吃药。牛奶总是变质。
+
+Now *imagine*(v.) a home where sensors *keep an eye on* all of those things. They *spot* a change in `gait` 步态；步法, `appetite` 食欲；胃口 or `activity *early enough to predict* a fall`, `dehydration` 脱水 or `depression`. `A smart pill dispenser` （取款、售货等用的）自动取物装置 *helps with* medication 药；药物. A `companion robot` *provides* reassurance 能消除疑虑的说话（或行动）；保证.安慰, information, brain training and company. Some of `the most compelling 引人入胜的；扣人心弦的 recent scientific and technological developments` *aim to help* people with dementia 痴呆. A product *produced by* Elovee, an American startup, *allows* them *to have simple conversations （非正式）交谈，谈话 with* a digital avatar （尤指电脑游戏或聊天室中代表使用者的）化身 *styled(v.)把…设计（或缝制、做）成某种式样 to look and sound like* one of their relatives. The idea *is* to provide(v.) reassurance(n.) during moments of anxiety or boredom(n.)厌烦；厌倦；无聊 that *occur* when their loved ones *are not around*.
+
+- gait : /ɡeɪt/ [ sing. ] a way of walking 步态；步法 +
+=> 来自PIE*ghe, 走，词源同go. 即走的姿势。
+
+
+- dehydration :  /ˌdiːhaɪˈdreɪʃn/ n. 脱水 +
+=> de-, 不，非，使相反。hydrate, 补水。即脱水。 -hydr-水 + -ate名词词尾
+
+- dispenser : n.  /dɪˈspensər/  a machine or container holding money, drinks, paper towels, etc. that you can obtain quickly, for example by pulling a handle or pressing buttons （取款、售货等用的）自动取物装置 +
+=> 来自dispense, 分配，分发。用于指自动取款机或自动售货机。
+.. a soap dispenser 皂液瓶 +
+image:../../+ img_单词图片/d/dispenser.jpg[100,100]
+
+- 想象一下带有着传感器的家庭，这些传感器会监视所有以下事情。他们监视着老人们的步态、食欲, 或足以预测摔倒的行为变化，还预测脱水或抑郁情况。智能药丸分配器, 有助于药物治疗。陪伴型机器人, 能提供老人以安稳、资讯、大脑训练和陪伴。最近一些很引人注目的科技发展, 旨在帮助痴呆症患者。美国初创公司Elovee生产的一款产品, 能令老人们同一个看起来和听起来都像他们的亲戚的数字化身, 进行简单的对话。目的是为了在他们所爱的人不在身边时, 当老人们出现的焦虑或无聊时, 能提供安慰。
+
+
+Technology “*will never replace* `the loving attention` of a carer,” says Wilco Achterberg of the University of Leiden. But data-crunching 数据分析;数据处理 *could make it easier to work out* how to deploy(v.)部署，调度（军队或武器） carers [more efficiently]. Video calling *is making it easier* for `relatives`, `paid carers` and `doctors` *to check in [more frequently]*. Joan Gallimore, a 91-year-old who *lives alone* in England, *says that* `主` calling(v.) her family` *using* a tablet (her home-carers *gave her* [when lockdowns *began*]) `谓` *has been a revelation*(（上帝的）启示;披露；揭露)让人大开眼界；令人耳目一新；出乎意料. She *has enjoyed* ① `chats(n.) with her granddaughters` and ② `performances` 表演；演出 (*put on by* her son-in-law 女婿), who *is learning* to play(v.) a ukulele 尤克莱利琴（四弦小吉他）.
+
+- revelation : n. something that is considered to be a sign or message from God （上帝的）启示 / ~ (of sth) the act of making people aware of sth that has been secret 披露；揭露
+SYN disclosure
+
+- *COME AS/BE A REVELATION (TO SB)* : to be a completely new or surprising experience; to be different from what was expected 让人大开眼界；令人耳目一新；出乎意料
+
+- ukulele  : /ˌjuːkəˈleɪli/ +
+image:../../+ img_单词图片/u/ukulele.jpg[100,100]
+
+- 莱顿大学(University Of Leiden)的威尔科·阿克特伯格(Wilco Achterberg)说，科技“永远无法取代照看者的关爱”。但是，数据分析可以更容易地计算出, 如何更有效地来部署护工的问题。视频通话, 能使亲属、付费护理人员和医生, 方便他们更多地到来。91岁的琼·加里莫尔(Joan Gallimore)在英国独自生活，她说，在封锁开始时，她用护理人员给她的平板电脑, 同家人打电话, 这给了她耳目一新的感觉. 她喜欢和孙女聊天，也享受女婿表演的乐趣，她女婿正在学习弹奏四弦琴。
+
+
+`主` *Improving* `conventional 传统的；习惯的 ways` of `providing(v.) care at home` `系` *is essential*, too. Buurtzorg, a `nursing provider` in the Netherlands, *champions a model* (that *has been tried out* in 25 countries). Its secret *is simple*, says Jos de Blok, its founder: *let* nurses *do their jobs*. Small teams of them *are given considerable 相当多（或大、重要等）的 autonomy* to care(v.) for a neighbourhood. By *stripping away* 剥去;剥下;揭去 bureaucracy 官僚主义；官僚作风, the model *allows* nurses *to spend more time* dispensing(v.)分配；分发 help. Because all staff *are* qualified nurses, their salaries *are higher than* traditional carers. But [because *they are better trained*] they *can get as much 同样多的, 同样的 done* [despite *spending a third less time* with each patient].
+
+- 改善"在家中提供护理"的传统做法, 也至关重要。荷兰的护理提供商Buurtzorg, 倡导一种已经在25个国家试用的模式。它的创始人何塞·德·布洛克(Jos De Blok)说，它的秘诀很简单：让护士做好自己的工作。他们中的小群体, 被赋予相当大的自主权来照顾邻居。摆脱官僚主义后，这种模式能令护士花更多时间提供帮助。因为所有的工作人员都是合格的护士，他们的工资比传统的护理员要高。因为他们受过更好的训练，所以即使在每个病人身上少花了三分之一的时间，他们也能做到同样多的事情。
+
+
+For some people, particularly `the very lonely` and `those with dementia`, home visits *are not enough*. Day-care centres *can help them*. Some of those in Switzerland *pick people up* from their homes, *help them get dressed* and *return them home* at the end of the day. In Sweden `day care` for the elderly *is offered* by the state, *in much the same way as* child care *is*. Chile 智利 *has* only a small formal care sector, but its government *has decided* *to make* `day care` for the elderly *a priority*  优先；优先权；重点.
+
+- 对于一些人，特别是非常孤独和患有痴呆症的老人来说，家访是不够的。日托中心可以帮助他们。瑞士的一些人会把老人们从家里接走，帮他们穿衣，然后在一天结束时把他们送回家。在瑞典，老年人的日托服务由国家提供，与托儿服务的方式大致相同。智利只有一个很小的正规护理部门，但其政府已决定将老年人的日托作为优先事项。
+
+
+Day-care services *can improve* older people’s mental and physical health. They *also provide advice(n.) and respite*(n.)短暂的延缓；喘息 for their families. In rich countries `主` more than one in eight people (*aged* over 50) `谓` *provide care to* another person at least once a week. `主` Keeping them from burning(v.) out 耗尽体力；积劳成疾；累垮 `系` *is key to* helping(v.) people (*age* at home). More support for these carers *also helps* reduce(v.) the risk that their own health *will decline*, and *makes it less likely that* they *will drop out of 不参与，退出 the workforce* （国家或行业等的）劳动力，劳动大军，劳动人口. In America `主` 48% of people (who *provide help to* older adults) `谓` *care for* someone (with dementia) (a quarter of those people *have at least one child* under the age of 18 *to look after [as well]*). Of those who *previously had jobs*, `主` 18% `谓` *moved from* full- *to* part-time work [when *called upon* 请求，要求，要（某人做某事） to help]. Some 16% *took a leave of absence* and 9% *quit(v.) altogether*.
+
+- respite : /ˈrespɪt/ n. a short delay allowed before sth difficult or unpleasant must be done 短暂的延缓；喘息 / *~ (from sth)* a short break or escape from sth difficult or unpleasant 暂停；暂缓 +
+=> 来自古法语 respit,延迟，来自拉丁语 respectus,考虑，思考，来自 re-,再，-spect,看，词源同 despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+.. His creditors agreed to *give him a temporary respite*. 他的债权人同意给他一个喘息的机会。
+.. The drug *brought a brief respite(n.) from the pain*. 药物暂时缓解了疼痛。 +
+image:../../+ img_单词图片/r/respite.jpg[100,100]
+
+- *burn out | burn yourself/sb out* : to become extremely tired or sick by working too hard over a period of time 耗尽体力；积劳成疾；累垮
+
+- *call on/upon sb* : (formal)
+(1) to formally invite or ask sb to speak, etc. 邀请，要求（某人讲话等）；恭请 +
+-> I now *call upon* the chairman *to address* the meeting. 现在请主席向大会致辞。 +
+(2) to ask or demand that sb do sth 请求，要求，要（某人做某事） +
+-> *I feel called upon (= feel that I ought) to warn you that*… 我觉得我应该警告你…
+
+- 日托服务可以改善老年人的身心健康。他们还为老人的家人提供建议和喘息之机。在富裕国家，超过八分之一的50岁以上的人(以下称乙方), 每周至少为另外一个人(以下称甲方)提供一次护理。帮助人们在家中养老的关键是, 防止他们(乙方)在照顾其他老人时累垮。对这些照顾者(乙方)的更多支持, 也有助于降低他们(乙方)自己健康状况下降的风险，也能降低他们退出劳动力大军的可能性。在美国，为老年人提供帮助的人(乙方)中, 有48%在照顾痴呆症患者(其中四分之一的人(乙方), 至少还有一个18岁以下的孩子要照顾)。在那些以前有工作的人中，18%的人(乙方)在被要求帮助时, 从全职工作转为兼职工作。约16%的人请假，9%的人干脆辞职。
+
+
+Some old people *will have to move out of* unsuitable homes. But most *need not move to* an institution, even then 即使那样；即使在那时. Denmark *is* a leader *in providing alternatives* 替代选择. Its government *spends more on* `non-residential 非居住的;非住宅的 care` *than* the residential sort. Options for ageing Danes 丹麦人 *include* `retirement communities` 退休社区（退休人员、老年人居住） and `flats` (*built close to* but *not in* `care homes`). Authorities in some other places *are trying to make it easier* for families *to build* annexes 附属建筑物；附加建筑物 that old relatives *can move into*. Students and some other youngsters 年轻人；少年；儿童 in the Netherlands *are encouraged to share* courtyards or buildings *with* elderly people who *are not* part of their family, sometimes *in exchange for* cheaper rent. The idea *is that* they *will provide them with* companionship 友情；交谊；友谊 and occasional help.
+
+- annexe : /ˈæneks/ a building that is added to, or is near, a larger one and that provides extra living or work space 附属建筑物；附加建筑物 +
+=> 前缀an-同ad-, 去，往，在n开头词根前同化为an-. -nex, 同词根nect, 联结，见connect.
+
+
+- 一些老人将不得不搬出不合适他们养老的家。但即使到那时，大多数人也不需要搬到养老机构里去。丹麦在提供替代方案方面, 处于领先地位。丹麦政府花在非住宅类护理上的钱, 比花在住宅类上的更多。老年丹麦人的选择包括, 搬到靠近养老院的老年社区, 或公寓里去住. 其他地方的政府, 帮助家庭能更方便地建造家庭附加房间, 来为年老的亲戚提供住处. 荷兰则鼓励学生和其他一些年轻人, 共享出自己创庭院或房间, 来给不是他们家人的老年人住, 以换取年轻人能得到便宜的租金。这样做的目的是，年轻人能为老年人提供陪伴和偶尔需要帮助时的帮忙。
+
+
+Daan Livestro, a consultant at Gupta Strategists, *estimates that* `主` 25-60% of care *given to elderly people* in Dutch institutions `谓` *could be provided at home*. In Canada, too, some 40% of residents *could go home* if *given the right support*, according to recent research. A study in 2014 in Alabama *found that* `主` people (with similar needs) `谓` *fared(v.)成功（或不成功、更好等） about [as well]* in their own houses *[as]* those who *stayed* in care homes. But `主` the group (*receiving care* at home) `谓` *saved $4,500 per year* in costs. `主` “*Decanting* （把液体，尤指酒）倒入，注入 nursing homes” `系` *is* a growing opportunity, says Zayna Khayat of SE Health, a Canadian care provider.
+
+- decant : /dɪˈkænt/[ VN ] *~ sth (into sth)* to pour liquid, especially wine, from one container into another （把液体，尤指酒）倒入，注入 +
+=> de-, 向下。-cant, 弯，倾斜，词源同cantilever. 即向下倾斜，倒入。 +
+image:../../+ img_单词图片/d/decant.jpg[100,100]
+
+- Gupta策略师的顾问Daan Livestro估计，荷兰机构为老年人提供的护理中, 有25%-60%可以在家中提供。根据最近的一项研究，在加拿大也是如此，如果得到适当的支持，大约40%的老年人可以回家养老。2014年阿拉巴马州的一项研究发现，有类似需求的人, 在自己的房子里的表现, 与那些住在疗养院的人一样好。但是在家中接受护理的群体, 每年节省了4500美元的费用。加拿大护理提供商SE Health的Zayna Khayat说，“减少疗养院”是一个越来越大的机会。
+
+
+There *will always be* people who *want or need* residential care. [In those cases] “smaller *is often better*”, says Dr Grabowski. Research *shows that* smaller nursing homes `*use* fewer restraints`, `*see* fewer infections` and `*have* more satisfied residents *than* larger ones`. `主` Small institutions `谓` *promote* ① `closer friendships` between residents and ② `closer connections` with staff.
+
+- 总会有想要或需要住宿护理的人。格拉博斯基博士说，在这些情况下，“规模通常保持越小越好”。研究表明，与大型疗养院相比，小型疗养院使用更少的约束，感染更少，居民更满意。小型机构能促进居民之间更紧密的友谊，并能与员工建立更紧密的联系。
+
+In Tupelo, Mississippi, residents of `the Green House` *wake up* to the smell of bacon, cinnamon  肉桂皮，桂皮香料 and fresh coffee. `主` The constant smell of baked goods in the open kitchen `系` *is deliberate* 故意的；蓄意的；存心的; declining(a.) appetite *can be a problem* in old age. “I’*ve seen* people *come from* traditional nursing homes and they *start eating again*, they *start walking again* and they *start talking again*,” says Steve McAlilly, one of the founders. The Green House *consists of*  由…组成（或构成） ten homes, each *with* 10-12 housemates  同屋，室友（指同住一所房子但非家庭成员的人）. There are `no vinyl 乙烯基塑料 floors`, `no dinners 晚餐 on trays` 托盘 and `no bingo`. “*Do you have* `planned(a.) activities` in your home?” asks Mr McAlilly. “[If it isn’t in a home] it isn’t in a Green House.” Bill Thomas, an American geriatrician 老年病科医师；老年病学专家 who *founded* the Green House movement in 2003, *calls himself* a “nursing home abolitionist” 主张废除…的人 and *says* he *is guided* by two principles: “*It is better* to live(v.) in a house *than* a warehouse 仓库；货栈；货仓,” and “People *should be* the boss of their own lives.” `主` Care homes (that *follow* the Green House model) `谓` *now exist* in more than 30 American states.
+
+- cinnamon n.   /ˈsɪnəmən/
+[ U ] the inner bark of a SE Asian tree, used in cooking as a spice, especially to give flavour to sweet foods 肉桂皮，桂皮香料（东南亚一种树的内层树皮，尤用于甜食调味） +
+image:../../+ img_单词图片/c/cinnamon.jpg[100,100]
+
+- vinyl  : /ˈvaɪnl/ a strong plastic that can bend easily, used for making wall, floor and furniture coverings, book covers, and, especially in the past, records 乙烯基；乙烯基塑料；（尤指旧时）压制唱片的塑料 +
+=> vin-,葡萄，葡萄酒，-yl,化学名词后缀，基。用于指乙烯基。 +
+image:../../+ img_单词图片/v/vinyl.jpg[100,100]
+
+- geria·tri·cian n.   /ˌdʒeriəˈtrɪʃn/
+a doctor who studies and treats the diseases of old people 老年病科医师；老年病学专家 +
+=> geri-, 老人，老年。-atric, 治疗，见psychiatric. +
+image:../../+ img_单词图片/g/geriatrician .jpg[100,100]
+
+- bingo [ U ] a game in which each player has a card with numbers on. Numbers are called out in no particular order and the first player whose numbers are all called out, or who has a line of numbers called out, wins a prize. 宾戈游戏（玩者均持有一张数字卡，第一个凑齐庄家喊出的全部或一组数字者胜出）
+
+- 在密西西比州的图珀洛，"绿屋"的居民醒来时闻到了培根、肉桂和新鲜咖啡的味道。开放式厨房里持续不断的烘焙食品气味是故意营造的；食欲下降可能是老年人的一个问题。“我见过从传统养老院过来的人，他们又开始吃了，又开始走路了，又开始说话了，”创始人之一史蒂夫·麦克阿利(Steve McAlilly)说。"绿屋"由10个家庭组成，每个家庭有10-12个室友。这里没有塑料地板，没有摆在餐盘上的晚餐，也没有宾果游戏。“你们家里有没有计划好的活动？”麦克阿利利问道。“如果你家里没有，"绿屋"里也没有。” 美国老年病学家比尔·托马斯称自己是一名“养老院废除主义者”，他在2003年创立了绿色之家运动，他称自己遵循两个原则：“住在房子里要比住在养老仓库里要好”，“人们应该是自己生活的主人”。目前，美国30多个州都有遵循“绿色之家”模式的疗养院。
 
 A room with a view
 
-The Hogeweyk in the Netherlands is sometimes called a “dementia village”. It hosts 169 residents who live in six-bedroom houses. All have advanced dementia. They move around freely on a campus that includes a high street with a pub, a hairdresser and a supermarket. Residents may bring their own furniture and pets. They help with household chores. Twenty-five social clubs organise activities. “Almost nobody wants to be a passive recipient of care,” says Eloy van Hal, its founder. Twenty years ago, when he tore down the conventional nursing home that used to inhabit the same spot, he was warned that “people will fall over.” Instead residents became healthier and more cheerful. “We take far too few risks in life,” he says.
+The Hogeweyk in the Netherlands *is sometimes called* a “dementia(n.)痴呆 village”. It *hosts* 169 residents who *live in* six-bedroom houses. All *have* advanced （发展）晚期的，后期的 dementia. They *move around freely* on a campus that *includes* a high street 大街（城镇的主要商业街道）  with a pub, a hairdresser 理发店；美发店 and a supermarket 超市. Residents *may bring their own* furniture and pets. They *help with* `household chores` 日常事务；例行工作;令人厌烦的任务；乏味无聊的工作. Twenty-five social clubs *organise activities*. “Almost nobody *wants to be* `a passive 消极的；被动的 recipient` 受方；接受者 of care,” says Eloy van Hal, its founder. Twenty years ago, when he *tore down* the conventional nursing home that *used to inhabit* 居住在；栖居于 the same spot, he *was warned that* “people *will fall over* (计算机或程序)（突然）发生故障，不运转，死机;被…绊倒；几乎被…绊倒.” *Instead* residents *became healthier and more cheerful*. “We *take [far too  非常,极其,太] few risks* in life,” he says.
 
-Technology could help improve residential care, even as it reduces the number of people who need it. Sensors placed in nursing homes in Norway and the Netherlands have reduced hospitalisations. Telemedicine is having the same effect in Estonia and Israel.
-
-In southern Tokyo, in a bland conference room on the tenth floor of a grey office tower, a robot glides towards visitors and announces: “The food you ordered has arrived.” The Future Care Lab was set up by Sompo, one of Japan’s largest insurers. It has experimented with labour-saving devices such as a self-cleaning bath and a wheelchair that turns into a bed. It has also invented a pad that when placed under a mattress monitors breathing, heart rate and quality of sleep. A nursing home that tested it last year said that it reduced the time staff had to spend “patrolling” its 54 rooms from seven hours a day to 20 minutes. Residents slept better because staff no longer routinely woke them up.
-
-Improving care will not be cheap. But settling for bad care only stores up costs for later. Research in America links a 10% cut in Medicaid reimbursement to a nearly 10% decline in older people’s ability to do things such as walk and bathe, as well as a 5% increase in persistent pain. Each month the health system in Britain loses about 83,000 hospital days to “bed-blocking” that results when elderly patients who are no longer sick enough to remain in hospital get stuck there because no good care is available outside of it.
+- 荷兰的Hogeweyk 有时被称为“痴呆者村”。它容纳了169名居民，他们住在有六间卧室的房子里。他们都患有晚期痴呆症。他们能在园区里自由走动，园区里有一条带酒吧的商业街，一家理发店和一个超市。居民可以自带家具和宠物来住。他们也帮助做家务。25个社交俱乐部, 会组织他们活动。该公司创始人埃洛伊·范哈尔(Eloy Van Hal)表示：“几乎没有人想成为被动的医疗接受者。”20年前，当他拆掉了位于同一地点的一家传统疗养院时，他被警告说“人们的生活会毁掉”。然而，如今居民们变得更健康、更快乐了。“我们在生活中冒的风险太少了，”他说。
 
 
+Technology *could help improve*(v.) residential care, *even as* it *reduces* the number of people who need it. `主` Sensors *placed* in nursing homes in Norway and the Netherlands `谓` *have reduced* hospitalisations 住院治疗. Telemedicine 电信治疗; 通过计算机或卫星连线向远方专家问询伤病治疗意见 *is having the same effect* in Estonia and Israel.
 
-Governments could make more use of personal-care budgets. These are pots of money allocated to someone who needs support. Recipients are entitled to decide for themselves how the cash should be spent. That encourages care providers to dream up ever more personalised services and to keep down costs. Training, recruiting and trying harder to retain carers are also urgent priorities. The number of care workers in rich countries will need to increase by 60% by 2040 just to maintain the present ratio of carers to elderly people, says the OECD (see chart 2). Investments in technology and more efficient use of skilled staff could at best meet half that gap.
+- telemedicine  : /ˈtɛlɪˌmɛdɪsɪn, -ˌmɛdsɪn/
+N the treatment of disease or injury by consultation with a specialist in a distant place, esp by means of a computer or satellite link 电信治疗; 通过计算机或卫星连线向远方专家问询伤病治疗意见
 
-Experts are hopeful. “I’ve been preaching this stuff for decades and nobody ever wanted to hear it. Then covid hit and my phone hasn’t stopped ringing,” says Ms Tumlinson. The pandemic is persuading more people that “the mass institutionalisation of older people isn’t such a good idea,” reckons Mr Thomas of the Green House Project. Social care has never enjoyed so much attention, agrees José Luis Fernández of the London School of Economics. But he worries that governments “will struggle to fund new commitments at a time when public finances are under huge pressure.” There have been lots of broken promises in the past.
+- 技术可以帮助改善住宿护理，即使它减少了需要它的人数。放置在挪威和荷兰疗养院的传感器, 减少了住院人数。远程医疗在爱沙尼亚和以色列也有同样的效果。
+
+
+In southern Tokyo, in a bland 平淡的；乏味的 `conference room` on the tenth floor of a grey office tower, a robot *glides 滑行；滑动；掠过 towards* visitors and *announces*: “The food you ordered *has arrived*.” The Future Care Lab *was set up* by Sompo, one of Japan’s largest insurers 保险公司. It *has experimented with* `labour-saving devices` *such as* `a self-cleaning bath` and `a wheelchair` that *turns into a bed*. It *has also invented* a pad 软垫，护垫，垫状物 `主` that [when *placed* under a mattress 床垫] `谓` *monitors* `breathing`, `heart rate` and `quality of sleep`. A nursing home (that *tested* it last year) *said that* it *reduced* the time (staff *had to spend* “*patrolling*”(v.) 巡逻；巡查 its 54 rooms) [*from* seven hours a day *to* 20 minutes]. Residents *slept(v.) better* [because staff *no longer routinely woke(v.) them up*].
+
+- 东京南部的一座灰色写字楼, 在10层楼的一间不起眼的会议室里，一个机器人滑向来访者，并说道：“你点的食物到了。” 未来护理实验室, 是由日本最大的保险公司之一Sompo设立的。它已经试验了一些能节省劳力的设备，比如自动清洁浴缸和可以变成床的轮椅。它还发明了一种垫子，当把它放在床垫下时，它可以监测呼吸、心率和睡眠质量。一家疗养院去年对其进行了测试, 该养老院说，它令工作人员"巡查"54个房间的时间, 从每天7小时, 减少到20分钟。居住者也睡得更好了，因为工作人员不用再例行地叫醒他们。
+
+
+Improving(v.) care *will not be cheap*. But `主` *settling for* 勉强接受；将就 bad care `谓` *only stores up （把强烈的感情或问题）郁积，憋在心里 costs for later*. Research in America *links* a 10% cut(n.) (in Medicaid reimbursement 报销; 偿还) *to* a nearly 10% decline(n.) (in older people’s ability *to do things* such as walk and bathe), *as well as* a 5% increase(n.) (in persistent pain). [Each month] the health system in Britain *loses* about 83,000 hospital days to “bed-blocking” 赖病床; 不能居住在老人院的年老病人因无法离开医院而对医院病床的使用 that *results* （因…）发生；（随…）产生 when `主` elderly patients (who are no longer sick enough *to remain in hospital*) `谓` *get stuck there* [because no good care *is available outside of it*].
+
+- 改善医疗护理的成本不会低。但是，将就于糟糕的护理, 只会把负担推到未来. 美国的研究表明，在医疗报销上削减10%的费用, 就与老年人在走路、洗澡等活动能力上下降近10%, 以及持续性的疼痛增加5%, 有因果关联。英国由于医院外缺乏良好的护理机构, 造成那些不需要住院治疗的老年人, 依然赖在病床上, 给医院每月都会损失83000天的住院时间.
+
+Governments *could make more use of* personal-care budgets. These *are* `pots （某种用途的）容器;一罐，一瓶，一壶（的量） of money` *allocated to* someone who needs support. Recipients 受方；接受者 *are entitled* 使享有权利；使符合资格 *to decide for themselves* how the cash *should be spent*. That *encourages* `care providers` ① *to dream up* 凭空想象出;虚构出 ever more `personalised services` and ② *to keep down costs*. `主` Training(v.), recruiting(v.) and trying(v.) harder to retain(v.) carers `系` *are also urgent priorities*. The number of `care workers` in rich countries *will need to increase by 60%* by 2040 *just to maintain(v.) the present ratio* of `carers to elderly people`, says the OECD (see chart 2). Investments in technology and more efficient use of skilled staff *could at best meet* half that gap.
+
+- 政府可以更多地利用个人护理预算。这些钱是分配给那些需要获得支持的人的。受助人有权自行决定如何使用这笔现金。这能鼓励护理提供商, 来想出更个性化的服务，并降低成本。对护理者的培训、招聘和更努力地留住他们, 也是当务之急。经合组织表示，到2040年，富裕国家中的护理人员, 其数量需要增加60%，才能维持住目前的护理人员对老年人的比例(见表2)。对技术的投资, 和更有效地使用熟练员工, 充其量只能填补一半的缺口。
+
+
+Experts *are hopeful*. “I’*ve been preaching 布 (道); 布道; 宣扬 this stuff* for decades /and *nobody ever wanted to hear it*. Then `covid *hit*` /and `my phone *hasn’t stopped ringing*`,” says Ms Tumlinson. The pandemic *is persuading more people that* “`主` the mass institutionalisation 把 (病人、精神病人、老人等) 收容在社会福利机构;使制度化 of older people `系` *isn’t such a good idea*,” *reckons* Mr Thomas of the Green House Project. Social care *has never enjoyed 享有；享受 so much attention*, *agrees* José Luis Fernández of the London School of Economics. But he *worries that* governments “*will struggle to fund*(v.) new commitments 承诺；许诺 [at a time when `public finances` *are under huge pressure*].” There *have been* lots of broken promises [in the past].
+
+- 专家们对此抱有希望。“几十年来，我一直在宣扬这些东西，但从来没有人想听。然后疫情来袭, 我的手机就一直响个不停，“汤姆林森说。绿屋项目的托马斯先生认为，这场疫情正说服更多的人认同“将老年人大规模送进养老院, 并不是一个好主意”。伦敦经济学院的何塞·路易斯·费尔南德斯(JoséLuis Fernández)同意，社会关怀从未如此这般受到世人关注。但他担心，在各国政府的“公共财政受到巨大压力的时候，他们将很难为新的承诺提供资金”。政府过去已有很多违背诺言的事情发生。
+
 
 ---
 
@@ -325,46 +454,3 @@ Experts are hopeful. “I’ve been preaching this stuff for decades and nobody 
 
 
 
-年龄只是个数字。
-
-许多政府在长期护理上的花费很少。在富裕国家，这一比例从匈牙利GDP的0.2%, 到荷兰的3.7%不等。加拿大的支出为1.3%，低于富裕国家的平均水平。它每100名居民中疗养院工作人员的数量, 不到挪威的一半。在美国和英国，节俭的垄断付款人(医疗补助和地方当局)通常会报销比住宿护理费用更少的费用。为了弥补这一缺口，美国疗养院积极招募由联邦医疗保险(Medicare)覆盖的患者，这是一项为老年人支付医疗费用(但不是长期护理费用)的奢侈计划。他们倾向于在髋关节置换等手术后短暂停留以恢复健康，并带来更慷慨的报销。但大流行在很大程度上阻止了这一点。
-
-许多政府在长期护理上花费很少。在富裕国家，这一比例从匈牙利的0.2%到荷兰的3.7%不等。加拿大的这一比例为1.3%，低于发达国家的平均水平。它每100名居民中护理之家的工作人员不到挪威的一半。在美国和英国，一个节俭的支付者(医疗补助和地方当局)偿还的费用通常低于住院费。为了弥补这一缺口，美国的养老院积极招募医疗保险覆盖的病人，这是一个为老年人支付医疗费用(但不是长期护理费用)的奢侈项目。他们通常来这里短暂停留，以便在髋关节置换等手术后恢复，并带来更多的补偿。但大流行在很大程度上阻止了这一趋势。
-
-
-诺丁汉大学(University Of Nottingham)的亚当·戈登(Adam Gordon)表示，除了暴露脆弱的商业模式外，大流行还突显了保障老年人安全和让他们幸福安康之间的紧张关系。监管机构鼓励疗养院坚持不懈地关注跌倒、褥疮和减肥等负面指标。但是，生活质量不仅仅是不跌倒。老龄问题专家安妮·汤姆林森(Anne Tumlinson)希望看到养老院变得不那么“守护”，而更热衷于“让人们幸福”。
-
-一个更好的系统会让大多数人更容易在家里变老。科技可能会有所帮助。把人送到疗养院的冲动往往始于对他们安全的担忧。护理人员开始发现莫名其妙的肿块和瘀伤。关于羽绒被上的香烟灼伤的问题被挥舞着不予理睬。不吃药。牛奶总是关着的。
-
-现在想象一下，在一个家庭里，传感器会监视所有这些东西。他们很早就发现了步态、食欲或活动的变化，足以预测摔倒、脱水或抑郁。智能药丸分配器有助于药物治疗。同伴机器人提供保证、信息、大脑训练和陪伴。最近一些最引人注目的科技发展旨在帮助痴呆症患者。美国初创公司Elovee生产的一款产品允许他们与一个看起来和听起来都像他们的亲戚的数字化身进行简单的对话。这个想法是为了在他们所爱的人不在身边时出现的焦虑或无聊时刻提供安慰。
-
-
-莱顿大学(University Of Leiden)的威尔科·阿克特伯格(Wilco Achterberg)说，科技“永远不会取代照顾者的关爱”。但是，数据处理可以更容易地解决如何更有效地部署照顾者的问题。视频通话使亲属、付费护理人员和医生更频繁地入住变得更容易。91岁的琼·加里莫尔(Joan Gallimore)独自生活在英国，她说，在封锁开始时，用家庭照顾者给她的平板电脑打电话给她的家人是一件很有启发性的事情。她喜欢和孙女聊天，享受女婿表演的乐趣，女婿正在学习演奏四弦琴。
-
-改善在家中提供护理的传统方式也是至关重要的。荷兰的护理提供商Buurtzorg倡导一种已经在25个国家试用的模式。它的创始人何塞·德·布洛克(Jos De Blok)说，它的秘诀很简单：让护士做好自己的工作。他们中的小团队被赋予相当大的自主权来照顾邻居。通过去除官僚作风，这种模式允许护士花更多的时间提供帮助。因为所有的工作人员都是合格的护士，他们的工资比传统的护理员要高。但是因为他们受过更好的训练，所以即使每个病人少花三分之一的时间，他们也可以做同样多的事情。
-
-对于一些人，特别是非常孤独和患有痴呆症的人来说，家访是不够的。日托中心可以帮助他们。瑞士的一些人会把人们从家里接走，帮他们穿好衣服，然后在一天结束时把他们送回家。在瑞典，老年人的日托服务由国家提供，与托儿服务的方式大致相同。智利只有一个很小的正规护理部门，但其政府已决定将老年人的日托作为优先事项。
-
-日托服务可以改善老年人的身心健康。他们还为家人提供建议和喘息之机。在富裕国家，超过八分之一的50岁以上的人每周至少为另一个人提供一次护理。帮助人们在家中变老的关键是防止他们疲惫不堪。对这些照顾者的更多支持也有助于降低他们自己健康状况下降的风险，并降低他们退出劳动力大军的可能性。在美国，为老年人提供帮助的人中有48%照顾痴呆症患者(其中四分之一的人至少还有一个18岁以下的孩子要照顾)。在那些以前有工作的人中，18%的人在被要求帮助时从全职工作转为兼职工作。约16%的人请假，9%的人干脆辞职。
-
-一些老人将不得不搬出不合适的家。但即使到那时，大多数人也不需要搬到机构去。丹麦在提供替代方案方面处于领先地位。它的政府在非住宅类护理上的花费比住宅类的更多。老年丹麦人的选择包括退休社区和建在疗养院附近但不在疗养院的公寓。其他一些地方的当局正试图让家庭更容易建造老亲戚可以搬进的附属建筑。荷兰鼓励学生和其他一些年轻人与不是他们家庭成员的老年人共享庭院或建筑，有时还会换取更便宜的租金。他们的想法是，他们将为他们提供陪伴和偶尔的帮助。
-
-Gupta策略师的顾问Daan Livestro估计，荷兰机构为老年人提供的护理有25%-60%可以在家中提供。根据最近的一项研究，在加拿大也是如此，如果得到适当的支持，大约40%的居民可以回家。2014年阿拉巴马州的一项研究发现，有类似需求的人在自己的房子里的表现与那些住在疗养院的人一样好。但是在家中接受护理的小组每年节省了4500美元的费用。加拿大护理提供商SE Health的Zayna Khayat说，“减少疗养院”是一个越来越大的机会。
-
-总会有想要或需要住宿护理的人。格拉博斯基博士说，在这些情况下，“通常越小越好”。研究表明，与大型疗养院相比，小型疗养院使用的约束更少，感染更少，居民更满意。小型机构促进居民之间更紧密的友谊，并与员工建立更紧密的联系。
-
-在密西西比州的图珀洛，绿屋的居民醒来时闻到了培根、肉桂和新鲜咖啡的味道。开放式厨房里持续不断的烘焙食品气味是故意的；食欲下降可能是老年的一个问题。“我见过来自传统疗养院的人，他们又开始吃饭了，他们又开始走路了，他们又开始说话了，”创始人之一史蒂夫·麦克阿利(Steve McAlilly)说。温室由10个家庭组成，每个家庭有10-12个室友。没有塑料地板，没有餐盘上的晚餐，也没有宾果游戏。“你们家有没有计划好的活动？”麦克阿利利问道。“如果它不在家里，它就不在温室里。”2003年创立绿色之家运动的美国老年病学家比尔·托马斯称自己是一名“养老院废奴主义者”，并称自己遵循两个原则：“住在房子里比住在仓库里要好”，“人们应该是自己生活的主人”。目前，美国30多个州都有遵循“绿色之家”模式的疗养院。
-
-可以看到风景的房间。
-
-荷兰的霍格韦克有时被称为“痴呆症村”。它容纳了169名居民，他们住在六间卧室的房子里。他们都患有晚期痴呆症。他们在一个校园里自由走动，校园里有一条带酒吧的商业街，一家理发店和一家超市。居民可以自带家具和宠物。他们帮助做家务。25个社交俱乐部组织活动。该公司创始人埃洛伊·范哈尔(Eloy Van Hal)表示：“几乎没有人想成为被动的医疗接受者。”20年前，当他拆除曾经居住在同一地点的传统疗养院时，他被警告说“人们会倒下”。相反，居民们变得更健康、更快乐。“我们在生活中承担的风险太少了，”他说。
-
-技术可以帮助改善住宿护理，即使它减少了需要它的人数。放置在挪威和荷兰疗养院的传感器减少了住院人数。远程医疗在爱沙尼亚和以色列也有同样的效果。
-
-在东京南部一座灰色写字楼10层的一间不起眼的会议室里，一个机器人滑向来访者，宣布：“你们点的食物到了。”未来护理实验室是由日本最大的保险公司之一Sompo设立的。它已经试验了一些省力的设备，比如自动清洁浴缸和可以变成床的轮椅。它还发明了一种垫子，当放在床垫下时，它可以监测呼吸、心率和睡眠质量。去年对其进行测试的一家疗养院表示，它将工作人员在54个房间进行“巡逻”的时间从每天7小时减少到20分钟。居民们睡得更好了，因为工作人员不再例行地叫醒他们。
-
-改善医疗服务不会很便宜。但是，满足于糟糕的护理只会为以后节省成本。美国的一项研究将医疗补助报销削减10%与老年人散步和洗澡等活动能力下降近10%以及持续性疼痛增加5%联系在一起。每个月，英国的医疗系统都会因为“床位堵塞”而损失大约83,000个住院日。“床位堵塞”会导致不再需要住院的老年患者因为医院外没有良好的医疗服务而滞留在那里。
-
-政府可以更多地利用个人护理预算。这些钱是分配给需要支持的人的。受助人有权自行决定如何使用这笔现金。这鼓励护理提供者想出更个性化的服务，并降低成本。培训、招聘和更努力地留住照顾者也是当务之急。经合组织表示，到2040年，富裕国家的护理人员数量将需要增加60%，才能维持目前护理人员与老年人的比例(见表2)。对技术的投资和更有效地使用熟练员工充其量只能填补一半的缺口。
-
-专家们对此抱有希望。“几十年来，我一直在宣扬这些东西，但从来没有人想听。然后我的手机就一直响个不停，“汤姆林森说。绿屋项目的托马斯先生认为，这场流行病正在说服更多的人“将老年人大规模制度化并不是一个好主意”。伦敦经济学院的何塞·路易斯·费尔南德斯(JoséLuis Fernández)同意，社会关怀从未如此受到关注。但他担心，各国政府“在公共财政承受巨大压力的时候，将很难为新的承诺提供资金”。过去有很多违背诺言的事情。
