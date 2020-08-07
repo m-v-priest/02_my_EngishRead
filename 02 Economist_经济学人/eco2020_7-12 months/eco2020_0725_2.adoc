@@ -262,39 +262,173 @@ Mr Obama’s cuts(n.) *killed* American involvement 参与；加入；插手 in 
 .. We wouldn't have time *to put together an agreement*...
 我们没有时间来制订出一个协议。
 
+- 奥巴马的削减预算, 扼杀了美国参与ExoMars计划，到2012年8月“好奇号”到达火星时，NASA依然还没有计划, 在未来发射任何火星漫游者。然而，对“好奇号”扣人心弦的着陆, 公众表现出了压倒性的积极反响，帮助说服了该机构的负责人, 来重新考虑他们的优先事项，并制定出了之前计划的缩小版本计划, 而且不需要增加预算。结果就是，几个月后就宣布了如今这个"毅力号"火星探索任务.
+
+Meanwhile, ESA *had kept* its part of the ExoMars programme *alive* 活着；在世, *turning to* Russia *for help with* launching and hardware. In 2016 the agency *delivered* 递送(货物,信件等)；传送；交付；运载;发表；宣布；发布 the first part of the programme, the `Trace Gas` 微量气体,痕量气体 Orbiter （绕天体作轨道运行的）宇宙飞船；轨道飞行器. Its goal *is* to measure(v.) `the precise concentrations` 浓度；含量 (in Mars’s atmosphere) `of substances`, *including* methane 甲烷；沼气, `water vapour` 水蒸汽，水汽, `nitrogen 氮 oxides`(氧化物)氧化氮；氮氧化合物 and acetylene 乙炔(气体)；电石气, that each *form*(v.) less than 1% of the atmosphere’s `total volume` 体积；容积；容量  *but* which *might be* signs of biology.
+
+- trace gas 微量气体,痕量气体,示踪气体 +
+**痕量气体是大气中浓度低于10E-6的粒种。**指总数为1,000,000个分子中只有一个待研究分子，如大气中的CO、N2O、SO2、O3、NO、NO2、CH4、NH3、H2S、卤化物、有机化物等等都属于痕量气体。大气中氮、氧、氩、二氧化碳占干空气的99.997%，其他气体只占0.003%，**它们含量极少，多为痕量气体。**如氮氧化合物、碳氢化合物、硫化物和氯化物。
+
+- methane : /ˈmeθeɪn/ ( symbol CH4 ) a gas without colour or smell, that burns easily and is used as fuel. Natural gas consists mainly of methane . 甲烷；沼气 +
+=> mety-,甲基化，缩写自methyl,甲基，-ane,化学名词后缀，烷。俗称沼气。
+
+- nitrogen : /ˈnaɪtrədʒən/ 氮；氮气. nitr-,硝，-gen,产生。因研究硝石化学性质时认识这种气体而得名。
+
+- nitrogen oxides : *氮氧化物，是只由氮、氧两种元素组成的化合物*.
+包括多种化合物，如一氧化二氮(N2O)、一氧化氮 (NO)、二氧化氮(NO2)、三氧化二氮 (N2O3)、四氧化二氮(N2O4)和五氧化二氮(N2O5)等。**除二氧化氮以外，其他氮氧化物均极不稳定，** 遇光、湿或热, 变成二氧化氮及一氧化氮，一氧化氮又变为二氧化氮。因此，职业环境中接触的是几种气体混合物常称为硝烟 （气），主要为一氧化氮和二氧化氮，并以二氧化氮为主。 +
+ *氮氧化物都具有不同程度的毒性。*
+
+- acetylene : acetyl·ene n.   /əˈsetəliːn/
+[ U ]
+( also *eth·yne* ) ( symbol C2H2 ) a gas that burns with a very hot bright flame, used for cutting or joining metal 乙炔；电石气 +
+=> 词根acet,醋酸。-yl,化学基，衍生于ethyl, 乙基。-ene,化学物后缀，炔。 +
+乙炔，分子式C2H2，*俗称风煤和电石气*，是炔烃化合物系列中体积最小的一员，主要作工业用途，特别是烧焊金属方面。*乙炔在室温下是一种无色、极易燃的气体。* 纯乙炔是无臭的，*但工业用乙炔由于含有硫化氢、磷化氢等杂质，而有一股大蒜的气味。*
+
+- 与此同时，欧空局保持了其部分ExoMars计划的存在，向俄罗斯寻求发射和硬件方面的帮助。2016年，该机构交付了该计划的第一部分——"微量气体探测"轨道飞行器。它的目标是精确测量火星大气中物质的浓度, 包括甲烷、水蒸气、氮氧化物和乙炔等，这些物质虽然占比不到大气总量的1%，但却可能是生物存在的迹象反映。
 
 
-Meanwhile, ESA had kept its part of the ExoMars programme alive, turning to Russia for help with launching and hardware. In 2016 the agency delivered the first part of the programme, the Trace Gas Orbiter. Its goal is to measure the precise concentrations in Mars’s atmosphere of substances, including methane, water vapour, nitrogen oxides and acetylene, that each form less than 1% of the atmosphere’s total volume but which might be signs of biology.
 
-Methane is of particular interest since its presence varies with both time and location on the planet’s surface. Methane does not live long in the Martian atmosphere, suggesting there is an active source of the gas. On Earth, living things emit methane as they digest nutrients. But purely geological processes can also liberate the stuff.
+Methane 甲烷；沼气 *is of particular interest* 因为 since `主` its presence(n.) `谓` *varies(v.) with* [both] time [and] location on the planet’s surface. Methane *does not live(v.) long* in the Martian atmosphere, *suggesting* there is an active source of the gas. On Earth, living things *emit(v.) methane* as they *digest(v.) nutrients* 营养素；营养物. But `purely geological processes` *can also liberate* 解放;使自由；使摆脱约束（或限制） the stuff.
 
-The next step in ESA’s ExoMars programme is a rover, called Rosalind Franklin. This was also scheduled for launch in the current window. However, a combination of technical delays and the effect of covid-19, which has meant the team of engineers involved could not easily travel to complete the manufacture and testing of the rover, has pushed the lift-off date back to the next favourable alignment, in 2022.
+- nutrient : nu·tri·ent  /ˈnuːtriənt/ n. ( technical 术语 ) a substance that is needed to keep a living thing alive and to help it to grow 营养素；营养物
 
-When Rosalind Franklin eventually does arrive on Mars (2023, if this timetable is adhered to), the craft will crawl over an area called Oxia Planum. This has clays that date back around 4bn years, which will make it the oldest site yet explored on Mars. Since clay minerals require water to form, there are high hopes that Oxia Planum may once have been a life-friendly region.
-
-Rosalind Franklin’s scientific payload will be capable of much more sophisticated analyses than Perseverance’s. In particular, the Mars Organic Molecule Analyser (MOMA) will be able to extract organic molecules from rocks and regolith more effectively than before.
-
-Previous attempts to study organic molecules on Mars have been plagued by the presence of chemicals called perchlorates. These were first seen in 2008, by NASA’s Phoenix lander, and were confirmed by Curiosity half a decade later. Those missions baked their Martian samples in ovens, to release the organics. That also released chlorine and oxygen from the perchlorates, and these oxidised most of the organic molecules present. MOMA will circumvent this problem by using an ultraviolet laser that will knock organic molecules off rock samples so fast that any perchlorates present will not have time to decompose.
-
-Rosalind Franklin’s most important tool, however, will be a drill that can collect samples from two metres below the surface. This is crucial for recovering material in which organic molecules can be found in a good state of preservation. The thin Martian atmosphere is easily penetrated by ionising radiation from space. This slams into the surface and even travels a little way beneath it. As Jorge Vago, ExoMars’s lead scientist, observes, “Over many millions of years, this ionising radiation acts like gazillion little knives slowly cutting away the functional groups of the organic molecules you would like to hopefully discover.” Use a drill to go deep enough, though, and material it collects will have been protected from radiation by several metres of rock. ESA’s modelling suggests that samples from 1.5 metres down would be scientifically interesting. The deepest any mission has so far sampled under the surface of Mars is a few centimetres.
+- 甲烷特别令人感兴趣，因为它的存在, 随着时间和火星地表位置的不同而不同。甲烷在火星大气中并不能存在很长时间，这表明, 这种气体有一个活跃中的来源。在地球上，生物在消化营养物质时, 会释放出甲烷。但纯粹的地质活动, 也可以释放这些物质。
 
 
+`The next step` in ESA’s ExoMars programme *is* a rover, *called* Rosalind Franklin. This *was also scheduled for launch* in the current window. However, a combination of `technical delays` and `the effect of covid-19`, which *has meant* `主` the team of engineers (involved) `谓` *could not easily travel to complete* the manufacture(n.v.) （用机器）大量生产，成批制造 and testing(n.) of the rover, *has pushed* `the lift-off （航天器的）发射，起飞，升空 date` *back to* the next favourable alignment 排成直线;位置, in 2022.
 
-Stony ground or bountiful regolith?
+- 欧空局ExoMars计划的下一步, 是一辆名为罗莎琳德·富兰克林(Rosalind Franklin)的漫游者火星车。它也曾计划在当前的发射窗口中启动。然而，由于技术上的延迟和covid-19的影响(这意味着参与的工程师团队, 不能轻易地前往, 来完成漫游者的制造和测试)，所以使得发射日期推迟到了下一个有利的时间序列窗口，即2022年。
 
-The jackpot of this treasure hunt would be to find things like sugars, phospholipids (constituents of the membranes of cells), nucleotides (the “letters” of genetic material) or amino acids (the building blocks of proteins) that are characteristic of life on Earth. But consolation prizes might be available in the form of less direct signals of biology within the chemistry—traces of the actions of enzymes, for example. As Dr Vago observes, the way fatty acids are synthesised biologically on Earth means that they usually have an even number of carbon atoms, although there is nothing in their underlying chemistry which favours that in abiotic syntheses. Finding a pattern like this, or something equally chemically striking, in Martian organic molecules would be encouraging to those who hope that Mars has or once had life.
+
+When Rosalind Franklin *eventually does arrive(v.) on Mars* (2023, if this timetable 时间表；时刻表; 预定计划；时间安排 *is adhered to*), the craft *will crawl over an area* called Oxia Planum 面；平面. This *has* clays 黏土；陶土 that *date back* around 4bn years, which *will make it* the oldest site (yet *explored* on Mars). Since clay minerals  矿物；矿物质 *require(v.) water to form*, *there are high hopes* that `主` Oxia Planum `谓` *may once have been* a life-friendly region.
+
+- planum : /ˈpleɪ-nəm/ => From Latin plānum ‎(“level ground, plain”).
+
+- 当Rosalind Franklin 火星车最终抵达火星时 (如果遵循时间表的话, 就是2023年)，飞行器将会在一个名为奥夏平原(Oxia Planum)的区域爬行。这里的粘土可以追溯到大约40亿年前，这将使它成为火星探索的最古老地点. 由于粘土矿物需要水才能形成，因此人们抱有很大的期望, 认为Oxia Planum可能曾经是一个适宜生命形成的区域.
+
+
+Rosalind Franklin’s `scientific payload`  (飞机、飞船等的)载量 *will be capable(a.) of* much more sophisticated analyses *than* Perseverance’s. In particular, the Mars `Organic Molecule Analyser` (MOMA) *will be able to extract* organic molecules *from* rocks and regolith  风化层 [*more effectively than before*].
+
+- 与勇气号相比, Rosalind Franklin号的运载容量, 使它所搭载的科学仪器, 能进行更复杂的分析研究工作. 特别是，其"火星有机分子分析器(MOMA)" 能比以前更有效地来从岩石和风化层(浮土)中提取有机分子。
+
+`主` Previous attempts *to study* organic molecules on Mars `谓` *have been plagued 使困扰; 瘟疫 by* the presence of chemicals called perchlorates  高氯酸盐(或酯). These *were first seen* in 2008, by NASA’s Phoenix lander, and *were confirmed by Curiosity* half a decade later. Those missions *baked* （在烤炉里）烘烤；焙 their Martian samples [*in ovens* 烤箱；烤炉], *to release* the organics. That *also released* chlorine 氯；氯气 and oxygen *from* the perchlorates  高氯酸盐（或酯）, and these *oxidised*(v.)使氧化；使生锈 most of the organic molecules present. MOMA *will circumvent(v.)设法回避；规避; 绕过；绕行；绕道旅行 this problem* by using(v.) an ultraviolet laser 紫外线激光器 that *will knock* organic molecules *off* rock samples *[so] fast [that]* any perchlorates  高氯酸盐（或酯） present *will not have time to decompose* （使）分解;腐烂.
+
+- perchlorate :  /pɝ'kloret/ N any salt or ester of perchloric acid. Perchlorate salts contain the ion ClO4– 高氯酸盐(或酯) +
+.. perchloric acid : 高氯酸，无机化合物，六大无机强酸之首，氯的最高价氧化物的水化物。是无色透明的发烟液体。高氯酸在无机含氧酸中酸性最强。可助燃，具强腐蚀性、强刺激性，可致人体灼伤。
+.. 高氯酸盐 : 高氯酸盐是高氯酸形成的盐类，含有四面体型的高氯酸根离子—ClO4-，其中氯的氧化态为+7。**高氯酸盐存在于自然界中，主要用作火箭燃料和烟火中的氧化剂**和安全气囊中的爆炸物。 *多数高氯酸盐可溶于水。* 高氯酸盐可用作氧化剂，与易燃物质或还原剂，会引起燃烧。 +
+image:../../+ img_单词图片/p/perchlorate.jpg[100,100]
+
+- oxidise = oxidize /ˈɑːksɪ-daɪz/ v. （使）氧化；（尤指使）生锈
+
+- circumvent : cir·cum·vent v.   /ˌsɜːkəmˈvent/
+
+- 之前研究火星上的有机分子的尝试, 都被"高氯酸盐"的存在所困扰。美国宇航局的凤凰号着陆器, 在2008年首次发现了它的存在，五年后，“好奇号”证实了这一点。这些火星任务, 会在烤箱中烘烤他们的火星样本，以释放有机物。这也同时造成了氯和氧, 从高氯酸盐中释放出来，而这个过程会把所存在的大多数有机分子, 氧化掉。MoMA(火星有机分子分析器) 则通过使用紫外线激光, 来绕过这个问题，这种激光能快速将有机分子从岩石样本中击落出来，以至于任何存在着的高氯酸盐, 没有时间来分解出氯和氧。
+
+
+Rosalind Franklin’s most important tool, however, *will be* a drill that *can collect samples from* two metres 米 below the surface. *This is crucial for* recovering(v.) 全额收回；追回;找回；寻回 material in which organic molecules *can be found* in a good state of preservation. The thin Martian atmosphere *is easily penetrated* 渗透；穿透 by `ionising 使电离，使离子化 radiation`(辐射；放射线)电离辐射 from space. This *slams into* （使）重重地撞上 the surface and even *travels a little way beneath it*. *As* Jorge Vago, ExoMars’s lead scientist, *observes* 说话；评论;看到；注意到；观察到, “Over many millions of years, `主` this `ionising radiation` `谓` *acts like* gazillion(n.)很大的数目 little knives *slowly cutting away* 切除；割掉；砍掉；剪去 the `functional groups` 功能团  of the organic molecules `you would like to hopefully discover`.” *Use* a drill *to go deep enough*, though, and `主` material (it *collects*) `谓` *will have been protected [from* radiation] [*by* several metres of rock]. ESA’s modelling  （实物）模型制造;系统模型化；系统模型的建立 *suggests that* `主` samples from 1.5 metres down `系` *would be scientifically interesting*. `主` The deepest (any mission *has so far sampled*(v.)抽样检验；取样；采样 under the surface of Mars) `系` *is* a few centimetres 厘米.
+
+-  ionize : ion·ize /ˈaɪənaɪz/ [ VNV ] ( technical 术语 ) to change sth or be changed into （使）电离，离子化 +
+=> ion 离子. 来自希腊语ion,走，来自PIE*ei,走，上路，词源同ire(拉丁语，现在主动不定式格),iter(拉丁语，过去分词格),exit,itinerary.后1834年，英国物理学家Michael Faraday借用该词来表示电磁的电离子。 +
+离子是指原子或原子基团, 失去或得到一个或几个电子, 而形成的带电荷的粒子。这一过程称为电离。电离过程所需或放出的能量, 称为电离能。 +
+*带电荷的原子叫做离子*，带正电荷的原子叫做阳离子，带负电荷的原子叫做阴离子。
+
+- *slam into/against sb/sth;  slam sth into/against sb/sth* :
+to crash into sth with a lot of force; to make sth crash into sth with a lot of force （使）重重地撞上
+
+-  slam : v.  to shut, or to make sth shut, with a lot of force, making a loud noise （使…）砰地关上
+
+- gazillion:  ga·zil·lion n.   /ɡəˈzɪljən/
+( NAmE informal ) a very large number 很大的数目 +
+=> 模仿million或billion创造出来的词，比较zillion. +
+.. *gazillion-dollar* houses 高价房子
+.. gazillions of copies 无数册书
+
+- functional group : N the group of atoms in a compound, such as the hydroxyl group in an alcohol, that determines the chemical behaviour of the compound 功能团. 化合物中的一组原子，如醇中的羟基，决定化合物的化学行为 +
+*官能团，是决定有机化合物的化学性质的原子或原子团。* 常见官能团包括羟基、羧基、醚键、醛基、羰基等。*有机化学反应主要发生在官能团上，官能团对有机物的性质起决定作用*，—X、-OH、-CHO、-COOH、-NO2、-SO3H、-NH2、RCO-，这些官能团就决定了有机物中的卤代烃、醇或酚、醛、羧酸、硝基化合物或亚硝酸酯、磺酸类有机物、胺类、酰胺类的化学性质。
+
+- 然而，Rosalind Franklin号, 最重要的工具是一台可以从地表以下两米处采集样本的钻机。这对于将"保存完好的有机分子的材料"回收回来, 至关重要。稀薄的火星大气层, 很容易被来自太空的电离辐射穿透。后者会猛烈地撞击地表，甚至在穿入地下一小段距离。正如ExoMars的首席科学家豪尔赫·瓦戈(Jorge Vago)所说到的那样，“数百万年来，这种电离辐射就像无数把小刀，慢慢地砍掉了你希望发现的有机分子的官能团。”然而，当把钻头钻到足够深的地方处，它所收集的材料, 就能被几米厚的岩石保护起来不受辐射损害。欧空局的模型表明，1.5米以下的样本, 在科学上是很感兴趣的。到目前为止，所有在火星地面下进行采样的任务, 最深深度也就是几厘米而已。
+
+
+`Stony 多石的；石头的 ground` or `bountiful 大量的；巨大的 regolith` 风化层；表皮土 ?
+
+`主` The jackpot （在碰运气游戏中的）头奖，最高奖 of this `treasure 金银财宝；珠宝；财富 hunt` `系` *would be* to find(v.) things like sugars, phospholipids  磷脂 (*constituents of* `the membranes （身体内的）膜;（植物的）细胞膜 of cells`), nucleotides 核苷酸 (the “letters” of genetic material) or `amino 氨基 acids` 氨基酸 (the `building blocks` 建筑模块 of proteins 蛋白质；朊) that *are characteristic(a.)典型的；独特的；特有的 of* life on Earth. But `主` `consolation 使感到安慰的人（或事）；安慰；慰藉 prizes` `系` *might be available* in the form of `less direct signals of biology` within the chemistry -- traces 痕迹；遗迹；踪迹;微量；少许 of `the actions of enzymes` 酶, for example. *As* Dr Vago *observes*, `主` the way (`fatty 富含脂肪的；肥胖的；脂肪的 acids` 脂肪酸 *are synthesised(v.)（通过化学手段或生物过程）合成 biologically* on Earth) `谓` *means that* they usually *have* an `even 双数的；偶数的 number` of carbon atoms, although there is nothing [in their `underlying 根本的；潜在的；隐含的 chemistry`] which *favours* that (in abiotic 与生物无关的；非生物的 syntheses 合成;结合体). `主` *Finding* a pattern like this, or something (equally chemically striking), in Martian organic molecules `谓` *would be encouraging to* those who *hope that* Mars *has or once had life*.
+
+- bountiful : a. in large quantities; large 大量的；巨大的 / giving generously 慷慨的；大方的 +
+=> 来自词根bon, 好，同bonus. -ty, 抽象名词后缀。 +
+.. *a bountiful supply of* food 富足的食物供应
+.. belief in *a bountiful god* 对宽宏的神的信仰
+
+- jackpot => jack,扑克J,pot,罐子，钱罐。一种扑克赌博游戏，直到某持牌方至少持有两张J或更大牌才可以开牌并取得胜利。后引申词义大奖，头奖。比较 blackjack. +
+image:../../+ img_单词图片/j/jackpot.jpg[100,100]
+
+- phospholipid :/ˌfɒsfəˈlɪpɪd/ N any of a group of compounds composed of fatty acids, phosphoric acid, and a nitrogenous base: important constituents of all membranes 磷脂 (Also called phosphatide) +
+*磷脂是组成生物膜的主要成分.* 常与蛋白质、糖脂、胆固醇等其它分子共同构成脂双分子层，即细胞膜的结构。 *至今,人们已发现磷脂几乎存在于所有机体细胞中*, 在动植物体重要组织中, 都含有较多磷脂.
+
+- membrane : /ˈmembreɪn/ => membrane包膜，身体内的膜，植物的细胞膜
+来自拉丁语membrana,皮肤，membrum,肢体，四肢，器官，部分。引申词义身体内的膜，植物的细胞膜。
+
+- nucleotide :  /ˈnuːkliətaɪd/ N a compound consisting of a nucleoside linked to phosphoric acid. Nucleic acids are made up of long chains (polynucleotides) of such compounds 核苷酸 +
+"核苷酸"是"核糖核酸"及"脱氧核糖核酸"的基本组成单位，是体内合成"核酸"的前身物。"核苷酸"随着"核酸"分布于生物体内各器官、组织、细胞的核及胞质中，并作为"核酸"的组成成分参与生物的遗传、发育、生长等基本生命活动。
+
+- amino :   /ə'mino/ N of, consisting of, or containing the group of atoms -NH2 氨基 +
+.. *amino acid*  n. [化]氨基酸
+
+- characteristic : /ˌkærəktəˈrɪstɪk/ a.  *~ (of sth/sb)* very typical of sth or of sb's character 典型的；独特的；特有的
+.. She spoke *with characteristic enthusiasm*. 她说话带着特有的热情。
+
+- enzyme : /'enzaɪmz/ N-COUNT An enzyme is a chemical substance found in living creatures that produces changes in other substances without being changed itself. 酶 +
+酶（enzyme）是由活细胞产生的、对其底物具有高度特异性和**高度催化效能的蛋白质或RNA。** +
+*酶是一类极为重要的生物催化剂（biocatalyst）。由于酶的作用，生物体内的化学反应, 在极为温和的条件下, 也能高效和特异地进行。* +
+*酶的化学本质是蛋白质（protein）或RNA（Ribonucleic Acid）*，因此它也具有一级、二级、三级，乃至四级结构。按其分子组成的不同，可分为单纯酶和结合酶。仅含有蛋白质的称为单纯酶；结合酶则由酶蛋白和辅助因子组成。 +
+结合酶的蛋白质部分称为酶蛋白（apoenzyme），非蛋白质部分统称为辅助因子 （cofactor），两者一起组成全酶（holoenzyme）；只有全酶才有催化活性，如果两者分开则酶活力消失。 +
+*人体和哺乳动物体内含有至少5000种酶。* 它们或是溶解于细胞质中，或是与各种膜结构结合在一起，或是位于细胞内其他结构的特定位置上，只有在被需要时才被激活，这些酶统称胞内酶；另外，还有一些在细胞内合成后再分泌至细胞外的酶──胞外酶。 +
+*酶是一类生物催化剂，它们支配着生物的新陈代谢、营养和能量转换等许多催化过程，与生命过程关系密切的反应大多是酶催化反应。*
+
+- synthesize : /ˈsɪnθəsaɪz/ v. ( technical 术语 ) to produce a substance by means of chemical or biological processes （通过化学手段或生物过程）合成 +
+=>  syn-共同,同时 + thesis放置 同源词：thesis
+
+- fatty acid : 脂肪酸 +
+脂肪酸是由碳、氢、氧三种元素组成的一类化合物，*是中性脂肪、磷脂和糖脂的主要成分。* +
+不管饱和的或不饱和的，*生物体内脂肪酸的碳原子数大多是偶数，极少含有奇数碳原子，* 尤其是在高等动植物体内主要存在12碳以上的高级脂肪酸，一般在14-24个碳，以16和18碳脂肪酸最为常见。奇数碳原子脂肪酸仅在一些植物、反刍动物、海洋生物、石油酵母等体内部分存在。
+
+- syntheses : /'sinθisi:z/ N-COUNT A synthesis of different ideas or styles is a mixture or combination of these ideas or styles. 结合体 +
+-> His novels are *a rich synthesis*(n.) of Balkan history and mythology. 他的小说是一个巴尔干半岛的历史和神话的丰富结合。 +
+N-VAR The synthesis of a substance is the production of it by means of chemical or biological reactions. 合成 +
+-> ...the genes that regulate the synthesis of these compounds. …控制这些化合物合成的基因。
+
+- 这次寻宝的大奖, 是找到糖、磷脂(细胞膜的组成成分)、核苷酸(遗传物质的“字母”)或氨基酸(蛋白质的组成成分)等地球生命所特有的东西。但安慰奖可能会以"在化学中的不那么直接的生物信息"的形式出现 -- 例如，酶发生作用的痕迹。正如瓦戈博士所言，在地球上, 脂肪酸的生物学合成方式, 表明它们通常有偶数个碳原子，尽管在它们的基础化学成分中, 没有任何东西有利于非生物合成。如果在火星有机分子中发现这样的图案模式，或者是发现同样惊人的化学成分，对于那些希望火星拥有或曾经拥有生命的人来说，将是一种鼓舞。
+
+
 
 Many hands
 
-The UAE’s launch of Al Amal shows how even a small country can join the space race if it is determined enough. No one, however, expects it to become a serious space power. China, though, with half a dozen visits to the Moon under its belt, already is one. Nor is Tianwen-1 the first Chinese attempt to join the Mars club. In 2011 a craft called Yinghuo-1 (“firefly”) attempted to hitch a ride with Phobos-Grunt, a Russian probe. Unfortunately, the rocket intended to propel the combined mission on its way malfunctioned, and it never left Earth orbit. This time, China is going it alone.
+`主` The UAE’s 阿拉伯联合酋长国 launch(n.) of Al Amal 希望号 `谓` *shows* how even a small country *can join the space race* if it *is determined enough*. No one, however, *expects it to become* a serious space power. `主` China, though, *with* half a dozen visits(n.) to the Moon *under its belt*(腰带；皮带)已经获得某物, `系` *already is* one. *Nor is* Tianwen-1 the first Chinese attempt *to join* the Mars club. In 2011 a craft called Yinghuo-1 (“firefly” 萤火虫) *attempted to hitch(v.)免费搭车；搭便车 a ride with* Phobos-Grunt, a Russian probe （不载人）航天探测器，宇宙探测航天器. Unfortunately, `主` the rocket (*intended to propel* 推动；驱动；推进 the combined mission) `谓` *[on its way] malfunctioned*(v.)出故障, and it *never left* Earth orbit. This time, China *is going it alone*.
 
-One thing which is known is that the mission will host around a dozen scientific instruments, including cameras, chemistry sets, magnetometers and radars. Officials from the China National Space Administration say the plan is to make detailed surveys of the surface. A ground-penetrating radar, for example, will measure the thickness and composition of layers within the regolith and identify any ice within 100 metres of the surface.
+- UAE : abbr. 阿拉伯联合酋长国（United Arab Emirates）
 
-It will be a sophisticated spacecraft, if details revealed about the landing system are accurate. Zhang Rongqiao, the chief designer, told Chinese television-viewers in 2019 that the lander would separate from the craft’s main body at an altitude of 70 metres and hover until it found a safe landing spot. Cameras and laser scanners will help this lander avoid obstacles as it makes its way to the surface.
+- *have sth under your belt* : (informal) to have already achieved or obtained sth 已经获得某物
+.. She already *has a couple of good wins under her belt*.
+她已将几项冠军收入囊中。
 
-Tianwen-1’s lander does not look capable, from its instrument list, of quite the sorts of sophisticated biology-detecting activity planned for Perseverance and, after it, Rosalind Franklin. But even if that is the case, those other two vehicles, combined with the forthcoming ESA and NASA Mars sample-return mission, do now offer a realistic possibility of answering the question of whether there is, or was, life anywhere other than on Earth. A failure to find it would be a disappointment, although the search would no doubt go on, both on Mars and elsewhere. But an answer in the affirmative, even were that life only bacterial and extinct, would surely transform humanity’s view of itself as profoundly as did the discoveries of Nicolaus Copernicus and Charles Darwin.
+- 阿联酋发射的Al Amal (希望号)表明，如果决心足够大，即使是一个小国也能加入太空竞赛。然而，没有人期望它成为一个真正的太空强国。然而，中国已经有六次月球之旅，已经是太空强国之一。天问一号也不是中国第一次尝试加入火星俱乐部。在2011年，中国的“萤火一号”火星探测器试图搭乘俄罗斯探测器Phobos-Grunt的便车。不幸的是，这枚旨在推动联合任务的火箭, 发生了故障(未能按计划变轨)，它从未离开地球轨道(最终坠落坠毁)。这一次，中国独自行动。
 
 
+`主` One thing which is known `系` *is that* the mission *will host* around a dozen scientific instruments, *including* cameras, chemistry sets 一套化学用具, magnetometers 磁力计; 测量磁场，如地球表面的强烈程度或方向的仪器 and radars. Officials from the China National Space Administration *say* the plan *is* to make(v.) detailed 详细的，精细的 surveys of the surface. A ground-penetrating radar 探地雷达, for example, *will measure* the thickness and composition of layers(n.) within the regolith 风化层 and *identify* any ice within 100 metres of the surface.
+
+- magnetometer : /ˌmæɡnɪˈtɒmɪtə/
+N any instrument for measuring the intensity or direction of a magnetic field, esp the earth's field 磁力计; 测量磁场，如地球表面的强烈程度或方向的仪器
+
+- 目前已知的是，这次任务, 将配备大约12个科学仪器，包括相机、化学检测装置、磁力仪和探地雷达。中国国家航天局的官员说，这次的计划是对火星表面进行详细的调查。例如，探地雷达可以测量风化层的厚度和组成，并识别出地面上, 雷达周围100米以内的任何冰。
+
+
+It *will be* a sophisticated spacecraft, if `主` details (*revealed* about the landing system) `系` *are accurate*. Zhang Rongqiao, the chief designer, *told* Chinese television-viewers 电视观众;观看者；观察者 in 2019 *that* the lander *would separate from* the craft’s main body [at an altitude 海拔；海拔高度 of 70 metres 米] and *hover* until it *found* a safe landing spot. Cameras and laser scanners *will help* this lander *avoid* obstacles [as it makes its way to the surface].
+
+- 如果有关"着陆系统"的细节披露, 是准确的话，那么这将是一个复杂的航天器。首席设计师Zhang Rongqiao在2019年对中国的电视观众说，着陆器将在70米的高度与飞船主体分离，并悬停, 直到找到安全着陆点。照相机和激光扫描仪将帮助这个着陆器在到达表面时, 避开障碍物。
+
+
+Tianwen-1’s lander *does not look capable*, from its instrument list, *of* quite  完全；十分；非常；彻底 the sorts of `sophisticated biology-detecting activity` (*planned for* Perseverance and, after it, Rosalind Franklin). But *even if* that is the case, those other two vehicles, *combined with* the forthcoming ESA and NASA `Mars sample-return mission`, *do now offer(v.) a realistic possibility* of *answering(v.) the question of* whether there *is, or was*, life anywhere [*other than* 除了,除…之外 on Earth]. `主` A failure to find it `系` *would be a disappointment*, although the search *would [no doubt] go on*, both on Mars and elsewhere. But an answer in the affirmative 肯定的；同意的, *even were that* life only bacterial 细菌的 and extinct 已灭绝的；绝种的, *would surely transform*  使改变外观（或性质）；使改观 humanity’s view of itself *as profoundly 极大地；深刻地;严重地；完全地；彻底地 as* did the discoveries of Nicolaus Copernicus 尼古拉·哥白尼 and Charles Darwin 查尔斯·达尔文.
+
+- 从仪器清单上看，天问1号着陆器, 似乎不具备那种复杂的生物探测能力, 而毅力号和之后的Rosalind Franklin号有这种计划的配备。但即使如此，其他两架火星车，加上即将到来的欧洲航天局和美国宇航局的"火星样本返回任务"，确实提供了一种现实的可能性，来回答地球以外是否存在或曾经存在生命的问题。如果我们在火星没有找到生命迹象, 将是一件令人失望的事情，尽管在火星和其他地方的搜寻工作, 无疑会继续下去。但如果答案是肯定的，即使发现生命只有细菌状态, 或早已灭绝，也肯定会像哥白尼和达尔文的发现那样, 深刻地改变人类对自身的看法。
 
 ---
 
@@ -379,45 +513,3 @@ Tianwen-1’s lander does not look capable, from its instrument list, of quite t
 
 
 
-奥巴马的削减扼杀了美国对“外星火星”的参与，到2012年8月“好奇号”到达火星时，NASA还没有未来发射任何漫游者的计划。然而，公众对“好奇号”扣人心弦的着陆的绝大多数积极反应，帮助说服了该机构的负责人重新考虑他们的优先事项，并对之前的计划进行了缩减，不需要增加预算。结果，现在被称为毅力的任务在几个月后宣布。
-
-与此同时，欧空局一直在保留其在ExoMars计划中的一部分，向俄罗斯寻求发射和硬件方面的帮助。2016年，该机构交付了该计划的第一部分，即痕量气体轨道器。它的目标是测量火星大气中物质的精确浓度，包括甲烷、水蒸气、氮氧化物和乙炔，每种物质占大气总体积的不到1%，但这些物质可能是生物学的迹象。
-
-甲烷特别令人感兴趣，因为它的存在随时间和地球表面位置的不同而不同。甲烷在火星大气中并不存在很长时间，这表明这种气体有一个活跃的来源。在地球上，生物在消化营养物质时会释放出甲烷。但纯粹的地质过程也可以释放这些物质。
-
-欧空局外火星计划的下一步是一辆名为罗莎琳德·富兰克林(Rosalind Franklin)的月球车。这也计划在当前窗口中启动。然而，技术延误和新冠肺炎的影响相结合，意味着相关工程师团队不能轻易前往完成月球车的制造和测试，已将发射日期推迟到2022年的下一条有利路线。
-
-当罗莎琳德·富兰克林最终抵达火星(2023年，如果遵守这一时间表)时，飞船将在一个名为奥夏平原的区域爬行。这里的粘土可以追溯到大约40亿年前，这将使它成为火星上迄今探测到的最古老的遗址。由于粘土矿物需要水才能形成，人们对奥霞平原曾经是一个生命友好的地区寄予了很高的希望。
-
-罗莎琳德·富兰克林的科学载荷将能够比毅力号的载荷进行更复杂的分析。特别是，火星有机分子分析器(MOMA)将能够比以前更有效地从岩石和浮土中提取有机分子。
-
-之前研究火星上的有机分子的尝试都被称为高氯酸盐的化学物质的存在所困扰。美国宇航局的凤凰号着陆器在2008年首次发现了这些现象，五年后，“好奇号”证实了这一点。这些任务在烤箱中烘烤他们的火星样本，以释放有机物。这也会从高氯酸盐中释放出氯和氧，而这些会氧化存在的大多数有机分子。MoMA将通过使用紫外线激光来绕过这个问题，这种激光将很快将有机分子从岩石样本中击落，以至于任何存在的高氯酸盐都没有时间分解。
-
-然而，罗莎琳德·富兰克林最重要的工具将是一台可以从地表以下两米处采集样本的钻机。这对于回收保存完好的有机分子的材料至关重要。稀薄的火星大气层很容易被来自太空的电离辐射穿透。它猛烈撞击地表，甚至在其下方穿行了一小段路。正如ExoMars的首席科学家豪尔赫·瓦戈(Jorge Vago)所观察到的那样，“数百万年来，这种电离辐射就像无数把小刀，慢慢地切断了你希望发现的有机分子的官能团。”然而，用钻头钻到足够深的地方，它收集的材料就会被几米厚的岩石保护起来不受辐射。欧空局的模型表明，1.5米以下的样本在科学上是很有趣的。到目前为止，所有任务在火星表面下取样的最深深度是几厘米。
-
-
-
-石质地面还是丰富的浮石层？
-
-这次寻宝的大奖将是找到糖、磷脂(细胞膜的成分)、核苷酸(遗传物质的“字母”)或氨基酸(蛋白质的组成成分)等地球生命特有的东西。但安慰奖可能会以化学中较不直接的生物学信号的形式出现-例如，酶作用的痕迹。正如瓦戈博士所观察到的那样，脂肪酸在地球上的生物合成方式意味着它们通常有偶数个碳原子，尽管在它们的基础化学中没有任何东西有利于非生物合成。在火星有机分子中发现这样的图案，或者同样惊人的化学成分，对于那些希望火星曾经或曾经有生命的人来说，将是一种鼓舞。
-
-多只手。
-
-阿联酋发射Al Amal表明，如果决心足够大，即使是一个小国也能加入太空竞赛。然而，没有人期望它成为一个真正的太空强国。然而，中国已经有六次月球之旅，已经是其中之一。天文一号也不是中国第一次尝试加入火星俱乐部。2011年，一艘名为“萤火虫”的飞船试图搭乘俄罗斯探测器Phobos-Grunt的便车。不幸的是，这枚旨在推动联合任务上路的火箭发生了故障，它从未离开地球轨道。这一次，中国单打独斗。
-
-有一件事是已知的，那就是该任务将容纳大约12台科学仪器，其中包括c。
-
---
-
-
-欧空局的ExoMars计划的下一步是一个名为罗莎林德富兰克林的漫游者。它也计划在当前窗口中启动。然而，由于技术上的延迟和covid-19的影响(这意味着参与的工程师团队不能轻易地前往完成漫游者的制造和测试)，使得发射日期推迟到了下一个有利的时间，即2022年。
-当罗莎琳德·富兰克林最终到达火星时(如果这个时间表被坚持的话，是2023年)，飞船将在一个叫做Oxia Planum的区域爬行。这里的黏土可以追溯到大约40亿年前，这将使它成为火星上迄今探索过的最古老的地点。由于粘土矿物需要水才能形成，因此人们对缺氧平原可能曾经是一个生命友好的地区寄予厚望。
-罗莎琳德·富兰克林的科学载荷将比“毅力”号更具有复杂的分析能力。特别是，火星有机分子分析仪(MOMA)将能够比以前更有效地从岩石和风化层中提取有机分子。
-以前研究火星上有机分子的尝试一直受到高氯酸盐化学物质的困扰。NASA的凤凰号着陆器在2008年首次发现了这些现象，并在五年后被“好奇号”确认。这些任务在烤箱中烘烤火星样本，以释放有机物。这也会从高氯酸盐中释放出氯和氧，这些物质氧化了大部分有机分子。现代艺术博物馆将通过使用紫外激光来解决这个问题，这种激光可以快速地从岩石样本上撞击有机分子，以至于任何存在的高氯酸盐都没有时间分解。
-然而，罗莎琳德·富兰克林最重要的工具将是一个钻头，它可以从地下两米处采集样本。这对于回收有机分子保存良好的材料是至关重要的。稀薄的火星大气层很容易被来自太空的电离辐射穿透。它猛撞到表面，甚至在表面下移动了一段距离。ExoMars的首席科学家Jorge Vago观察到:“在几百万年的时间里，这种电离辐射就像无数把小刀子一样，慢慢地把你希望发现的有机分子的官能团切掉。”不过，如果钻到足够深的地方，它所收集的材料就会被几米深的岩石保护起来不受辐射。欧洲航天局的模型表明，从1.5米以下采集的样本在科学上是有趣的。到目前为止，在火星表面下采样的最深深度只有几厘米。
-
-
-但是安慰奖可能以化学中较不直接的生物学信号的形式存在，例如酶的活动的痕迹。正如Vago博士所观察到的，脂肪酸在地球上的生物合成方式意味着它们通常有偶数个碳原子，尽管在它们的基本化学成分中并没有什么有利于非生物合成的元素。在火星的有机分子中发现这样的模式，或者同样具有化学意义的东西，对于那些希望火星曾经或曾经有过生命的人来说，将会是一种鼓舞。
-目前已知的一件事是，这次任务将配备大约12个科学仪器，包括相机、化学装置、磁力仪和雷达。中国国家航天局的官员说，计划是对月球表面进行详细的调查。例如，探地雷达可以测量风化层的厚度和组成，并识别出距离地表100米以内的任何冰。
-如果有关着陆系统的细节披露准确的话，这将是一个复杂的航天器。首席设计师张荣桥在2019年对中国电视观众说，着陆器将在70米的高度与飞船主体分离，并悬停直到找到安全着陆点。照相机和激光扫描仪将帮助这个着陆器在到达表面时避开障碍物。
-从仪器清单上看，天文1号着陆器似乎不具备为坚持不懈以及之后的罗莎琳德·富兰克林(Rosalind Franklin)计划的那种复杂的生物探测活动。但即使是这样，其他两架飞行器，加上即将到来的欧洲航天局和美国宇航局火星样本返回任务，现在确实提供了一种现实的可能性，来回答地球以外是否存在或曾经存在生命的问题。如果找不到它将是一件令人失望的事情，尽管在火星和其他地方的搜寻工作无疑会继续下去。但如果答案是肯定的，即使生命只有细菌和灭绝，也肯定会像哥白尼和达尔文的发现一样深刻地改变人类对自身的看法。
