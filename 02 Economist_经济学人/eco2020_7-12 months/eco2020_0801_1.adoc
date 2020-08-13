@@ -317,7 +317,7 @@ But [from April] the government *ditched 抛弃;丢弃 the requirement* (that th
 
 *Do they know* what you *overcame*?
 
-[In Britain] anti-immigration sentiment （基于情感的）观点，看法；情绪 *peaked* 达到高峰；达到最高值 around the time of `the Brexit referendum`(n.)全民投票；全民公决 of 2016, but *has since subsided* 趋于平静；平息；减弱；消退. `主` Many (who *voted to leave the EU* because they *thought* there was too much migration) `谓` now *feel* Britain *has taken back control of* its borders. *In the wake of*  随…之后而来；跟随在…后 covid-19, views of immigration *will continue to mollify*(v.)使平静；抚慰, *predicts* Jonathan Portes of King’s College London. `主` A recent decision *to extend* residence rights *to up to* 3m Hong Kongers `谓` *passed without fuss* （为小事）大吵大闹，大发牢骚;无谓的激动（或忧虑、活动）；大惊小怪. Under `a proposed 被提议的，建议的 points-based 记点积分制 system`, EU nationals （某国的）公民 *will find* it harder to work(v.) in the UK, and few workers from anywhere *will be admitted* [if they *make less than £25,600 ($33,231)* a year]. But the rules *will be looser* for health workers. And voters 选民 *have noticed that* `主` many migrants who *make less than £25,600* `系` *have been indispensable* 不可或缺的；必不可少的 [of late 最近以来]. “`主` Care workers` （精神病人、残疾人、尤指住院治疗者的）护理员, bus drivers and `supermarket staff` all `谓` *fulfil 履行；执行；符合；具备;起…作用；目的是 essential functions*, and *it is far from obvious that* there will be public support for an immigration system that excludes them all in favour of relatively junior bankers,” writes Mr Portes.
+[In Britain] anti-immigration sentiment （基于情感的）观点，看法；情绪 *peaked* 达到高峰；达到最高值 around the time of `the Brexit referendum`(n.)全民投票；全民公决 of 2016, but *has since subsided* 趋于平静；平息；减弱；消退. `主` Many (who *voted to leave the EU* because they *thought* there was too much migration) `谓` now *feel* Britain *has taken back control of* its borders. *In the wake of*  随…之后而来；跟随在…后 covid-19, views of immigration *will continue to mollify*(v.)使平静；抚慰, *predicts* Jonathan Portes of King’s College London. `主` A recent decision *to extend* residence rights *to up to* 3m Hong Kongers `谓` *passed without fuss* （为小事）大吵大闹，大发牢骚;无谓的激动（或忧虑、活动）；大惊小怪. Under `a proposed 被提议的，建议的 points-based 记点积分制 system`, EU nationals （某国的）公民 *will find* it harder to work(v.) in the UK, and few workers from anywhere *will be admitted* [if they *make less than £25,600 ($33,231)* a year]. But the rules *will be looser* for health workers. And voters 选民 *have noticed that* `主` many migrants who *make less than £25,600* `系` *have been indispensable* 不可或缺的；必不可少的 [of late 最近以来]. “`主` Care workers` （精神病人、残疾人、尤指住院治疗者的）护理员, bus drivers and `supermarket staff` all `谓` *fulfil 履行；执行；符合；具备;起…作用；目的是 essential functions*, and *it is far from obvious that* there *will be* public support for an immigration system that *excludes 排斥；拒绝接纳 them all* in favour of relatively 相当程度上；相当地；相对地 junior bankers,” *writes* Mr Portes.
 
 - referendum : /ˌrefəˈrendəm/ n. *~ (on sth)* an occasion when all the people of a country can vote on an important issue 全民投票；全民公决 +
 => 来自拉丁语 referendum,参考对象，来自 referre,拿回，参考，词源同 refer.-end,动名词后缀， -um,中性格。后引申词义全民公决。
@@ -331,16 +331,62 @@ But [from April] the government *ditched 抛弃;丢弃 the requirement* (that th
 -ify是动词后缀；主要看词根moll，比较两个同源词melt（融化；熔化）和mild（柔和的），三者主体形式一致，元音部分有些许变化，且都来自印欧词根*mel-（柔，软），“安抚”是使急躁的情绪变柔缓，“融化”是硬的东西变柔软，“柔和的”就无需多言了。 +
 image:../../+ img_单词图片/m/mollify.jpg[100,100]
 
+- 在英国，在2016年脱欧公投期间, 反移民情绪达到了顶峰，但此后有所减弱。许多人投票支持脱欧，因为他们认为有太多的移民进来了，但现在他们觉得英国已经夺回了对边境的控制。伦敦大学国王学院的乔纳森•波特斯预测，在covid-19爆发后，对移民的看法将继续缓和。最近一项将"居英权"扩展包含到香港300万人的决定, 无异议顺利通过。根据一项被提议的积分制，欧盟居民将发现, 他们更难去英国工作. 无论来自哪个国家，只要年收入低于2.56万英镑(合3.3231万美元)的人, 都不被英国允许入境。但是对卫生工作者的规则会比较宽松。英国选民们也注意到，许多年收入低于2.56万英镑的移民, 近来是不可或缺的。波特斯写道:“医护人员、公交司机和超市员工, 都提供着最基本的服务，因此公众不太可能(不明显)支持这样一个移民政策: 即排斥这些移民基本工人, 而去支持相对初级的银行家.
 
 
+In America, *for all* 尽管；虽然 Mr Trump’s fist 拳头-waving, `主` the share of people who *think that* illegal immigration is a “very big problem” `谓` *has fallen markedly* 明显地；显著地；引人注目地 since the pandemic began, *from 43%* last year *to 28%* in June. This *could be because* the influx(n.)（人、资金或事物的）涌入，流入 *has dried up*, or because, *compared with* covid-19 itself, nothing *seems like* a “very big problem”. The country *is divided*. A new Economist/YouGov poll *finds* `主` Americans `谓` *roughly evenly split* 分裂，使分裂（成不同的派别） between ① *wanting* immigration *to resume* after the pandemic [at the same pace as before or faster (40%)] *versus* ② slower or *remaining frozen* (42%).
 
-In America, for all Mr Trump’s fist-waving, the share of people who think that illegal immigration is a “very big problem” has fallen markedly since the pandemic began, from 43% last year to 28% in June. This could be because the influx has dried up, or because, compared with covid-19 itself, nothing seems like a “very big problem”. The country is divided. A new Economist/YouGov poll finds Americans roughly evenly split between wanting immigration to resume after the pandemic at the same pace as before or faster (40%) versus slower or remaining frozen (42%).
+- *for all* :  despite 尽管；虽然 / used to say that sth is not important or of no interest or value to you/sb （表示对某人不重要、无价值或无所谓）
+.. *For all* its clarity of style, the book is not easy reading. 这本书**虽然**文体清晰，但读起来并不容易。
+.. You can do what you like, *for all I care*. 你想干什么就可以干什么，我才不管呢。
 
-Still, the inability of populist leaders such as Mr Trump and Brazil’s Jair Bolsonaro to cope with covid-19 could cost them their jobs—and thereby usher in a less drawbridge-up type of government. The Economist’s prediction model gives Joe Biden about a nine-in-ten chance of winning the American presidency in November. He would clearly be different. He says “Trump has waged an unrelenting assault on our values and our history as a nation of immigrants.” He could immediately revoke Mr Trump’s executive orders and stop separating migrant children from their parents. He vows to promote laws to increase the number of skilled migrants, create an easier path to citizenship and let cities with labour shortages petition for more migrants.
+- influx : /ˈɪnflʌks/ n. *~ (of sb/sth) (into...)* : the fact of a lot of people, money or things arriving somewhere （人、资金或事物的）涌入，流入 +
+=> in-,进入，使，-flu,流动，词源同fluid,flux. 即流进，流入。 +
+.. *a massive/sudden influx* of visitors 游客的大量╱突然涌入
 
-Covid-19 has shown that the freedom to migrate, which was always constrained, can be cancelled at will when people are scared. Consider Subha Nawer Pushpita’s experiences. She is a Bangladeshi studying computer science at the Massachusetts Institute of Technology. America was built by people like her: immigrants at MIT have won more Nobel prizes than China. So she was gobsmacked to learn, on July 6th, that she might be deported. The government said that foreigners at American universities who take only remote classes would have to leave the country.
+- 在美国，尽管特朗普挥舞着拳头，但自疫情开始以来，认为非法移民是一个“非常大的问题”的民意比例, 已经明显下降，从去年的43%, 降至6月份的28%。这可能是因为涌入美国的移民已经枯竭，也可能是因为，与新冠肺炎本身相比，似乎没有什么是“非常大的问题”。这个国家变得分裂。一项新的经济学人/YouGov民意调查发现，美国人的民意大致均分, 一派希望在疫情后移民恢复的速度, 能与之前相同, 或更快些(40%)，另一派则希望, 移民速度应该放慢, 或保持冻结(42%)。
 
-Eighteen states sued to have the rule scrapped. The week after, it was. “I felt incredibly relieved and excited. I called my mom and I was shouting,” recalls Ms Pushpita. She will be able to study. But many others won’t. On July 24th the Trump administration said that new foreign students who have not yet reached America will be barred if their classes are taught remotely. “As long as he’s in office, something else will pop up,” sighs Ms Pushpita.
+
+Still, `主` `the inability` of populist 平民主义的; 民粹主义的 leaders such as Mr Trump and Brazil’s Jair Bolsonaro `*to cope with* covid-19` `谓` *could cost 使丧失；使损失 them their jobs* -- and thereby *usher(v.) in* 开创；开始；开启 `a less drawbridge （可开闭的）吊桥-up type` of government. The Economist’s `prediction model` *gives* Joe Biden *about a nine-in-ten chance* of *winning the American presidency* in November. He *would clearly be different*. He says “Trump *has waged(v.)开始，发动，进行，继续（战争、战斗等） an unrelenting 持续的；不缓和的；势头不减的;不留情的 assault 攻击；突击；袭击 on* `our values` and `our history (as a nation of immigrants)`.” He *could immediately revoke* 取消；废除；使无效 Mr Trump’s executive orders  行政命令 and *stop separating* （使）分开，分离；分割；划分 migrant children *from their parents*. He *vows ① to promote laws* to increase(v.) the number of skilled migrants, ② *create an easier path to* citizenship and ③ *let* cities (with labour shortages) *petition(v.) for* （向法庭）请求，申请; 祈求；请求；请愿 more migrants.
+
+
+- usher : /ˈʌʃər/ v. [ VN + adv./prep. ] to take or show sb where they should go 把…引往；引导；引领 +
+=> 来自 PIE*os,嘴，词源同 oral,osculate.用来指迎宾。 +
+.. The secretary *ushered(v.) me into his office*. 秘书把我领进他的办公室。 +
+image:../../+ img_单词图片/u/usher.jpg[100,100]
+
+- *usher(v.) sth in*
+( formal ) to be the beginning of sth new or to make sth new begin 开创；开始；开启
+.. The change of management *ushered(v.) in* fresh ideas and policies. 更换领导班子带来了新思想和新政策。
+
+- drawbridge +
+image:../../+ img_单词图片/d/drawbridge.jpg[100,100]
+
+- *Drawbridges up*  : The new divide in rich countries is not between left and right but between open and closed.  +富裕国家的新鸿沟不是左与右，而是开放与封闭
+
+- 尽管如此，特朗普和巴西总统贾尔·博尔索纳罗(Jair Bolsonaro)等民粹主义领导人, 无力应对新冠肺炎，可能会让他们下台 -- 从而迎来一个不那么依赖"吊桥政策"(锁国)的政府。根据“经济学人”的预测模型，乔·拜登在11月赢得美国总统大选的可能性, 约为十分之九。他显然会有所不同。他说，“特朗普对我们的价值观, 和我们作为移民国家的历史, 发起了无情的攻击。” 他可以立即撤销特朗普的行政命令，并停止将移民儿童与父母分开。他誓言要推动法律, 来增加技术移民的数量，给移民创造一条更容易获得公民身份的途径，并让劳动力短缺的城市能申请更多的移民。
+
+
+Covid-19 *has shown that* `主` the freedom to migrate, which *was always constrained*, `谓` *can be cancelled [at will]* when people are scared(a.)害怕；恐惧；畏惧；担心. *Consider* Subha Nawer Pushpita’s experiences. She is a Bangladeshi 孟加拉人 *studying computer science* at the Massachusetts Institute of Technology. America *was built by people* like her: immigrants at MIT *have won more Nobel prizes* than China. So *she was gobsmacked(a.)瞠目结舌的；目瞪口呆的 to learn*, on July 6th, *that* she *might be deported*  把（违法者或无合法居留权的人）驱逐出境，递解出境. The government *said that* `主` foreigners at American universities *who take only remote classes* `谓` *would have to leave the country*.
+
+- gobsmacked : adj.   /ˈɡɒbsmækt/
+( BrE informal ) so surprised that you do not know what to say 瞠目结舌的；目瞪口呆的 +
+=> gob, 嘴。smack, 打嘴，掌掴。 +
+image:../../+ img_单词图片/g/gobsmacked.jpg[100,100]
+
+- 新冠肺炎表明，一直受到限制的迁徙自由，在人们感到害怕时可以随意取消。想想普什皮塔的经历吧。她是一名孟加拉国人，在麻省理工学院学习计算机科学。美国是由她这样的人建立起来的:麻省理工学院的移民获得的诺贝尔奖比中国还要多。因此，7月6日得知自己可能会被驱逐出境时，她大吃一惊。政府表示，在美国大学只上远程课程的外国人, 将不得不离开美国。
+
+Eighteen states *sued 控告；提起诉讼 to have the rule scrapped* 废弃；取消；抛弃；报废. The week after, it was. “I *felt incredibly relieved 感到宽慰的；放心的；显得开心的 and excited*. I *called my mom* and *I was shouting*,” *recalls* Ms Pushpita. She *will be able to study*. But many others *won’t*. On July 24th the Trump administration *said that* `主` new foreign students *who have not yet reached America* `谓` *will be barred* if their classes *are taught remotely*. “*As long as* 只要 he’s in office, something else *will pop up*,” sighs Ms Pushpita.
+
+- *as/so long as* : only if 只要 +
+-> We'll go *as long as the weather is good*.
+只要天气好我们就去。 +
+since; to the extent that 既然；由于；就…来说 +
+-> *So long as* there is a demand for these drugs, the financial incentive for drug dealers will be there.
+只要对这些毒品有需求，也就存在着对贩毒者的经济诱因。
+
+- 18个州提起了诉讼，要求废除这项规定。在那之后的一周，该法案被废除(it was scrapped)。“我感到无比欣慰和兴奋。我打电话给我妈妈，我大喊道，“普什皮塔女士回忆道。她能够继续学习。但其他许多人却不能够了。7月24日，特朗普政府表示，如果上了远程授课，那些还没有到进入美国的新外国学生, 将被禁止进入美国。Pushpita女士叹息道：“只要他(特朗普)在任，就会有其他事情冒出来。”
+
 
 ---
 
@@ -436,18 +482,5 @@ Still, the inability of populist leaders such as Mr Trump and Brazil’s Jair Bo
 Covid-19 has shown that the freedom to migrate, which was always constrained, can be cancelled at will when people are scared. Consider Subha Nawer Pushpita’s experiences. She is a Bangladeshi studying computer science at the Massachusetts Institute of Technology. America was built by people like her: immigrants at MIT have won more Nobel prizes than China. So she was gobsmacked to learn, on July 6th, that she might be deported. The government said that foreigners at American universities who take only remote classes would have to leave the country.
 
 Eighteen states sued to have the rule scrapped. The week after, it was. “I felt incredibly relieved and excited. I called my mom and I was shouting,” recalls Ms Pushpita. She will be able to study. But many others won’t. On July 24th the Trump administration said that new foreign students who have not yet reached America will be barred if their classes are taught remotely. “As long as he’s in office, something else will pop up,” sighs Ms Pushpita.
-
-
-
-
-
-他们知道你克服了什么吗?
-在英国，反移民情绪在2016年脱欧公投期间达到顶峰，但此后有所减弱。许多人投票离开欧盟，因为他们认为有太多移民，现在他们觉得英国已经夺回了对其边境的控制。伦敦大学国王学院的乔纳森•波特斯预测，在covid-19爆发后，对移民的看法将继续缓和。最近一项将香港居民居留权延长至300万的决定顺利通过。根据一项拟议的积分制，欧盟国民将发现在英国工作更加困难，无论来自哪里，年收入低于2.56万英镑(合3.3231万美元)的工人都不会被允许入境。但是对卫生工作者的规定会比较宽松。选民们也注意到，许多收入低于2.56万英镑的移民近来是不可或缺的。波特斯写道:“医护人员、公交司机和超市员工都履行着基本职能，如果移民体系将他们全部排除在外，而支持相对初级的银行家，公众是否会支持这一体系，还远不明显。”
-在美国，尽管特朗普先生挥舞着拳头，认为非法移民是一个“非常大的问题”的人数比例自疫情开始以来已经显著下降，从去年的43%下降到今年6月的28%。这可能是因为流入的病毒已经停止，或者因为与covid-19本身相比，没有什么看起来是一个“非常大的问题”。国家分裂了。一项新的经济学家/YouGov民意调查发现，美国人希望在疫情爆发后恢复移民的速度与之前相同或更快(40%)和希望移民速度放缓或保持不变(42%)之间大致各占一半。
-
-《经济学人》的预测模型显示，乔•拜登(Joe Biden)赢得11月美国总统大选的几率约为90%。他显然会有所不同。他说，“特朗普对我们的价值观和移民国家的历史发动了无情的攻击。他可以立即撤销特朗普的行政命令，停止让移民子女与父母分离。他誓言要推动法律，以增加技术移民的数量，创造更容易获得公民身份的途径，并让劳动力短缺的城市申请更多移民。
-
-18个州提起诉讼要求废除这一规定。一星期后，它是。我感到无比的轻松和兴奋。我给妈妈打了电话，然后大喊大叫，”普什皮塔回忆说。她将能够学习。但其他许多国家不会。7月24日，特朗普政府表示，如果远程授课，尚未抵达美国的外国新生将被禁止入学。普什皮塔叹息道:“只要他还在执政，其他的事情就会出现。”
-
 
 
