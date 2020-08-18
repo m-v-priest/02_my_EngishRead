@@ -365,39 +365,201 @@ From the outside, lawmakers and trustbusters  要求解散托拉斯的人 *are p
 - 从外部来看，立法者和反托拉斯检察官, 正在敦促谷歌就其被指控滥用在线搜索和广告技术的市场主导地位, 做出解释。7月29日，皮查伊与其竞争对手 : 亚马逊、苹果和Facebook一道，回应了国会委员会对大型科技公司涉嫌反竞争行为的愤怒质询(见文章)。在内部，谷歌的核心业务正在成熟。在《经济学人》付印后，受疫情引发的营销预算紧水的影响，Alphabet预计将公布其历史上第一次季度收入同比上一年的下降。该公司以随心所欲著称的文化, 正变得越来越难以维持。
 
 
-Mr Pichai’s foremost challenge is to prevent Alphabet from becoming what Mr Brin and Mr Page were so bent on avoiding—a “conventional company” that dies a slow death from lack of innovation and declining growth. The task is as delicate as the technology giant is gargantuan.
-
-Today Alphabet is a conglomerate of businesses that sometimes appear to have little in common—a corporate planetary system or Googleverse, if you will. Commercially, its centre of gravity is Google itself, and particularly its online-advertising business. This generates 83% of the group’s revenue and all its profits. It is a constellation unto itself, featuring a plethora of products that together form what is called the “online ad stack”: services to sell, buy and serve ads, and measure their effectiveness, all automatically. In all of these areas, Google is as globally dominant as it is in online search. Its market share in some parts of the ad-serving stack exceeds 90%.
-
-On the surface this might suggest that Alphabet, like most big tech firms, is a “one-trick pony”, in the words of Michael Cusumano of MIT Sloan School of Management. In fact, it is a herd of ponies, some of which look rather more like full-grown Shires. Nine have more than a billion users globally (see chart 2). Every day people make an estimated 6bn search queries on Google and upload more than 49 years’ worth of video to YouTube. More than 300bn emails are said to be sent every day and if only one-third originate on Gmail—a conservative estimate—then a stack of print-outs would be 10,000km high.
+Mr Pichai’s foremost 最重要的；最著名的；最前的 challenge *is* `表` *to prevent(v.) Alphabet from becoming* what Mr Brin and Mr Page *were so bent on  决心要做，一心想做（通常指坏事） avoiding* -- a “conventional company” that *dies(v.) a slow death* from lack of innovation and declining(a.) growth. The task *is as delicate 熟练的；需要技巧的；需要小心处理的；微妙的;精致的；精细的；精密的 as* the technology giant is gargantuan 巨大的；庞大的.
 
 
+- *bent on sth/on doing sth* : determined to do sth (usually sth bad) 决心要做，一心想做（通常指坏事）
+.. She seems *bent on making life difficult for me*. 她似乎专门和我过不去。
 
-And there is more. “Other bets”, as Alphabet’s financial statements refer to its non-core businesses, now number 11, each with its own capital structure. These include Access (offering fibre-optic broadband), GV (which invests in startups), Verily (a health-care firm), Waymo (a developer of autonomous cars) and X (a secretive skunk works engaged in all manner of moonshots). Commercially these ventures seem only loosely connected with the core. What links them to the main business is information processing—and specifically these days artificial intelligence (AI), which powers everything from search to Waymo’s self-driving cars.
-
-Early on, the founders decided that to enable the company to grow with startup-like speed regardless of its actual size, they would create a singular organisational mix of institutions they knew best: the internet, the open-source-software movement and Stanford’s post-graduate programme, where the duo came up with Google’s original search algorithm in 1996.
-
-Like the internet, Google was envisaged as an ever-expanding collection of groups of engineers linked by a common language and common goals, most prominently to “organise all the world’s information”. Alphabet, too, is a network of networks held together by technical standards. It grows horizontally by adding yet more networks.
-
-
-
-To keep hierarchies flat, Mr Brin and Mr Page briefly went so far as to abolish managers altogether, though the experiment had to be dialled back. A compromise was to give managers a minimum of seven direct reports to limit the time they have to loom over each underling. They also had limited time to accost the two bosses, who at one point got rid of their personal assistants to make it harder to book time with them, forcing executives to ambush them whenever they appeared in public to get a sign-off on decisions.
-
-Cosmic ambitions
-
-Google resembled a big open-source project by being an open book, at least internally. Any employee could freely access all internal information except for sensitive user data or company finances. All code, project documents, even a colleague’s calendar, were fair game. Workers were encouraged to use one of Google’s plethora of messaging tools, such as mailing lists (of which there are now more than a million). They were also expected to ask tough questions at weekly company-wide town-hall meetings with the founders, called TGIF, for “Thank God It’s Friday” (now held on Thursdays to allow Googlers around the world to participate without having to get up on Saturday morning). Grievances were to be kept within the company’s walls. Leaking, particularly to the press, was a sackable offence. But the place was also meant to be playful; hence the playground-like offices, ping-pong tables and the like.
-
-From Stanford Mr Brin and Mr Page borrowed the idea of letting people follow their passions. Google employees were allowed to spend 20% of their time working on what they thought would most benefit the firm, even if that often led to them working 120%. They also often set their own quarterly goals. Recruiting and promotion were similar to academia, too. Candidates were graded like PhD students and decisions about who should move up the corporate ladder were taken by a committee of peers from across the company, rather than individual managers, who often promote people they like rather than those who would do the best job.
-
-Having created most of this unique structure in 2001 the founders recruited Eric Schmidt, a Silicon Valley veteran who understood both managers and technologists, to help implement it—or, as they themselves put it, to provide “adult supervision”. To shield the setup from potential shareholder pressure, the three of them built a legal moat around it. Google was one of the first Big Tech companies to opt for dual-class shares, which gave the original shareholders ten times the voting power. Although Messrs Page, Brin and Schmidt together held only a small stake, they retained an outsized 38% of voting rights. The founders warned in “An Owner’s Manual” for Google’s shareholders, published before the firm’s initial public offering in 2004, that new investors “will have little ability to influence its strategic decisions through their voting rights”.
-
-Mr Page took over from Mr Schmidt as Google’s CEO in 2011 (though Mr Schmidt remained Alphabet’s executive chairman until 2018), before handing over to Mr Pichai four years later. Since then Mr Pichai has managed Google in much the same way that previously he ran Chrome, Google’s web browser, and other projects. Rather than getting bogged down in details, he put trusted people in charge, giving them resources and nudging them along.
-
-The result is a collection of semi-independent firms with powerful bosses sitting atop each of them: Thomas Kurian at Google Cloud, Susan Wojcicki at YouTube, Rick Osterloh at Google’s hardware division and Hiroshi Lockheimer at the Android operation. In early June Mr Pichai put Prabhakar Raghavan, who already headed Google’s ad business, in charge of search as well, making him Google’s de facto deputy CEO. (Mustafa Suleyman, vice-president of AI policy at Google, sits on the board of The Economist’s parent company.) A company of Alphabet’s breadth would fail if it depended solely on one man’s judgment, Mr Pichai explains. “People have to be able to make their own decisions.”
-
-These decisions are becoming harder. Googlers have always prided themselves on solving the toughest problems in computer science—less so on making money. This may be one reason why some of the company’s hit services generate smaller revenues than they might, like YouTube, or barely any at all, like Maps. Monetisation from the “other bets” has scarcely begun. They racked up more than $5bn in losses in the four quarters to March. Only Access and Verily bring in material revenues. Some could one day turn into huge businesses: Waymo was valued at about $30bn when it raised outside capital this spring. But even that impressive figure is much less than earlier estimates, which valued the autonomous-driving unit at more than $100bn.
+- gargantuan :  adj.   /ɡɑːˈɡæntʃuən/ extremely large 巨大的；庞大的
+SYN enormous +
+=> 来自法语小说人名Gargantua,食人怪兽。来自gargle, 喉咙，漱口。 +
+.. a gargantuan appetite/meal 食欲极佳；丰盛的大餐
 
 
+Today Alphabet is a conglomerate  联合大公司；企业集团;合成物；组合物；聚合物;砾岩 of businesses that sometimes *appear* to have little in common -- a corporate planetary 行星的 system or Googleverse, if you will 如果你愿意那样说的话, 假如你喜欢的话. Commercially, its centre of gravity *is* Google itself, and particularly its online-advertising business. This *generates* 83% of the group’s revenue and all its profits. It is a constellation 星座; 一系列（相关的想法、事物）；一群（相关的人） unto  朝；向；到；对 itself, *featuring* a plethora 过多；过量；过剩 of products that together *form* what is called the “online ad stack” （通常指码放整齐的）一叠，一摞，一堆;堆栈: services *to sell, buy and serve* ads, and *measure* their effectiveness 有效性,效果,效能, all automatically. In all of these areas, Google is *as globally dominant [as* it is in online search]. Its market share(n.) (in some parts of the ad-serving stack) *exceeds* 90%.
+
+- constellation : n.   /ˌkɒnstəˈleɪʃn/ ( formal ) a group of related ideas, things or people 一系列（相关的想法、事物）；一群（相关的人）/ a group of stars that forms a shape in the sky and has a name 星座 +
+=> con-, 强调。-stell, 星星，词源同star, +
+.. a constellation of Hollywood talent 一群好莱坞天才 +
+image:../../+ img_单词图片/c/constellation.jpg[100,100]
+
+
+- unto : prep.  /ˈʌntu/
+( old use ) +
+1. to or towards sb/sth 朝；向；到；对 +
+-> The angel *appeared unto him* in a dream. 在梦中天使出现在他面前。 +
+2. until a particular time or event 直到；到…为止 +
+-> The knights *swore loyalty unto death*. 骑士们宣誓至死效忠。
+
+- plethora : n.   /ˈpleθərə/ [ sing. ] ( formal ) an amount that is greater than is needed or can be used 过多；过量；过剩 +
+=> 来自希腊语plethein,使装满，来自PIE*ple,装满，填满，词源同fill,full.引申词义过多，过量， 充血症。-ora,名词后缀。
+
+- 今天，Alphabet是一个企业集团，它的各个子业务有时似乎几乎没有共同点-- 如果你愿意的话，可以将它称为是一个公司行星系统, 或Googleverse。在商业上，它的重心是谷歌本身，特别是它的在线广告业务。这创造了该集团83%的收入和所有利润。Alphabet集团本身就像是一个星座，以众多产品为特色，这些产品共同构成了所谓的“在线广告堆栈”：销售、购买和提供广告的服务，以及衡量其有效性的服务，都是自动进行的。在所有这些领域，谷歌在全球都占据主导地位，就像它在在线搜索领域中的地位一样。它在某些广告服务堆栈领域, 市场份额超过了90%。
+
+
+[On the surface] this *might suggest 使想到；使认为；表明 that* Alphabet, like most big tech firms, *is* a “`one-trick pony`” 只会一招的小马驹, 偏才, *in the words of* Michael Cusumano of MIT Sloan School of Management. In fact, it *is* a herd 兽群；牧群 of ponies 小马, some of which *look rather more like* full-grown Shires 夏尔马. Nine *have* more than a billion users globally (see chart 2). Every day people ① *make* an estimated 6bn search(n.) queries(n.)疑问；询问 on Google and ② *upload* more than 49 years’ worth of video *to* YouTube. More than 300bn emails *are said* to be sent(v.) every day and if only one-third originate(v.)起源；发源；发端于 on Gmail -- a conservative 低于实际数量的；保守的 estimate(n.) -- then a stack of print-outs 打印出来 *would be* 10,000km high.
+
+- suggest : *~ sth (to sb)* to put an idea into sb's mind; to make sb think that sth is true 使想到；使认为；表明
+.. What do these results *suggest to you*? 照你看，这些结果说明什么呢？
+
+- Shire horse : 夏尔马（Shire horse）是世界上知名的挽用马，也是世界上体型最大的马种之一。是英国早期农业、工业、交通、运输的重要工具，这种马极限可以拉动5吨的重物。 +
+image:../../+ img_单词图片/s/Shire horse.jpg[100,100]
+
+- 据估计，每天有60亿人在谷歌上进行搜索，并将超过49年的视频上传至YouTube。据说每天有超过3000亿封电子邮件被发送出去，如果只有三分之一的邮件来自于gmail(保守估计)，那么一堆打印出来的邮件将高达1万公里。
+
+And there is more. “Other bets” 打赌；赌注 , *as* Alphabet’s financial statements 财务报表，财政报告 *refer to* its non-core businesses, now *number*(v.) 总计；共计；数以…计 11, each *with* its own capital structure. These *include* Access (*offering* fibre-optic broadband （互联网的）宽带连接), GV (which *invests in* startups), Verily (a health-care firm), Waymo (a developer of autonomous cars) and X (a secretive `skunk 北美臭鼬 works` 臭鼬工厂;特殊团队 *engaged in* all manner 方式；方法 of moonshots 对月发射(航天器、火箭等);月球探测器). Commercially these ventures （尤指有风险的）企业，商业，投机活动，经营项目 *seem only loosely connected with the core*. `主` What *links them to* the main business `系` *is* information processing -- and specifically these days artificial intelligence (AI), which *powers(v.) everything* [from] search [to] Waymo’s self-driving cars.
+
+- skunk : /skʌŋk/ a small black and white N American animal that can produce a strong unpleasant smell to defend itself when it is attacked 北美臭鼬 +
+image:../../+ img_单词图片/s/skunk.jpg[100,100]
+
+- Skunk Works : 臭鼬工厂. 是洛克希德·马丁公司高级开发项目（Advanced Development Programs）的官方认可绰号。**臭鼬工厂以担任秘密研究计划为主，**研制了洛马公司的许多著名飞行器产品，包括U-2侦察机、SR-71黑鸟式侦察机以及F-117夜鹰战斗机和F-35闪电II战斗机、F-22猛禽战斗机等。 +
+二战期间，洛克希德公司将其预先研究发展项目部搬到了加利福尼亚州伯班克一个不为人知的“马戏团帐篷”里(起初的工作场地是工作人员自己搭建，墙体用闲置的发动机包装箱堆砌而成，屋顶则是用从马戏团租来的帐篷)，因当时其厂址毗邻一家散发着恶臭的塑料厂，员工不得不着民防用防毒面具来上班，这里人迹罕至。工程师Irving Culver对劳动环境表示不满，“臭鼬工厂”由此得名。 +
+image:../../+ img_单词图片/s/Skunk Works.jpg[100,100]
+
+- “其他押注”——Alphabet的财务报表指的是其非核心业务，目前共有11个，它们有各自的资本结构。这些公司包括Access(提供光纤宽带)、GV(投资初创公司)、Verily(一家医疗保健公司)、Waymo(一家自动驾驶汽车开发商)和X(一家从事各种登月计划的秘密公司)。从商业上看，这些投资似乎与核心业务只有松散的联系。它们与主营业务之间的联系, 只是"信息处理"上，尤其是如今的人工智能(AI)，它为从搜索到Waymo公司的自动驾驶汽车等一切事物, 提供力量。
+
+
+Early on, the founders *decided that* 目的状 [*to enable* the company *to grow [with startup-like speed]* *regardless of* its actual size], they *would create* a singular 单数的； 非凡的；突出的；显著的;奇特的；奇怪的；异常的 organisational mix of institutions they knew best: the internet, the open-source-software movement and Stanford’s post-graduate 研究生阶段的 programme, where the duo 二重奏；二重唱；二人组;一对表演者；搭档 *came up with* Google’s original search algorithm 算法；计算程序 in 1996.
+
+- singular : a.
+1. ( grammer 语法 ) connected with or having the singular form 单数的；单数形式的 +
+-> a singular noun/verb/ending 单数名词╱动词╱词尾 +
+2. ( formal ) very great or obvious 非凡的；突出的；显著的
+SYN outstanding +
+-> landscape of *singular beauty* 无比优美的风景 +
+3. ( literary ) unusual; strange 奇特的；奇怪的；异常的
+SYN eccentric +
+-> *a singular style of dress* 奇特的服装款式
+
+- duo /ˈduːoʊ/ two people who perform together or are often seen or thought of together 一对表演者；搭档 +
+=> 来自拉丁语，词源同two. 引申词义搭档。 +
+-> *the comedy duo* Laurel and Hardy 劳莱和哈代这对喜剧搭档
+
+- 早些时候，两位创始人决定，为了使公司能够以初创公司那样的速度增长，无论其实际规模如何，他们将用他们所熟悉的最好的组织管理形式, 来创造一个独特的混合体 : 包含进互联网、开源软件运动和斯坦福大学的研究生课程，两人在1996年提出了最初的谷歌搜索算法。
+
+
+Like the internet, Google *was envisaged 设想 as* an ever-expanding 不断发展壮大的 collection of groups of engineers *linked by* a common language and common goals, most prominently(ad.)显眼的；显著的；突出的; 重要的；著名的；杰出的 to “*organise* all the world’s information”. Alphabet, too, *is* a network of networks *held together by* technical standards. It *grows horizontally* by adding(v.) yet more networks.
+
+- prominent : a.  +
+1. important or well known 重要的；著名的；杰出的 +
+-> *a prominent politician* 杰出的政治家 +
+2. easily seen 显眼的；显著的；突出的 +
+-> The church tower was *a prominent feature* in the landscape. 教堂的尖塔曾经是此地景观的重要特色。 +
+-> The story *was given a prominent position* on the front page. 这则报道刊登在头版的显著位置。 +
+3. sticking out from sth 突出的；凸现的 +
+-> *a prominent nose* 高鼻子 +
+image:../../+ img_单词图片/p/prominent.jpg[100,100]
+
+
+
+*To keep* hierarchies 等级制度 *flat*, Mr Brin and Mr Page *briefly went so far as to abolish(v.)废除，废止（法律、制度、习俗等） managers altogether*, though the experiment *had to be dialled(v.)拨（电话号码） back*. A compromise  妥协；折中；互让；和解;妥协（或折中）方案 *was* to give managers a minimum of seven direct reports *to limit(v.) the time* they have to loom(v.) over each underling 走卒；喽啰；手下；下属. They also *had limited time* to accost(v.)（贸然）上前搭讪；（唐突地）走近谈话 the two bosses, who at one point *got rid of* their personal assistants *to make it harder* to book(v.)（向旅馆、饭店、戏院等）预约，预订 time with them, *forcing* executives *to ambush(v.)伏击；埋伏 them* whenever they *appeared in public* to get a sign-off 签字认可；签名赞同;批准 on decisions.
+
+- dial : /ˈdaɪəl/ v. 拨（电话号码） +
+=>  来源于拉丁语dies(日)在中古拉丁语中派生的dialis(每日的)。 词根词缀： -di-日 + -al名词词尾
+
+- accost : /əˈkɔːst/ v. [ VN ] ( formal ) to go up to sb and speak to them, especially in a way that is rude or threatening （贸然）上前搭讪；（唐突地）走近谈话 +
+=> 英语单词accost在中文中常被翻译为“搭讪”，这是一种很不合适的译法，基本上没有体现accost一词的内在含义。准确地说，**accost指的是靠近陌生人，以一种粗鲁、挑衅的方式搭话，如妓女勾引嫖客，乞丐讨钱。**为什么？*这是因为accost原本是个军事用语，表示战舰逼近敌人的海岸线。* +
+它源自拉丁语accostare，**由ad（趋近）+costa（肋骨，旁边）构成，而英语单词coast（海岸线）正是源自costa。**在一些英语新闻报道中，我们依然能看到accost的初始含义，如The PCG ship was attempting *to accost* the Guang Ta Hsin 28 and two other Taiwanese vessels.（菲律宾海岸警卫队舰艇正试图逼近广大兴28号及其他两艘台湾渔船。） +
+image:../../+ img_单词图片/a/accost.jpg[100,100]
+
+- ambush : /ˈæmbʊʃ/ v.n. [ VN ] to make a surprise attack on sb/sth from a hidden position 伏击 +
+=> am（in）+bush（灌木丛）→躲在灌木丛中→埋伏
+
+- *sign off on sth* : (North Amercian English,informal) to express your approval of sth formally and definitely 批准
+.. The President *hasn't signed off on this report*. 这份报告总统尚未批准。
+
+- 为了使等级制度扁平化，布林和佩奇曾一度将管理人员全部废除，尽管这个实验会被还原回去。一个折衷方案是，给经理们最小7次直接报告，以限制他们在每个下属面前出现的时间。他们与两位老板搭讪的时间也很有限，两位老板曾一度解雇了私人助理，以使与他们预约时间更难，这迫使高管们在布林和佩奇出现在公共场合时伏击他们，以获得他们在决策上的签字。
+
+
+Cosmic 宇宙的;巨大且重要的 ambitions
+
+Google *resembled* a big open-source project by *being* an `open book` 一目了然的事; 易于了解的人, at least internally. Any employee *could freely access* all internal information *except for* sensitive user data or company finances. All code, project documents, even a colleague’s 同事；同僚 calendar, *were* `fair game` 可开玩笑（或嘲弄、作弄）的对象. Workers *were encouraged* to use(v.) one of Google’s plethora(n.)过多；过量；过剩 of messaging tools, such as mailing lists (of which there *are* now more than a million). They *were also expected* to ask(v.) tough 艰苦的；艰难的；棘手的 questions [at weekly `company-wide 全公司的；公司性的 town-hall 市政厅 meetings`] *with 与…对立；反对 the founders*, *called* TGIF, for “*Thank God* It’s Friday” (now *held* on Thursdays *to allow* Googlers around the world *to participate* without *having to get up* on Saturday morning). Grievances 不平的事；委屈；抱怨；牢骚 *were* to be kept within the company’s walls. `主` *Leaking*, particularly *to* the press, `系` *was* a sackable 犯规并可构成解雇理由的 offence 违法行为；犯罪；罪行. But the place *was also meant*(v.) to be playful; *hence* 因此；由此 the playground-like offices, ping-pong tables and the like.
+
+- *open book* : N a person or thing without secrecy or concealment that can be easily known or interpreted 一目了然的事; 易于了解的人
+
+- *fair game* : n.[ U ] if a person or thing is said to be fair game , it is considered acceptable to play jokes on them, criticize them, etc. 可开玩笑（或嘲弄、作弄）的对象
+.. The younger teachers were considered *fair game* by most of the kids. 多数小孩认为年轻教师是可作弄的对象。 +
+=> 在fair game这个习惯用语里，*这个 game不是指游戏，而是指猎物*，也就是打猎人要打的动物。所以，fair game，作为俗语，它的意思也就是：可能成为被打击，被虐待或嘲笑的人或者东西。比如说，一个刚到一所新学校去上学的男孩很可能会成为那些老学生们开玩笑的对象；他们可以逗他，开他的玩笑，总之把他弄的日子很难过。
+
+- TGIF : Thank God (or "goodness")it's Friday 感谢老天爷可算是到了星期五了 +
+
+- 早在1999年，谷歌联合创始人拉里·佩奇（Larry Page）和赛吉·布林（Sergey Brin）创立了TGIF全员大会，以此作为一个论坛，**员工可以定期表达自己的担忧，并与管理层自由开放地讨论话题。**2019年, 改为每月举行一次，重点讨论公司的业务和战略。有分析人士称，TGIF大会改成每月举办一次，正值谷歌打压曾经十分开放的企业文化之际。开放的企业文化曾是谷歌的一个重要特色，员工可以对各种问题自由探讨。 +
+但如今，**员工们越来越多地表达了他们对许多问题的关注，从性骚扰的处理到政府的雇佣和合同。**最近几个月，员工们还向媒体泄露了会议记录，这表明高管和员工之间的紧张关系日益加剧。 +
+今年夏天，**谷歌称将禁止在内部信息论坛讨论政治话题。**10月下旬，CEO桑德尔·皮查伊（Sundar Pichai）在一段泄露的视频中表示，谷歌正失去一些员工的信任。皮查伊还称，在任何特定的一周，只有25%的谷歌员工关注TGIF全员大会，而十年前这一比例为80%。
+
+- 其他英文缩写: +
+.. KK = OKOK
+.. KFY = Kiss For You
+.. KISS = Keep It Simple Stupid 简单直白点. “删繁就简”别太啰嗦啦！
+.. KX = kiss
+.. KIT = Keep In Touch 保持联系
+.. LD = Long Distance 长途, 情深说话未曾讲
+.. LMK = Let Me Know 告诉我
+.. LOL = Laughing Out Loud / Lots Of Luck(Love) “笑出声、好幸运、好多爱”. 不过现在美国人也开始渐渐不再用“LOL”表示大笑。相反，更多的用户选择了“haha”来表示大笑，或者使用emoji表情来表达这个意思。
+.. LTNS = Long Time No See 好久不见
+.. MHOTY = My Hat’s Off To You 脱下帽子像你致敬
+.. YOLO = you only live once 人生苦短，何妨一试？
+.. FTW = FOR THE WIN 棒呆了！
+.. FML = fuck my life 我狗屎、不幸(...)的生活. “天呢我悲催的人生”，表达痛苦、抱怨之情。
+.. MYOB = Mind Your Own Business 别管闲事
+
+- with : in opposition to sb/sth; against sb/sth 与…对立；反对
+.. to fight *with sb* 与某人打架
+.. I had an argument *with my boss*. 我跟老板吵了一架。
+
+- 谷歌就像一个大型的开源项目，能一目了然. 至少在内部是这样。除敏感用户数据或公司财务信息外，任何员工都可以自由访问所有内部信息。所有的代码、项目文档，甚至是同事的日程表，都是可以成为被作弄的对象。员工们被鼓励使用谷歌的众多消息传递工具之一，比如mailing lists(现在已经有超过100万个mailing lists)。在每周举行的全公司"市政厅"会议上，员工们被期待向创始人提出尖锐的问题。这称之为 TGIF, 即“感谢上帝，今天是周五”. (现在, 这个活动改到了周四进行, 为的是全世界各地的谷歌员工都能参加进来, 而不用在周六早上起床). 对公司的怨气, 被在公司内部讨论消化掉。泄密出去，特别是向媒体泄密，就违反了公司规章, 并会被合理解雇。但这个地方也意味着会很好玩;于是就有了像操场一样的办公室、乒乓球桌等等。
+
+
+[*From* Stanford] Mr Brin and Mr Page *borrowed* the idea of *letting* people *follow(v.) their passions*. Google employees *were allowed* to spend(v.) 20% of their time *working on* what they *thought* would most benefit(v.) the firm, *even if* `主` that `谓` *often led to them working 120%*. They *also often set(v.) their own quarterly  季度的；每季的 goals*. Recruiting  招聘 and promotion 晋升 *were similar to* academia, too. Candidates *were graded 给…评分；给…分数 like PhD students* and `主` decisions about *who should move up 上涨;升级;升迁 the corporate ladder* `谓` *were taken* by a committee of peers  身份（或地位）相同的人；同龄人；同辈 *from* across the company, *rather than* individual managers, who often *promote* people (they *like*) *rather than* those who would do the best job.
+
+- 布林和佩奇借用了斯坦福的理念，让人们追随自己的激情。谷歌的员工被允许将20%的时间, 花在他们认为对公司最有利的事情上，即使这通常会让他们工作120%的时间。他们也经常设定自己的季度目标。他们的招聘和晋升, 也与学术界中的方式相似。求职者就像博士生一样被评分，关于谁应该在公司晋升的决定, 是由整个公司的同事组成的委员会做出的，而不是由个别经理做出的决定。因为这些经理通常会提拔自己喜欢的人，而不是那些工作表现最好的人。
+
+[*Having created* most of this unique structure in 2001] the founders *recruited* Eric Schmidt, a Silicon Valley veteran who *understood* both managers and technologists, *to help implement it* -- or, *as* they themselves *put it*, *to provide* “adult supervision” 监督,监理,监管. *To shield* the setup 体制; 组织方式 *from* potential shareholder pressure, the three of them *built a legal moat* 护城河；壕沟 around it. Google *was* one of the first Big Tech companies *to opt for* dual-class shares 双重投票权股票,双重股权, which *gave* the original shareholders *ten times* the voting power. Although Messrs Page, Brin and Schmidt together *held(v.) only a small stake*, they *retained* an outsized 特大的，特大号的 38% of voting rights. The founders *warned* [in “An Owner’s Manual” for Google’s shareholders, *published* before the firm’s `initial public offering` 首次公开募股, 首次公开发行 in 2004], *that* new investors “*will have little ability* to influence(v.) its strategic decisions *through their voting rights*”.
+
+- moat : /moʊt/ =>  来自古法语mote,城墙，护堤，来自拉丁语mota,城墙，小山，山上城堡，来自Proto-Germanic*muto,泥土，污泥，来自PIE*smut,污泥的，脏的，词源同smut,mud.后词义由城墙过渡到护城河。
+
+- 在2001年创建了这种独特结构的大部分之后，两位创始人聘请了埃里克•施密特(Eric Schmidt)来帮助实施——或者，用他们自己的话说，提供“成人监督”。施密特是硅谷的资深人士，既懂管理，也懂技术。为了保护公司免受潜在股东的压力，三巨头在公司周围筑起了一条合法的护城河。谷歌是首批选择双重股权结构的大型科技公司之一，这给了原始股东10倍的投票权。尽管佩奇、布林和施密特一共只持有一小部分股份，但他们仍然拥有巨大的38%的投票权。在2004年谷歌首次公开发行之前，公司创始人在给股东的“所有者手册”中警告说，新投资者“将没有能力通过他们的投票权, 来影响公司的战略决策”。
+
+
+Mr Page *took over* 接收，接管(公司);接替;接任;接手 from Mr Schmidt *as Google’s CEO* in 2011 (though Mr Schmidt *remained* Alphabet’s executive chairman until 2018), before *handing over to* Mr Pichai four years later. Since then Mr Pichai *has managed* Google [*in much the same way* 以差不多的方式;大致同样 that previously he *ran* Chrome], Google’s web browser, and other projects. *Rather than* *getting(v.) bogged down 使某人╱某物陷进烂泥（或泥沼）;妨碍；阻碍 in details*, he *put* trusted people *in charge*, *giving them resources* and *nudging （用肘）轻推，轻触;（朝某方向）轻推，渐渐推动 them along*.
+
+- bog  沼泽（地区） +
+=> 词源同bow, 弯。形容沼泽软泥般的容易陷进去。
+
+- *bog(v.) sth/sb down (in sth)*
+[ usually passive ] +
+1. to make sth sink into mud or wet ground 使某人╱某物陷进烂泥（或泥沼） +
+-> The tank *became bogged(v.) down in mud*. 坦克陷入了烂泥中。 +
+2. to prevent sb from making progress in an activity 妨碍；阻碍 +
+-> We mustn't *get bogged(v.) down in details*. 我们一定不能因细节问题误事。 +
+image:../../+ img_单词图片/b/bog.jpg[100,100]
+
+
+
+- 佩奇于2011年接替施密特, 担任谷歌首席执行官(尽管施密特在2018年之前一直担任Alphabet的执行主席)，四年后移交给皮查伊。从那时起，皮查伊管理谷歌的方式, 与他之前管理谷歌网络浏览器Chrome和其他项目的方式, 大体相同。他没有陷入细节的泥潭，而是让值得信赖的人负责，给他们提供资源，并推动他们前进。
+
+The result *is* a collection of semi-independent firms *with* powerful bosses *sitting atop 在…顶上 each of them*: Thomas Kurian *at* Google Cloud, Susan Wojcicki *at* YouTube, Rick Osterloh *at* Google’s hardware division and Hiroshi Lockheimer *at* the Android operation. In early June Mr Pichai *put* Prabhakar Raghavan, who already *headed* Google’s ad business, *in charge of* search *as well*, *making him* Google’s `de facto` 实际上存在的（不一定合法）;（法）实际上的 deputy CEO. (Mustafa Suleyman, vice-president of AI policy at Google, *sits on* the board of The Economist’s parent company.) A company of Alphabet’s breadth 宽度;（知识、兴趣等的）广泛 *would fail* [if it *depended solely on* one man’s judgment], Mr Pichai *explains*. “People *have to be able to make their own decisions*.”
+
+- *de facto* : /ˌdeɪ ˈfæktoʊ/ a. [ usually before noun ] ( from Latin formal ) existing as a fact although it may not be legally accepted as existing 实际上存在的（不一定合法）
+.. The general *took de facto control of the country*. 这位将军实际上控制了整个国家。
+
+- breadth : /bredθ/ n. the distance or measurement from one side to the other; how broad or wide sth is 宽度 / a wide range (of knowledge, interests, etc.) （知识、兴趣等的）广泛
+.. She estimated *the breadth of the lake* to be 500 metres. 她估计湖面大约有500米宽。
+.. The curriculum *needs breadth and balance*. 课程设置应该内容广泛而且均衡。
+
+- 结果就是造就了一群半独立的公司，每家公司都有强大的老板：谷歌云的托马斯·库里安(Thomas Kurian)，YouTube的苏珊·沃西基(Susan Wojcicki)，谷歌硬件部门的里克·奥斯特罗(Rick Osterloh)，以及安卓业务的博希·洛克海默(Hiroshi Lockheimer)。6月初，皮查伊让已经领导谷歌广告业务的普拉巴卡尔·拉加万(Prabhakar Raghavan)也负责搜索业务，使他成为谷歌事实上的副首席执行官。(谷歌负责人工智能政策的副总裁穆斯塔法·苏莱曼(Mustafa Suleyman), 是“经济学人”母公司的董事会成员)。皮查伊解释说，像Alphabet这样广博的公司，如果仅仅依靠一个人的判断，就会倒闭。“人们必须有权能够自己做决定。”
+
+These decisions *are becoming harder*. Googlers *have always prided themselves on* solving(v.) the toughest problems in computer science -- less so *on* making money. *This may be one reason* why some of the company’s hit  很受欢迎的人（或事物） services(n.) *generate(v.) smaller revenues* than they might, like YouTube, or barely *any [at all]*, like Maps 谷歌地图. Monetisation 货币化 from the “other bets” *has scarcely begun*. They *racked 使痛苦不堪；使受折磨 up* 累积；聚集（某物）；累计（得分） more than $5bn in losses in the four quarters to March. Only Access and Verily *bring in material revenues*. Some *could one day turn into huge businesses*: Waymo *was valued at about $30bn* when it *raised outside capital* this spring. But even that impressive figure 数字 *is much less than earlier estimates*, which *valued* the autonomous-driving 自主驾驶,自动驾驶 unit *at* more than $100bn.
+
+- hit : n. a person or thing that is very popular 很受欢迎的人（或事物）
+.. The duo *were a real hit* in last year's show. 这一对搭档在去年的演出中大受欢迎。
+.. *a hit musical* 风靡一时的音乐剧
+
+- *rack up sth* : ( especially NAmE ) to collect sth, such as profits or losses in a business, or points in a competition 累积；聚集（某物）；累计（得分）
+.. The company *racked up $200 million in losses* in two years. 公司两年内损失累计达2亿元。
+
+- 这些决定正变得越来越困难。谷歌人总是以解决计算机科学中最棘手的问题为荣，而不是以赚钱为荣。这可能是为什么该公司的一些热门服务(如YouTube)的收入低于预期, 或几乎没有任何收入(比如谷歌地图)的原因之一。“其他下注”的业务的变现化, 几乎还没有开始。在截至3月份的四个季度里，他们累计亏损超过50亿美元。只有Access和Verly子公司才带来物质收入。其中一些公司有朝一日可能会变成大企业：Waymo在今年春天筹集外部资本时的估值约为300亿美元。但即便是这一令人印象深刻的数字，也远低于早先的估计，后者对自动驾驶部门的估值超过1000亿美元。
 
 None of this used to matter much, as long as Google’s ad products were “a gold-threaded safety net underneath every daring innovation”, as Steven Levy, one of Silicon Valley’s scribes, put it in 2011. It becomes a problem when it translates into lower margins and weaker stockmarket performance than rival tech giants (see chart 3 and chart 4).
 
@@ -561,22 +723,6 @@ Mr Pichai has an opportunity to prove the sceptics wrong. The covid-19 pandemic 
 To be a leader in the mould of Mr Nadella, however, he would have to be more daring. One idea is to charge for some of its services. Another is for Google to become more of a data fiduciary that manages people’s information for them—a bit like a bank does with money. The firm has already started developing tools necessary for this, such as software that can mine encrypted data. If Mr Pichai could pull this off, that would be truly inspirational. And it would help keep Alphabet unconventional for a while yet.
 
 
-
-
-
-皮查伊面临的最大挑战是防止Alphabet成为布林和佩奇极力避免的那种“传统公司”，因为缺乏创新和增长放缓而慢慢消亡。这项任务如同科技巨头的庞大一样微妙。
-如今，Alphabet是一家企业集团，有时似乎没有什么共同点——就像一个企业行星系统或谷歌(Googleverse)。商业上，它的重心是谷歌本身，尤其是它的在线广告业务。这为集团带来了83%的收入和全部利润。它本身就是一个星座，以大量的产品为特色，这些产品一起形成了所谓的“在线广告栈”:自动销售、购买和提供广告的服务，并衡量它们的有效性。在所有这些领域中，谷歌和它在在线搜索领域一样占据着全球主导地位。它在某些广告服务领域的市场份额超过了90%。
-从表面上看，这可能意味着Alphabet像大多数大型科技公司一样，是“一技之长”，用麻省理工学院斯隆管理学院的迈克尔•库苏马诺的话来说。事实上，这是一群小马，其中一些看起来更像成年的小马。其中9个在全球拥有超过10亿用户(见表2)。据估计，每天有60亿人在谷歌上进行搜索，并将超过49年的视频上传至YouTube。据说每天有超过3000亿封电子邮件被发送出去，如果只有三分之一的邮件来自于gmail(保守估计)，那么一堆打印出来的邮件将高达1万公里。
-
-
-“其他押注”——Alphabet的财务报表指的是其非核心业务，目前排名第11位，各有自己的资本结构。这些公司包括Access(提供光纤宽带)、GV(投资初创公司)、Verily(一家医疗保健公司)、Waymo(一家自动驾驶汽车开发商)和X(一家从事各种登月计划的秘密公司)。从商业上看，这些投资似乎与核心业务只有松散的联系。信息处理是它们与主营业务之间的联系，尤其是如今的人工智能(AI)，它为从搜索到Waymo的自动驾驶汽车等一切事物提供动力。
-为了使等级制度保持平稳，布林和佩奇曾一度将管理人员全部废除，尽管这个实验还需要重新进行。一个折衷方案是，给经理们至少7个直接报告，以限制他们在每个下属面前隐现的时间。他们与两位老板搭讪的时间也很有限，两位老板曾一度解雇了私人助理，以便更难与他们预约时间，这迫使高管们在他们出现在公共场合时伏击他们，以获得他们在决策上的签字。
-宇宙的野心
-谷歌就像一个大型的开源项目，至少在内部是这样。除敏感用户数据或公司财务信息外，任何员工都可以自由访问所有内部信息。所有的代码、项目文档，甚至是同事的日程表，都是可以攻击的对象。员工们被鼓励使用谷歌众多的消息传递工具之一，比如邮件列表(现在已经有超过100万个邮件列表)。为了“感谢上帝，今天是周五”(现在每周四举行，让世界各地的谷歌人不用周六早上起床就能参与)，他们还被要求在每周一次的全公司市政厅会议上，与创始人一起提出尖锐的问题。怨气将被封存在公司的围墙内。泄密，特别是向媒体泄密，是一种可解雇的罪行。但这个地方也是为了好玩;于是就有了像操场一样的办公室、乒乓球桌等等。
-布林和佩奇借用了斯坦福的理念，让人们追随自己的激情。谷歌的员工被允许将20%的时间花在他们认为对公司最有利的事情上，即使这通常会让他们工作120%。他们也经常设定自己的季度目标。招聘和晋升也与学术界相似。求职者就像博士生一样被评分，关于谁应该在公司晋升的决定是由整个公司的同事组成的委员会做出的，而不是由个别经理做出的决定。这些经理通常会提拔自己喜欢的人，而不是那些工作表现最好的人。
-在2001年创建了这种独特结构的大部分之后，两位创始人聘请了埃里克•施密特(Eric Schmidt)来帮助实施——或者，用他们自己的话说，提供“成人监督”。施密特是硅谷的资深人士，既懂管理，也懂技术。为了保护公司免受潜在股东的压力，三巨头在公司周围筑起了一条合法的护城河。谷歌是首批选择双重股权结构的大型科技公司之一，这给了原始股东10倍的投票权。尽管佩奇、布林和施密特一共只持有一小部分股份，但他们仍然拥有巨大的38%的投票权。在2004年谷歌首次公开发行之前，公司创始人在给股东的“所有者手册”中警告说，新投资者“将没有能力通过他们的投票权影响公司的战略决策”。
-
-从那时起，皮查伊就开始管理谷歌，就像他以前管理Chrome(谷歌的网络浏览器)和其他项目一样。他没有在细节上纠缠不清，而是让值得信任的人负责，给他们资源，推动他们前进。
 
 这一切过去都无关紧要，只要谷歌的广告产品是“每一个大胆创新背后的金色安全网”(硅谷的记录员之一史蒂文•列维(Steven Levy)在2011年说过的话)。当它转化为比竞争对手科技巨头更低的利润率和更弱的股市表现时，它就成了一个问题(见图3和图4)。
 整体而言，在线广告市场还远未成熟，但搜索广告的增长已经放缓。Alphabet总收入中仍有约60%来自搜索广告。2019年，销量增长了15%，这是一个健康的增长速度，但明显低于一年前22%的增速。研究公司Bernstein的Mark Shmulik说，普通的在线搜索也被专业搜索“掏空”了。Shmulik先生估计现在60%的产品搜索都是从亚马逊开始的(其快速增长的在线广告业务已经是世界第三大，仅次于谷歌和Facebook)。
