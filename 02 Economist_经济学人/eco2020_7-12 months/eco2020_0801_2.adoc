@@ -561,25 +561,82 @@ These decisions *are becoming harder*. Googlers *have always prided themselves o
 
 - 这些决定正变得越来越困难。谷歌人总是以解决计算机科学中最棘手的问题为荣，而不是以赚钱为荣。这可能是为什么该公司的一些热门服务(如YouTube)的收入低于预期, 或几乎没有任何收入(比如谷歌地图)的原因之一。“其他下注”的业务的变现化, 几乎还没有开始。在截至3月份的四个季度里，他们累计亏损超过50亿美元。只有Access和Verly子公司才带来物质收入。其中一些公司有朝一日可能会变成大企业：Waymo在今年春天筹集外部资本时的估值约为300亿美元。但即便是这一令人印象深刻的数字，也远低于早先的估计，后者对自动驾驶部门的估值超过1000亿美元。
 
-None of this used to matter much, as long as Google’s ad products were “a gold-threaded safety net underneath every daring innovation”, as Steven Levy, one of Silicon Valley’s scribes, put it in 2011. It becomes a problem when it translates into lower margins and weaker stockmarket performance than rival tech giants (see chart 3 and chart 4).
+None of this *used to matter much*, as long as Google’s ad products *were* “a gold-threaded （棉、毛、丝等的）线;螺纹 safety net *underneath* 在…底下；隐藏（或掩盖）在下面 every daring innovation”, *as* Steven Levy, one of Silicon Valley’s *scribes*, put it in 2011. *It becomes a problem* when it translates into lower margins and weaker stockmarket performance *than* rival tech giants (see chart 3 and chart 4).
+
+-  gold-threaded +
+image:../../+ img_单词图片/g/gold-threaded .jpg[100,100]
+
+Online advertising overall *is far from* a mature market, but `主` growth in search ads, which *continue* to generate(v.) about 60% of Alphabet’s revenues, `谓` *has slowed*. In 2019 sales *expanded by 15%*, a healthy clip *but* considerably lower than the 22% a year earlier. General online search *is also being “hollowed out”* 挖空（某物）；挖出（孔、洞） by specialised searches, says Mark Shmulik of Bernstein, a research firm. Mr Shmulik *estimates that* about 60% of product searches now *start* on Amazon (whose fast-growing online-ad business *is* already the world’s third-biggest *behind* Google and Facebook).
+
+- *hollow sth out* +
+1. to make a hole in sth by removing part of it 挖空（某物）；挖出（孔、洞） +
+-> *Hollow out the cake* and fill it with cream. 在蛋糕上挖个洞，填入奶油。 +
+2. to form sth *by making a hole in sth else* 挖洞（成某物） +
+-> The cave has been hollowed out of the mountainside. 窑洞是在半山腰挖成的。
 
 
+*Spaced out* 使拉开间距；使隔开; 精神恍惚，神志迷糊（常因吸毒）
 
-Online advertising overall is far from a mature market, but growth in search ads, which continue to generate about 60% of Alphabet’s revenues, has slowed. In 2019 sales expanded by 15%, a healthy clip but considerably lower than the 22% a year earlier. General online search is also being “hollowed out” by specialised searches, says Mark Shmulik of Bernstein, a research firm. Mr Shmulik estimates that about 60% of product searches now start on Amazon (whose fast-growing online-ad business is already the world’s third-biggest behind Google and Facebook).
+Alphabet’s engineer-driven bottom-up culture *is also showing signs of age*. It *can be hit and miss*. “You *can paper(v.) over 糊壁纸遮盖;暂时掩盖，权且掩饰（问题或分歧） a lot of problems* by *throwing money at it* and *hiring more bodies*,” says a long-time 为时甚久的 Googler, who previously *worked for* Microsoft, which *was regularly scooped 抢先报道;用勺儿舀；用铲儿铲 by Google* *when it came to* 当涉及某事（或做某事）时 new products. “I *thought* they *must have* really clever strategists,” he *recalls*, *only to discover* [on 就在…之后；一…就 *joining the firm*] *that* it “*had* hundreds of things *happening in parallel*”. Alphabet executives often *liken* their firm’s structure *to* a “slime 污浊的泥浆；（令人不快的）黏液 mould 霉；霉菌” -- organisms 生物; 微生物 that *survive(v.) as single cells*, but *must aggregate 汇集;总计；合计 to reproduce*.
 
-Spaced out
+- *space out* : ( informal ) ( especially NAmE ) to take no notice of what is happening around you, especially as a result of taking drugs 精神恍惚，神志迷糊（常因吸毒）
+——see also spaced out
 
-Alphabet’s engineer-driven bottom-up culture is also showing signs of age. It can be hit and miss. “You can paper over a lot of problems by throwing money at it and hiring more bodies,” says a long-time Googler, who previously worked for Microsoft, which was regularly scooped by Google when it came to new products. “I thought they must have really clever strategists,” he recalls, only to discover on joining the firm that it “had hundreds of things happening in parallel”. Alphabet executives often liken their firm’s structure to a “slime mould”—organisms that survive as single cells, but must aggregate to reproduce.
+- *space sth out* : to arrange things with a wide space between them 使拉开间距；使隔开
+... *The houses are spaced out* in this area of town. 在城市的这一地区，房屋坐落稀疏。
+
+- *hit-and-miss* : adj. sometimes successful and sometimes not : not reliably good or successful
+
+- scoop : v. to publish a story before all the other newspapers, television companies, etc. 抢先报道
+.. The paper had inside information and *scooped all its rivals*. 这家报纸获得内部消息，抢在所有竞争对手之前发表了。
+
+- *when it comes to* : 当涉及某事（或做某事）时. 这里 "to" 是介词 +
+`主` *When it comes to something* or *when it comes to doing something* `谓` means(v.) when it is a question of something or doing something. +
+.. *When it comes to* getting things done, he's useless. 一涉及做事，他便不中用了。
+.. Toddlers are notoriously antisocial *when it comes to* sharing toys. 众所周知，刚学会走路的孩子不愿和别人分享玩具。
+
+- on : prep. immediately after sth 就在…之后；一…就
+.. *On arriving home* I discovered they had gone.
+我一到家就发现他们已经离开了。
+.. Please report to reception *on arrival*.
+到达后请立即到接待处报到。
+
+- slime : n.  /slaɪm/[ U ] any unpleasant thick liquid substance 污浊的泥浆；（令人不快的）黏液 +
+=> 来自古英语 slim,污泥，淤泥，来自 Proto-Germanic*slimaz,滑的，黏滑的，来自 PIE*slei,滑 的，黏滑的，词源同 lime,slip. +
+image:../../+ img_单词图片/s/slime.jpg[100,100]
+
+- *slime mould* : N any of various simple spore-producing organisms typically found as slimy masses on rotting vegetation, where they engulf food particles by amoeboid movements. Formerly regarded as fungi, they are now classified as protoctists of the phyla Myxomycota (true, or cellular slime moulds) or Acrasiomycota (plasmodial slime moulds) 粘液菌
+
+- aggregate : v. to collect or gather into a mass or whole /  to amount to (a whole sum or total) : TOTAL
+
+- Alphabet由工程师驱动的自下而上的文化, 也显示出了衰老的迹象。它可能成功, 也可能失败. “你可以通过砸钱和雇佣更多员工, 来掩盖很多问题，”一位曾在微软工作过的资深谷歌员工说。当涉及新产品时，微软经常被谷歌抢占先机。“我原以为他们(谷歌)一定有非常聪明的战略师，”他回忆道，但加入公司后才发现,谷歌中“有数以百计的事情在同时进行开发”。Alphabet的高管们经常把他们公司的结构比作“黏菌”——一种以单细胞形式生存，但必须聚集起来才能繁殖的有机体。
 
 
+Innovation can indeed *mushroom*(v.)快速生长；迅速增长; 蘑菇 in such a corporate ecosystem. But it *may hinder*  阻碍；妨碍；阻挡 the development of more structured products, which *require* more sustained co-operation and a strategic vision 想象力；眼力；远见卓识. *This is particularly true* of lucrative(a.)赚大钱的；获利多的 enterprise offerings 用品；剧作；作品；供消遣的产品, where corporate clients *expect* providers *to be [both] consistent [and] responsive(a.)反应敏捷；反应积极 to their needs*. Google *has* a reputation for being neither.
 
-Innovation can indeed mushroom in such a corporate ecosystem. But it may hinder the development of more structured products, which require more sustained co-operation and a strategic vision. This is particularly true of lucrative enterprise offerings, where corporate clients expect providers to be both consistent and responsive to their needs. Google has a reputation for being neither.
+- 在这样的企业生态系统中, 创新确实可以迅速发展。但这可能会阻碍"更具有结构化的产品"的发展，而这些产品需要更持久的合作和战略眼光。对于那些能给公司带来丰厚利润的企业产品, 尤其如此，其客户希望产品开发商能够长久地提供服务, 并迅速积极地响应他们的求助需求。谷歌被认为两者都没做到。
 
-Over the years Google has churned out new messaging tools, from Allo and Buzz to Hangouts and Meet, only recently starting to develop a unified communications offering for corporations, similar to Slack or Microsoft Teams. Google’s cloud business has often been criticised for “not having a customer-service bone in its body”, says Brent Thill of Jefferies, a bank. As a result it lags behind Amazon Web Services and Microsoft’s Azure, where customer service verges on an obsession.
 
-It is also becoming increasingly apparent that Alphabet’s organisational setup does not scale well. Even with a workforce of a few tens of thousands Google felt small, notes an employee who left a few years ago and later returned. With the firms’ 120,000 permanent workers complemented by an even more numerous (and less-well-paid) temporary or contract staff, the founders’ original idiosyncratic rules are becoming a drag. Executives grumble that internal promotion by committee is often a time-consuming political exercise. Letting a thousand flowers bloom is leading to an awful lot of compost.
+[Over the years 多年以来] Google *has churned 剧烈搅动；（使）猛烈翻腾 out* （粗制滥造地）大量生产，大量炮制 new messaging tools, *from* Allo and Buzz *to* Hangouts and Meet, only recently *starting to develop* a unified communications *offering for corporations*, *similar to* Slack or Microsoft Teams. Google’s cloud business *has often been criticised for* “not *having a customer-service bone in its body* 毫无…的素质”, says Brent Thill of Jefferies, a bank. *As a result* it *lags(v.) behind* Amazon Web Services and Microsoft’s Azure, where customer service *verges(v.) on* 极接近；濒于 an obsession  痴迷；着魔；困扰;使人痴迷的人（或物）.
 
-Size creates political tensions, too. After 2016 the firm’s mostly woke workforce began using internal messaging tools to organise and press management to take action on everything from President Donald Trump’s harsh immigration policy to boycotting meat in its cafeterias. As Alphabet has hired engineers at breakneck speed, it is no longer “a country where everybody politically agrees” with the once-dominant liberal bent, says an insider.
+- *not have a ... bone in your body* : to have none of the quality mentioned 毫无…的素质
+.. She was honest and hard-working, and *didn't have an unkind bone in her body*. 她诚实勤劳，身上没有一点儿不好的气质。
+
+- *verge(v.) on sth* : to be very close to an extreme state or condition 极接近；濒于 / verge : n. （路边的）小草地，绿地
+SYN border on sth
+.. Some of his suggestions *verged(v.) on the outrageous*. 他的一些建议都快到了荒唐的地步。
+
+- 在过去的几年里，谷歌大量生产新的信息工具，从Allo和Buzz到Hangouts和Meet，直到最近才开始为企业开发统一的通信产品，类似于Slack或微软的Teams。Jefferies银行的Brent Thill说，谷歌的云业务经常被批评为“毫无为客户服务的素质存在”。其结果是，它落后于亚马逊网络服务(Amazon Web Services)和微软Azure，后者的客户服务令人几近痴迷。
+
+
+*It is also becoming increasingly apparent that* Alphabet’s organisational setup(n.)体制; 组织方式 *does not scale 改变…的大小;攀登；到达…顶点 well*. [Even with a workforce 全体员工 of a few tens of thousands] Google *felt small*, *notes* an employee who *left* a few years ago and *later returned*. With the firms’ 120,000 permanent workers(n.) *complemented 补充；补足；使完美；使更具吸引力 by* an even more numerous (and less-well-paid) temporary or contract staff, the founders’ original idiosyncratic  怪异的; 另类的 rules(n.) *are becoming a drag* 累赘；拖累；绊脚石;（作用于飞机或其他运载工具的）空气阻力. Executives *grumble that* internal promotion by committee *is* often a time-consuming political exercise. `主` *Letting* a thousand flowers *bloom* `谓` *is leading to* an awful 很坏的；极讨厌的;骇人听闻的；可怕的 lot of compost 混合肥料；堆肥.
+
+- idiosyncratic :  /ˌɪdiə-sɪŋˈkrætɪk/  ADJ If you describe someone's actions or characteristics as idiosyncratic, you mean that *they are somewhat unusual*. 怪异的; 另类的
+.. ...*a highly idiosyncratic personality*. ...一种非常另类的个性。
+
+- 同样越来越明显的是，Alphabet的组织架构不太适合调整组织规模。一位几年前离开谷歌, 后又回来的员工指出，即使拥有几万员工，谷歌也感觉规模不大。谷歌有着12万名固定员工，再加上数量更多(薪水更低)的临时或合同工，创始人最初制定的特殊规则, 现在正在成为拖累。高管们抱怨说，通过委员会来得到内部晋升, 常常是一种耗费时间的政治活动。同时开一千朵花, 只会造成大量的化肥存在。
+
+Size creates political tensions, too. After 2016 the firm’s mostly woke workforce *began using* internal messaging tools *to organise* and *press*(v.) management *to take action on* everything [from] President Donald Trump’s harsh immigration policy [to] *boycotting* meat in its cafeterias 自助餐厅；自助食堂. *As* Alphabet *has hired engineers [at breakneck 飞速惊险的;极快的 speed]*, it is no longer “a country (where everybody *politically agrees” with* the once-dominant liberal bent 自由主义倾向), says an insider.
 
 Tensions came to a head in 2017 when James Damore, a Google software engineer, published a memo on an internal mailing list arguing that the lack of gender diversity in tech could partly be explained by biological differences. After it was leaked to the press he was fired, but many insiders felt that management, including Mr Pichai, had let the debate fester and did not do enough to help the activist employees who had been “doxxed” (having their personal details published online) by other staffers.
 
@@ -728,10 +785,13 @@ To be a leader in the mould of Mr Nadella, however, he would have to be more dar
 整体而言，在线广告市场还远未成熟，但搜索广告的增长已经放缓。Alphabet总收入中仍有约60%来自搜索广告。2019年，销量增长了15%，这是一个健康的增长速度，但明显低于一年前22%的增速。研究公司Bernstein的Mark Shmulik说，普通的在线搜索也被专业搜索“掏空”了。Shmulik先生估计现在60%的产品搜索都是从亚马逊开始的(其快速增长的在线广告业务已经是世界第三大，仅次于谷歌和Facebook)。
 
 飘飘然的
-Alphabet由工程师驱动的自下而上的文化也显示出了衰老的迹象。“你可以通过砸钱和雇佣更多员工来掩盖很多问题，”一位曾在微软工作过的资深谷歌员工说。在新产品方面，微软经常被谷歌挖走。“我原以为他们一定有非常聪明的战略家，”他回忆道，但加入公司后才发现“有数以百计的事情同时发生”。Alphabet的高管们经常把他们公司的结构比作“黏菌”——一种以单细胞形式生存，但必须聚集起来才能繁殖的有机体。
-创新确实可以在这样的企业生态系统中迅速发展。但这可能会阻碍更结构化产品的发展，而这些产品需要更持久的合作和战略眼光。对于利润丰厚的企业产品尤其如此，企业客户希望供应商能够始终如一地响应他们的需求。谷歌被认为两者都不是。
-在过去的几年里，谷歌大量生产新的信息工具，从Allo和Buzz到Hangouts和Meet，直到最近才开始为企业开发统一的通信产品，类似于Slack或微软团队。Jefferies银行的Brent Thill说，谷歌的云业务经常被批评为“没有客户服务的骨头”。其结果是，它落后于亚马逊网络服务(Amazon Web Services)和微软Azure，后者的客户服务几近痴迷。
-同样越来越明显的是，Alphabet的组织架构不太适合扩大规模。一位几年前离开后又回来的员工指出，即使拥有几万员工，谷歌也感觉规模不大。由于这些公司有12万名固定员工，再加上数量更多(薪水更低)的临时或合同工，创始人最初的特殊规则正成为拖累。高管们抱怨说，委员会的内部晋升常常是一种耗费时间的政治活动。让一千只花开花会导致大量的堆肥。
+Alphabet由工程师驱动的自下而上的文化, 也显示出了衰老的迹象。它可能成功, 也可能失败. “你可以通过砸钱和雇佣更多员工, 来掩盖很多问题，”一位曾在微软工作过的资深谷歌员工说。当涉及新产品时，微软经常被谷歌抢占先机。“我原以为他们(谷歌)一定有非常聪明的战略师，”他回忆道，但加入公司后才发现,谷歌中“有数以百计的事情在同时进行开发”。Alphabet的高管们经常把他们公司的结构比作“黏菌”——一种以单细胞形式生存，但必须聚集起来才能繁殖的有机体。
+
+在这样的企业生态系统中, 创新确实可以迅速发展。但这可能会阻碍"更具有结构化的产品"的发展，而这些产品需要更持久的合作和战略眼光。对于那些能给公司带来丰厚利润的企业产品, 尤其如此，其客户希望产品开发商能够长久地提供服务, 并迅速积极地响应他们的求助需求。谷歌被认为两者都没做到。
+在过去的几年里，谷歌大量生产新的信息工具，从Allo和Buzz到Hangouts和Meet，直到最近才开始为企业开发统一的通信产品，类似于Slack或微软的Teams。Jefferies银行的Brent Thill说，谷歌的云业务经常被批评为“毫无为客户服务的素质存在”。其结果是，它落后于亚马逊网络服务(Amazon Web Services)和微软Azure，后者的客户服务令人几近痴迷。
+
+同样越来越明显的是，Alphabet的组织架构不太适合调整组织规模。一位几年前离开谷歌, 后又回来的员工指出，即使拥有几万员工，谷歌也感觉规模不大。谷歌有着12万名固定员工，再加上数量更多(薪水更低)的临时或合同工，创始人最初制定的特殊规则, 现在正在成为拖累。高管们抱怨说，通过委员会来得到内部晋升, 常常是一种耗费时间的政治活动。同时开一千朵花, 只会造成大量的化肥存在。
+
 规模也会造成政治紧张。2016年之后，该公司的主要工作人员开始使用内部信息工具组织并敦促管理层采取行动，应对从唐纳德·特朗普总统的严厉移民政策到抵制餐厅肉类等各种问题。一位内部人士表示，随着Alphabet以极快的速度聘请工程师，它不再是一个“所有人在政治上都赞同”曾经占主导地位的自由主义倾向的国家。
 2017年，这种紧张关系达到了顶峰。谷歌软件工程师詹姆斯·达莫尔(James Damore)在一个内部邮件列表上发表了一份备忘录，称科技行业缺乏性别多样性，部分可以用生物差异来解释。在此事被泄露给媒体后，他被解雇了，但许多内部人士认为，包括皮查伊在内的管理层让这场争论愈演愈演，对那些被其他员工“毒打”(让他们的个人信息在网上公布)的维权员工帮助不够。
 从那时起，事情开始走下坡路。曾经难以想象的漏洞成倍增加。内部请愿也是如此。2018年，维权员工迫使谷歌不再与五角大楼续签人工智能合同，并放弃了对其搜索引擎进行审查的中国版本的计划。当年晚些时候，双方的紧张关系达到了顶峰，当时有消息称，被控性骚扰的业绩优异的高管被解雇，并获得了数百万美元的离职补偿。全球超过2万名员工举行了罢工以示抗议。
