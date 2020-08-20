@@ -636,41 +636,188 @@ SYN border on sth
 
 - 同样越来越明显的是，Alphabet的组织架构不太适合调整组织规模。一位几年前离开谷歌, 后又回来的员工指出，即使拥有几万员工，谷歌也感觉规模不大。谷歌有着12万名固定员工，再加上数量更多(薪水更低)的临时或合同工，创始人最初制定的特殊规则, 现在正在成为拖累。高管们抱怨说，通过委员会来得到内部晋升, 常常是一种耗费时间的政治活动。同时开一千朵花, 只会造成大量的化肥存在。
 
-Size creates political tensions, too. After 2016 the firm’s mostly woke workforce *began using* internal messaging tools *to organise* and *press*(v.) management *to take action on* everything [from] President Donald Trump’s harsh immigration policy [to] *boycotting* meat in its cafeterias 自助餐厅；自助食堂. *As* Alphabet *has hired engineers [at breakneck 飞速惊险的;极快的 speed]*, it is no longer “a country (where everybody *politically agrees” with* the once-dominant liberal bent 自由主义倾向), says an insider.
+Size *creates* political tensions, too. [After 2016] the firm’s mostly woke(a.)意识到并积极关注重要的事实和问题(特别是种族和社会正义问题) workforce *began using* internal messaging tools *to organise* and *press*(v.) management *to take action on* everything [from] President Donald Trump’s harsh immigration policy [to] *boycotting* meat(n.) in its cafeterias 自助餐厅；自助食堂. *As* Alphabet *has hired engineers [at breakneck 飞速惊险的;极快的 speed]*, it is no longer “a country (where everybody *politically agrees” with* the once-dominant liberal bent 自由主义倾向), says an insider.
 
-Tensions came to a head in 2017 when James Damore, a Google software engineer, published a memo on an internal mailing list arguing that the lack of gender diversity in tech could partly be explained by biological differences. After it was leaked to the press he was fired, but many insiders felt that management, including Mr Pichai, had let the debate fester and did not do enough to help the activist employees who had been “doxxed” (having their personal details published online) by other staffers.
+- woke : a. woker; wokest : aware of and actively attentive to important facts and issues (especially issues of racial and social justice) 意识到并积极关注重要的事实和问题(特别是种族和社会正义问题)
+.. *stay woke*(a.)
 
-Things went downhill from there. Once unthinkable leaks multiplied. So did internal petitions. In 2018 activist employees forced Google not to renew an AI contract with the Pentagon and to abandon plans for a censored Chinese version of its search engine. Tensions culminated later that year when it emerged that high-performing executives accused of sexual harassment had been sent off with multi-million exit packages. More than 20,000 employees globally staged a walkout in protest.
-
-“The walkout broke Larry’s heart,” says one Googler. It suggested that the goal of creating an engineers’ commune had failed. After that the two founders put more distance between themselves and their creation. They stopped attending the TGIF meetings. In many ways Mr Pichai’s ascent to the top job last year was a formality.
-
-Although Mr Brin, Mr Page and Mr Schmidt remain Alphabet’s biggest individual shareholders—with 13.1% of shares and 56.7% of voting rights—a former senior executive says that the company is now run by a different triumvirate. Besides Mr Pichai it includes Kent Walker, senior vice-president of global affairs, and Ruth Porat, the finance chief poached from Morgan Stanley, an investment bank. Where Mr Brin and Mr Page were technologists and Mr Schmidt a technologist-manager, the new team are simply managers.
-
-This transformation was apparent at Mr Pichai’s first quarterly earnings call as the boss of Alphabet in February, when he delighted analysts by at long last breaking out YouTube’s revenues ($15bn in 2019, up by more than a third from the previous year). He has also accelerated share buy-backs, from $6.1bn in the last quarter of 2019 to $8.5bn in the three months to March. “They are no longer the most hated big tech company from a shareholder perspective,” says Mr Thill of Jefferies.
-
-Alphabet is also becoming shareholder-friendlier in how it manages its other bets. Some of the subsidiaries, like Waymo, have wooed outside investors, suggesting that they will one day be spun off. Others, such as Chronicle, which hoped to revolutionise cyber-security, and Jigsaw, a think-tank, have been folded back into Google. Yet others, like Makani, which is developing flying wind turbines to generate energy, are likely to be shut down or sold.
-
-To infinity and beyond
-
-Mr Pichai’s shakeup of management is on starkest display at Google Cloud. After he became Google’s boss five years ago it was becoming apparent that cloud-computing was something more than a passing fad. He ramped up investment in the division and in 2018 hired Mr Kurian, a former senior executive at Oracle, a big maker of corporate software, to run it. In keeping with Mr Pichai’s evolving management philosophy, Mr Kurian was granted far more autonomy than his predecessor, Diane Greene, and turned the unit into a more top-down organisation, hiring people from his former employer as well as SAP, its German rival.
-
-It seems to be working. Google’s cloud business, which includes G Suite, its package of professional online services, is growing at more than 50% a year. Revenues are expected to reach $13bn this year, contributing 8% to Alphabet’s total.
-
-However, Mr Kurian’s financial success carries a risk. Insiders report a mini-exodus from the cloud unit to other parts of Alphabet. Plenty of employees worry that the top-down-approach from Google’s cloud business will spread throughout the organisation. Many are beginning to grumble about getting tasks handed down from above with a deadline.
-
-That hints at a bigger unsolved problem with Google’s culture. After the walkouts, management made some tweaks. “When we were smaller, we all worked as one team, on one product, and everyone understood how business decisions were made. It’s harder to give a company of over 100,000 people the full context on everything,” Mr Walker reportedly wrote in November in an internal newsletter. The TGIF meetings are now held only once a month and limited to business-related questions. The largest internal mailing lists are moderated and postings deemed too political are allegedly being taken down. These days employees are being told to access sensitive documents only if they “need to know”. Some staff talk of creating if not a labour union, then at least a group to defend their interests.
-
-In the wake of the killing of George Floyd many Googlers criticised their top management for doing too little, too late to make the company more diverse; after a couple of weeks the firm vowed to raise the “leadership representation of underrepresented groups” by 30% over the next five years. In June more than 2,000 employees signed an open letter to Mr Pichai demanding that the company stop selling its technology to police forces across America.
+- 人数规模也会带来政治紧张。2016年之后，谷歌中最有社会意识的员工, 开始用内部的信息工具, 来组织, 并对管理层试压，来对各种问题采取行动, 从唐纳德·特朗普严厉的移民政策, 到抵制谷歌公司内餐厅的肉类等。一位内部人士表示，随着Alphabet以极快的速度聘请新的工程师，它不再是一个这样一个王国了, 即“所有人在政治上都赞同”曾经占主导地位的"自由主义倾向"。
 
 
+Tensions *came to a head* in 2017 when James Damore, a Google software engineer, *published* a memo *on* an internal mailing list *arguing that* `主` the lack of gender diversity(n.)多样性；多样化; 差异（性）；不同（点） in tech `谓` *could partly be explained by* biological differences. After it *was leaked to the press* he *was fired*, but many insiders *felt that* `主` management, including Mr Pichai, `谓` *had let the debate fester*(v.)(不快的情感或思想)更加苦恼；愈益恶化;(伤口或破口)化脓；溃烂 and *did not do enough* to help(v.) the activist(n.)积极分子；活跃分子 employees who *had been “doxxed”*(v.)人肉搜索 (*having* their personal details *published online*) by other staffers.
 
-Over the past few weeks things have seemed to calm down internally. But the respite may be superficial. Many workers are keeping their mouths shut for fear of being laid off, one Googler reports. Few relish the thought of losing a cushy job in a recession. Activists now shun the firm’s communication tools and organise elsewhere online.
+- diversity :  /daɪˈvɜːsəti/ n.
+1. [ U ] [ Cusually sing. ] a range of many people or things that are very different from each other 差异（性）；不同（点）
+SYN variety +
+=> di-分开 + -vers-转 + -ity名词词尾 +
+.. *the biological diversity* of the rainforests 热带雨林的生物多样性
+.. *a great/wide/rich diversity of opinion* 意见纷纭
+2. [ U ] the quality or fact of including a range of many people or things 多样性；多样化
+.. There is a need for *greater diversity and choice* in education. 教育方面需要更加多元化, 和更大的选择性。 +
+image:../../+ img_单词图片/d/diversity.jpg[100,100]]
 
-All this fuels murmurings and speculation, both inside and outside Alphabet, over whether Mr Pichai is the right person for the job. Some Google executives and engineers describe him as “too checked out” and his leadership as “uninspired”. He is also accused of excessive risk aversion. “I’ve never shied away from making big bets and following my instincts,” Mr Pichai insists. But it is hard to argue that he has shown the vision of Amazon’s Jeff Bezos or Microsoft’s Satya Nadella.
+- fester => 来自PIE*bheid, 撕开，裂开，词源同bite, bitter, fissure. 该词用来指化脓。
 
-Mr Pichai has an opportunity to prove the sceptics wrong. The covid-19 pandemic offers a convenient pretext to get rid of inefficiencies, such as overlapping products, and cut through Alphabet’s internal red tape. It could result in a new balance being struck between Google’s innovative culture and more systematic exploitation of its products’ and services’ money-making potential. Even the antitrust probes have a silver lining for Mr Pichai. “In some ways, I’m looking for clarity,” he says.
+- dox :  /dɑːks/ vt. 人肉搜索，肉搜（未经允许在网上非法获得并发布他人个人信息，同 doxx）
 
-To be a leader in the mould of Mr Nadella, however, he would have to be more daring. One idea is to charge for some of its services. Another is for Google to become more of a data fiduciary that manages people’s information for them—a bit like a bank does with money. The firm has already started developing tools necessary for this, such as software that can mine encrypted data. If Mr Pichai could pull this off, that would be truly inspirational. And it would help keep Alphabet unconventional for a while yet.
+- 2017年，这种紧张关系达到了顶峰。谷歌软件工程师詹姆斯·达莫尔(James Damore)在一个内部邮件列表上, 发表了一份备忘录，称科技行业缺乏性别多样性，部分原因是可以用生物差异来解释。在此事被泄露给媒体后，他被解雇了，但许多内部人士认为，包括皮查伊在内的管理层, 让这场争论愈演愈演，并且对那些被其他员工进行“人肉搜索”(让他们的个人信息在网上公布)伤害的积极分子员工, 管理层没有提供足够帮助。
+
+- 如果谷歌对歧视处理不当，那么优步的前车之鉴很有可能在谷歌身上重演。优步根据调查结果开除了20名员工，解雇理由包括性骚扰、欺侮、报复以及歧视。甚至连优步创始人特拉维斯•卡兰尼克（Travis Kalanick）也间接因为此事离开了优步。
+
+Things *went downhill* from there. Once unthinkable leaks(n.) 漏洞；裂缝；缝隙;泄漏出的液体（或气体）;（秘密信息的）透露 *multiplied*. *So did* internal petitions 请愿书. In 2018 activist employees *forced* Google *not to renew*(v.)重新开始；中止后继续 an AI contract with the Pentagon and *to abandon plans*(n.) for a censored 审查(信件或媒体) Chinese version of its search engine. Tensions *culminated* （以某种结果）告终；（在某一点）结束 later that year when it *emerged* that high-performing 高绩效 executives *accused of* sexual harassment *had been sent off* (体育比赛)罚某人下场 with multi-million exit packages. More than 20,000 employees globally *staged(v.)上演；举办；举行;组织；筹划 a walkout(n.)（突然的）罢工 in protest*.
+
+- culminate :  /ˈkʌlmɪneɪt/ [ V ] *~ (in/with sth)* ( formal ) to end with a particular result, or at a particular point （以某种结果）告终；（在某一点）结束 +
+=> 来自拉丁语culmen,顶点，词源同hill,column. +
+.. a gun battle *which culminated in the death of two police officers* 一场造成两名警察死亡的枪战
+.. Months of hard work *culminated in success*. 几个月的艰辛工作终于取得了成功。 +
+image:../../+ img_单词图片/c/culminate.jpg[100,100]
+
+- 从那时起，事情开始走下坡路。原本曾经难以想象的人事等漏洞问题, 在谷歌中成倍增加。内部请愿也是如此。2018年，活跃分子员工, 迫使谷歌不再与五角大楼续签人工智能合同，并放弃了"带有审查性的谷歌搜索引擎的中国版本"的计划。当年晚些时候，双方的紧张关系达到了顶峰，当时有消息称，被控性骚扰的业绩优异的高管被解雇，但他获得了数百万美元的离职补偿。对此, 全球超过2万名谷歌员工举行罢工, 以示抗议。
+
+
+
+“The walkout *broke(v.) Larry’s heart*,” says one Googler. It *suggested that* `主` the goal of *creating* an engineers’ commune `谓` *had failed*. [After that] the two founders *put more distance between themselves and their creation*. They *stopped attending the TGIF meetings*. In many ways Mr Pichai’s ascent(n.)上升；升高；登高 to the top job last year *was a formality*(n.)正式手续; 例行公事.
+
+- “这次罢工伤透了拉里的心(Larry Page是Google公司的创始人之一,2019年12月4日，谷歌联合创始人拉里·佩奇宣布，将控制权转交给谷歌首席执行高管桑达尔·皮猜 Sundar Pichai)，”一位谷歌员工说。这表明，创建工程师社区的目标已经失败。在那之后，两位创始人把他们自己和他们的作品分开了。他们停止参加TGIF会议。从许多方面来看，皮查伊去年晋升最高职位只是一种形式。
+
+
+Although Mr Brin, Mr Page and Mr Schmidt *remain* Alphabet’s biggest individual shareholders -- with 13.1% of shares and 56.7% of voting rights -- a former senior executive *says that* the company *is now run(v.) by* a different triumvirate 三人领导小组；三人统治集团；三方执政集团. Besides Mr Pichai it includes Kent Walker, senior vice-president of global affairs, and Ruth Porat, the finance chief *poached(v.)盗用；挖走（人员等）;（在他人地界）偷猎，偷捕 from* Morgan Stanley, an investment bank. Where Mr Brin and Mr Page *were* technologists 技术专家；工艺师 and Mr Schmidt a technologist-manager, the new team *are* simply managers.
+
+- triumvirate : /traɪˈʌmvərət/ => 来自拉丁语 trium,三，词源同 three,-vir,男人，词源同 virile,virtue.引申词义三人领导小组。
+
+- poach : /poʊtʃ/ => 词源不确定，可能来自法语pocher,装入口袋，词源同poach.或来自古法语pochier,刺，捅， 词源同poke.引申词义越界，偷猎，偷捕。
+
+- 虽然布林、佩奇和施密特, 仍然是Alphabet最大的个人股东--拥有13.1%的股份, 和56.7%的投票权--但一位前高管表示，该公司现在由另一个三巨头经营。除了皮查伊，还包括负责全球事务的高级副总裁肯特·沃克(Kent Walker), 和从投资银行摩根士丹利(Morgan Stanley)挖来的首席财务官露丝·波拉特(Ruth Porat)。以前的布林先生和佩奇先生是技术专家，施密特先生是技术专家兼经理，而新的三巨头团队中, 所有人的出身都是纯粹的管理者, 而没有技术人员出身存在。
+
+This transformation *was apparent* at Mr Pichai’s first `quarterly earnings call` 季度财报盈收电话会议 *as* the boss of Alphabet in February, when he *delighted(v.)使高兴；使愉快；使快乐 analysts* 分析师 [by *at long last* （经过长时间的延误或努力等之后）终于，最终 breaking out 突然开始；爆发 YouTube’s revenues ($15bn in 2019, *up by more than a third* from the previous year)]. He *has also accelerated* share 股份 buy-backs 回购, *from* $6.1bn in the last quarter of 2019 *to* $8.5bn in the three months to March. “They *are* no longer the most hated big tech company from a shareholder perspective 态度；观点；思考方法,” says Mr Thill of Jefferies.
+
+- *at (long) last* : after much delay, effort, etc.; in the end （经过长时间的延误或努力等之后）终于，最终
+=finally
+.. *At last* we're home! 我们终于到家了！
+
+
+- 这种转变, 在皮查伊2月份就任Alphabet老板后的第一次季度财报电话会议上, 表现得很明显，当时他终于公布了YouTube的收入(2019年为150亿美元，同比增长逾三分之一)，这让分析师们感到高兴。他还加快了股票回购速度，从2019年第四季度的61亿美元, 增加到截至3月份的85亿美元。杰富瑞的蒂尔表示：“从股东的角度来看，它们不再是最令人讨厌的大型科技公司。”
+
+Alphabet *is also becoming shareholder-friendlier* in how it *manages* its other bets. Some of the subsidiaries 子公司, like Waymo, *have wooed*(v.)争取…的支持；寻求…的赞同;追求（异性）；求爱 outside investors, *suggesting that* they *will one day be spun(v.) off* 从…脱离出来（组建新公司）. `主` Others, such as ① Chronicle, which *hoped* to revolutionise(v.) 彻底改变；完全变革 cyber-security, and ② Jigsaw, a think-tank, `谓` *have been folded back into* Google. `主` Yet others, like Makani, which *is developing* flying wind turbines 涡轮机 *to generate energy*, `系` *are likely to be shut down or sold*.
+
+- woo => 词源不详，可能来自古英语 wog,弯曲，弯腰，引申词义恭敬，求爱。
+
+- *spin sth off* : ( business 商 ) ( especially NAmE ) to form a new company from parts of an existing one 从…脱离出来（组建新公司） / spin （使）快速旋转 +
+image:../../+ img_单词图片/s/spin.jpg[100,100]
+
+
+- Alphabet在管理其他押注(投资的业务)的方式上, 也变得对股东更加友好。一些子公司，如Waymo，已经向外部投资者示好，暗示他们终有一天会被分拆出来独立。其他的，比如Chronicle公司, 它希望彻底改变网络安全; 还有Jigsaw, 是一家智库，它们都已经被重新合并到了谷歌内部。然而，像Makani这样的其他公司，很可能会被关闭或出售。Makani正在开发用于发电的飞行风力涡轮机。
+
+
+To infinity 无限；无穷 and beyond
+
+Mr Pichai’s shakeup 震动；激励；使振作;彻底调整；重组（机构、行业等） of management *is* on starkest(a.)严酷的；赤裸裸的；真实而无法回避的(比较级);（指区别）明显的，鲜明的 display(n.)（特性、情感或能力的）显示，表现，表露 at Google Cloud. [After he *became Google’s boss* five years ago] *it was becoming apparent that* cloud-computing *was something more than* a passing fad 一时的风尚；短暂的狂热. He *ramped up 使…的数量增加 investment* in the division （机构的）部门 and in 2018 *hired* Mr Kurian, a former senior executive at Oracle, a big maker of corporate software, *to run it*. *In keeping with* 符合；与…一致 Mr Pichai’s evolving 使…逐步发展; 逐步发展 management philosophy, Mr Kurian *was granted* （尤指正式地或法律上）同意，准予，允许 far more autonomy 自治；自治权 *than* his predecessor, Diane Greene, and *turned* the unit *into* a more top-down organisation, *hiring* people *from* his former employer *as well as* SAP, its German rival.
+
+- stark : /stɑːrk/ a.
+1. ( often disapproving ) looking severe and without any colour or decoration 了无修饰的；荒凉的；粗陋的
+.. I think *white would be too stark(a.) for the bedroom*. 我觉得卧室里用白色未免太素了。
+2. unpleasant; real, and impossible to avoid 严酷的；赤裸裸的；真实而无法回避的
+SYN bleak
+.. The author paints *a stark picture of life in a prison* camp. 作者描绘出一幅冷酷而真实的战俘营生活画面。
+3. very different to sth in a way that is easy to see （指区别）明显的，鲜明的
+SYN clear
+.. *stark differences* 鲜明的区别 +
+=> 《权力的游戏》中的史塔克（Stark）家族所在的北方大陆，长年积雪，环境严酷，也许正是因此得名。词根-star-指“硬”，环境很硬即不温柔，因而严酷，正如hard既指“硬”又指“困难的”。starch（淀粉；上浆）同源，人们用淀粉为织物上浆，使其变得硬挺。 +
+image:../../+ img_单词图片/s/stark.jpg[100,100]
+
+- *a passing fad* 一时流行的风尚一时的流行 +
+=> fad : 英语单词fad表示“一时流行的狂热、一时的爱好”，其来源未知，不过有一种虽然不真实，却能有效帮助我们理解并记忆这个单词的说法，那就是把它看做是for a day（仅仅持续一天）的首字母组合。另外，fad与fade（逐渐消失）拼写很接近，在词义上也可以产生关联，即：fad就是很快就会fade的狂热或爱好。 fad：[fæd] n.时尚，一时流行的狂热，一时的爱好 faddish：['fædɪʃ] adj.风行的，流行一时的
+
+- ramp : n. a slope that joins two parts of a road, path, building, etc. when one is higher than the other 斜坡；坡道 / a slope or set of steps that can be moved, used for loading a vehicle or getting on or off a plane （装车或上下飞机的）活动梯，活动坡道 +
+=> 来自古法语 ramper,爬，上升，登山，来自 Proto-Germanic*hrimp,卷起，弯起，收缩，来自 PIE*sker,弯，转，缩起，**词源同 ring,curve.比喻用法，**原用于形容动物蹲立在后脚跟上蓄势待发奔跑的姿势，引申诸相关词义。 +
+.. *a freeway exit ramp* 高速公路的出口坡道 +
+image:../../+ img_单词图片/r/ramp.jpg[100,100]
+
+
+- 皮查伊对管理层的改组, 在谷歌云上表现得最为明显。五年前，当他成为谷歌的老板后，云计算显然不仅仅是昙花一现。他加大了对该部门的投资，并在2018年聘请了库里安, 来运营该部门。库里安曾在大型企业软件制造商甲骨文(Oracle)担任高管。与皮查伊不断发展的管理哲学相一致的是，库里安获得了比前任戴安•格林(Diane Greene)大得多的自主权，并将该部门变成了一个自上而下的组织，并从他的前雇主以及德国的竞争对手SAP公司那里, 招募员工。
+
+
+*It seems to be working*. `主` Google’s cloud business, which *includes* G Suite, its package （必须整体接收的）一套东西，一套建议；一揽子交易 of professional online services, `谓` *is growing at more than 50% a year*. Revenues *are expected to reach $13bn* this year, *contributing* 8% *to* Alphabet’s total.
+
+- 它似乎起作用了。谷歌的云业务，包括其专业在线服务套餐G Suite，以每年超过50%的速度增长。今年的收入预计将达到130亿美元，占Alphabet总收入的8%。
+
+
+However, Mr Kurian’s financial success *carries a risk*. Insiders *report* a mini-exodus （大批人同时）离开，外出，出去 from the cloud unit *to* other parts of Alphabet. Plenty of employees *worry that* the top-down-approach from Google’s cloud business *will spread throughout the organisation*. Many *are beginning to grumble about* getting tasks(n.) *handed down from above* with a deadline.
+
+- exodus : n.  /ˈeksədəs/ [sing. ]
+or
+( formal ) *~ (from...) (to...)* ( humorous ) a situation in which many people leave a place at the same time （大批人同时）离开，外出，出去 +
+=> ex-, 向外。-od, 走，离开，词源同cede, anode, method. +
+前缀ex表“向外”；词根od表“路”，这个词根有两个形式，od和hod，od的出现频率似乎更大。method（方法）是同根词，前缀met表“在后方”，hod表“路，way”，字面义为“紧随其后的路径”。“方法”是达到目标的“路径”，相似逻辑如way（路；方法）。 +
+.. *the mass exodus(n.) from Paris to the country* in the summer 夏日大批人从巴黎外出到乡村 +
+image:../../+ img_单词图片/e/exodus.jpg[100,100]
+
+- 然而，库里安在财务上的成功也存在风险。内部人士报告说，有一小部分人从云部门跳槽到Alphabet的其他部门。很多员工担心谷歌云业务的自上而下的做法, 会在整个公司蔓延开来。许多人开始抱怨上级下达的任务有最后期限。
+
+
+That *hints* at a bigger unsolved problem with Google’s culture. After the walkouts, management *made some tweaks* 扭；拧；扯;（对机器、系统等的）轻微调整. “When we were smaller, we all *worked as one team*, on one product, and everyone *understood* how business decisions were made. It’s harder to give a company of over 100,000 people the full context on everything,” Mr Walker *reportedly wrote* in November *in an internal newsletter* （某组织的）内部通讯，简讯. The TGIF meetings *are now held only once a month* and *limited to* business-related questions. ① The largest internal mailing lists *are moderated* 缓和；使适中;审核评分（查看不同阅卷人所打分数是否公平一致） and ② `主` postings(n.) *deemed* too political `谓` *are allegedly 依其申述；据说，据称 being taken down* 拆掉；拆除；拆卸. [These days] employees *are being told* to access(v.) sensitive documents *only if* they “need to know”. Some staff *talk of* creating(v.) if not a labour union, then *at least* a group *to defend*(v.) their interests.
+
+- 这暗示了谷歌文化中一个更大的未解决的问题。罢工后，管理层做了一些调整。“当我们还小的时候，我们都作为一个团队，在一个产品上工作，每个人都知道商业决策是如何做出的。要给一家拥有10万多名员工的公司提供所有事情的完整背景就更难了，”据报道，沃克在去年11月的一份内部通讯中写道。TGIF会议现在一个月只举行一次，而且仅限于与商业有关的问题。最大的内部邮件列表被审核，那些被认为过于政治化的帖子据说会被撤下。如今，员工被告知只有在“需要知道”的情况下才可以访问敏感文件。一些员工谈到，即使不建立一个工会，也至少要建立一个组织, 来保护他们的利益。
+
+
+[*In the wake of* 紧紧跟随；随着…而来；作为…的结果 the killing of George Floyd] many Googlers *criticised* their top management *for* doing(v.) too little, [too] late [to] make the company more diverse(a.)不同的；相异的；多种多样的；形形色色的; [after a couple of weeks] the firm *vowed*  起誓；立誓；发誓 to raise(v.) the “leadership 领导班子；领导层 representation of underrepresented groups” by 30% over the next five years. In June more than 2,000 employees *signed an open letter to Mr Pichai* demanding that the company *stop selling* its technology *to* police forces across America.
+
+- *in the wake of sb/sth* : coming after or following sb/sth 随…之后而来；跟随在…后
+.. There have been demonstrations on the streets *in the wake of* the recent bomb attack. 在近来的炸彈袭击之后，大街上随即出现了示威游行。
+
+- 在乔治•弗洛伊德(George Floyd)被杀之后，许多谷歌员工批评其高管在让公司变得更加多元化方面做得太少、太晚;几周后，该公司承诺将在未来五年内将“未被充分代表的群体中的领导层人数”提高30%。6月，2000多名员工联名给皮查伊写了一封公开信，要求该公司停止向美国各地的警察部队出售其技术。
+
+[Over the past few weeks] things *have seemed to calm down internally*. But the respite(n.)暂停；暂缓;短暂的延缓；喘息 *may be superficial* 表面的；外面的；外表的. Many workers *are keeping their mouths shut* for fear of *being laid off* （通常指因工作岗位不足而）辞退，解雇，使下岗, one Googler *reports*. Few *relish*(v.)享受；乐趣 the thought of *losing a cushy  轻松愉快的；安逸的；不费劲的 job* in a recession. Activists now *shun*(v.)避开；回避；避免 the firm’s communication tools and *organise(v.) elsewhere online*.
+
+- respite : /ˈrespɪt/ => 来自 re-,再，-spect,看，词源同 despite,retrospect.比喻用法，即再看再研究，引申词义暂停，暂缓。
+
+- superficial : /ˌsuːpərˈfɪʃl/ a. appearing to be true, real or important until you look at it more carefully 表面的；外面的；外表的 / ( disapproving ) not concerned with anything serious or important and lacking any depth of understanding or feeling 浅薄的；肤浅的
+
+- cushy : /ˈkʊʃi/ a. ( informal often disapproving ) very easy and pleasant; needing little or no effort 轻松愉快的；安逸的；不费劲的 +
+=> 来自印度语。 +
+.. a cushy job 不费心劳神的工作
+
+
+- 在过去的几周里，内部局势似乎已经平静下来。但这种喘息可能只是表面上的。据一名谷歌员工报道，许多员工因为害怕被解雇而三缄其口。几乎没有人愿意在经济衰退中失去一份轻松的工作。活动家们现在避开了该公司的通讯工具，并在网上其他地方组织起来。
+
+All this *fuels*(v.) murmurings 低语 and speculation  推测；猜测；推断, both inside and outside Alphabet, *over* whether Mr Pichai is the right person for the job. Some Google executives and engineers *describe him as* “too *checked out*” （经检查）得到证实，获得证明; 察看，观察（有趣或有吸引力的人或事物） and his leadership *as* “uninspired” 无创意的；不激励人心的；乏味的. He *is also accused of* excessive(a.)过分的；过度的 risk aversion(n.)厌恶；憎恶. “I’*ve never shied away from* making big bets and following my instincts,” Mr Pichai *insists*. But *it is hard to argue 证明；表明 that* he *has shown* the vision of Amazon’s Jeff Bezos or Microsoft’s Satya Nadella.
+
+- aversion : n. ~ (to sb/sth) a strong feeling of not liking sb/sth 厌恶；憎恶 +
+=> a-离开 + -vers-转 + -ion名词词尾 +
+.. *He had an aversion* to getting up early. 他十分讨厌早起。
+
+- argue : [ VN ] ( formal ) to show clearly that sth exists or is true 证明；表明
+.. These latest developments *argue* a change in government policy. 最近的事态发展表明政府改变了政策。
+
+- 所有这些, 都激起了Alphabet内部和外部对皮查伊是否是该职位的合适人选的议论和猜测。一些谷歌高管和工程师, 形容他“太过时了”，他的领导能力“缺乏灵感”。他还被指控过度规避风险。皮查伊坚称:“在押注和跟随直觉方面，我从不退缩。”但很难说他展现了亚马逊(Amazon)的杰夫•贝佐斯(Jeff Bezos)或微软(Microsoft)的萨蒂亚•纳德拉(Satya Nadella)的远见。
+
+
+
+Mr Pichai *has an opportunity to prove* the sceptics  怀疑论者 wrong. The covid-19 pandemic *offers a convenient pretext* 借口；托词 *to get rid of* inefficiencies 低效率,无能, such as overlapping （物体）部分重叠，交叠 products, and *cut through*  开辟（出路或通道） Alphabet’s internal `red tape` 繁文缛节；官僚作风. It *could result in* a new balance *being struck （在对立二者之间）找到折中办法；平衡（对立的双方） between* Google’s innovative culture *and* more systematic exploitation 利用；开发；开采;剥削；榨取 of its products’ and services’ money-making potential. Even the antitrust 反托拉斯的；反垄断的 probes *have a silver lining(衬层；内衬；衬里) (黑暗中的)一线光明 for* Mr Pichai. “In some ways, I’*m looking for* clarity 清晰的思维（或理解）能力,” he says.
+
+- *strike(v.) a balance (between A and B)* : to manage to find a way of being fair to two opposing things; to find an acceptable position which is between two things （在对立二者之间）找到折中办法；平衡（对立的双方）
+
+- *silver lining*
+1. PHRASE If you say that every cloud has a silver lining, you mean that every sad or unpleasant situation has a positive side to it. (黑暗中的)一线光明
+.. As they say, *every cloud has a silver lining*. We have drawn lessons from the decisions taken.
+正如他们所说，黑暗中总有一线光明。我们已从所作的决定中汲取了教训。
+2. N-SING If you talk about a silver lining, you are talking about something positive that comes out of a sad or unpleasant situation. (不幸或不快中的)一线希望
+.. The fall in inflation is *the silver lining* of the prolonged recession.
+通货膨胀率下降, 是长期经济衰退中的一线希望。 +
+image:../../+ img_单词图片/s/silver lining.jpg[100,100]
+
+- 皮查伊现在有机会证明怀疑者是错的。covid-19疫情给他提供了一个方便的借口，可以借此时机摆脱谷歌开发的产品有重叠等效率低下的问题，也可以改革Alphabet内部的繁文缛节。这可能会达成一种新的平衡, 在谷歌的创新文化, 和对其产品和服务的赚钱潜力的更系统性的开发利用上.
+会在谷歌的创新文化, 和更系统地开发其产品和服务的赚钱潜力之间达成一种新的平衡。就连反垄断调查也给皮查伊带来了一线希望。他说:“在某些方面，我在寻求清晰的想法。”
+
+
+*To be a leader* in the mould （独特）类型，个性，风格 of Mr Nadella, however, he *would have to be more daring*(a.)大胆的. One idea *is* `表` *to charge(v.)收（费）；向…）要价  for* some of its services. Another *is* for Google *to become* more of a data fiduciary （尤指财产）受信托人（或公司） that *manages* people’s information *for them* -- *a bit like* a bank does(v.) with money. The firm *has already started developing tools* necessary for this, such as software that *can mine(v.)（在某地）开矿，采矿 encrypted 加密的 data*. If Mr Pichai *could pull this off* 做成，完成（困难的事情）, that *would be truly inspirational* 启发灵感的；鼓舞人心的. And it *would help* keep(v.) Alphabet unconventional  不因循守旧的；不因袭的；新奇的; 非常规的；非传统的；不依惯例的 for a while yet.
+
+- fiduciary  : fidu·ciary : a.n.  /fɪˈdjuːʃəri/  NAmE also /fɪˈduːʃieri/
+( pl. -ies )
+a person or company that is in a position of trust, especially when it involves controlling money or property belonging to others （尤指财产）受信托人（或公司）
+
+- 然而，要想成为纳德拉(Satya Nadella, 微软ceo)那样类型的领导者，他必须更加大胆。一个想法是对其部分服务收费。另一个是让谷歌更多成为"数据受托人"，来管理人们的信息——有点像银行处理金钱那样。谷歌已经开始开发必要的工具，比如可以挖掘加密数据的软件。如果皮查伊能做到这一点，那将是真正鼓舞人心的。而且，这还能帮助Alphabet在一段时间内保持不陷于传统管理中。
+
 
 ---
 
@@ -781,30 +928,8 @@ To be a leader in the mould of Mr Nadella, however, he would have to be more dar
 
 
 
-这一切过去都无关紧要，只要谷歌的广告产品是“每一个大胆创新背后的金色安全网”(硅谷的记录员之一史蒂文•列维(Steven Levy)在2011年说过的话)。当它转化为比竞争对手科技巨头更低的利润率和更弱的股市表现时，它就成了一个问题(见图3和图4)。
-整体而言，在线广告市场还远未成熟，但搜索广告的增长已经放缓。Alphabet总收入中仍有约60%来自搜索广告。2019年，销量增长了15%，这是一个健康的增长速度，但明显低于一年前22%的增速。研究公司Bernstein的Mark Shmulik说，普通的在线搜索也被专业搜索“掏空”了。Shmulik先生估计现在60%的产品搜索都是从亚马逊开始的(其快速增长的在线广告业务已经是世界第三大，仅次于谷歌和Facebook)。
-
-飘飘然的
-Alphabet由工程师驱动的自下而上的文化, 也显示出了衰老的迹象。它可能成功, 也可能失败. “你可以通过砸钱和雇佣更多员工, 来掩盖很多问题，”一位曾在微软工作过的资深谷歌员工说。当涉及新产品时，微软经常被谷歌抢占先机。“我原以为他们(谷歌)一定有非常聪明的战略师，”他回忆道，但加入公司后才发现,谷歌中“有数以百计的事情在同时进行开发”。Alphabet的高管们经常把他们公司的结构比作“黏菌”——一种以单细胞形式生存，但必须聚集起来才能繁殖的有机体。
-
-在这样的企业生态系统中, 创新确实可以迅速发展。但这可能会阻碍"更具有结构化的产品"的发展，而这些产品需要更持久的合作和战略眼光。对于那些能给公司带来丰厚利润的企业产品, 尤其如此，其客户希望产品开发商能够长久地提供服务, 并迅速积极地响应他们的求助需求。谷歌被认为两者都没做到。
-在过去的几年里，谷歌大量生产新的信息工具，从Allo和Buzz到Hangouts和Meet，直到最近才开始为企业开发统一的通信产品，类似于Slack或微软的Teams。Jefferies银行的Brent Thill说，谷歌的云业务经常被批评为“毫无为客户服务的素质存在”。其结果是，它落后于亚马逊网络服务(Amazon Web Services)和微软Azure，后者的客户服务令人几近痴迷。
-
-同样越来越明显的是，Alphabet的组织架构不太适合调整组织规模。一位几年前离开谷歌, 后又回来的员工指出，即使拥有几万员工，谷歌也感觉规模不大。谷歌有着12万名固定员工，再加上数量更多(薪水更低)的临时或合同工，创始人最初制定的特殊规则, 现在正在成为拖累。高管们抱怨说，通过委员会来得到内部晋升, 常常是一种耗费时间的政治活动。同时开一千朵花, 只会造成大量的化肥存在。
-
-规模也会造成政治紧张。2016年之后，该公司的主要工作人员开始使用内部信息工具组织并敦促管理层采取行动，应对从唐纳德·特朗普总统的严厉移民政策到抵制餐厅肉类等各种问题。一位内部人士表示，随着Alphabet以极快的速度聘请工程师，它不再是一个“所有人在政治上都赞同”曾经占主导地位的自由主义倾向的国家。
-2017年，这种紧张关系达到了顶峰。谷歌软件工程师詹姆斯·达莫尔(James Damore)在一个内部邮件列表上发表了一份备忘录，称科技行业缺乏性别多样性，部分可以用生物差异来解释。在此事被泄露给媒体后，他被解雇了，但许多内部人士认为，包括皮查伊在内的管理层让这场争论愈演愈演，对那些被其他员工“毒打”(让他们的个人信息在网上公布)的维权员工帮助不够。
-从那时起，事情开始走下坡路。曾经难以想象的漏洞成倍增加。内部请愿也是如此。2018年，维权员工迫使谷歌不再与五角大楼续签人工智能合同，并放弃了对其搜索引擎进行审查的中国版本的计划。当年晚些时候，双方的紧张关系达到了顶峰，当时有消息称，被控性骚扰的业绩优异的高管被解雇，并获得了数百万美元的离职补偿。全球超过2万名员工举行了罢工以示抗议。
-“这次罢工伤透了拉里的心，”一位谷歌员工说。这表明，创建工程师社区的目标已经失败。在那之后，两位创始人把他们自己和他们的作品分开了。他们停止参加TGIF会议。从许多方面来看，皮查伊去年晋升最高职位只是一种形式。
 
 
-除了皮查伊先生，还包括全球事务高级副总裁肯特•沃克，以及从投资银行摩根士丹利挖来的财务总监露丝•波拉特。布林和佩奇是技术人员，施密特是技术人员兼经理，而新团队只是管理人员。
-它似乎起作用了。谷歌的云业务，包括其专业在线服务套餐G Suite，正以每年超过50%的速度增长。今年的收入预计将达到130亿美元，占Alphabet总收入的8%。
-然而，库里安在财务上的成功也存在风险。内部人士报告说，有一小部分人从云部门跳槽到Alphabet的其他部门。很多员工担心谷歌云业务的自上而下的做法会在整个公司蔓延开来。许多人开始抱怨上级下达的任务有最后期限。
-这暗示了谷歌文化中一个更大的未解决的问题。罢工后，管理层做了一些调整。“当我们还小的时候，我们都作为一个团队，在一个产品上工作，每个人都知道商业决策是如何做出的。要给一家拥有10万多名员工的公司提供所有事情的完整背景就更难了，”据报道，沃克在去年11月的一份内部通讯中写道。TGIF会议现在一个月只举行一次，而且仅限于与商业有关的问题。最大的内部邮件列表被审核，那些被认为过于政治化的帖子据说会被撤下。如今，员工被告知只有在“需要知道”的情况下才可以访问敏感文件。一些员工谈到，如果不是建立一个工会，那么至少要建立一个保护他们利益的组织。
-在乔治•弗洛伊德(George Floyd)被杀之后，许多谷歌员工批评其高管在让公司变得更加多元化方面做得太少、太晚;几周后，该公司承诺将在未来五年内将“代表性不足群体的领导力代表率”提高30%。6月，2000多名员工联名给皮查伊写了一封公开信，要求该公司停止向美国各地的警察部队出售其技术。
-
-但这种喘息可能只是表面的。据一位谷歌员工报道，许多员工都闭上了嘴，因为担心被解雇。没人愿意在经济衰退时丢掉一份轻松的工作。活动家们现在避开了该公司的通讯工具，并在网上其他地方组织起来。
-
-皮查伊现在有机会证明怀疑者是错的。covid-19大流行提供了一个方便的借口，可以摆脱产品重叠等效率低下的问题，也可以摆脱Alphabet内部的繁文缛节。这可能会在谷歌的创新文化和更系统地开发其产品和服务的赚钱潜力之间达成一种新的平衡。就连反垄断调查也给皮查伊带来了一线希望。他说:“在某些方面，我在寻求清晰。”
-然而，要想成为纳德拉模式的领导者，他必须更加大胆。一个想法是对其部分服务收费。另一个是让谷歌成为更多的数据受托人，为他们管理人们的信息——有点像银行处理金钱。该公司已经开始开发必要的工具，比如可以挖掘加密数据的软件。如果皮查伊能做到这一点，那将是真正鼓舞人心的。而且，它还将帮助Alphabet在一段时间内保持非常规。
+皮查伊现在有机会证明怀疑者是错的。covid-19疫情给他提供了一个方便的借口，可以借此时机摆脱谷歌开发的产品有重叠等效率低下的问题，也可以改革Alphabet内部的繁文缛节。这可能会达成一种新的平衡, 在谷歌的创新文化, 和对其产品和服务的赚钱潜力的更系统性的开发利用上.
+会在谷歌的创新文化, 和更系统地开发其产品和服务的赚钱潜力之间达成一种新的平衡。就连反垄断调查也给皮查伊带来了一线希望。他说:“在某些方面，我在寻求清晰。”
+然而，要想成为纳德拉(Satya Nadella, 微软ceo)那样类型的领导者，他必须更加大胆。一个想法是对其部分服务收费。另一个是让谷歌更多成为"数据受托人"，来管理人们的信息——有点像银行处理金钱那样。谷歌已经开始开发必要的工具，比如可以挖掘加密数据的软件。如果皮查伊能做到这一点，那将是真正鼓舞人心的。而且，这还能帮助Alphabet在一段时间内保持不陷于传统管理中。
