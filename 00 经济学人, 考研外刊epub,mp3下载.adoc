@@ -1,6 +1,6 @@
 
 = 经济学人等外刊资源
-:toc
+:toc:
 
 ---
 
@@ -67,7 +67,11 @@ Middle East and Africa (Baobab 猴面包树),  +
 
 |===
 
+==
 
+== 科学美国人60秒 官网
+
+https://www.scientificamerican.com/podcasts/?category=
 
 ---
 

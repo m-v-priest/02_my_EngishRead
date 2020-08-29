@@ -242,27 +242,77 @@ Governments [so far 迄今为止,到目前为止] *have invested more than $10bn
 
 - 迄今为止，各国政府已在covid-19疫苗上投资逾100亿美元，并预先购买了约40亿剂疫苗(尽管交易数据不明)。由于疫苗的疗程可能需要两剂，理论上，虽然这个数量可以将世界上最易被感染的人都接种完, 但事实上，效果还远不能保证，所以很大一部分购买的疫苗可能会是没用的。因为一种典型的疫苗, 在最后的试验中, 有20%的几率失败。而且一些候选covid-19疫苗, 采用了新技术，因此失败的风险就可能更高。这就解释了为什么富裕的国家会支持多项疫苗研发进程，购买协议每隔几天就会重新与别的开发商签署一次(见表1)。
 
-Despite the scramble in America and Europe to get to the front of the queue, countries elsewhere are likely to be under-supplied, and for some time. Japan has arranged to buy enough for just one dose per person, according to Goldman Sachs, a bank (see chart 2). On average, emerging markets have secured enough to cover less than a third of their citizens.
+Despite the scramble 争抢；抢占；争夺 in America and Europe *to get to the front of the queue*, countries elsewhere *are likely to be under-supplied* 供给不足, and for some time. Japan *has arranged to buy enough* for just one dose per person, according to Goldman Sachs, a bank (see chart 2). On average, emerging markets *have secured(v.)（尤指经过努力）获得，取得，实现 enough* to cover(v.) less than a third of their citizens.
+
+- 尽管在美国和欧洲, 抢在了预定疫苗队伍的前面，导致在其他国家在一段时间内, 很可能疫苗供应不足。根据高盛(Goldman Sachs)银行的数据，日本已经安排购买的剂量, 足够每人一剂(见表2)。平均而言，新兴市场已经购买的剂量, 足够覆盖不到三分之一国民。
 
 
+GAVI, an alliance 结盟，联盟，同盟 that *funds vaccines for* poor countries, *has set up* COVAX, a purchasing 购买；采购 pool for several `late-stage vaccine candidates`. It *promises* participants 双宾 doses of an effective vaccine *for* up to 20% of their population 人口，人口数量 by the end of 2021, with rich countries *paying for* their supplies and *funding a kitty 共同凑集的一笔钱 for* poor ones. About 80 high- and middle-income countries *have said* they want to join. But *it remains to be seen* 尚待分晓 how many *put money on the table*: they *must pay for* the first 15% of their vaccines by the end of the month.
 
-GAVI, an alliance that funds vaccines for poor countries, has set up COVAX, a purchasing pool for several late-stage vaccine candidates. It promises participants doses of an effective vaccine for up to 20% of their population by the end of 2021, with rich countries paying for their supplies and funding a kitty for poor ones. About 80 high- and middle-income countries have said they want to join. But it remains to be seen how many put money on the table: they must pay for the first 15% of their vaccines by the end of the month.
+-  Covax : 全球新冠疫苗供应计划, 旨在联合采购疫苗, 并公平地分配给每个计划中的国家，目标是在2021年底前, 提供至少20亿剂安全有效的疫苗。 +
+今年6月份，世界卫生组织（WHO）、全球疫苗免疫联盟（Gavi）和流行病防范创新联盟（CEPI）, 共同号召发起了Covid-19全球疫苗供应计划（COVAX），统筹加速新冠疫苗的开发、生产和公平交付，让世界尽快实现新冠免疫。 +
+全球新冠疫苗供应计划在2021年底前交付20亿剂疫苗，并保证为所有参与该计划的国家, 提供足以保护至少20%的本国人口的疫苗量，无论参与国是否具备足够的支付能力。
 
-Even meeting the commitments they have already made will be a stretch for pharma companies, much less producing enough for the world. Existing manufacturing facilities can be repurposed for some types of jabs. For others, however, new ones must be built. These can cost about half a billion dollars apiece, and typically take three years to get up and running.
 
-A company normally sets up production once a vaccine wins regulatory approval. But these are not normal times. To speed things up, some firms have started mass-producing vaccines that are still in clinical trials. Companies may have promised 4bn doses, but some of their vaccines may not pass trials and will have to be poured away. Many experts think supply will also be constrained by global shortages of things like vials and syringes. They put a more realistic estimate of global supply by the end of next year at nearer 2bn.
+`主` Even *meeting 满足；使满意 the commitments* 承诺；许诺；允诺承担；保证 (they *have already made*) `系` *will be* a stretch  （连续的）一段时间 *for* pharma(n.)制药业 companies, much less 更不用说 *producing enough for* the world. Existing manufacturing facilities 生产设施；制造设备 *can be repurposed  （为适合新用途）对…稍加修改，略微改动 for* some types of jabs 注射；接种；预防针. For others, however, new ones *must be built*. These *can cost* about half a billion 十亿 dollars apiece 每人；每个；各, and typically *take three years* to get up and running.
 
-As that is nowhere near enough to cover the world, it is easy to imagine fights breaking out once effective vaccines become available. The experience of past pandemics is hardly encouraging on this front. During the H1N1 (swine flu) pandemic in 2009-10 rich countries cornered supplies of the vaccine to fight the disease. Only when they had more than they needed did they offer some of it to poor countries. By then, the disease had swept across the planet and the pandemic was over.
+- 即使要实现他们已做出的承诺，对制药公司来说也要花费很长时间，更不用说为世界生产足够多的疫苗产品了。现有的制造设备可以做些改造, 来生产某些类型的注射剂。但对其他注射剂来说, 就必须要建造新的工厂了。这些工厂每个都要耗资约5亿美元，并且通常需要三年时间才能启动和运行。
 
-Early in the covid-19 pandemic, too, global co-operation quickly broke down. By late April, 80 jurisdictions had restricted exports, with governments especially keen to hoard supplies of disinfectants, personal protective equipment and thermometers. Some countries even seized shipments passing through their territory.
+A company normally *sets up production* once a vaccine *wins regulatory(a.)（对工商业）具有监管权的，监管的 approval*. But these *are not* normal times. *To speed things up*, some firms *have started mass-producing vaccines* that are still in clinical trials 临床试验. Companies *may have promised* 4bn doses, but some of their vaccines *may not pass trials* and *will have to be poured  使（液体）连续流出；倾倒；倒出 away* 倒掉. Many experts *think* supply *will also be constrained* by global shortages of things *like* vials  (装香水、药物等的)小瓶 and syringes （皮下）注射器;吸管；唧筒. They *put a more realistic estimate of global supply* by the end of next year *at nearer 2bn*.
 
-Fearful of a repeat of such marauding, the Coalition for Epidemic Preparedness Innovations, an alliance of charities and governments that has funded the early development of some of the most promising covid-19 vaccines, has organised manufacturing on several continents. So have some pharma companies.
+- vial : /ˈvaɪəl/ +
+image:../../+ img_单词图片/v/vial.jpg[100,100]
 
-The World Health Organisation (WHO) is also trying to avert vaccine politics. It has drawn up guidelines for how early supplies should be distributed in order to save the most lives, protect fragile health systems and hasten the end of the pandemic. The first doses would go to health and social-care workers, and the next batch to the 20% of people in each country who are most likely to die from covid-19 if infected. The rest would then go to places with the highest risk of outbreaks. COVAX has signed up to these principles, but there is no indication that countries would respect them in their bilateral deals with drug companies, rather than act in narrow self-interest.
+- syringe : /sɪˈrɪndʒ/ ( also hypo·der·mic ˌhypodermic syˈringe ) a plastic or glass tube with a long hollow needle that is used for putting drugs, etc. into a person's body or for taking a small amount of blood from a person （皮下）注射器 +
+2.a plastic or glass tube with a rubber part at the end, used for sucking up liquid and then pushing it out 吸管；唧筒 +
+=> 来自希腊语 syringa,管子，芦苇，排箫，来自 syrizein,吹管，耳语，发沙沙声，来自 PIE*swer, 沙沙声，嗡嗡声，词源同 swarm,susurrate.后用于指吸管或注射器。 +
+image:../../+ img_单词图片/s/syringe.jpg[100,100]
 
-There are slim hopes that America, China or Russia, among others, will allow exports of a vaccine made on their territory before enough is available for all of their citizens. But vaccine manufacturing and distribution involves a complicated global supply chain of raw ingredients, adjuvants (chemicals commonly used to boost potency), vials and so on. In the worst case, countries denied a share of the vaccines could ban exports of such inputs to the hoarding country. Everyone loses.
+- 一旦疫苗获得监管部门的批准，公司通常就会开始生产。但现在不是正常时期。为了加快速度，一些公司已经在开始大规模生产仍在临床试验阶段的疫苗。制药公司可能承诺提供40亿剂疫苗，但它们的一些疫苗可能无法通过试验，将不得不被丢弃。许多专家认为，像小瓶和注射器等物品的全球性供应短缺, 也将限制疫苗的供应。对于明年年底全球疫苗供应量, 他们做出的更现实的估计是:近20亿剂。
 
-A global free-for-all, then, seems inevitable. One way to mitigate this would be to spend more. Some economists argue that governments could do more to hurry along vaccine manufacture and distribution. Separate groups of researchers reckon that the world needs to invest around $100bn in order to make several vaccines early and in sufficient quantities. That would be a ten-fold increase in what has been spent. But set against the output lost and the $7trn in stimulus injected into the global economy so far, it is peanuts.
+
+As *that is nowhere 无处；哪里都不 near enough* to cover(v.) the world, *it is easy to imagine* {fights *breaking out* once effective vaccines *become available*}. The experience of past pandemics *is hardly encouraging [on this front]*. [During the H1N1 (swine flu) pandemic in 2009-10] rich countries *cornered(v.)垄断（某种货品的交易）; 使（人或动物）走投无路；逼…入绝境 supplies of the vaccine* to fight the disease. [Only when they had *more than* they needed did] they *offer* some of it *to* poor countries. By then, the disease *had swept across the planet* and the pandemic *was over*.
+
+
+- 在这方面，过去大流行病的经验, 很难令人鼓舞。在2009-10年H1N1(猪流感)大流行期间，富裕国家垄断了对抗疾病的疫苗。只有当他们拥有的疫苗剂量, 超过了他们的所需时，他们才会提供一些给贫穷国家。但那时，该疫情已经席卷了全球，疫情也结束了。
+
+Early in the covid-19 pandemic, too, global co-operation *quickly broke down*. By late April, 80 jurisdictions 管辖区域；管辖范围;司法权；审判权；管辖权 *had restricted exports*, with governments *especially keen to hoard*(v.)贮藏；囤积；（尤指）秘藏 supplies of disinfectants 消毒剂；杀菌剂, personal protective equipment and thermometers 温度计；寒暑表；体温计. Some countries even *seized*  起获；没收；扣押 shipments 运输的货物 passing through their territory.
+
+- hoard :  /hɔːrd/ [ V VN ] to collect and keep large amounts of food, money, etc., especially secretly 贮藏；囤积；（尤指）秘藏 +
+=> 来自古英语hord,宝藏，藏宝处，来自PIE*skeu,覆盖，隐藏，词源同hide,house.引申词义贮藏，囤积。
+
+- 在covid-19大流行的早期，全球合作迅速崩溃。截至4月底，已有80个司法管辖区限制了出口，各国政府尤其热衷于囤积消毒剂、个人防护设备, 和温度计。一些国家甚至扣押了通过其领土的医疗货物。
+
+*Fearful of* a repeat of such marauding 伺机掠夺; 抢劫, `the Coalition 联合；结合；联盟 for Epidemic Preparedness 准备好的状态；愿意 Innovations` 流行病防范创新联盟, an alliance 结盟，联盟，同盟 of charities 慈善,慈善机构 and governments that *has funded* the early development of some of the most promising covid-19 vaccines, *has organised manufacturing* （用机器大量）生产，制造 on several continents. *So have* some pharma(n.)制药业 companies.
+
+- maraud : /məˈrɔːd/ V to wander or raid in search of plunder 伺机掠夺; 抢劫
+
+- 由于担心这种劫掠行为再次发生，流行病防范创新联盟 -- 这是一个由慈善机构和政府(它们资助了一些最有希望的covid-19疫苗的早期开发)组成的联盟 -- 在几个大陆组织了疫苗生产。一些制药公司也是如此。
+
+The World Health Organisation (WHO) *is also trying to avert* vaccine politics. It *has drawn up guidelines for* how early supplies *should be distributed* in order to save(v.) the most lives, *protect* fragile health systems and *hasten* 促进；使加快 the end of the pandemic. The first doses *would go to* health and social-care workers, and the next batch *to* the 20% of people in each country *who are most likely to die from covid-19* if infected. The rest *would then go to places*(n.) with the highest risk of outbreaks. COVAX *has signed up to these principles*, but *there is no indication 表明；标示；显示；象征 that* countries *would respect them* in their bilateral deals with drug companies, *rather than* act(v.) in narrow self-interest.
+
+- indication : n. *~ (of sth/of doing sth) | ~ (that...)* a remark or sign that shows that sth is happening or what sb is thinking or feeling 表明；标示；显示；象征
+.. *They gave no indication of* how the work should be done. 他们根本没说明这项工作该怎样做。
+.. *There are clear indications that* the economy is improving. 有明显的迹象显示经济已开始好转。 +
+image:../../+ img_单词图片/i/indication.jpg[100,100]
+
+- 世界卫生组织(WHO)已在尽量避免"疫苗政治"。它已起草了指导方针, 关于如何分配早期的疫苗供应，以拯救大多数生命，保护脆弱的卫生系统, 并加速疫情的终结。第一批疫苗将发放给卫生和社会保健工作者，下一批将发放给每个国家中最容易死于covid-19的那批20%人群。剩下的疫苗将送往疫情爆发风险最高的地方。COVAX已经签署了这些原则，但没有迹象表明各国会在与制药公司的双边协议中尊重这些原则，而不出于狭隘的私利来行事。
+
+
+*There are slim 微薄的；不足的；少的；小的 hopes* that America, China or Russia, among others, *will allow* exports of a vaccine (*made on their territory*) before enough *is available* for all of their citizens. But vaccine manufacturing and distribution *involves* a complicated global supply chain of raw ingredients, adjuvants 辅助物 (chemicals *commonly used to boost potency* 影响力；支配力；效力;（男子）性能力，性机能), vials (装香水、药物等的)小瓶 and so on. In the worst case, `主` countries (*denied* a share of the vaccines) `谓` *could ban* exports(n.) of such inputs to the hoarding （钱、食物、贵重物品等的）贮存，聚藏；（尤指）秘藏 country. Everyone *loses*.
+
+- adjuvant : /ˈædʒəvənt/ ADJ aiding or assisting 辅助的 / N something that aids or assists; auxiliary 辅助物
+
+- 美国、中国和俄罗斯等国在本国公民获得足够的疫苗之前, 是否会允许本国生产的疫苗出口到国外，这个希望渺茫。但是疫苗的生产和销售是涉及到复杂的全球供应链的，包括原材料、佐剂(是一些化学物质, 通常用于提高效力)、瓶子等等。在最坏的情况下，被剥夺疫苗份额的国家, 可能会禁止向囤积疫苗的国家出口此类出口物。如此的话, 每个人(国家)都输了。
+
+
+A global free-for-all(n.)不加管制；自由放任;混战；众人激烈争辩；大吵大闹, then, *seems inevitable*. `主` One way *to mitigate 减轻；缓和 this* `系` *would be* to spend more. Some economists *argue that* governments *could do more* to hurry(v.) along vaccine manufacture and distribution. Separate(a.) groups of researchers *reckon that* the world *needs to invest around $100bn* in order to make several vaccines early and in sufficient quantities. That *would be* a ten-fold increase in what has been spent. But *set against* 相比 the output lost(n.) and the $7trn (in stimulus(n.)促进因素；激励因素；刺激物 *injected into the global economy* so far), it *is* peanuts 很少的钱;花生.
+
+- free-for-all : n. a situation in which there are no rules or controls and everyone acts for their own advantage 不加管制；自由放任
+.. The lowering of trade barriers *has led to a free-for-all among exporters*. 降低贸易壁垒导致出口商各自为政。
+
+- 因此，一场全球混战似乎是不可避免的。缓解这种情况的一个方法是增加支出。一些经济学家认为，政府可以采取更多措施, 来加快疫苗的生产和分销。不同的研究小组估计，世界需要投入大约1000亿美元，才能及早和足够数量地生产出几种疫苗。这将是支出的10倍增长。但与产出损失和迄今向全球经济注入的7万亿美元刺激资金相比，这只是九牛一毛。
+
 
 ---
 
@@ -308,15 +358,3 @@ There are slim hopes that America, China or Russia, among others, will allow exp
 A global free-for-all, then, seems inevitable. One way to mitigate this would be to spend more. Some economists argue that governments could do more to hurry along vaccine manufacture and distribution. Separate groups of researchers reckon that the world needs to invest around $100bn in order to make several vaccines early and in sufficient quantities. That would be a ten-fold increase in what has been spent. But set against the output lost and the $7trn in stimulus injected into the global economy so far, it is peanuts.
 
 
-
-
-尽管在美国和欧洲抢在队伍的前面，其他国家很可能供应不足，并且在一段时间内。根据高盛(Goldman Sachs)银行的数据，日本已经安排购买了足够每人一剂的剂量(见表2)。平均而言，新兴市场已经购买了足够覆盖不到三分之一国民的剂量。
-全球疫苗和免疫联盟是一个为贫穷国家资助疫苗的联盟，它已经建立了COVAX，一个购买几种晚期候选疫苗的储备库。该组织承诺，到2021年底，发达国家将为其20%的人口提供有效疫苗，并为贫困国家提供资金。约有80个高收入和中等收入国家表示希望加入。但有多少人愿意出钱还有待观察:他们必须在月底前支付疫苗的前15%。
-即使是兑现它们已经做出的承诺，对制药公司来说也将是一项艰巨的任务，它们的产量远远不能满足世界需求。现有的生产设备可以用于某些类型的注射。然而，对其他国家来说，必须建立新的体系。每个反应堆的造价约为5亿美元，通常需要3年的时间来启动和运行。
-一旦疫苗获得监管部门的批准，公司通常就会开始生产。但现在不是正常时期。为了加快生产速度，一些公司已经开始大规模生产仍在临床试验阶段的疫苗。制药公司可能承诺提供40亿剂疫苗，但它们的一些疫苗可能无法通过试验，将不得不投入使用。许多专家认为，小瓶和注射器等物品的全球短缺也将限制供应。他们对明年年底全球供应的更现实估计是近20亿。
-
-
-在这方面，过去大流行病的经验很难令人鼓舞。在2009-10年H1N1(猪流感)大流行期间，富裕国家垄断了疫苗的供应以对抗疾病。只有当他们拥有的超过了他们的需要时，他们才会提供一些给贫穷国家。那时，这种疾病已经席卷了整个星球，大流行也结束了。
-世界卫生组织(WHO)也在试图避免疫苗政治。它已经起草了关于如何分配早期供应的指导方针，以拯救大多数生命，保护脆弱的卫生系统和加速结束大流行病。第一批疫苗将发放给卫生和社会保健工作者，下一批将发放给每个国家20%最有可能死于covid-19的人群。剩下的将前往爆发风险最高的地方。COVAX已经签署了这些原则，但没有迹象表明各国会在与制药公司的双边协议中尊重这些原则，而不是出于狭隘的私利行事。
-美国、中国和俄罗斯等国在本国公民获得足够的疫苗之前允许本国生产的疫苗出口，希望渺茫。但是疫苗的生产和销售涉及到一个复杂的全球供应链，包括原材料、佐剂(通常用于提高效力的化学物质)、小瓶等等。在最坏的情况下，被剥夺疫苗份额的国家可能会禁止向囤积疫苗的国家出口此类投入物。每个人都失去了。
-因此，一场全球混战似乎是不可避免的。缓解这种情况的一个方法是增加支出。一些经济学家认为，政府可以采取更多措施加快疫苗的生产和分销。不同的研究小组估计，世界需要投资大约1000亿美元，才能及早和充足地生产几种疫苗。这将是支出的10倍增长。但与产出损失和迄今向全球经济注入的7万亿美元刺激资金相比，这只是九牛一毛。
