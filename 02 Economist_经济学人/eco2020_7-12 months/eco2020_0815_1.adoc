@@ -56,7 +56,7 @@ image:../../+ img_单词图片/l/litany.jpg[100,100]
 美国国务院的具体职责是, 主管美国在全世界的大使和领事馆, 以及涉外官员的工作，协助总统同外国签订条约和协定，安排总统接见外国使节，就承认新国家或新政府向总统提供意见，掌管美国国印等。
 
 
-Hand-wringing 绝望 over `the state of State` 国家的现状 is hardly new. More than two dozen government agencies *now have people overseas* 在国外；向海外, *eroding* the State Department’s primacy 首要；至高无上. Nowadays, the boss of a global American company *may have a one-on-one  一对一;一对一的 with a `head of state`* 国家首脑 without *going through the embassy*, notes Stuart Holliday of Meridian, a centre for diplomacy in Washington, DC: “*There’s been a recognition 认出；认识；识别; 承认；认可 that* the diplomatic channel is not the channel (*through which* all American engagement （尤指正式的或与工作有关的）约定，约会，预约 *happens*).” In 2015, well before Donald Trump became president, the American Academy of Diplomacy, a club of senior ex-diplomats, warned that the country’s foreign service was in trouble because of its increasing politicisation 政治化, poor professional education and outdated career structure.
+Hand-wringing 绝望 over `the state of State` 国家的现状 is hardly new. More than two dozen government agencies *now have people overseas* 在国外；向海外, *eroding* the State Department’s primacy 首要；至高无上. Nowadays, the boss of a global American company *may have a one-on-one  一对一;一对一的 with a `head of state`* 国家首脑 without *going through the embassy*, notes Stuart Holliday of Meridian, a centre for diplomacy in Washington, DC: “*There’s been a recognition 认出；认识；识别; 承认；认可 that* the diplomatic channel is not the channel (*through which* all American engagement （尤指正式的或与工作有关的）约定，约会，预约 *happens*).” In 2015, well before Donald Trump became president, the American Academy of Diplomacy, a club of senior ex-diplomats, warned that the country’s foreign service was in trouble *because of* its increasing politicisation 政治化, poor professional education and outdated career structure.
 
 
 - 对国家状况的担忧并不是什么新鲜事。现在有二十多个政府机构在海外派驻人员，削弱了国务院的首要地位。位于华盛顿特区的外交中心Meridian的斯图尔特·霍利迪(Stuart Holliday)指出，如今，一家全球性美国公司的老板可能不需要通过大使馆就可以与国家元首进行一对一的接触：“人们已经认识到，外交渠道并不是美国所有接触发生的渠道。”2015年，早在唐纳德·特朗普(Donald Trump)就任总统之前，由高级前外交官组成的俱乐部美国外交学院(American Academy Of Diplomacy)警告称，由于日益政治化、糟糕的专业教育和过时的职业结构，美国的外交服务陷入了困境。
@@ -119,15 +119,43 @@ Although ambassadors are the most visible sign of the politicisation of diplomac
 - 尽管大使问题上, 是外交政治化最明显的标志，但国内的任命至少同样重要。美国外交学会(American Academy of Diplomacy)主席罗纳德•诺伊曼(Ronald Neumann)表示:“华盛顿的高层职位, 是制定政策的地方。”这样的话，你就会被职业服务扫地出去。从1975年到2014年，在助理秘书及以上级别的50多个职位中，职业外交官的比例从60%下降到30%;现在，Neumann先生说，这个数字下降到了8%。目前没有职业外交专业人士担任参议院批准的助理国务卿职位;据AFSA称，这种情况以前从未发生过。有才能的外交官因为缺少高级职位而离开(美国的外交部门，就像它的军队一样，实行的是一种“不上则退”的制度)。
 
 
-These days it is also hard to spot any senior foreign-service officers working in the White House. Mr Burns of Harvard spent five years seconded to the White House under presidents George Bush senior and Bill Clinton. “Those opportunities are not happening,” he says, “so the State Department has been sidelined.”
+These days *it is also hard* to spot(v.) any senior foreign-service officers *working in the White House*. Mr Burns of Harvard *spent five years* seconded(v.)临时调派；短期调任 to the White House under presidents George Bush senior and Bill Clinton. “Those opportunities are not happening,” he says, “so the State Department has been sidelined(v.)把…排除在核心之外；使靠边.”
 
-Many posts requiring Senate confirmation have stayed unfilled for long periods, creating a sense of drift and neglect. The job of assistant secretary for Europe and Eurasian affairs has been without a nominee since February last year. The Trump administration has so far had no confirmed nomination for assistant secretary for South and Central Asian affairs. Hiring for Africa roles has been painfully slow.
+- *second (v.) sb (from sth) (to sth)* : ( especially BrE ) to send an employee to another department, office, etc. in order to do a different job for a short period of time 临时调派；短期调任
 
-All this has contributed to a hollowing out of expertise that has been particularly severe thanks to a hiring freeze introduced by Rex Tillerson, the former ExxonMobil boss whose brief tenure as Mr Trump’s first secretary of state was a disaster. “Tillerson did more damage to the State Department than I could have imagined was possible in one year, particularly in the loss of experienced senior people,” says Mr Neumann.
+- sideline : v. to prevent sb from playing in a team, especially because of an injury 使退出比赛，使下场（尤指由于受伤） / to prevent sb from having an important part in sth that other people are doing 把…排除在核心之外；使靠边
 
-Mr Pompeo ended the hiring freeze and has sought to bring back “swagger” to the department. He has taken a lead in belligerent policies towards Iran and, especially, China. He has restored a degree of vigour at the top. But he has not soothed critics.
 
-They worry that he asked Mr Trump to fire his department’s inspector-general, who was investigating complaints against Mr Pompeo himself. They grumble that hardly any career officers are involved in his staff meetings. And they question whether he really has his diplomats’ back. True, he has not actively added to his boss’s attacks on his own envoys—yet, mindful of the art of survival in the Trump administration, neither has he actively defended them. In Senate testimony last month, he refused to say whether Ms Yovanovitch was a talented ambassador. “Hey, look at you, smiling and laughing and calling it silly,” concluded Senator Tim Kaine, a Democrat. “I don’t think it’s silly to Marie Yovanovitch or the people who work for you.”
+Many posts (*requiring* Senate confirmation) *have stayed unfilled* （职位）空缺的 for long periods, creating a sense of drift 流动；趋势；逐渐变化（尤指向坏的方面） and neglect 忽略；忽视；不予重视. The job of assistant secretary 秘书;部长；大臣 for Europe and Eurasian affairs *has been without a nominee* 被提名人；被任命者 since February last year. The Trump administration *has so far had no confirmed nomination(n.)提名；推荐；任命；指派 for* assistant secretary for South and Central Asian affairs. Hiring for Africa roles *has been painfully 非常地；令人痛苦地；令人烦恼地 slow*.
+
+- painfully : ad. extremely, and in a way that makes you feel annoyed, upset, etc. 非常地；令人痛苦地；令人烦恼地
+.. Their son *was painfully shy*. 他们的儿子非常害羞。
+.. Progress *has been painfully slow*. 进度慢得令人焦急。
+
+- 许多需要参议院批准的职位, 长期空缺，造成了一种飘忽不定和被忽视的感觉。自去年2月以来，负责欧洲和欧亚事务的助理国务卿, 一直没有提名人选。到目前为止，特朗普政府还没有确认对负责南亚和中亚事务的助理国务卿的提名。非洲职位的招聘也一直非常缓慢。
+
+
+All this *has contributed to* a hollowing 空心的;凹陷处；坑洼处 out of 没有；缺少 expertise 专门知识；专门技能；专长 (that *has been particularly severe*) *thanks to* a hiring freeze(n.) *introduced by* Rex Tillerson, the former ExxonMobil boss `主` whose brief tenure （尤指重要政治职务的）任期，任职 as Mr Trump’s first secretary of state `系` *was a disaster*. “Tillerson *did more damage to* the State Department *than I could have imagined was possible in one year*, particularly in the loss of experienced 有经验的；熟练的;有阅历的；有见识的；老练的 senior people,” says Mr Neumann.
+
+- *out ~ of sth* : used to show that sb/sth does not have any of sth 没有；缺少
+.. We're *out of milk*. 我们没有牛奶了。
+.. *He's been out of work* for six months. 他已经失业六个月了。
+.. *You're out of luck* —she left ten minutes ago. 你真不走运—她十分钟前才离开。
+
+- 所有这些都导致了专业技能人才的缺失，而由于埃克森美孚(ExxonMobil)前老板雷克斯•蒂勒森(Rex Tillerson)冻结了招聘，这种情况尤为严重。蒂勒森短暂担任了特朗普第一任国务卿, 这是一场灾难。“蒂勒森在一年内对国务院造成的损害程度超出了我的想象，特别是在经验丰富的高级人员的流失方面。”诺伊曼表示。
+
+
+Mr Pompeo *ended the hiring freeze* and has *sought to bring back 恢复;使回想起 “swagger” 神气十足；大摇大摆 to the department*. He *has taken a lead* in belligerent 好斗的；寻衅的；挑衅的 policies(n.) towards Iran and, especially, China. He *has restored a degree of vigour* 精力；力量；活力；热情 at the top. But he *has not soothed 安慰；抚慰；劝慰 critics*.
+
+- belligerent : a. /bəˈlɪdʒərənt/ unfriendly and aggressive 好斗的；寻衅的；挑衅的 / [ only before noun ] ( formal ) ( of a country 国家 ) fighting a war 参战的；交战的 +
+=> bell（战争）+i（连接成分） + ger（承受、承载）+ent（形容词后缀）→交战的 词源解释：bell←拉丁语bellum（战争）←古罗马神话战争女神Bellona
+
+- Pompeo结束了对招聘的冻结，并试图让该部门重新“昂首阔步”。他在对伊朗，特别是对中国的好战政策上发挥了带头作用。他在高层恢复了一定程度的活力。但他并没有安抚批评者。
+
+They worry that he *asked* Mr Trump *to fire* 解雇；开除 his department’s inspector-general 总检查长; 监察长, who *was investigating* 调查 complaints against Mr Pompeo himself. They grumble that hardly any career 职业军人、外交人员等 officers *are involved in* his staff meetings. And they *question*(v.) whether he *really has his diplomats’ back*. True, he *has not actively added to* his boss’s attacks(n.) on his own envoys 使者；使节；（谈判等的）代表 -- yet, *mindful(a.) of*  记着；想着；考虑到 the art of survival in the Trump administration, *neither* has he actively defended(v.) them. In Senate testimony 证词；证言；口供 last month, he *refused to say* whether Ms Yovanovitch *was* a talented ambassador 大使；使节. “Hey, look at you, *smiling* and *laughing* and *calling it silly*,” *concluded* Senator Tim Kaine, a Democrat. “*I don’t think* it’s silly to Marie Yovanovitch or the people who work for you.”
+
+- 他们担心他要求特朗普解雇政府部门的监察长，后者正在调查针对蓬佩奥本人的投诉。他们抱怨说，几乎没有职业官员参加他的员工会议。他们质疑他是否真的得到了外交官们的支持。诚然，他没有积极增加他的老板(即特朗普)对自己特使(外交官)的攻击 -- 然而，考虑到特朗普政府的生存艺术，他也没有积极为他们辩护。在上个月的参议院证词中，他拒绝透露Yovanovitch(前美国驻乌克兰大使玛丽·约瓦诺维奇(Marie Yovanovitch))是否是一位才华横溢的大使。民主党参议员蒂姆·凯恩(Tim Kaine)总结道：“嘿，看看你，微笑着，大笑着，说这很愚蠢。”“我不认为玛丽·约万诺维奇(Marie Yovanovitch)或那些为你工作的人是愚蠢的。”
+
 
 Making the foreign service great again
 
@@ -237,5 +265,115 @@ The scale of the transformation needed in American diplomacy leads some to belie
 That means changing not only the way the State Department works, but the weight diplomacy carries in foreign policy. America will always rely on a mix of military might and smooth talking. The two complement each other. “If you don’t fund the State Department fully then I need to buy more ammunition,” General Jim Mattis, then head of US Central Command, told Congress in 2013. Since 9/11 the emphasis on military force has made the country’s foreign policy lopsided.
 
 Reformers say America must make diplomacy a first resort. Robert Gates, who was defence secretary in 2006-11, writes in Foreign Affairs about the “overmilitarisation” of American foreign policy and the neglect of its non-military tools. “The State Department should be the central non-military instrument of US national-security policy,” Mr Gates argues. But if it is to be up to the job, it will need more money, more manpower and far better management.
+
+
+---
+
+
+== The nuclear option 词汇解说
+
+(eco 2020-8-15 / Business / More Sino-American decoupling: The nuclear option)
+
+How America *might wield* its ultimate  最后的；最终的；终极的 weapon of mass disruption 妨碍; 扰乱
+
+Freezing(v.) China out of the global payments system *could have unthinkable consequences*
+
+Aug 15th 2020 |
+
+- 核选项 +
+美国将如何使用其大规模破坏的终极武器 +
+将中国排除在全球支付体系之外, 可能会产生难以想象的后果
+
+
+PRESIDENT DONALD TRUMP’S sabre-rattling(n.) 武力威胁；武力恫吓
+against corporate 公司的;法人的 China *has had a real but, so far, limited impact on* relations between the world’s two biggest economies (see article). That *could change* if he *decided to go all out* 全力以赴 and *cut China off* from the global payments system, which (America controls) *thanks to* the dollar’s status as the world’s reserve currency 储备货币 and lubricant 润滑剂；润滑油 of commerce.
+
+- sabre-rattling  : /ˈseɪbər rætlɪŋ/ n. ( BrE ) ( US ˈsaber-rattling ) [ U ] the act of trying to frighten sb by threatening to use force 武力威胁；武力恫吓;  +
+=> sabre （弯刃）军刀，马刀; rattle （使）发出咔嗒咔嗒的声音
+
+- all out 全力以赴, 竭尽全力
+
+
+- 美国总统唐纳德•特朗普(DONALD TRUMP)对中国企业的威吓, 确实对世界上最大的两个经济体之间的关系产生了影响，但迄今为止影响有限。如果他决定全力以赴，切断中国与全球支付体系的联系，这种情况可能会改变。由于美元作为世界储备货币和商业润滑剂的地位，美国控制着全球支付体系。
+
+
+Mr Trump *has* three main ways *to constrain* another country *financially*. He *can refuse* its banks *access to CHIPS*, a New York-based clearing house (*through which* 95% of all dollar transactions （一笔）交易，业务，买卖;办理；处理 *are routed* 按某路线发送;为…规定路线). He *can try to force* SWIFT, a Belgium-based messaging system which 11,000 banks worldwide *use* to make cross-border payments, *to expel* 把…开除（或除名） members (*from* the offending 有罪的；违法的;烦人的；令人不安的；惹麻烦的 state). And he *can slap （用手掌）打，拍，掴;啪地击打（或撞上） an embargo* 禁止贸易令；禁运 on its financial system, *threatening* to punish(v.) any foreign or domestic financial institution (that *uses* dollars) -- as virtually 几乎；差不多；事实上；实际上 all do -- but *continues to transact(v.)（与人或组织）做业务，做交易 with* the embargoed 禁止…的贸易；禁运 firms.
+
+- transaction : *~ of sth* ( formal ) the process of doing sth 办理；处理
+.. the transaction of government business 处理政府事务
+
+
+- CHIPS : clearing house interbank(a.)银行同业的 payment system “纽约清算所银行同业支付系统. 全球最大的私营支付清算系统之一，主要进行跨国美元交易的清算。
+
+- SWIFT : Society for Worldwide Interbank Financial Telecomm 环球银行金融电信协会. 是一个国际银行间非盈利性的国际合作组织，总部设在比利时的布鲁塞尔. 银行和其他金融机构通过它与同业交换电文（message）来完成金融交易。
+
+- 特朗普有三种主要方式, 来限制另一个国家的财政。1.他可以拒绝该国的银行使用总部设在纽约的清算所CHIPS, 95%的美元交易都是通过CHIPS进行的。2.他可以试图迫使总部位于比利时的通讯系统SWIFT, 将来自于违规国家的成员(该国的银行), 驱逐出SWIFT组织。全球有1.1万家银行使用该系统进行跨境支付。3.他还可以对该国的金融系统, 实施禁令，对那些继续与被禁公司进行美元贸易的公司, 无论是美国国内还是国外的, 进行威胁惩罚. 事实上, 几乎所有的公司都需要进行美元交易.
+
+
+These tactics 策略；手段；招数 *have been tested* on Iran, North Korea, Venezuela and Myanmar 缅甸 -- small economies *with which* America *had few dealings*. Mr Trump’s predecessor, Barack Obama, *stopped* short of deploying(v.)部署，调度（军队或武器）;有效地利用；调动 them against Russia [after its invasion of Crimea in 2014]. `主` *Doing* so *against* China, (*with which* America *trades* $560bn-worth of goods annually) and (whose four mega 巨大的；极佳的-banks *are* the world’s largest by assets), (with large dollar loan 贷款；借款 books （企业的）账簿 and liabilities 负债), `谓` *looks* incomparably 无比地; 无与伦比地; 质量相当高地 more fraught(a.)充满 (问题或风险) 的;焦虑的；忧虑的；担心的.
+
+- loan : [ C ] money that an organization such as a bank lends and sb borrows 贷款；借款
+
+- liability :  /ˌlaɪəˈbɪləti/ [ Cusually pl. ] the amount of money that a person or company owes 欠债；负债；债务
+
+
+*What would happen* if Mr Trump nevertheless 尽管如此；不过；然而 *tried it*? A huge shock wave *would hit* financial markets, *already knocked about* by the pandemic. The Chinese currency, *along with* those (which *track* it), such as the Taiwanese dollar or the South Korean won 韩元, *would suffer*, says Claire Huang of Amundi, an asset manager. Hong Kong *would run down* 压缩;削减;减少 its dollar reserves *to try to support* its peg  （木、金属或塑料）钉子，楔子，橛子，短桩 with the greenback 美钞. Money *would pour into* gold.
+
+- peg : a short piece of wood, metal or plastic used for holding things together, hanging things on, marking a position, etc. （木、金属或塑料）钉子，楔子，橛子，短桩 / ( also ˈtent peg ) a small pointed piece of wood or metal that you attach to the ropes of a tent and push into the ground in order to hold the tent in place （木制或金属）帐篷短桩，橛子 +
+=> 来自中古英语pegge,来自Proto-Germanic*pag,桩子，楔子，来自PIE*bak,棍子，削尖的木桩，词源同bachelor,bacteria.引申词义橛子，衣钩子等。 +
+image:../../+ img_单词图片/p/peg2.jpg[100,100]
+
+- 如果特朗普仍然尝试这样做，会发生什么？一股巨大的冲击波将冲击已受到疫情打击的金融市场。资产管理公司Amundi的克莱尔·黄(Claire Huang)表示，人民币及与之挂钩的货币，如新台币或韩元，都将受到影响。香港将耗尽其美元储备，以支持其盯住美元的汇率制度。钱会换成黄金。
+
+In response, China *would increasingly resort(v.)诉诸；求助于；依靠 to* its home-grown alternative to SWIFT, called CIPS. It *would also try to persuade* America’s allies in Europe and elsewhere *that* Washington *was behaving irresponsibly*. Many *would not take much convincing* 说服，劝说（某人做某事）;使确信；使相信；使信服. CIPS and the yuan, currently *of marginal importance* in international finance and commerce, *would gain [in stature 声望；名望]* [*at* America’s *expense* 在某人受损的情况下；以某人为代价].
+
+- convince : v.
+1. *~ sb/yourself (of sth)* to make sb/yourself believe that sth is true 使确信；使相信；使信服
+.. *You'll need to convince them of* your enthusiasm for the job. 你要使他们相信, 你殷切希望得到这份工作。
+2. to persuade sb to do sth 说服，劝说（某人做某事） +
+.. *I've been trying to convince him* to see a doctor. 我一直劝他去看病。
+
+- CIPS :  Cross-border Interbank Payment System 人民币跨境支付系统.
+
+- 作为回应，中国将越来越多地求助于其本土的SWIFT替代品，称为CIPS。它还将试图说服美国在欧洲和其他地方的盟友，让他们相信华盛顿的行为是不负责任的。很多人不需要太多的说服。CIPS和人民币目前在国际金融和商业中的重要性微乎其微，但以美国的损失为代价，它们的地位将会提高。
+
+China *would also retaliate*(v.)报复；反击；复仇. It could shut(v.) its markets to Western banks and firms, *block* them *from* its infrastructure projects and *limit* America’s access to natural resources and basic goods (it controls). And it, too, *has* a last-ditch(a.)作最后努力（或尝试）的；孤注一掷的 deterrent 威慑因素；遏制力: *selling* its $1.1trn stock of American treasury 财政部 bills 美国短期国债, *equivalent to* 4% of the total outstanding(a.)(款项、工作、困难等)未支付的；未完成的；未解决的. America’s highly liquid bond markets *may prove* capable of *absorbing the shock*. Then again, they might not. Most observers *do not consider* dumping(v.)（向国外）倾销，抛售 its T-bills 短期国债；短期国库券 a serious option for China, which *has little interest in* destabilising(v.)使（制度、国家、政府等）动摇；使不安定；使不稳定 its system of currency reserves. But America is not the only country *capable of* self-harm(n.)（故意）自我伤害（常由情感、精神问题所致） *apparently in the service of* national security.
+
+- retaliate : /rɪˈtælieɪt/ [ V ] *~ (against sb/sth) |~ (by doing sth/with sth)* to do sth harmful to sb because they have harmed you first 报复；反击；复仇 +
+=> 来自拉丁语 retaliare,偿还，返还，来自 re-,向后，往回，talis,同样，同类，来自 PIE*tod,指 示代词，词源同 this,that.即原样返还的，后用于指报仇，以眼还眼，以牙还牙。 +
+.. The boy hit his sister, who *retaliated by kicking him*. 男孩打了他妹妹，妹妹则回敬了他一脚。
+
+- last-ditch =>  ditch原指“壕沟”或“防御壕”，last ditch就是“最后的防御壕”，即“最后的防线”，如今一般多用于喻义，而且常用作形容词，表示“已无后退余地的”、“坚持到底的”或“拼死的”。
+
+- treasury bill : N-COUNT A treasury bill is a short-term bond that is issued by the United States government in order to raise money. 美国短期国债
+
+- outstanding : a. ( of payment, work, problems, etc. 款项、工作、困难等 ) not yet paid, done, solved, etc. 未支付的；未完成的；未解决的
+.. She has *outstanding debts* of over ￡500. 她未清偿的债务超过500英镑。
+.. A lot of work *is still outstanding*. 许多工作尚未完成。
+
+- 中国也会进行报复。它可以对西方银行和公司关闭市场，阻止他们参与其基础设施项目，限制美国获得由中国控制的自然资源和基本商品。此外，它还有最后一搏的威慑力:出售其持有的1.1万亿美元美国国债，相当于未偿国债总额的4%。事实可能证明，美国高度流动性的债券市场能够消化此次冲击。但话说回来，他们可能不会。多数观察人士并不认为抛售美国国债是中国的一个严肃选择，因为中国对破坏其外汇储备体系的稳定,没有什么兴趣。但美国并不是唯一一个为了国家安全而有能力自残的国家。
+
+---
+
+== The nuclear option
+
+How America might wield its ultimate weapon of mass disruption
+
+Freezing China out of the global payments system could have unthinkable consequences
+
+Aug 15th 2020 |
+
+
+PRESIDENT DONALD TRUMP’S sabre-rattling against corporate China has had a real but, so far, limited impact on relations between the world’s two biggest economies (see article). That could change if he decided to go all out and cut China off from the global payments system, which America controls thanks to the dollar’s status as the world’s reserve currency and lubricant of commerce.
+
+Mr Trump has three main ways to constrain another country financially. He can refuse its banks access to CHIPS, a New York-based clearing house through which 95% of all dollar transactions are routed. He can try to force SWIFT, a Belgium-based messaging system which 11,000 banks worldwide use to make cross-border payments, to expel members from the offending state. And he can slap an embargo on its financial system, threatening to punish any foreign or domestic financial institution that uses dollars—as virtually all do—but continues to transact with the embargoed firms.
+
+These tactics have been tested on Iran, North Korea, Venezuela and Myanmar—small economies with which America had few dealings. Mr Trump’s predecessor, Barack Obama, stopped short of deploying them against Russia after its invasion of Crimea in 2014. Doing so against China, with which America trades $560bn-worth of goods annually and whose four mega-banks are the world’s largest by assets, with large dollar loan books and liabilities, looks incomparably more fraught.
+
+What would happen if Mr Trump nevertheless tried it? A huge shock wave would hit financial markets, already knocked about by the pandemic. The Chinese currency, along with those which track it, such as the Taiwanese dollar or the South Korean won, would suffer, says Claire Huang of Amundi, an asset manager. Hong Kong would run down its dollar reserves to try to support its peg with the greenback. Money would pour into gold.
+
+In response, China would increasingly resort to its home-grown alternative to SWIFT, called CIPS. It would also try to persuade America’s allies in Europe and elsewhere that Washington was behaving irresponsibly. Many would not take much convincing. CIPS and the yuan, currently of marginal importance in international finance and commerce, would gain in stature at America’s expense.
+
+China would also retaliate. It could shut its markets to Western banks and firms, block them from its infrastructure projects and limit America’s access to natural resources and basic goods it controls. And it, too, has a last-ditch deterrent: selling its $1.1trn stock of American treasury bills, equivalent to 4% of the total outstanding. America’s highly liquid bond markets may prove capable of absorbing the shock. Then again, they might not. Most observers do not consider dumping its T-bills a serious option for China, which has little interest in destabilising its system of currency reserves. But America is not the only country capable of self-harm apparently in the service of national security.
 
 
