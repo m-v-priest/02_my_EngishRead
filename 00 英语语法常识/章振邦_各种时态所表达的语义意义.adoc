@@ -1,0 +1,128 @@
+
+= 章振邦_ 各种时态用来表达哪些意思?
+:toc:
+
+---
+
+== 表永恒
+
+==== 表示不受时限的客观存在 : 客观真理、格言、科学事实等 <- 用"一般现在时"
+
+- The earth *rotates(v.) on its axis*.
+- A rolling stone *gathers(v.) no moss*. 滚石不生苔
+
+---
+
+== 表"过去"
+
+==== 能用"一般现在时"表示"过去时间"的动词有 : tell， say , hear , learn ，gather 等
+
+- *Alice tells(v.) me* you're entering college next year.
+- *I hear*(v.) poor old Mrs Smith has lost her son.
+
+一般现在时, 也可以用在叙事文, 或新闻报道中, 作为一种修辞手法, 来追述往事, 以增加描述的生动性和真实感. 即所谓的"历史性现在时".
+
+- I was just dozing off in front of the television *when my wife rushes(v.) in shouting that* the kitchen
+is on fire.
+
+---
+
+==== 表示在特定过去时间中, 一次完成的动作, 或一度存在的状态 <- 用"一般过去时"
+
+- *He left* ten minutes ago.
+- This town *was once a beauty spot*.
+- Before liberation *we lived in Beijing for five years*.
+
+*一般过去时所表示的过去时间, 都与现在时间不发生关系。* 因此，用一般过去时表示的动作或状态, 都已成为过去，现已不复存在。比较:
+
+- His father *was* an English teacher all his life. (父亲已去世) +
+His father *has been* an English teacher all his life. (父亲还活着)
+
+- He *lived* in Shanghai for 20 years. (现已不住上海了) +
+He *has lived* in Shanghai for 20 years. (可能还住在上海，也可能刚搬走)
+
+
+
+---
+
+==== 表过去的习惯动作 <- 用"一般过去时"
+
+- In those days they *sowed(v.) wheat by hand*. 在那个年代, 他们是用手工来种小麦的。
+
+
+
+---
+
+== 表"现在"
+
+==== 表示"现在"时间里, 某种动作的"经常性"和"习惯性"发生 <- 用"一般现在时"
+
+
+这种用法常与频度副词连用。如:  always ， ever , frequently
+, hardly ever , never , occasionally , often , rarely , seldom , sometimes , usually 等。
+
+- Percy *often goes(v.) to his office by underground* 地铁.
+- Father *doesn't smoke*.
+
+频度副词, 通常位于主动词之前.
+
+- He *hardly ever makes(v.) a mistake* when he writes.
+
+如果主动词是be,  则通常把频度副词位于be 之后， 也可为了强调而位于其前。
+
+- She (*sometimes*) is *sometimes* a little angry with him.
+
+
+
+
+---
+
+== 表"将来"
+
+==== I hope / I bet that ... 句型的that后面, 用"一般现在时"表示"将来时间"
+
+- I hope *you have a good time*.
+
+---
+
+==== see (to it) / make sure / make certain + that... 句型的that后面,  用"一般现在时"表示"将来时间"
+
+- I'll see (to it) / make sure / make certain (that) *you don't get lost*.
+
+---
+
+==== 在由if / when 引导的"条件分句"和"时间分句"中，必须用"一般现在时"来表示"将来时间"
+
+- Will you go and help to get in the crops *when the harvest time comes*(v.)?
+- If *it is(v.) fine tomorrow*. we will go to the countryside.
+
+---
+
+
+
+== 表婉转口气 <- 用"一般过去时"
+
+- *I wondered* if you could give me some help.
+
+上述句子也能用"一般现在时"表示，但语气不如用"一般过去时"婉转。*这一用法只限于want, wonder, think, hope 等少数几个动词.*
+
+---
+
+== 与现在事实相反
+
+==== 表示与现在事实相反的主观设想 : 在 It's time...,  I wish... , I'd rather... 等结构后面的that-分句中，以及在某些条件句中，表示"主观设想" <- 用"一般过去时"
+
+在 It's time...,  I wish... , I'd rather... 等结构后面的that-分句中，以及在某些条件句中，表示主观设想。
+
+- *It's time* you *had* a holiday.
+- *I wish* you *lived* closer to us.
+- *if only* he *didn't drive* so fast!
+
+- If I *had* the money now , I'd buy a car.
+- I'd rather you *went* now.
+
+
+
+
+129
+
