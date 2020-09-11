@@ -27,6 +27,7 @@
 为了正确构造复合形容词，我们有必要搞清楚两类逻辑关系："外部关系"和"内部关系。"
 
 
+[options="autowidth"]
 |===
 |举例  +
 *English-speaking* countries 说英语的国家 |说明
@@ -80,7 +81,9 @@ English <--> speaking +
 
 此类复合形容词，使用频率非常之高。
 
-- *ice-thawing* visit (国事访问的)融冰之旅 +
+- *ice-thawing* visit (国事访问的)融冰之旅
+
+[options="autowidth"]
 |===
 |关系 |主 |谓(vt.-ing) |宾(n.)
 
@@ -100,6 +103,8 @@ English <--> speaking +
 
 
 - *caffeine-containing* drinks 含咖啡因的饮料
+
+[options="autowidth"]
 |===
 |关系 |主 |谓(vt.-ing) |宾(n.)
 
@@ -113,6 +118,7 @@ English <--> speaking +
 |containing
 |caffeine
 |===
+
 内外关系合起来看, 相当于 :  `主` The drinks `谓` contain `宾` caffeine.
 
 - *hostage-taking* incident 人质事件
@@ -128,6 +134,7 @@ English <--> speaking +
 借助于在高空飞翔的风筝，你就可以在空中飞行几分钟。 +
 
 
+[cols="1,4"]
 |===
 |案例  +
 *sky-walking* kite |说明
@@ -144,6 +151,8 @@ sky <--> walking
 |===
 
 sky-walking kite, 中的三个词之间的逻辑关系, 即:
+
+[options="autowidth"]
 |===
 |关系 |主 |谓(vi.-ing) |状(n.)
 
@@ -170,6 +179,7 @@ sky-walking kite, 中的三个词之间的逻辑关系, 即:
 
 ==== 总结: 上述两种由“名词+现在分词”构成的复合形容词, 其中的"名词"与"现在分词"之间的逻辑关系, 是不同的 :
 
+[options="autowidth"]
 |===
 |类型 |三者的逻辑关系是
 
@@ -187,6 +197,8 @@ sky-walking kite, 中的三个词之间的逻辑关系, 即:
 这类复合形容词比较少见，它是来自于“系动词+名词（作表语）”这一句型。
 
 - *fossil-appearing* objects 类似于化石的物体
+
+[options="autowidth"]
 |===
 |关系 |主 |谓/系(系动词.-ing) |表(n.)
 
@@ -202,6 +214,7 @@ sky-walking kite, 中的三个词之间的逻辑关系, 即:
 |===
 内外关系合起来看, 相当于 :  `主` The objects `系` appear to be `表` fossils.
 
+[options="autowidth"]
 |===
 |案例  +
 *fossil-appearing* objects |说明
@@ -226,6 +239,8 @@ fossil <--> appearing
 ==== (adj. + 系动词-ing) => (表+系) + 主
 
 - a *good-looking* man = `主` A man `系` looks `表` good. 外表英俊的人
+
+[options="autowidth"]
 |===
 |关系 |主 |谓/系(系动词.-ing) |表(adj.)
 
@@ -253,6 +268,8 @@ fossil <--> appearing
 
 - the handsome *fast-talking* and habitual liar attorney = An attorney talks [fast]. +
 这位相貌英俊、讲话速度快，并且习惯撒谎的律师
+
+[options="autowidth"]
 |===
 |关系 |主 |谓(vi.-ing) |状(adv.)
 
@@ -283,6 +300,7 @@ fossil <--> appearing
 
 ==== (n. + vt.-ed) + n. => (状+谓) + 宾
 
+[options="autowidth"]
 |===
 |例子 +
 a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
@@ -296,8 +314,7 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 |war
 
 |内部关系 +
-(动状关系)  +
-(U.S. <--> led)
+(动状关系) (U.S. <--> led)
 |
 |led
 |U.S.
@@ -316,6 +333,7 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 
 ==== (adj. + vt.-ed) + n. => (补+谓) + 宾
 
+[options="autowidth"]
 |===
 |例子 +
 *green-painted* house +
@@ -330,13 +348,13 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 |house
 
 |内部关系 +
-(动补关系)  +
-(green <--> painted)
+(动补关系) (green <--> painted)
 |
 |painted
 |green
 |
 |===
+
 整个短语相当于这样一个句子：(Someone) `谓` painted `宾` the house `补` green. +
 或者相当于一个被动句：The house was painted green.
 
@@ -347,7 +365,7 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 
 ====  (adv. + vt.-ed) + n. => (状+谓) + 宾
 
-
+[options="autowidth"]
 |===
 |例子 +
 *Newly-elected* Chinese Premier +
@@ -362,8 +380,7 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 |Premier
 
 |内部关系 +
-(动状关系)  +
-(Newly <--> elected)
+(动状关系) (Newly <--> elected)
 |
 |elected
 |Newly
@@ -406,38 +423,34 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 
 对于"分词"构成的复合形容词，关键是要理解其中的“内部关系”。
 
+[options="autowidth"]
 |===
 |长相类型 |逻辑关系 |举例
 
 |(n. + vt.-ing) + n.
 |(宾+谓) + 主
 |*ice-thawing* visit +
-= `主` The visit `谓` thaws `宾` ice.  +
-融冰之旅
+= `主` The visit `谓` thaws `宾` ice.  融冰之旅
 
 |(n. + vi.-ing) + n.
 |(状+谓) + 主
 |a *night-walking* animal +
-= An animal walks [at night]. +
-夜行动物
+= An animal walks [at night]. 夜行动物
 
 |(n. + 系.-ing) + n.
 |(表+系) + 主
 |*fossil-appearing* objects +
-= `主` The objects `系` appear to be `表` a fossil. +
-外观像化石的物体
+= `主` The objects `系` appear to be `表` a fossil. 外观像化石的物体
 
 |(adj. + 系.-ing) + n.
 |(表+系) + 主
 |a *good-looking* man +
-= `主` A man `系` looks `表` good. +
-相貌英俊的人
+= `主` A man `系` looks `表` good. 相貌英俊的人
 
 |(adv. + vi.-ing) + n.
 |(状+谓) + 主
 |*hard-working* people +
-= people work [hard] +
-勤劳的人
+= people work [hard] 勤劳的人
 
 |---
 |---
@@ -446,21 +459,18 @@ a *U.S.-led* war |主 |谓(vt.-ed) |状(内n.) |宾(外n.)
 |(n. + vt.-ed) + n.
 |(状+谓) + 宾
 |*man-made* fibers +
-= fibers made [by man] +
-人造纤维
+= fibers made [by man] 人造纤维
 
 |(adj. + vt.-ed) + n.
 |(补+谓) + 宾
 |*green-painted* house +
-= `谓` painted `宾` a house `补` green +
-粉刷成绿色的房子
+= `谓` painted `宾` a house `补` green 粉刷成绿色的房子
 
 
 |(adv. + vt.-ed) + n.
 |(状+谓) + 宾
 |a *newly-built* library +
-= a library built [newly] +
-新建的图书馆
+= a library built [newly] 新建的图书馆
 
 |---
 |---

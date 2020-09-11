@@ -243,8 +243,69 @@ the *risen* sun（升起的太阳）,  +
 ---
 
 
+== 表
 
 
+[cols = "1,1,1,1,1,1,7a"]
+|===
+|现在分词|主动 |被动 |完成| 正在进行 +
+(即短暂性的) |一般 +
+(即持久性的) |例句
+
+|-ing
+|√
+|
+|
+|√
+|
+|- the sinking逻辑谓 ship逻辑主 =the ship that is sinking 正在下沉的船 +
+- a sleeping child =a child who is sleeping 正在熟睡的孩子
+
+|-ing
+|√
+|
+|
+|
+|√
+|- Unidentified Flying Objects（UFO）=unidentified objects that fly 不明飞行物 +
+- a promising young man =a young man who promises well 有出息、有前途的年轻人 +
+- the exploiting class =the class that exploits others. 剥削阶级 +
+- a puzzling problem =a problem that puzzles people 令人迷惑的问题
+
+|过去分词|主动 |被动 |完成| 正在进行 +
+(即短暂性的) |一般 +
+(即持久性的) |例句
+
+|-ed (vt.)
+|
+|√
+|
+|
+|√
+|- the exploited逻辑谓 class逻辑宾 =the class that is exploited 被剥削阶级 +
+- trained employees =employees who have been trained before. 训练有素的职员
+
+|-ed (vt.)
+|
+|√
+|√
+|
+|
+|- an annoyed逻辑谓 man逻辑宾 =a man that has been annoyed. 被惹恼了的男子 +
+- rotten teeth 坏了的牙齿 +
+- shrunken clothes 缩水的衣服
+
+|-ed (vi.)
+|√
+|
+|√
+|
+|
+|-  the sunken ship =the ship that has sunken 已沉于水底的船
 
 
+|===
+
+
+---
 

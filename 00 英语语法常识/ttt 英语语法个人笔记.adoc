@@ -8,6 +8,7 @@
 
 专有名词, 包括:
 
+[options="autowidth"]
 |===
 |Header 1 |Header 2
 
@@ -51,6 +52,7 @@
 
 但总的来说，不可数名词有以下规律，笔者这里将其分为五组：
 
+[options="autowidth"]
 |===
 |分组 |举例
 
@@ -170,7 +172,7 @@ file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Ma
 
 == 非谓语动词
 
-
+[options="autowidth"]
 |===
 |非谓语动词 |可充当的成分
 
@@ -203,6 +205,7 @@ file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Ma
 ==== 是谓语动词的, 有几个标志
 
 
+[cols="2,4"]
 |===
 |谓语动词的 标志 |说明
 
@@ -231,6 +234,7 @@ file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Ma
 
 ==== 对于“过去式”与“过去分词”的拼写都相同的单词(比如 used), 如何区分它到底是前者,还是后者?
 
+[options="autowidth"]
 |===
 |Header 1 |说明
 
@@ -243,8 +247,9 @@ file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Ma
 如：“have/has/had +过去分词”构成完成时态；“be+过去分词”构成被动语态等。）
 |===
 
-对于-ed形式，规律如下: 
+对于-ed形式，规律如下:
 
+[options="autowidth"]
 |===
 |规律 |说明
 
@@ -309,7 +314,7 @@ file:///C:/Users/Administrator/Documents/Calibre%20%E4%B9%A6%E5%BA%93/Zhang%20Ma
 
 所谓 *做状语，就是与主句之间，或者与谓语动词之间存在着某种逻辑关系。既然「不定式」是表示未发生或后发生的动作，主要就表现为“目的”和“结果”。* 这两者正是在“未发生或后发生”这一点上统一起来的。
 
-
+[options="autowidth"]
 |===
 |功能 |例子
 
@@ -446,6 +451,7 @@ I visited him *only to find him out*.
 
 ==== 后置定语/ 哪些成分可做"后置定语"?
 
+[options="autowidth"]
 |===
 |哪些成分可做"后置定语"? |例子
 
@@ -507,7 +513,7 @@ for tort law(介词短语)和 explaining several confusing points(现在分词�
 
 同位语会以以下几种面貌出现(A,B都是名词) : +
 
-
+[options="autowidth"]
 |===
 |同位语的外貌 |例子
 
@@ -582,7 +588,7 @@ Robots will have to operate with less human supervision and be able to make at l
 - *插入语两边, 用逗号* 与其他成分隔开。
 - 插入语最好放在主语之后, 以便掌握。
 
-
+[options="autowidth"]
 |===
 |哪些成分可以作为插入语? |例子
 
@@ -632,7 +638,7 @@ than good, teacher, rather than policeman.
 
 状语, 是用来修饰: 限定动词/ 形容词 /整个句子 的.
 
-
+[options="autowidth"]
 |===
 |哪些成分能做状语? |例子
 
@@ -997,7 +1003,7 @@ image:./img_英语长难句释义/01.png[]
 
 非谓语动词, 顾名思义就是在句子中充当谓语以外的其他成分. -- 那么除了谓语以外的其它成分, 它都可以充当:
 
-
+[options="autowidth"]
 |===
 |非谓语动词可充当 |它这样做的目的
 
@@ -1037,6 +1043,7 @@ be动词变为being, do动词变为doing, 被动语态变为done。* +
 
 独立主格的长相外貌, 可以为:
 
+[cols="2,2,6"]
 |===
 |逻辑主语 |逻辑谓语 +
 (非谓语动词) | 举例

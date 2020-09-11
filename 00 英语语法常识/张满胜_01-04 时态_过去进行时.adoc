@@ -23,6 +23,7 @@ image:./img_engGram/过去进行时.png[]
 
 *在日常生活的叙事中，我们更多的是把“过去进行时”和“一般过去时”配合使用*（past continuous tense ＋ simple past tense）。此时，
 
+[options="autowidth"]
 |===
 |Header 1 |Header 2
 
@@ -64,6 +65,7 @@ image:./img_engGram/过去进行时.png[]
 我们看到，"过去进行时"与"一般过去时"的这种搭配使用, 主要由when 或 while连接，但两者有以下区别： +
 
 
+[options="autowidth"]
 |===
 |连接词 |后面能接
 

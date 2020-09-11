@@ -6,7 +6,9 @@
 
 == 表永恒
 
-==== 表示不受时限的客观存在 : 客观真理、格言、科学事实等 <- 用"一般现在时"
+==== 永恒_真理 <- 一般现在时
+
+表示不受时限的客观存在 : 客观真理、格言、科学事实等, 用"一般现在时".
 
 - The earth *rotates(v.) on its axis*.
 - A rolling stone *gathers(v.) no moss*. 滚石不生苔
@@ -15,7 +17,9 @@
 
 == 表"过去"
 
-==== 能用"一般现在时"表示"过去时间"的动词有 : tell， say , hear , learn ，gather 等
+==== 过去的事 <- 有些现在时动词
+
+能用"一般现在时"表示"过去时间"的动词有 : tell， say , hear , learn ，gather 等.
 
 - *Alice tells(v.) me* you're entering college next year.
 - *I hear*(v.) poor old Mrs Smith has lost her son.
@@ -27,7 +31,9 @@ is on fire.
 
 ---
 
-==== 表示在特定过去时间中, 一次完成的动作, 或一度存在的状态 <- 用"一般过去时"
+==== 过去_曾有的状态 <- 一般过去时
+
+表示在特定过去时间中, 一次完成的动作, 或一度存在的状态, 用"一般过去时".
 
 - *He left* ten minutes ago.
 - This town *was once a beauty spot*.
@@ -45,17 +51,343 @@ He *has lived* in Shanghai for 20 years. (可能还住在上海，也可能刚�
 
 ---
 
-==== 表过去的习惯动作 <- 用"一般过去时"
+==== 过去_习惯 <- 一般过去时
+
+表过去的习惯动作, 用"一般过去时"
 
 - In those days they *sowed(v.) wheat by hand*. 在那个年代, 他们是用手工来种小麦的。
 
+---
+
+==== 过去_暂时性习惯 <- 过去进行体
+
+过去某一阶段"暂时性"的习惯动作, 用"过去进行体"来表示。
+
+- George *was getting up* at five every day that week. +
+这句话的含义是， George 平时起得没有那么早，只是暂时性在那一周当中, 他五时起床.
+
+*"过去进行体" 也可与always ， constantly , continually , for ever 等状语连用, 表示感情色彩.*
+
+- My brother *was always losing* his keys.
+- Alice *was constantly changing* her clothes.
+
+*"过去进行体"的这种用法，和"现在进行体"的相应用法一样， 通常表示说话人对某种行为的厌烦等不满情绪。*
+
+当然，用在上述结构中的频度状语, 也有仅起强调作用，而不带感情色彩的。
+- I remember my grandfather *was always smoking* a cigar.
+
+
+---
+
+==== 过去_刚刚过去的动作 <- 现在进行体
+
+表示刚刚过去的动作, 可用"现在进行体".
+
+- You don't believe it? You know I'*m telling* the truth. 你不相信吗? 你知道我说的是实话。
+- I don't know what you *are talking* about.
+
+*用"现在进行体"表示"刚刚过去的动作", 只适用于口语中某些表示说话的动词，如tell，talk，
+say , exaggerate(夸张；夸大；言过其实) 等。*
+
+
+---
+
+==== 过去_"过去某时"正在进行的动作 <- 过去进行体
+
+表示"过去某时正在进行"的动作, 用"过去进行体". +
+"过去进行体"作这一用法时. *通常也都要把"时间状语"表示出来, 或者通过上下文把"时间关系"暗示出来.*  这种时间状语可以表示过去某一时刻正在进行的动作。
+
+- What *were you doing* [*yesterday at seven p.m.*] ?
+- [*When I went downstairs*] , they *were already eating* breakfast.
+
+---
+
+==== 过去_"过去某一阶段"一直在进行的动作 <- 过去进行体
+
+对"过去某一阶段"一直在进行的动作, 用过去进行体。
+
+- *From 1983 to 1988* , he *was teaching* at Yale.
+- They *were building* a dam *last winter*.
+
+足于"过去进行体"的上述用法. 人们常在口语中和记叙文中, *首先用"过去进行体"表示某种"正在进行的动作"为背景，并由此引出用"一般过去时"表示的"新的事态或情节"。*
+
+- I *was talking* to the librarian this morning , and he *said* we had to return all the reference books before Saturday. (图书管理员说还书时间的背景, 是我和他在谈话中) +
+今天早上我和图书管理员谈话，他说我们必须在星期六之前归还所有的参考书。
+- The students *were still laughing* when the teacher *stepped in*. (老师走进来的背景, 是学生们在大笑)
+
+
+---
+
+==== 过去_过去按计划,即将发生的"过去将来" <- 过去进行体
+
+"过去进行体"在一定上下文中, 也可表示按照计划安排, 即将发生的"过去将来事态"。
+
+- They *were leaving* a few days later.
+- The summer vacation was drawing near, but nobody knew where they *were going for* the
+holiday. +
+暑假就要到了，但是没有人知道他们要去哪里度假。
+
+---
+
+==== 过去_"从过去看未来时间中""正在进行的动作" <- 过去进行体
+
+在某些时间状语和条件状话分句中, 表示"过去看将来时间"中 "正在进行的动作", 用"过去进行体".
+
+- He promised not to mention this when he *was talking* to her.
+- He told me to wake him up if he *was sleeping*.
+
+---
+
+==== "过去进行体" vs "一般过去时" 用法比较
+
+1.表示"已完成"的动作, 用"一般过去时"; +
+表示"未完成"的动作, 用"过去进行体"。
+
+- I *was reading* a novel yesterday. (未读完) +
+I *read* a novel yesterday. (已读完)
+
+- They *were building* a dam last winter. ( 在建造中) +
+They *built* a dam last winter. ( 建造好了)
+
+
+2."一般过去时" 通常只说明过去某时发生某事，而"过去进行体"则侧重在动作的"持续时间" ，而不仅是说明事实。
+
+- It *rained / was raining* all night.
+- He *worked / was working* all through the night.
+
+在上述两例中，用"一般过去时"和"过去进行体"都可以， 意义无甚差别，只是用"过去进行体"更加突出时间持续之久。
+
+3.当"一般过去时"与"过去进行体"同时出现在句中时，通常是**表示"较短的动作"用"一般过去时"，表示"较长的动作"用"过去进行体"。**
+
+- I *broke* a glass while I *was cooking* the dinner.
+- I *was running* downstairs when I *slipped and fell*. 我跑下楼时滑了一跤。
+
+4.*在口语中，说话人表示所谈内容是随便的，非故意的，或者无一定目的性，常用"过去进行体"*.
+
+- I *was talking* to Margaret the other day.
+- I *was hearing* John had got a new job.
+
+*上述两句, 也可改用"一般过去时"*，比如 I *talked* to Margaret the other day ，*但给人的印象是我
+主动找她谈了话，与原句含义略有出入。*
+
+5.注意"一般过去时"和"过去进行体"表示的动作的时间顺序。比较:
+
+- When we *arrived*, she *was making* some fresh coffee. 在她正在煮咖啡时的背景下, 他来了.
+- When we *arrived*, she *made* some fresh coffee. 在他来到后, 她才(开始)煮咖啡. *这句中的 when =
+after ，前后两个动作表示"先后性"，并非"同时性".*
+
+
+---
+
+==== 动作在"过去""已完成"(做完)/或"未完成"(可能还将持续下去) <- 现在完成体 (have / has + -ed分词)
+
+现在完成体(由have / has + -ed 分词构成)有两个主要用法，即"已完成"用法和"未完成"用法。
+
+1.已完成
+
+表示 *动作或过程, 发生在说话之前某个没有明确说出的过去时间, (常指最近的过去时间) ，现在"已经完成了". 并与现在的情况有联系。* 用"现在完成体".
+
+- He'*s turned off* the light.  +
+含义是: 灯在一个过去时间已被关掉, 说话时仍然关着。
+
+2.未完成
+
+"现在完成体"也可以表示**动作的"未完成", 即 : 指动作或状态从过去某时开始，继续到现在，可能继续下去，也可能刚刚结束。**
+
+- He'*s lived* here since 1960.  +
+含义是:他从1960 年来到这里居住，至今还住在这里，偶尔也可根据上下文理解为刚刚搬走。
+
+这两种用法的主要区别在于:  +
+*"已完成"用法, 通常不与表示"一段时间"的状语连用; +
+ 而"未完成"用法, 通常都要与表示"一段时间"的状语连用。*
+
+---
+
+==== 动作在"过去""未完成"(可能还将持续下去) <- 现在完成进行体 (have / has been + -ing分词)
+
+现在完成进行体, 由have / has been + -ing 分词构成。*它的主要用法与"现在完成体"的"未完成"用法相仿。*
+
+- I'*ve been writing* letters for an hour (and I've still got some more to do) . 动作还将继续下去
+- I'*ve been sitting* in the garden (and have just come indoors) . 动作在说话时刻之前刚刚结, 即在我刚进屋之前, 我之前是一直坐在花园里的.
+
+"现在完成体"和"现在完成进行体", 有时可以互换使用，含义无其差别。例如:
+
+- We'*ve been living* here for ten years. 未完成, 可能会继续下去
+- We'*ve lived* here for ten years. 未完成, 可能会继续下去
+
+但是，由于**"现在完成进行体"还带有"进行体"的"持续性、暂时性, 和未完成性"的含义**， 有时就不可以与"现在完成体"互换使用。比较:
+
+- Who'*s been eating* my dinner? 还有些剩下
+- Who'*s eaten* my dinner? 全给吃光了 (现在完成体, 不带一段时间的状语, 即"已完成")
+
+---
+
+==== 在完成(进行)体 vs 过去时, 用法比较
+
+*"现在完成体"和"现在完成进行体"的用法，不论其动作或状态在说话时"已经完成", 还是"延续到说话时刻"并"可能继续下去"，都与"现在时间"有联系。如果与"现在时间"没有联系，那就要用"一般过去时"或"过去进行体"。* 比较:
+
+- His sister *has been* an invalid 病弱者；久病衰弱者 all her life. (现在完成体,与"现在"依然有联系. 含义是: 她现在还活着。) +
+His sister *was* an invalid all her life. (过去时, 与现在没有联系了. 即含义是: 她现在已经死了。)
+
+- He *has lived* in China for ten years. (含义是:他可能还住在中国，也可能刚刚离开中国。) +
+He *lived* in China for ten years. ( 含义是: 他现在已不在中国。)
+
+
+同样地, **如果用了与"现在时间"没有联系的确定的时间状语，也要用"一般过去时"或"过去进行体"。**比较:
+
+- I'*ve been* all over Africa. 我迄今走遍了整个非洲。现在依然可能在那里. +
+I *went* all over Africa *in 1965*. 现在不去了.
+
+
+- "You look tired. " -- " Yes , I'*ve been working* non-stop *all day*. " +
+"You look tired. " -- Yes, I *was working* non-stop *until seven o'clock*. " 既然是只到7点为止, 那说明已经结束了, 和"现在"没有关系了. 对现在没有影响了. 就不用完成体了, 只用过去时.
+
+- "Have you found that letter yet? " 一"Yes. I *found* it *when I tidied 整理 (房间、橱柜等) my drawer*. " 用过去时.
+
+---
+
+==== 一个动作或状态, 在"过去某时之前"就已经完成或结束 <- 过去完成体 (had + -ed分词)
+
+过去完成体, 由had + -ed分词构成。它的主要用法同"现在完成体"一样, 也有两个，即"已完成"用法, 和"未完成"用法。不同的是，*"过去完成体"把时间推移到"过去某一时间之前"，与"现在时间"不发生联系。*
+
+过去完成体的**"已完成"用法, 表示一个动作或状态, 在过去某时之前已经完成或结束。**
+
+- Tom flew home ,but his father *had already died*.
+- He knew he *had met her* before.
+
+过去完成体的**"未完成" 用法, 表示一个动作或状态在过去某时之前已经开始，一直延续到这一过去时间，而且到那时还未结束，仍有继续下去的可能性。**
+
+- By six o'clock they *had worked* twelve hours.
+- She said that she *had made much progress* since she came here.
+- In 1960, I'*d known* him for ten years. I met him for the first time in 1950.
+
+---
+
+====  动作在"过去的过去某一时间点""未完成"(可能还将持续下去)  <- 过去完成进行体 (had been + -ing分词)
+
+过去完成进行体, 由 had been + -ing分词构成。*它的主要用法与"现在完成进行体"的用法相仿，只是时间推移到了过去。*
+
+- I'*d been working* for some time when he called. 直到他打电话来的那一刻为止, 我都在干(未完成), 而且可能继续干下去.
+- We *had been waiting* for her for two hours by the time she came.
+- How long *had it been raining* before you shut the window?
+
+有时, "过去完成进行体"和"过去完成体"可以替换使用。比较:
+
+- I'*d been working* for three hours when he called.
+- I'*d worked* for three hours when he called.
+
+*在两者均可的情况下， 口语中倾向于用"过去完成进行体"。*
+
+---
+
+==== 两个先后发生的动作/事态, 通常一个动作用"一般过去时"表示，另一个动作用"过去完成体"表示。
+
+
+如果有连词 before 和after 本身已体现了动作的先后性. 则也能两个动作都用"一般过去时"。
+
+- The train *(had) left* before I reached the station.
+- *After* the teacher *(had) left* the room. the children started talking.
+
+*也可以在以before 引导的时间状语分句中, 用"过去完成体"，以强调动作的"未实现"或"未完成"。*
+
+- He offered me a drink *before* I *had taken off* my coat.
+- He arrived *before* I *had finished* my lunch.
+
+*能同时使用两个"过去完成体"的场合极少，下面带有由 by the time 引导的时间状语分句的句子, 是少数例外中的一个*:
+
+- *By the time* I *(had) recovered* from the shock. he *had disappeared*.
+
+但多半还是一个用"一般过去时"， 另一个用"过去完成体"。例如:
+
+- We *had got* everything ready *by the time* they *arrived*.
+- *By the time* I *got* downstairs, the telephone *had stopped* ringing.
+
+---
+
+==== 关于"完成体"用法的几点补充说明
+
+1.完成体与since- 分句
+
+带"现在完成体"的主句, 常与 since- 词组 或since- 分句连用，表示自从某一"时点"以来一直存在着某种事态。
+
+- I *haven't seen* him *since* he came to Shanghai.
+
+在一定上下文中， since 还可作副词，出现在句尾:
+
+- He wrote me last month. but I haven't heard from him *since*.
+
+在这里， since = since last month ，指的还是一个"时点" 。*正因为since-分句常常指一个
+ "时点", 所以在since分句中, 常使用"非持续性动词"的"一般过去时"*, 如:
+
+- The design has completely changed *since* we *began* to use this kind of machine.  +
+began 是"非持续性动词", 用其"一般过去时"形态.
+- Where have you been *since* I last *met* you in Beijing?
+
+在since-分句中, 有时也可用"持续性动词"或"静态动词"的"一般过去时"，表示自从**某一"时段"以来**一直存在着某种事态。
+
+- The house has been in bad repair *since* he *lived* in it. (自从他过去住在那里以来，房子就没有
+修缮过。) lived不是一个"时点", 而是一个"时段".
+- We have known each other *since* we *were* at college. (自从上大学期间，我们就彼此相识了。)
+
+
+注意: *这里动词用"一般过去时" 意味着动词所表示的动作或状态已经不存在了，即在说话时，"他"已经不住在那里了，"我们"已经不在上大学了。如果要表示说话时"他"
+还住在那里，"我们"还在大学念书，那就得用"现在完成体"*:
+
+- *since* he *has lived* in it.
+- *since* we *have been* at college.
+
+
+2.完成体与 have got / have got to
+
+get 的完成体是 have / has got (美国英语用gotten ) 。
+
+- I'*ve just got* a new dictionary.
+- I'*ve already gotten* my books.
+
+但是，在口语中，特别在英国英语中， have / has got 还有另一种用法，*就是相当于 have / has 作"有"解*，此时, 这个完成体仅是一种形式，不能作get 的现在完成体理解。
+
+- I'*ve got* a knife ( = I have a knife) .
+- I'*ve got* no time ( = I have no time) .
+
+另外，在一定的上下文中， have / has got to *作"必须"解*，相当于半助动词have / has to.
+
+- We'*ve got to* do it now ( = We *have to* do it now) .
+- It *has got to* be done today ( = It *has to* be done today) .
+
+have / has got to 的否定形式是 haven't / hasn't got to.
+
+- He *hasn't got to* do it. ( = He doesn't have to do it. )
+
+3.完成体在 "It is the first time + that- 分句"中的使用.
+
+在" It is / was / will be the first time + that- 分句"结构中:
+
+(1) 当主句中的动词谓语为 is / will be
+时， that分句中的动词谓语一律用"现在完成体"; 引导词 that 可以省略。
+
+- It'*s* the first time I'*ve been* here.
+- Don't forget. it'*ll be* the first time I'*ve spoken* in public.
+
+(2) 当主句中的动词谓语为 was 时， that- 分句中对动词谓语, 通常用"过去完成体"，间或也可用"一般过去时";如果有明确的时间状语，而说话时这个时间尚未成为过去，偶尔还可用"现在完成体"。
+
+- It *was* the first time she'*d been* at a summer school and she thoroughly enjoyed it.
+- It *was* the first time this year he *hadn't worked / hasn't worked* on a Saturday.
+
+在上述结构中，主句的主语还可用 this ， this evening , yesterday 等;这种结构中的first 也可用其他序数词， time 还可由其他名词替代， that- 分句中的动词形式同上。
+
+- This is the tenth time ( that) ...
+- This evening will be the first time ( that ) ...
+- Yesterday was the second time (that) ...
+- It's the first month (that) ...
 
 
 ---
 
 == 表"现在"
 
-==== 表示"现在"时间里, 某种动作的"经常性"和"习惯性"发生 <- 用"一般现在时"
+==== 现在_经常性, 习惯性动作 <- 一般现在时
+
+表示"现在"时间里, 某种动作的"经常性"和"习惯性"发生, 用"一般现在时"
 
 
 这种用法常与频度副词连用。如:  always ， ever , frequently
@@ -72,6 +404,66 @@ He *has lived* in Shanghai for 20 years. (可能还住在上海，也可能刚�
 
 - She (*sometimes*) is *sometimes* a little angry with him.
 
+---
+
+==== 现在_正在进行 <- 现在进行体
+
+表示说话时正在进行的动作, 用"现在进行体". 能用于进行体的动词, 一般都是表示持续动作的动态动词。
+
+- What *are you doing*?
+
+用一般现在时 :往往带有"长久"的含义， +
+用现在进行体: 则表示"暂时"的含义。
+
+- He *lives* in Shanghai. (指长久住在上海)
+- He *is now living* in Shanghai. (指暂时住在上海)
+
+- The Garden Bridge *crosses* the Suzhou Creek near the Shanghai Mansions. (不受时间限制) 花园桥横跨苏州河，靠近上海大厦.
+- Our bus *is now crossing* the Garden Bridge. (暂时经过)
+
+可以看出，能用于"*现在进行体*"的动词, 通常都是表示动作的动词，特别是表示"*持续动作*"的动词， 如 work ， study , live 等; +
+表示 *"短暂动作"的动词*，如shoot ， put , place ,
+jump , nod , wink 等，*通常以"一般现在时"表示"现在发生的短暂动作"，即"现在瞬间"的动作。* 试观察:
+
+- Jennings *shoots* and - yes , it's a goal. The crowd *are cheering* and the other players *are running* up to congratulate him.  +
+詹宁斯的射门——是的，这是一个进球。观众在欢呼，其他运动员也跑上来祝贺他。
+- I *place* the test tube over the flames; now you can see that the liquid *is beginning* to change colour.  +
+我把试管放在火焰上;现在你可以看到液体开始改变颜色。
+
+
+
+
+
+---
+
+==== 现阶段_一直在进行(但在说话时不一定正在进行) <- 现在进行体
+
+表示现阶段一直在进行的动作(但在说话时不一定正在进行), 可用"现在进行体".
+
+- Jane *is studying law* while her sister *is doing* physics.
+- I teach English at the Teachers' College , but *I'm now teaching* in a middle school.
+
+现在进行体的这一用法, 也表示一种"暂时性"。
+
+- He *works* in a chemical factory. (经常性工作).  *用"一般现在时"表示一种"长期的"工作岗位*
+- He *is working* in a chemical factory these days. (临时性工作). *用"现在进行体"则表示"现阶段"正在做的事.*
+
+*"现在进行体"常与 always ， continually , constantly , for ever 等频度状语连用. 对现阶段经常发生的动作表示某种感情色彩。*
+
+- You *are continually finding fault* with me.
+- Joyce *is constantly complaining that* she is not properly paid.
+- She'*s always borrowing money* and *forgetting* to pay me back.
+
+*现在进行体 : 带有感情色彩，并且多半表示说话人的不满情绪. +
+一般现在时 : 只是说明事实.*
+
+- She *is constantly complaining about* the house. (表示说话人对"She" 的行为的厌烦)
+- She *complains about* the house. (冷静说明事实, 不带个人情感色彩)
+
+当然，这种结构在特定上下文中也可能不带感情色彩，频度状语仅起强调作用。
+
+- Healthy and happy children *are always playing*.
+在这里，always只是强调玩耍动作的反复出现。
 
 
 
@@ -98,13 +490,170 @@ He *has lived* in Shanghai for 20 years. (可能还住在上海，也可能刚�
 
 ---
 
+==== 将来_按计划,近期内即将发生 <- 现在进行体
+
+表示按计划/安排, 近期内即将发生的动作. 这是"现在进行体"表示"将来时间"的用法。这种将来事态, 通常都是按照现在的计划安排, 近期内即将发生。
+
+- Mr Cameron *is leaving China* in a few weeks.
+- We *are meeting him* after the performance.
+- When *is* Mr Manning *taking his holiday*?
+
+"现在进行体"表示"将来时间"的用法, 还常见于某些时间状语分句, 和条件状语分句中。
+
+- When you *are talking* with him , take care not to mention this. (时间状语)
+- If you *are standing* at the corner , I'll give you a lift 让你搭车 into town. (条件状语)
+
+*注意，用"现在进行体"表示"将来时间"，在句中或在上下文中, 通常有表示将来时间的状语或其他依据，否则意义便会含糊不清。*
+
+- *Are* you *doing* anything special *tonight*? (从tonight 可知, 现在进行体, 表示将来)
+- *Are* you *doing* anything special *now*? (从now可知, 现在进行体, 表示说话时正在进行的动作)
+- *Are* you *doing* anything special? (可作以上两种解籍，依上下文而定)
 
 
-== 表婉转口气 <- 用"一般过去时"
+---
+
+
+==== 说话人对未来的预判 <- will / shall + 不定式
+
+"will / shall + 不定式" 通常用来表示"将来时间"。
+
+*这种将来意义, 常常夹杂着情态意义, 即带有说话人的
+主观态度和看法*，比如表示"预见" ( Prediction ) :
+
+- If the crops fail , there *will be* a famine.
+- We *shall know* the result next week.
+
+---
+
+==== 说话人的意愿和意图 <- will / shall + 不定式
+
+"will / shall + 不定式" 有时既表示将来，也含有"意愿" ( Willi ngness ) 或"意图" ( Intention ) .
+
+- I *will do* it , if you like.
+- I promise to pay him back in time, but he *won't lend* it to me. 我答应及时还他钱，但他不肯借给我。
+
+在疑问句中 will / shall 还可用来征询听话人的"意图".
+
+- *Will you be* at home at seven this evening?
+- What *shall I do* with your mail? 我该怎么处理你的邮件呢?
+
+---
+
+
+==== 表示"纯粹"将来(而不带个人感情色彩) <- will / shall + 进行体 (be doing)
+
+既然"will/ shall + 不定式"往往夹杂着情态意义，如果我们要表示"纯粹"将来，便可采用**" will / shall + 不定式进行体"结构。这种结构通常带有"自然要发生"的含义，因而不包含"意愿"、"意图"等情态意义。**
+
+- The train *will be arriving* at two o'clock.
+- I *shall be writing* to you soon.
+
+---
+
+==== 将来某一时刻或时段里, 正在进行的动作 <- will / shall + 进行体 (be doing)
+
+这种" will / shall +不定式进行体" 结构, 也可以表示将来某一时刻或时段里正在进行的动
+作。
+
+- I'*ll be working* in Geneva during May.
+- What *will you be doing* this time tomorrow morning?
+
+---
+
+==== 将来某一时刻之前,业已完成的动作 <- will / shall + 完成体 (have done)
+
+- You *will have completed* the elementary English course by this time next year.
+- Before long he *will have forgotten* all about it.
+
+
+---
+
+==== 一个已经开始的动作到将来某一时间仍在进行 <- will / shall + 完成进行体 (have been doing)
+
+如果要表示一个已经开始的动作, 到将来某一时间仍在进行，便可用" will / shall + 不定式完成进行体" 。
+
+- By the end of next month I *shall have been working* here for 20 years exactly.
+- If it rains again tomorrow, then it *will have been raining* for a solid week.
+
+---
+
+==== 表示"意图" ， 即打算在将来做某事 <- be going to + 不定式
+
+- How long *is he going to stay here*?
+
+用be going to 表示"意图"的用法，意图的体现者通常就是句子的主语. 但也可能不是。如 :
+
+- The wall *is going to be painted green* ( = We or somebody else intend to paint the wall
+green) .
+- He'*s not going to cheat me again* ( = I won't let him cheat me again) .
+
+
+上述" be going to +不定式"表示"意图"的用法, 有时可与 "will +不定式" 互换使用.
+
+- I *won't tell* him about it. = I *am not going to tell* him about it.
+
+但是，*用be going to 表示的"意图" 通常是事先经过考虑的， 而" will + 不定式" 所表示的" 意图"，则是说话时刻临时想到的*， 因此在某些语境中，这两种结构又不可以交替使用。试比较:
+
+- A: Why are you taking down all this pictures? +
+B: I'*m going to repaper* the room. (早有打算)
+
+- A: What a terrible heavy box! +
+B: I'*ll help* you to carry it. (临时想到)
+
+---
+
+
+154
+
+
+---
+
+==== 表示"顶见"，即现在已有迹象表明将要发生或即将发生某种情况 <- be going to + 不定式
+
+- I feel dizzy. I think *I'm going to faint* 昏眩；快要昏厥.
+- I must hurry. *I'm going to be late*.
+
+
+
+---
+
+
+== 婉转语气
+
+==== 表婉转口气 <- 一般过去时
 
 - *I wondered* if you could give me some help.
 
 上述句子也能用"一般现在时"表示，但语气不如用"一般过去时"婉转。*这一用法只限于want, wonder, think, hope 等少数几个动词.*
+
+---
+
+==== 表示婉转口气 <- 现在进行体
+
+- *I'm hoping* you'lI give us some advice.
+- *I'm wondering* if I may have a word with you.
+
+现在进行体的这一用法, 只限于hope ， wonder 等少数几个动词。 +
+*用I'm hoping 比用 I hope 口气要婉转一些. 这种婉转口气是同"现在进行体"所表示的动作的暂时性、不确定性伴随而来的。*
+
+---
+
+==== 表示婉转口气 <- 过去进行体
+
+- 用"过去进行体"表示婉转口气, 只限于hope ， want , wonder 等动词， 主要用来表示有礼貌的请求。
+
+- *I was wondering / wondered* if you'd like to come out with me one evening.
+- *I was hoping / hoped* you could send me some books.
+
+在这里，**用"一般过去时"也是表示客气的请求，但用"过去进行体"更加婉转，更加有礼貌。**试比较下列诸句的婉转程度:
+
+- *I hope* you can send me some books.
+- *I hoped* you could send me some books.
+- *I am hoping* you can send me some books
+- *I was hoping* you could send me some books
+
+*以上四例只有婉转程度的区别, 而没有时间关系的差异。这四种动词形式, 都表示"现在"的请求。*
+
+
 
 ---
 
@@ -121,8 +670,82 @@ He *has lived* in Shanghai for 20 years. (可能还住在上海，也可能刚�
 - If I *had* the money now , I'd buy a car.
 - I'd rather you *went* now.
 
+- Suppose we *spent* next week in Brighton? +
+-> 本句可用一般现在时替代，但色彩和含义略有不同。*本句由于表示"建议"，用"一般过去时"比用"一般现在时"语气更为婉转。*
+
+- He looks as if he *was* sick. +
+-> 本句也可用一般现在时替代，但色彩和含义略有不同。*本句的was =虚拟式were ，属于"虚构"含义，
+即"似乎病了"，实际未病. 如果改用一般现在时is, 则表示"事实", 含义是"看上去似乎真的病了"。*
+
+---
+
+==== 表示某种臆想的、非真实的情况 <- 过去进行体
+
+"过去进行体"这一用法, 仅限于某些固定结构。
+
+
+下面两句, "过去进行体"表示"现在"时间.
+
+- I wish (但愿) they *were not talking* so loudly.
+- It is time we *were leaving*.
+
+
+下面三句, "过去进行体"表示"将来"时间.
+
+- I'd rather (宁可) you *were going* at once. 我宁愿你马上就走。
+- Would you stay a little longer, if you *were enjoying* yourself?
+- If they *were leaving* tonight, I'd like to go with them.
+
+"过去进行体"的这一用法, 通常可与"一般过去时"交换使用，意义没有区别。
+
+- I wish we *were going / went*.
+- It's time we *were leaving / left*.
+
+---
+
+
+==== 与"过去事态"相反的主观设想 <- 过去完成体
+
+"过去完成体"用在某些结构中, 可表示与"过去事态"相反的主观设想。
+
+1.用于由 if ， if only , as if 引导的分句中:
+
+- *If* Bernard *had walked* faster, everything would have been all right.
+- I felt *as if* I *had known* her all my life.
+- If only you *had told* me before.
+
+2.用于 I wish , I'd rather 等结构后面的 that- 分句中:
+
+- I wish I *had said* that I couldn't come.
+- I would rather you *had told* her the truth .
+
+3.用于expect ， think, intend , mean ( = intend ) , want , suppose 等动词, *表示过去未曾实现的希望、打算或意图*:
+
+- I *had hoped* that we would be able to leave tomorrow. but it's beginning to look difficult.
+- I *had intended* to make a cake , but I ran out of time.
+
+---
+
+==== 表示说话人的揣测 <- will + 进行体"， "will + 完成体"和" will + 完成进行体
+
+"will + 不定式进行体"， "will +不定式完成体"和" will +不定式完成进行体"结构, 在一定语境中也可能并不表示"将来"，而仪表示说话人的揣测。
+
+- Hurry up. They *will be waiting*. (快点吧。他们一定在等我们 )
+- He *will have received* my letter by now. (他这时一定已经收到我的信了。)
+- You'*ll have been wondering* all this time how my invention works. (这些时候你一定想知道我的
+发明是怎样工作的。)
+
+---
+
+
+153
 
 
 
-129
+
+
+
+
+
+
 

@@ -436,6 +436,7 @@ five minutes’ walk 五分钟路程
 == 动名词的"时态和语态"
 
 
+[options="autowidth"]
 |===
 |四种体态|主动|被动
 |一般式|writing|being written

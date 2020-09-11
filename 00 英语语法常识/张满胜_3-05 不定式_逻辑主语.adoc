@@ -22,6 +22,8 @@
 
 - The father will be proud *for his son to win* the gold medal.  +
 如果儿子能够赢得金牌，作为父亲他将会非常自豪。 +
+
+[options="autowidth"]
 |===
 |主句的"主语"|不定式的"逻辑主语"|本句中"不定式"的作用
 
@@ -32,6 +34,8 @@
 
 - *The father* will be proud *to win* the gold medal.  +
 如果这位父亲能够赢得金牌，他将会非常自豪。
+
+[options="autowidth"]
 |===
 |主句的"主语"|不定式的"逻辑主语"|本句中"不定式"的作用
 
@@ -90,6 +94,8 @@
 
 
 两种逻辑主语形式的不定式的区别 :
+
+[options="autowidth"]
 |===
 ||for + 逻辑主语 + to do | of 逻辑主语 + to do sth
 

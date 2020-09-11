@@ -23,6 +23,7 @@
 
 "现在分词"和"过去分词"的不同意义:
 
+[options="autowidth"]
 |===
 |非谓语动词 |可以表示的意义
 
@@ -87,6 +88,7 @@ B.breaking out
 -> 1.主句谓语 is , 定从谓语 belongs, 都是"现在时"(此处是"一般现在时态"), 因此可以对"定从"进行简化成"非谓语"(分词). +
 -> 2.*那么是简化成 -ing 还是 -ed 呢? 看"定从"本身的主谓关系, 是主动还是被动.* 显然, which 和 belongs 是"主动"关系, 所以简化成非谓语的分词后, 要用"-ing 现在分词".
 
+[options="autowidth"]
 |===
 ||主句谓语 |定语从句的谓语 |结论
 
@@ -281,6 +283,7 @@ The man (who *is cooking/cooks* for the students) *has died*. × <- 这个句子
 
 即
 
+[options="autowidth"]
 |===
 |非谓语(是"非句子"身份) |升级或降级 |从句(是"句子"身份)
 
@@ -298,7 +301,7 @@ The man (who *is cooking/cooks* for the students) *has died*. × <- 这个句子
 
 具体的简化操作是：
 
-
+[options="autowidth"]
 |===
 |状从 ->简化成 : "分词" |举例
 
@@ -350,6 +353,8 @@ image:./img_engGram/从句与非谓语的相关性.svg[]
 下表: +
 实体五角星★表示, 两者关系强. +
 空心五角星☆表示, 两者关系弱.
+
+[options="autowidth"]
 |===
 |从句↓ /非谓语 -> |-ing 动名词 |to do 不定式 |-ing / -ed 分词
 
@@ -417,6 +422,7 @@ image:./img_engGram/从句与非谓语的相关性.svg[]
 但更常见的情况, 是用it作形式主语置于句首，而将that主语从句放在"句末"。因此，下列都是常见的"主语从句"句型: +
 
 
+[options="autowidth"]
 |===
 |主从句型 |例子
 
@@ -494,7 +500,7 @@ image:./img_engGram/从句与非谓语的相关性.svg[]
 
 ==== 宾从的位置有
 
-
+[options="autowidth"]
 |===
 |宾从的位置 |举例
 
@@ -659,7 +665,7 @@ D.anyone +
 
 尽管我们把"定语从句"所修饰的对象, 称之为"先行词"（antecedent），但 *"先行词"并不一定都是一个“单词”*。其实，在英文中，被定语从句所修饰的对象, 叫做 antecedent(`=a thing or an event that exists or comes before another, and may have influenced it 前事；前情 =>  ante-前 + -ced-行走,退让 + -ent名词词尾`)，英文中对这个词的解释是 the word, phrase, or clause to which a pronoun refers，即表示“代词所指代的词、短语或从句”，*所以"先行词", 可以是一个词、短语、分句, 或者独立的句子等。*
 
-
+[options="autowidth"]
 |===
 |"先行词"可以是 : |例子
 
@@ -818,6 +824,7 @@ house: a structure serving as a dwelling for one or more persons, esp. for a fam
 
 关系词(假对象)分为"关系代词"和"关系副词"。
 
+[options="autowidth"]
 |===
 |关系词(假对象) |包括有 |在"定语从句"中可充当的句子成分
 
@@ -1018,7 +1025,7 @@ The rate (*[at which]* they are being destroyed) has increased.
 
 请注意以下几点： +
 
-
+[options="autowidth"]
 |===
 |介词和"定语从句中的动词(包括从句中的谓语动词)、形容词(系表中的表语形容词)或名词", 构成搭配关系 |介词和定语从句外面的"先行词"(真对象)有关联, 构成搭配关系
 
@@ -1219,6 +1226,7 @@ D.the largest of which +
 在这个世界，人类首次希望建立这样一个社会——在那里，他们将会摆脱贫困，摆脱恐惧。 +
 -> 这里有两个定语从句 :
 
+[cols="2,4"]
 |===
 |句子身份 |解释
 
@@ -1555,7 +1563,7 @@ will be doing 用于"陈述句"中所产生的一些特殊的语义效果。
 
 所谓动词的时态, 即包含“时"（tense）和“体态"（aspect）两部分.
 
-
+[cols="2,4"]
 |===
 |时 Tense |体态 Aspect
 
@@ -1568,6 +1576,7 @@ will be doing 用于"陈述句"中所产生的一些特殊的语义效果。
 
 把"体态 Aspect"单独抽出来分析, 还可以分成两类:
 
+[options="autowidth"]
 |===
 |体态Aspect 之类型 |说明
 
@@ -1586,6 +1595,8 @@ will be doing 用于"陈述句"中所产生的一些特殊的语义效果。
 
 
 *“一般时态”是零体态动作。* 从下表就可以看出. 一般现在, 一般过去, 一般将来时, 都没有"体态"变化存在.
+
+[options="autowidth"]
 |===
 |时态 |时 Tense |(Modal) | 体态 Aspect |动词 Verb
 
@@ -1613,6 +1624,7 @@ will work
 
 但对于“进行动作”则不同，它有"体态", 即“进行体（continuous）”，它们的构成是be＋doing，然后加上“时（tense）”
 
+[options="autowidth"]
 |===
 |时态 |时 Tense |(Modal) | 体态 Aspect +
  -> 进行体（continuous） +

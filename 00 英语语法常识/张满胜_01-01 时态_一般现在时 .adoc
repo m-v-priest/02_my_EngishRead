@@ -30,6 +30,7 @@ image:./img_engGram/时态表.svg[]
 ==== 4时4态结合, 就有16种动词时态
 
 
+[options="autowidth"]
 |===
 |组合 |一般 +
 (simple) |进行 +
@@ -105,6 +106,7 @@ image:./img_engGram/时态表.svg[]
 这16种动词时态变化，可以用一个非常简单的谓语公式来概括: +
 其中的括号“（）”表示它是一个备选项，即可以被省去。 +
 
+[options="autowidth"]
 |===
 |tense |(modal) |(perfect) |(continuous) |verb
 
@@ -122,7 +124,7 @@ image:./img_engGram/时态表.svg[]
 |verb 表示英语的谓语动词，它没有用括号，表示谓语动词不是备选项，而是必不可少的。
 |===
 
-
+[options="autowidth"]
 |===
 | |tense |(modal) |perfect |continuous |verb
 
@@ -246,6 +248,7 @@ image:./img_engGram/一般现在时 01.jpg[]
 
 这一用法, 常和一些表示"动作频率"的"时间副词"连用。
 
+[options="autowidth"]
 |===
 |频度副词 |
 
